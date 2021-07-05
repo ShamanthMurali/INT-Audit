@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T12:55:39.370Z" agent="5.0 (X11)" etag="9ZLuwx_E_0N1BOhomWVj" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T13:08:12.314Z" agent="5.0 (X11)" etag="OoOBnAx-3S92WewdCIZv" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -536,6 +536,15 @@
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-131" value="&lt;div&gt;BOD shall give,&lt;/div&gt;&lt;div&gt;1. Recommend name of auditor to members&lt;/div&gt;&lt;div&gt;2. submit a statement in writing to members for reasons of disagreement with Audit Committee&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="2480" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-133" value="Rotation of Auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2950" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-134" value="Firm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-135" value="Individual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="3040" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
