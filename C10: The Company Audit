@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T16:14:40.229Z" agent="5.0 (X11)" etag="xsqx_-66s5LJ9CW4_Hw8" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T16:17:19.034Z" agent="5.0 (X11)" etag="DPb1CO7TsKsckLiSQ9sv" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2557" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2943" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -754,7 +754,7 @@
         <mxCell id="y_8iyChV0BybGo4wzQfa-13" value="BOD will File vacancy with in 30 days of CV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="3780" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y_8iyChV0BybGo4wzQfa-17" value="Appoint auditor with approval of members with in 3 months" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
+        <mxCell id="y_8iyChV0BybGo4wzQfa-17" value="&lt;div&gt;Appoint auditor with approval of SH&lt;/div&gt;&lt;div&gt; with in 3 months&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="160" y="3840" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y_8iyChV0BybGo4wzQfa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-20" target="y_8iyChV0BybGo4wzQfa-22">
@@ -773,7 +773,28 @@
           <mxGeometry x="480" y="3840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_8iyChV0BybGo4wzQfa-26" value="Remuneration of Auditor " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="342" y="3920" width="160" height="40" as="geometry" />
+          <mxGeometry x="352" y="4080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-17" target="y_8iyChV0BybGo4wzQfa-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-10" target="y_8iyChV0BybGo4wzQfa-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-24" target="y_8iyChV0BybGo4wzQfa-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-27" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3960" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-28" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="y_8iyChV0BybGo4wzQfa-27">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-29" value="Term" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="y_8iyChV0BybGo4wzQfa-28">
+          <mxGeometry width="43" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-30" value="&lt;div&gt;From date of appointment to 1st AGM&lt;/div&gt;&lt;div&gt;(~1 years)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="y_8iyChV0BybGo4wzQfa-28">
+          <mxGeometry x="43" width="157" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
