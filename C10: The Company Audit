@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T13:33:26.862Z" agent="5.0 (X11)" etag="aRaAKZsdOvQa4R0yMV7g" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T14:41:34.324Z" agent="5.0 (X11)" etag="klzkRP4xCMAn32ktm3e-" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
     <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -681,6 +681,33 @@
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-185" value="&lt;div&gt;I&lt;/div&gt;&lt;div&gt;M&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;N&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;I&lt;br&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="820" y="1200" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-187" target="ztlDOUhPdJNCALoM5vWy-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-187" target="ztlDOUhPdJNCALoM5vWy-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-187" target="ztlDOUhPdJNCALoM5vWy-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-187" value="Removal of an auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="3560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-191" value="By BOD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-192" value="By Share holders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="3640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-193" value="By NCLT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="3640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-197" value="By BOD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-198" value="a break in the term for a continuous period of five years shall be considered as fulfilling the requirement of rotation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="3650" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
