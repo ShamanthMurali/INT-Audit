@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T16:25:01.723Z" agent="5.0 (X11)" etag="YULtZjBXMZ9E_gPsAwIZ" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T16:31:04.091Z" agent="5.0 (X11)" etag="fmHbJT5wVGn8LlcbWB5k" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="5251" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2952" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -775,8 +775,11 @@
         <mxCell id="y_8iyChV0BybGo4wzQfa-24" value="BOD will appoint with in next 30 days" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="3840" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-26" target="y_8iyChV0BybGo4wzQfa-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y_8iyChV0BybGo4wzQfa-26" value="Remuneration of Auditor " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="4080" width="160" height="40" as="geometry" />
+          <mxGeometry x="352" y="4060" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_8iyChV0BybGo4wzQfa-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-17" target="y_8iyChV0BybGo4wzQfa-27">
           <mxGeometry relative="1" as="geometry" />
@@ -819,6 +822,33 @@
         </mxCell>
         <mxCell id="y_8iyChV0BybGo4wzQfa-44" value="&lt;div&gt;2. In case of failure, the auditor shall be punishable with,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Fine 50k&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;b. remuneration of auditor&lt;/div&gt;&lt;div&gt;[Which ever is less, Max = 500k]&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Continuing = 500/day&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="y_8iyChV0BybGo4wzQfa-43">
           <mxGeometry width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-45" target="y_8iyChV0BybGo4wzQfa-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-45" value="Subsequent auditor" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="4230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-46" target="y_8iyChV0BybGo4wzQfa-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-46" value="First auditor" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="4230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-49" value="Fixed by BOD" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="4290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-51" value="&lt;div&gt;Decided in AGM &lt;br&gt;&lt;/div&gt;&lt;div&gt;By BOD &amp;amp; SH&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="4290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-53" target="y_8iyChV0BybGo4wzQfa-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-53" target="y_8iyChV0BybGo4wzQfa-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-53" value="&lt;div&gt;1. it includes any expense incurred by faculty for conducting the audit&lt;/div&gt;&lt;div&gt;2. Remuneration does not include remuneration of any other services other than audit&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="297" y="4120" width="270" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
