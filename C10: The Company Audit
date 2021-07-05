@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T12:55:22.482Z" agent="5.0 (X11)" etag="YFZ5XHNs_rNBWmzAX0i6" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T12:55:39.370Z" agent="5.0 (X11)" etag="9ZLuwx_E_0N1BOhomWVj" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2101" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,19 +448,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-100" value="Document procedure in case of Appointment of auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="2850" width="320" height="40" as="geometry" />
+          <mxGeometry x="310" y="2640" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-102" target="ztlDOUhPdJNCALoM5vWy-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-102" value="1. co needs to submit Form ADT-1 to ROC with in 15 days of date of appointment " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2910" width="440" height="40" as="geometry" />
+          <mxGeometry x="250" y="2700" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-103" value="&lt;div&gt;2. Auditor shall give a written deceleration to co. the deceleration shall state...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2970" width="440" height="150" as="geometry" />
+          <mxGeometry x="250" y="2760" width="440" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-104" value="&lt;div&gt;1. he is qualified(PCA) as per sec 141&lt;/div&gt;&lt;div&gt;2. He is not disqualified&lt;/div&gt;&lt;div&gt;3. Details&lt;/div&gt;&lt;div&gt;4. Consent / willingness to audit&lt;/div&gt;&lt;div&gt;5. Auditors independence&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="3010" width="280" height="90" as="geometry" />
+          <mxGeometry x="330" y="2800" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-107" target="ztlDOUhPdJNCALoM5vWy-108">
           <mxGeometry relative="1" as="geometry" />
