@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T06:44:00.358Z" agent="5.0 (X11)" etag="zl4dJtRq3z9Z5KgLHG4r" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T07:01:07.052Z" agent="5.0 (X11)" etag="K6nxIaMhD8syOrTIDLN4" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2080" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,6 +225,27 @@
         </mxCell>
         <mxCell id="ECdI6xa4zRNXajOUJQkv-76" value="&lt;div&gt;(i)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; accounting and book keeping services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; internal audit;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii)&amp;nbsp;&amp;nbsp;&amp;nbsp; design and implementation of any financial information system;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv)&amp;nbsp;&amp;nbsp;&amp;nbsp; actuarial services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(v)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; investment advisory services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi)&amp;nbsp;&amp;nbsp;&amp;nbsp; investment banking services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(vii)&amp;nbsp;&amp;nbsp;&amp;nbsp; rendering of outsourced financial services; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(viii)&amp;nbsp;&amp;nbsp; management services; and&amp;nbsp; (ix)&amp;nbsp;&amp;nbsp;&amp;nbsp; any other kind of services as may be prescribed.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-75">
           <mxGeometry width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-82" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="40" y="706" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-83" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-82">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-84" value="&lt;u&gt;Exception&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-83">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-85" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-82">
+          <mxGeometry y="40" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-86" value="1. professional&amp;nbsp; services permitted&amp;nbsp; to&amp;nbsp; be&amp;nbsp; rendered&amp;nbsp; by&amp;nbsp; an&amp;nbsp; auditor&amp;nbsp; or&amp;nbsp; audit&amp;nbsp; firm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-85">
+          <mxGeometry width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-87" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-82">
+          <mxGeometry y="90" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-88" value="2. Transactions in ordinary course of business @ arms length price (fair value)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-87">
+          <mxGeometry width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
