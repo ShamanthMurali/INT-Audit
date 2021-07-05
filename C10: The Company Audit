@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T12:27:23.067Z" agent="5.0 (X11)" etag="lL5jBm4R_2nnv5tUenPH" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T12:28:13.180Z" agent="5.0 (X11)" etag="ciULD3PMFhEtiYSch-Gc" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -443,6 +443,9 @@
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.502;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-55" target="ztlDOUhPdJNCALoM5vWy-90">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-100" value="Document procedure in case of Appointment of auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1980" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
