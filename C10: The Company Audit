@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T16:11:59.519Z" agent="5.0 (X11)" etag="QDgXo_IjZWjj0mVuCTcB" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T16:14:40.229Z" agent="5.0 (X11)" etag="xsqx_-66s5LJ9CW4_Hw8" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2736" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2557" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -727,6 +727,9 @@
         <mxCell id="y_8iyChV0BybGo4wzQfa-2" value="Other companies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="3640" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-3" target="y_8iyChV0BybGo4wzQfa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y_8iyChV0BybGo4wzQfa-3" value="Govt. companies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="3640" width="120" height="40" as="geometry" />
         </mxCell>
@@ -753,6 +756,24 @@
         </mxCell>
         <mxCell id="y_8iyChV0BybGo4wzQfa-17" value="Appoint auditor with approval of members with in 3 months" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="160" y="3840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-20" target="y_8iyChV0BybGo4wzQfa-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-20" value="&lt;div&gt;CV Due to &lt;br&gt;&lt;/div&gt;&lt;div&gt;Any reasons&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-25" value="If they fail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y_8iyChV0BybGo4wzQfa-22" target="y_8iyChV0BybGo4wzQfa-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-22" value="CAG will appoint with in 30 days" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-24" value="BOD will appoint with in next 30 days" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_8iyChV0BybGo4wzQfa-26" value="Remuneration of Auditor " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="3920" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
