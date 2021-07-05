@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T13:12:59.196Z" agent="5.0 (X11)" etag="THstGT0fEGCmaHj845e3" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T13:20:35.385Z" agent="5.0 (X11)" etag="YVtjZlpV5qGU13cbChgK" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,19 +448,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-100" value="Document procedure in case of Appointment of auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="2640" width="320" height="40" as="geometry" />
+          <mxGeometry x="260" y="2640" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-102" target="ztlDOUhPdJNCALoM5vWy-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-102" value="1. co needs to submit Form ADT-1 to ROC with in 15 days of date of appointment " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2700" width="440" height="40" as="geometry" />
+          <mxGeometry x="200" y="2700" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-103" value="&lt;div&gt;2. Auditor shall give a written deceleration to co. the deceleration shall state...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2760" width="440" height="150" as="geometry" />
+          <mxGeometry x="200" y="2760" width="440" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-104" value="&lt;div&gt;1. he is qualified(PCA) as per sec 141&lt;/div&gt;&lt;div&gt;2. He is not disqualified&lt;/div&gt;&lt;div&gt;3. Details&lt;/div&gt;&lt;div&gt;4. Consent / willingness to audit&lt;/div&gt;&lt;div&gt;5. Auditors independence&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="2800" width="280" height="90" as="geometry" />
+          <mxGeometry x="280" y="2800" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-107" target="ztlDOUhPdJNCALoM5vWy-108">
           <mxGeometry relative="1" as="geometry" />
@@ -537,20 +537,17 @@
         <mxCell id="ztlDOUhPdJNCALoM5vWy-131" value="&lt;div&gt;BOD shall give,&lt;/div&gt;&lt;div&gt;1. Recommend name of auditor to members&lt;/div&gt;&lt;div&gt;2. submit a statement in writing to members for reasons of disagreement with Audit Committee&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="2480" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ztlDOUhPdJNCALoM5vWy-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-133" target="ztlDOUhPdJNCALoM5vWy-135">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ztlDOUhPdJNCALoM5vWy-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-133" target="ztlDOUhPdJNCALoM5vWy-134">
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-133" target="ztlDOUhPdJNCALoM5vWy-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-133" value="Rotation of Auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="2950" width="160" height="40" as="geometry" />
+          <mxGeometry x="342" y="2950" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-134" value="Firm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="3030" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="3370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-135" value="Individual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="3030" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="3370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-135" target="ztlDOUhPdJNCALoM5vWy-137">
           <mxGeometry relative="1" as="geometry" />
@@ -559,7 +556,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-137" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="330" y="3090" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="3430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-138" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ztlDOUhPdJNCALoM5vWy-137">
           <mxGeometry width="120" height="40" as="geometry" />
@@ -577,7 +574,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-141" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="490" y="3090" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="3430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-142" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ztlDOUhPdJNCALoM5vWy-141">
           <mxGeometry width="120" height="40" as="geometry" />
@@ -589,7 +586,7 @@
           <mxGeometry x="60" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-149" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="330" y="3150" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="3490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-150" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ztlDOUhPdJNCALoM5vWy-149">
           <mxGeometry width="120" height="40" as="geometry" />
@@ -601,7 +598,7 @@
           <mxGeometry x="60" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-153" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="490" y="3150" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="3490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-154" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ztlDOUhPdJNCALoM5vWy-153">
           <mxGeometry width="120" height="40" as="geometry" />
@@ -613,13 +610,74 @@
           <mxGeometry x="60" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-159" value="Appointed for" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3090" width="80" height="40" as="geometry" />
+          <mxGeometry x="190" y="3430" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-160" value="Cannot be appointed for next" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3150" width="80" height="40" as="geometry" />
+          <mxGeometry x="190" y="3490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-161" value="If one partner is disqualified then the whole firm with all the partners are disqualified" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="2980" width="320" height="40" as="geometry" />
+          <mxGeometry x="-170" y="3092" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-162" target="ztlDOUhPdJNCALoM5vWy-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-162" target="ztlDOUhPdJNCALoM5vWy-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-162" target="ztlDOUhPdJNCALoM5vWy-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-162" value="Applicable to" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="3012" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-163" target="ztlDOUhPdJNCALoM5vWy-175">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="3260" />
+              <mxPoint x="422" y="3260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-163" value="All listed companies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="3092" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-164" target="ztlDOUhPdJNCALoM5vWy-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-164" value="All unlisted companies..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="3092" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-167" target="ztlDOUhPdJNCALoM5vWy-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-167" value="&lt;div&gt;Having,&lt;/div&gt;&lt;div&gt;1. Paid up SC &amp;gt;= 10 Crores&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;2. O/S loans / Borrowings &amp;gt;= 50 Crores&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="3152" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-169" target="ztlDOUhPdJNCALoM5vWy-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-169" value="All unlisted companies..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552" y="3092" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-170" target="ztlDOUhPdJNCALoM5vWy-175">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="612" y="3260" />
+              <mxPoint x="422" y="3260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-170" value="&lt;div&gt;Having,&lt;/div&gt;&lt;div&gt;1. Paid up SC &amp;gt;= 50 Crores&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;2. O/S loans / Borrowings &amp;gt;= 50 Crores&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="522" y="3152" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-175" target="ztlDOUhPdJNCALoM5vWy-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-175" target="ztlDOUhPdJNCALoM5vWy-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-175" value="Term" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="3280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
