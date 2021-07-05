@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T06:34:43.677Z" agent="5.0 (X11)" etag="w_sH1S5CnaiP91bdRGvY" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T06:44:00.358Z" agent="5.0 (X11)" etag="zl4dJtRq3z9Z5KgLHG4r" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2496" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,8 +187,44 @@
         <mxCell id="ECdI6xa4zRNXajOUJQkv-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECdI6xa4zRNXajOUJQkv-49" target="ECdI6xa4zRNXajOUJQkv-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECdI6xa4zRNXajOUJQkv-64" target="ECdI6xa4zRNXajOUJQkv-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ECdI6xa4zRNXajOUJQkv-64" value="6. a person whose relative is a director or KMP " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1030" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECdI6xa4zRNXajOUJQkv-66" target="ECdI6xa4zRNXajOUJQkv-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-66" value="&lt;div&gt;7. any person, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;who is in full time employment elsewhere, or&lt;/div&gt;&lt;div&gt;&amp;gt; The limits(20) are over&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1090" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECdI6xa4zRNXajOUJQkv-68" target="ECdI6xa4zRNXajOUJQkv-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-68" value="&lt;div&gt;8. a person who has been convicted by a court for fraud&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;Person is disqualified for a period of ten years &lt;br&gt;&lt;/div&gt;&lt;div&gt;from the date of such conviction &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1170" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECdI6xa4zRNXajOUJQkv-70" target="ECdI6xa4zRNXajOUJQkv-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-70" value="9. Any person(PCA) or his relative providing special services u/s 144" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1260" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-72" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1140" width="200" height="239.99999999999977" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-73" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-72">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-74" value="Section 144" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-73">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-75" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-72">
+          <mxGeometry y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-76" value="&lt;div&gt;(i)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; accounting and book keeping services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; internal audit;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii)&amp;nbsp;&amp;nbsp;&amp;nbsp; design and implementation of any financial information system;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv)&amp;nbsp;&amp;nbsp;&amp;nbsp; actuarial services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(v)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; investment advisory services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi)&amp;nbsp;&amp;nbsp;&amp;nbsp; investment banking services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(vii)&amp;nbsp;&amp;nbsp;&amp;nbsp; rendering of outsourced financial services; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(viii)&amp;nbsp;&amp;nbsp; management services; and&amp;nbsp; (ix)&amp;nbsp;&amp;nbsp;&amp;nbsp; any other kind of services as may be prescribed.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="ECdI6xa4zRNXajOUJQkv-75">
+          <mxGeometry width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
