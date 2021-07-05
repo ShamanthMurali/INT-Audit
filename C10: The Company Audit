@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T13:21:01.094Z" agent="5.0 (X11)" etag="8p1KACdRQItHC0z8gZ75" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T13:33:26.862Z" agent="5.0 (X11)" etag="aRaAKZsdOvQa4R0yMV7g" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,14 +205,14 @@
         <mxCell id="ECdI6xa4zRNXajOUJQkv-68" value="&lt;div&gt;8. a person who has been convicted by a court for fraud&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;Person is disqualified for a period of ten years &lt;br&gt;&lt;/div&gt;&lt;div&gt;from the date of such conviction &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="1170" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ECdI6xa4zRNXajOUJQkv-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ECdI6xa4zRNXajOUJQkv-70" target="ECdI6xa4zRNXajOUJQkv-75" edge="1">
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.439;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ECdI6xa4zRNXajOUJQkv-70" target="ECdI6xa4zRNXajOUJQkv-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ECdI6xa4zRNXajOUJQkv-70" value="9. Any person(PCA) or his relative providing special services u/s 144" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="1260" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ECdI6xa4zRNXajOUJQkv-72" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1140" width="200" height="239.99999999999977" as="geometry" />
+          <mxGeometry x="600" y="1100" width="200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="ECdI6xa4zRNXajOUJQkv-73" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ECdI6xa4zRNXajOUJQkv-72" vertex="1">
           <mxGeometry width="200" height="40" as="geometry" />
@@ -221,10 +221,10 @@
           <mxGeometry width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ECdI6xa4zRNXajOUJQkv-75" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ECdI6xa4zRNXajOUJQkv-72" vertex="1">
-          <mxGeometry y="40" width="200" height="200" as="geometry" />
+          <mxGeometry y="40" width="200" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="ECdI6xa4zRNXajOUJQkv-76" value="&lt;div&gt;(i)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; accounting and book keeping services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; internal audit;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii)&amp;nbsp;&amp;nbsp;&amp;nbsp; design and implementation of any financial information system;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv)&amp;nbsp;&amp;nbsp;&amp;nbsp; actuarial services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(v)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; investment advisory services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi)&amp;nbsp;&amp;nbsp;&amp;nbsp; investment banking services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(vii)&amp;nbsp;&amp;nbsp;&amp;nbsp; rendering of outsourced financial services; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(viii)&amp;nbsp;&amp;nbsp; management services; and&amp;nbsp; (ix)&amp;nbsp;&amp;nbsp;&amp;nbsp; any other kind of services as may be prescribed.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="ECdI6xa4zRNXajOUJQkv-75" vertex="1">
-          <mxGeometry width="200" height="200" as="geometry" />
+        <mxCell id="ECdI6xa4zRNXajOUJQkv-76" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nternal audit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;M&lt;/b&gt;&lt;/u&gt;anagement services&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccounting and book keeping services &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a&lt;u&gt;&lt;b&gt;N&lt;/b&gt;&lt;/u&gt;y other kind of services.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;D&lt;/b&gt;&lt;/u&gt;esign and implementation of any financial information system; &lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ctuarial services;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;endering of outsourced financial services;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nvestment advisory services&lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nvestment banking services&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="ECdI6xa4zRNXajOUJQkv-75" vertex="1">
+          <mxGeometry width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ECdI6xa4zRNXajOUJQkv-82" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="50" y="756" width="200" height="164" as="geometry" />
@@ -678,6 +678,9 @@
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-175" value="Term" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="3280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-185" value="&lt;div&gt;I&lt;/div&gt;&lt;div&gt;M&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;N&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;I&lt;br&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1200" width="40" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
