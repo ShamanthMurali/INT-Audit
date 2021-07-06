@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T12:01:50.546Z" agent="5.0 (X11)" etag="XxYG6HTA3UqszGSeW1tJ" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T12:27:51.698Z" agent="5.0 (X11)" etag="pjSDohNoDvavdbtAPMJ8" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="5858" dy="2508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1196,8 +1196,26 @@
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-59" value="&lt;div&gt;company is required to disclose in&amp;nbsp; the Board’s Report details of the fraud reported, stating,&lt;/div&gt;&lt;div&gt;a) Nature of Fraud with description &lt;br&gt;&lt;/div&gt;&lt;div&gt;b) Approximate amount involved &lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Parties involved, if remedial action not taken &lt;br&gt;&lt;/div&gt;&lt;div&gt;d) Remedial actions taken&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="401" y="6440" width="200" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0-Jr7ITFuYC54BrKQtSs-62" target="0-Jr7ITFuYC54BrKQtSs-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0-Jr7ITFuYC54BrKQtSs-62" target="0-Jr7ITFuYC54BrKQtSs-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-62" value="Penalties" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="282" y="6930" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-64" value="Company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="7020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-65" value="Auditors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="7020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-66" value="For contravention of sec 139 to 146" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="7060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-67" value="For contravention of sec 139,143,144,145,146" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="402" y="7060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
