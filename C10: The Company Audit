@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T05:47:50.352Z" agent="5.0 (X11)" etag="jK0TO11MDIC4CxBicCo1" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T06:02:34.734Z" agent="5.0 (X11)" etag="Hu1nQrbzThA4Jxy7Ir-L" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2640" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2324" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -700,14 +700,17 @@
         <mxCell id="ztlDOUhPdJNCALoM5vWy-191" value="By BOD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="210" y="4440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ztlDOUhPdJNCALoM5vWy-192" value="By Share holders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="370" y="4440" width="120" height="40" as="geometry" />
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-192" target="2Pp1JnIfXIHfrOk5wE5I-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-192" value="Appointment of an auditor other than retiring auditor " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="4440" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-193" target="2Pp1JnIfXIHfrOk5wE5I-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-193" value="By NCLT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="530" y="4440" width="120" height="40" as="geometry" />
+          <mxGeometry x="777" y="4440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-198" value="a break in the term for a continuous period of five years shall be considered as fulfilling the requirement of rotation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="4520" width="320" height="40" as="geometry" />
@@ -919,34 +922,97 @@
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-25" target="2Pp1JnIfXIHfrOk5wE5I-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-25" target="ztlDOUhPdJNCALoM5vWy-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-25" value="the Tribunal either suo moto or on an application made to it by the Central Government or by any person concerned, if it is satisfied that the auditor of a company has, whether directly or indirectly, acted in a fraudulent manner or colluded in any fraud by, or in relation to, the company or its directors or officers, it may, by order, direct the company to change its auditors" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="480" y="4500" width="220" height="150" as="geometry" />
+          <mxGeometry x="727" y="4500" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-28" target="2Pp1JnIfXIHfrOk5wE5I-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-28" value="On application made by CG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="635" y="4690" width="120" height="40" as="geometry" />
+          <mxGeometry x="882" y="4690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-29" target="2Pp1JnIfXIHfrOk5wE5I-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="485" y="4870" />
-              <mxPoint x="585" y="4870" />
+              <mxPoint x="732" y="4870" />
+              <mxPoint x="832" y="4870" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-29" value="&lt;div&gt;On there own&lt;br&gt;&lt;/div&gt;&lt;div&gt;(suo moto)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="425" y="4690" width="120" height="40" as="geometry" />
+          <mxGeometry x="672" y="4690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-31" target="2Pp1JnIfXIHfrOk5wE5I-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-31" value="within 15 days of receipt of such application, make an order that he shall not function as an auditor and the Central Government may appoint another auditor in his place" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="585" y="4750" width="220" height="100" as="geometry" />
+          <mxGeometry x="832" y="4750" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-33" value="auditor against whom&amp;nbsp; final&amp;nbsp; order&amp;nbsp; has&amp;nbsp; been&amp;nbsp; passed&amp;nbsp; by&amp;nbsp; the&amp;nbsp; Tribunal shall not be eligible to be appointed as an auditor of any company for a period of 5 years from the date of passing of the order and the auditor shall also be liable for action under section 447." style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="475" y="4890" width="220" height="110" as="geometry" />
+          <mxGeometry x="722" y="4890" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-39" target="2Pp1JnIfXIHfrOk5wE5I-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-39" value="SH&#39;s holding&amp;nbsp; at&amp;nbsp; least&amp;nbsp; 1%&amp;nbsp; of&amp;nbsp; voting power or Shares with paid up value of at least Rs. 5 Lacs." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="371" y="4500" width="188" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-41" target="2Pp1JnIfXIHfrOk5wE5I-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-41" value="Give a Special notice at an AGM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="405" y="4570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-43" target="2Pp1JnIfXIHfrOk5wE5I-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-43" value="to Company" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="405" y="4630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-45" target="2Pp1JnIfXIHfrOk5wE5I-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-45" value="Co shall give a copy to auditor" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="405" y="4690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-47" target="2Pp1JnIfXIHfrOk5wE5I-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-47" value="Retireing auditors shall give a written representation to company" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="405" y="4750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-49" target="2Pp1JnIfXIHfrOk5wE5I-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-49" target="2Pp1JnIfXIHfrOk5wE5I-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-49" target="2Pp1JnIfXIHfrOk5wE5I-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-49" value="If representation was ..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="4830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-52" value="&lt;div&gt;received &lt;br&gt;&lt;/div&gt;&lt;div&gt;Late&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="4910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-53" target="2Pp1JnIfXIHfrOk5wE5I-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-53" value="&lt;div&gt;received &lt;br&gt;&lt;/div&gt;&lt;div&gt;On time&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="4910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-54" value="Notify the share holders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="4970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-56" value="Not given" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552" y="4910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-60" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="452" y="4960" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
