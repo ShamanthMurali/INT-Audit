@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T05:21:29.125Z" agent="5.0 (X11)" etag="iIluwHvBFxYLD6hTlUKS" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T05:31:27.499Z" agent="5.0 (X11)" etag="gRi1PyrIHfLLwvc0jTMc" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2953" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1894" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -692,22 +692,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-187" value="Removal of an auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-830" y="3370" width="160" height="40" as="geometry" />
+          <mxGeometry x="350" y="4360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztlDOUhPdJNCALoM5vWy-191" target="2Pp1JnIfXIHfrOk5wE5I-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-191" value="By BOD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-970" y="3450" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="4440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-192" value="By Share holders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-810" y="3450" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="4440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-193" value="By NCLT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="3450" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ztlDOUhPdJNCALoM5vWy-197" value="By BOD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-970" y="3510" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="4440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-198" value="a break in the term for a continuous period of five years shall be considered as fulfilling the requirement of rotation" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1380" y="3460" width="320" height="40" as="geometry" />
+          <mxGeometry x="-200" y="4450" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_8iyChV0BybGo4wzQfa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" parent="1" source="y_8iyChV0BybGo4wzQfa-1" target="y_8iyChV0BybGo4wzQfa-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -888,6 +888,27 @@
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-13" value="Report to Central Government" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2Pp1JnIfXIHfrOk5wE5I-11">
           <mxGeometry x="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-14" target="2Pp1JnIfXIHfrOk5wE5I-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-14" value="Pass resolution in a board meeting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="4520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-15" target="2Pp1JnIfXIHfrOk5wE5I-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-15" value="&lt;div&gt;ADT-2 application shall be made to CG, Within 30 days &lt;br&gt;&lt;/div&gt;&lt;div&gt;of BM&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="4580" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-17" target="2Pp1JnIfXIHfrOk5wE5I-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-17" value="Receive approval from CG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="4670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-18" value="Hold GM with SH within 60 days of approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="4730" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
