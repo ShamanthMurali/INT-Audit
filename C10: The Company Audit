@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T11:14:11.966Z" agent="5.0 (X11)" etag="NwZUacNfqrIrh2fqE7Fo" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T11:26:32.127Z" agent="5.0 (X11)" etag="XqH5wNM7urj7HnhoB_tN" version="14.8.4" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1446" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1098,8 +1098,19 @@
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-25" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="640" y="5385" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0-Jr7ITFuYC54BrKQtSs-27" target="0-Jr7ITFuYC54BrKQtSs-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-27" value="Others duties of Auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="5950" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-29" value="Other duties" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="300" y="6010" width="120" height="40" as="geometry">
+            <mxRectangle x="300" y="6010" width="380" height="550" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-30" value="&lt;div&gt;Clause a&amp;nbsp; obtain all the information and explanations which&amp;nbsp; to&amp;nbsp; were necessary&amp;nbsp; for&amp;nbsp; the purpose of his audit.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Clause b&amp;nbsp; proper books of account have been&amp;nbsp; kept&amp;nbsp; by&amp;nbsp; the&amp;nbsp; company&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; Clause d&amp;nbsp;&amp;nbsp; company’s&amp;nbsp; balance&amp;nbsp; sheet&amp;nbsp; and profit&amp;nbsp; and&amp;nbsp; loss&amp;nbsp; a/c&amp;nbsp; are in agreement with the books of account and returns.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Clause e&amp;nbsp;&amp;nbsp; whether, financial&amp;nbsp; statements&amp;nbsp; comply&amp;nbsp; with&amp;nbsp; the accounting standards &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Clause g&amp;nbsp; any&amp;nbsp; director&amp;nbsp; is&amp;nbsp; disqualified&amp;nbsp; from being&amp;nbsp; appointed&amp;nbsp; as&amp;nbsp; a&amp;nbsp; director&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Clause i&amp;nbsp;&amp;nbsp; whether&amp;nbsp; company&amp;nbsp; has&amp;nbsp; adequate&amp;nbsp; internal financial&amp;nbsp; controls&amp;nbsp; with reference to financial statements &lt;br&gt;&lt;/div&gt;&lt;div&gt;(does not apply to small / one person company)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Clause j &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) whether the company has disclosed the impact, if any, of pending litigations on its financial position in its financial statement &lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) whether&amp;nbsp; the&amp;nbsp; company&amp;nbsp; has&amp;nbsp; made&amp;nbsp; provision,&amp;nbsp; for material foreseeable losses&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) whether amounts,&amp;nbsp; required&amp;nbsp; to&amp;nbsp; be transferred, to the Investor Education and Protection Fund by the company transfered or not &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Duty to state reasons for negative remarks in audit report&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Duty to Comply with Auditing Standards&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Duty to report fraud to Central Government&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Duty to Sign Audit Report&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0-Jr7ITFuYC54BrKQtSs-29">
+          <mxGeometry y="40" width="380" height="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
