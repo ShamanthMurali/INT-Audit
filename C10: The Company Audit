@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T13:12:21.119Z" agent="5.0 (X11)" etag="vvGiIRZsWD_CQ4BQ_VmC" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T13:16:35.387Z" agent="5.0 (X11)" etag="MNOS7RI3i6iOqeqZMSr4" version="14.8.5" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2639" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1565" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1486,6 +1486,9 @@
         </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-101" value="&lt;div&gt;a)&amp;nbsp;&amp;nbsp;&amp;nbsp; whether&amp;nbsp; the&amp;nbsp; company&amp;nbsp; is&amp;nbsp; maintaining&amp;nbsp; proper&amp;nbsp; records&amp;nbsp; showing&amp;nbsp; full particulars, including quantitative details and situation of fixed assets; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b)&amp;nbsp;&amp;nbsp;&amp;nbsp; whether&amp;nbsp; these&amp;nbsp; fixed&amp;nbsp; assets&amp;nbsp; have&amp;nbsp; been&amp;nbsp; physically&amp;nbsp; verified&amp;nbsp; by&amp;nbsp; the management&amp;nbsp;&amp;nbsp; at&amp;nbsp;&amp;nbsp; reasonable&amp;nbsp;&amp;nbsp; intervals;&amp;nbsp;&amp;nbsp; whether&amp;nbsp;&amp;nbsp; any&amp;nbsp;&amp;nbsp; material discrepancies&amp;nbsp; were&amp;nbsp; noticed&amp;nbsp; on&amp;nbsp; such&amp;nbsp; verification&amp;nbsp; and&amp;nbsp; if&amp;nbsp; so,&amp;nbsp; whether the same have been properly dealt with in the books of account;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c)&amp;nbsp;&amp;nbsp;&amp;nbsp; whether the title deeds of immovable properties are held in the name of the company. If not, provide the details thereof&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9F2VfRxa8ZsIfczpcodk-84">
           <mxGeometry y="40" width="350" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-108" value="Cost audit" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="8760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
