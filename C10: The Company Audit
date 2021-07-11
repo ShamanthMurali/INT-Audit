@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T12:27:56.242Z" agent="5.0 (X11)" etag="4Pf938qrFdIJNlFiadQI" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T12:39:08.403Z" agent="5.0 (X11)" etag="Rhs-mvzD9afX-67Chtu3" version="14.8.5" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2102" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1273,6 +1273,57 @@
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-90" value="In case of audit firm only&amp;nbsp; partners in relation to fraud are liable to penalty" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="7000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-29" target="9F2VfRxa8ZsIfczpcodk-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-29" value="Branch audit" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="7480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-31" target="9F2VfRxa8ZsIfczpcodk-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-31" target="9F2VfRxa8ZsIfczpcodk-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-31" value="Can be done by" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174.5" y="7640" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-33" value="In India" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="7600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-34" value="Outside india" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="7600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-35" value="&lt;div&gt;Statutory auditor&lt;/div&gt;&lt;div&gt;(Companies auditor)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="7700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-37" target="9F2VfRxa8ZsIfczpcodk-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-37" target="9F2VfRxa8ZsIfczpcodk-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-37" value="Situated in " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="7540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-43" value="Any other person/firm qualified" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="7700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-45" value="&lt;div&gt;Statutory auditor&lt;/div&gt;&lt;div&gt;(Companies auditor)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="7700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-46" value="Any other person/firm qualified under foreign law" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="7700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-47" target="9F2VfRxa8ZsIfczpcodk-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-47" target="9F2VfRxa8ZsIfczpcodk-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-47" value="Can be done by" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="7640" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
