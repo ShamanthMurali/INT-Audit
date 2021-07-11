@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T13:04:26.037Z" agent="5.0 (X11)" etag="S23YCNmuJY8AstYaKNGy" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T13:08:59.542Z" agent="5.0 (X11)" etag="AxyNJmJcI2s0VFLju6us" version="14.8.5" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1404,7 +1404,7 @@
         <mxCell id="9F2VfRxa8ZsIfczpcodk-77" value="&lt;div&gt;1. banking cos&lt;/div&gt;&lt;div&gt;2. insurance cos&lt;/div&gt;&lt;div&gt;3. section 8 cos&lt;/div&gt;&lt;div&gt;4. one person cos&lt;/div&gt;&lt;div&gt;5. small cos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. private cos not being a subsidiary or holding&lt;/div&gt;&lt;div&gt;(PUSC &lt;u&gt;&amp;lt;&lt;/u&gt; 1 crore&lt;/div&gt;&lt;div&gt;Borrowings &lt;u&gt;&amp;lt;&lt;/u&gt; 1 crore&lt;/div&gt;&lt;div&gt;Total revenue per FY &lt;u&gt;&amp;lt;&lt;/u&gt; 10 crore)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="8340" width="220" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9F2VfRxa8ZsIfczpcodk-80" value="&lt;div&gt;Note&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CARO does not apply to CFS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-80" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CARO does not apply to CFS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="8240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="9F2VfRxa8ZsIfczpcodk-86">
@@ -1431,25 +1431,47 @@
         <mxCell id="9F2VfRxa8ZsIfczpcodk-81" value="Clause reporting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="8520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9F2VfRxa8ZsIfczpcodk-83" value="Inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-119" y="8600" width="120" height="40" as="geometry" />
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-83" value="Inventory" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-119" y="8600" width="119" height="40" as="geometry">
+            <mxRectangle x="-119" y="8600" width="240" height="160" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9F2VfRxa8ZsIfczpcodk-84" value="Fixed Assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="8600" width="120" height="40" as="geometry" />
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-102" value="whether&amp;nbsp; physical&amp;nbsp; verification&amp;nbsp; of&amp;nbsp; inventory&amp;nbsp; has&amp;nbsp; been&amp;nbsp; conducted&amp;nbsp; at reasonable&amp;nbsp; intervals&amp;nbsp; by&amp;nbsp; the&amp;nbsp; management&amp;nbsp; and&amp;nbsp; whether any&amp;nbsp; material discrepancies were noticed and if so, whether they have been properly dealt with in the books of account " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9F2VfRxa8ZsIfczpcodk-83">
+          <mxGeometry y="40" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9F2VfRxa8ZsIfczpcodk-85" value="Cost Records" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="8600" width="120" height="40" as="geometry" />
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-84" value="Fixed Assets" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-260" y="8600" width="120" height="40" as="geometry">
+            <mxRectangle x="-260" y="8600" width="350" height="250" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9F2VfRxa8ZsIfczpcodk-86" value="Statutory Dues" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="8600" width="120" height="40" as="geometry" />
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-101" value="&lt;div&gt;a)&amp;nbsp;&amp;nbsp;&amp;nbsp; whether&amp;nbsp; the&amp;nbsp; company&amp;nbsp; is&amp;nbsp; maintaining&amp;nbsp; proper&amp;nbsp; records&amp;nbsp; showing&amp;nbsp; full particulars, including quantitative details and situation of fixed assets; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b)&amp;nbsp;&amp;nbsp;&amp;nbsp; whether&amp;nbsp; these&amp;nbsp; fixed&amp;nbsp; assets&amp;nbsp; have&amp;nbsp; been&amp;nbsp; physically&amp;nbsp; verified&amp;nbsp; by&amp;nbsp; the management&amp;nbsp;&amp;nbsp; at&amp;nbsp;&amp;nbsp; reasonable&amp;nbsp;&amp;nbsp; intervals;&amp;nbsp;&amp;nbsp; whether&amp;nbsp;&amp;nbsp; any&amp;nbsp;&amp;nbsp; material discrepancies&amp;nbsp; were&amp;nbsp; noticed&amp;nbsp; on&amp;nbsp; such&amp;nbsp; verification&amp;nbsp; and&amp;nbsp; if&amp;nbsp; so,&amp;nbsp; whether the same have been properly dealt with in the books of account;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c)&amp;nbsp;&amp;nbsp;&amp;nbsp; whether the title deeds of immovable properties are held in the name of the company. If not, provide the details thereof&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9F2VfRxa8ZsIfczpcodk-84">
+          <mxGeometry y="40" width="350" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="9F2VfRxa8ZsIfczpcodk-87" value="Default in repayment of Loans or Borrowings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="302" y="8600" width="120" height="50" as="geometry" />
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-85" value="Cost Records" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="22" y="8600" width="118" height="40" as="geometry">
+            <mxRectangle x="22" y="8600" width="190" height="160" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9F2VfRxa8ZsIfczpcodk-88" value="Public Offer and money raised by debt and Term Loans" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="8600" width="120" height="50" as="geometry" />
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-103" value="Whether maintenance of cost records has been specified by the Central&amp;nbsp; Government under sub-section (1) of section 148 of the Companies Act, 2013 and whether such accounts and&amp;nbsp;&amp;nbsp;&amp;nbsp; records have been so made and maintained. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9F2VfRxa8ZsIfczpcodk-85">
+          <mxGeometry y="40" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9F2VfRxa8ZsIfczpcodk-89" value="Fraud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-86" value="Statutory Dues" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="160" y="8600" width="120" height="40" as="geometry">
+            <mxRectangle x="161" y="8600" width="360" height="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-104" value="a)&amp;nbsp;&amp;nbsp;&amp;nbsp; Undisputed&amp;nbsp; Statutory&amp;nbsp; Dues&amp;nbsp; :&amp;nbsp; whether&amp;nbsp; the&amp;nbsp; company&amp;nbsp; is&amp;nbsp; regular&amp;nbsp; in depositing&amp;nbsp; undisputed&amp;nbsp; statutory&amp;nbsp; dues&amp;nbsp; including&amp;nbsp; provident&amp;nbsp; fund, employees&#39; state insurance, income-tax, sales-tax, service tax, duty of&amp;nbsp; customs,&amp;nbsp; duty&amp;nbsp; of&amp;nbsp; excise,&amp;nbsp; value&amp;nbsp; added&amp;nbsp; tax,&amp;nbsp; cess&amp;nbsp; and&amp;nbsp; any&amp;nbsp; other statutory&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; dues to the appropriate authorities and if not, the extent of the arrears of outstanding statutory dues as on the last day of the financial year concerned for a period of more than six months from the date they became payable, shall be indicated;&amp;nbsp; b)&amp;nbsp; Disputed&amp;nbsp; Statutory Dues :&amp;nbsp; where dues of income tax or sales tax or service tax or duty of customs or duty of excise or value added tax have&amp;nbsp; not&amp;nbsp; been&amp;nbsp; deposited&amp;nbsp; on&amp;nbsp; account&amp;nbsp; of&amp;nbsp; any&amp;nbsp; dispute, then&amp;nbsp; the amounts involved and the forum where dispute is pending shall be mentioned. (A mere representation to the concerned Department shall not be treated as a dispute)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9F2VfRxa8ZsIfczpcodk-86">
+          <mxGeometry y="40" width="359" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-87" value="&lt;div&gt;Default in &lt;br&gt;&lt;/div&gt;&lt;div&gt;repayment of &lt;br&gt;&lt;/div&gt;&lt;div&gt;Loans or &lt;br&gt;&lt;/div&gt;&lt;div&gt;Borrowings&lt;/div&gt;" style="swimlane;startSize=80;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="8600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-88" value="&lt;div&gt;Public Offer &lt;br&gt;&lt;/div&gt;&lt;div&gt;and money raised &lt;br&gt;&lt;/div&gt;&lt;div&gt;by debt and &lt;br&gt;&lt;/div&gt;&lt;div&gt;Term Loans&lt;/div&gt;" style="swimlane;startSize=80;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="8600" width="120" height="80" as="geometry">
+            <mxRectangle x="440" y="8600" width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-89" value="Fraud" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="8600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
