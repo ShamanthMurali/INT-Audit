@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T12:44:38.702Z" agent="5.0 (X11)" etag="opIIIcP6PwiM9z94CcAo" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T12:56:19.310Z" agent="5.0 (X11)" etag="zvLu2_oaOUeFNx12ixsP" version="14.8.5" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2102" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1370,6 +1370,39 @@
         </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-64" value="SA shall have the right to examine the components if nessary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="369.5" y="8000" width="122.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-65" target="9F2VfRxa8ZsIfczpcodk-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-65" value="CARO 2016" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="297" y="8120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-66" target="9F2VfRxa8ZsIfczpcodk-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-66" target="9F2VfRxa8ZsIfczpcodk-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-66" value="&lt;div&gt;Companies Auditor&#39;s Report Order (CARO)&lt;/div&gt;&lt;div&gt;Additional reporting requirement prescribed by MCA&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="8180" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-70" value="Applicable to " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="8280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-71" target="9F2VfRxa8ZsIfczpcodk-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-71" value="Not Applicable to " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="8280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-79" value="&lt;div&gt;All remaining&lt;/div&gt;&lt;div&gt;Cos&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-77" target="9F2VfRxa8ZsIfczpcodk-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-77" value="&lt;div&gt;1. banking cos&lt;/div&gt;&lt;div&gt;2. insurance cos&lt;/div&gt;&lt;div&gt;3. section 8 cos&lt;/div&gt;&lt;div&gt;4. one person cos&lt;/div&gt;&lt;div&gt;5. small cos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. private cos not being a subsidiary or holding&lt;/div&gt;&lt;div&gt;(PUSC &lt;u&gt;&amp;lt;&lt;/u&gt; 1 crore&lt;/div&gt;&lt;div&gt;Borrowings &lt;u&gt;&amp;lt;&lt;/u&gt; 1 crore&lt;/div&gt;&lt;div&gt;Total revenue per FY &lt;u&gt;&amp;lt;&lt;/u&gt; 10 crore)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="8340" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-80" value="&lt;div&gt;Note&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CARO does not apply to CFS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="8240" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
