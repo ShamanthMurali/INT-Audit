@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T12:56:19.310Z" agent="5.0 (X11)" etag="zvLu2_oaOUeFNx12ixsP" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T13:04:15.332Z" agent="5.0 (X11)" etag="YnadMsGtT2p0gOCM8OU4" version="14.8.5" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
     <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1386,8 +1386,11 @@
         <mxCell id="9F2VfRxa8ZsIfczpcodk-66" value="&lt;div&gt;Companies Auditor&#39;s Report Order (CARO)&lt;/div&gt;&lt;div&gt;Additional reporting requirement prescribed by MCA&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197" y="8180" width="320" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-70" target="9F2VfRxa8ZsIfczpcodk-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-70" value="Applicable to " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="161" y="8280" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="8280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-71" target="9F2VfRxa8ZsIfczpcodk-77">
           <mxGeometry relative="1" as="geometry" />
@@ -1403,6 +1406,51 @@
         </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-80" value="&lt;div&gt;Note&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CARO does not apply to CFS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="8240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="9F2VfRxa8ZsIfczpcodk-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="9F2VfRxa8ZsIfczpcodk-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="9F2VfRxa8ZsIfczpcodk-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="9F2VfRxa8ZsIfczpcodk-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="9F2VfRxa8ZsIfczpcodk-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="9F2VfRxa8ZsIfczpcodk-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="9F2VfRxa8ZsIfczpcodk-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-81" value="Clause reporting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="8520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-83" value="Inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="8600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-84" value="Fixed Assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="8600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-85" value="Cost Records" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22" y="8600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-86" value="Statutory Dues" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="8600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-87" value="Default in repayment of Loans or Borrowings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="8600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-88" value="Public Offer and money raised by debt and Term Loans" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="8600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-89" value="Fraud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="8600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
