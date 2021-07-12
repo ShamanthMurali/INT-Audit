@@ -1,17 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T06:35:38.417Z" agent="5.0 (X11)" etag="PSnpxk58kzPIR6Tpy3H5" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T06:56:42.162Z" agent="5.0 (X11)" etag="P8ozxzo-s1XbWhu6fhGk" version="14.8.5" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1354" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QvazVuXtEHL-wKIYWOqX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-108" target="QvazVuXtEHL-wKIYWOqX-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QvazVuXtEHL-wKIYWOqX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-108" target="QvazVuXtEHL-wKIYWOqX-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-108" target="QvazVuXtEHL-wKIYWOqX-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1880" y="40" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-108" value="Cost audit" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="8760" width="120" height="40" as="geometry" />
+          <mxGeometry x="1819" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ECdI6xa4zRNXajOUJQkv-1" value="Company audit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
@@ -1500,19 +1499,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QvazVuXtEHL-wKIYWOqX-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;List of Regulated Sectors &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp; Telecommunication Services &lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp; Generation, transmission distribution and supply of Electricity &lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp; Petroleum products&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&amp;nbsp;&amp;nbsp; Drugs and pharmaceuticals &lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;&amp;nbsp;&amp;nbsp; Fertilizers &lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp;&amp;nbsp;&amp;nbsp; Sugar and industrial alcohol &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="97.5" y="8840" width="239" height="200" as="geometry" />
+          <mxGeometry x="1620" y="220" width="239" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QvazVuXtEHL-wKIYWOqX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvazVuXtEHL-wKIYWOqX-2" target="QvazVuXtEHL-wKIYWOqX-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QvazVuXtEHL-wKIYWOqX-2" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;List of Non Regulated Sectors &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp; Machinery used for defense space atomic research&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp; Turbo jets and Turbo propellers &lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp; Arms and ammunition &lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&amp;nbsp;&amp;nbsp; Aeronautical Services &lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;&amp;nbsp;&amp;nbsp; Steel and Cement &lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp;&amp;nbsp;&amp;nbsp; Rubber and allied products &lt;br&gt;&lt;/div&gt;&lt;div&gt;7.&amp;nbsp;&amp;nbsp;&amp;nbsp; Roads and other infrastructure project &lt;br&gt;&lt;/div&gt;&lt;div&gt;8.&amp;nbsp;&amp;nbsp;&amp;nbsp; Ores and mineral products &lt;br&gt;&lt;/div&gt;&lt;div&gt;9.&amp;nbsp;&amp;nbsp;&amp;nbsp; Edible oil &lt;br&gt;&lt;/div&gt;&lt;div&gt;10.&amp;nbsp; Jute and Jute products&amp;nbsp; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380.5" y="8840" width="239" height="200" as="geometry" />
+          <mxGeometry x="1903" y="220" width="239" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QvazVuXtEHL-wKIYWOqX-5" value="&lt;div&gt;1. Overall turnover from all products and services &lt;u&gt;&amp;gt;&lt;/u&gt; 50 crores&lt;/div&gt;&lt;div&gt;AND&lt;/div&gt;&lt;div&gt;2. Aggregate turnover form individual product and services for which cost records are required to be maintained is &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 25 crores&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="100.75" y="9060" width="232.5" height="110" as="geometry" />
+          <mxGeometry x="1623.25" y="440" width="232.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="QvazVuXtEHL-wKIYWOqX-7" value="&lt;div&gt;1. Overall turnover from all products and services &lt;u&gt;&amp;gt;&lt;/u&gt; 100 crores&lt;/div&gt;&lt;div&gt;AND&lt;/div&gt;&lt;div&gt;2. Aggregate turnover form individual product and services for which cost records are required to be maintained is &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 35 crores&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="382.75" y="9060" width="232.5" height="110" as="geometry" />
+          <mxGeometry x="1905.25" y="440" width="232.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvazVuXtEHL-wKIYWOqX-9" target="QvazVuXtEHL-wKIYWOqX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvazVuXtEHL-wKIYWOqX-9" target="QvazVuXtEHL-wKIYWOqX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-9" value="Applicable to" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1819" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-17" value="Ordered by CG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-21" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Qualification&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Cost accountant&lt;/div&gt;&lt;div&gt;2. Firm of cost accountants&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Disqualification&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Statutory auditor&lt;/div&gt;&lt;div&gt;2. All disqualification applicable to statutory auditor u/s 141(4)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="590" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvazVuXtEHL-wKIYWOqX-25" target="QvazVuXtEHL-wKIYWOqX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-25" value="Appointment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvazVuXtEHL-wKIYWOqX-27" target="QvazVuXtEHL-wKIYWOqX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-27" value="&lt;div&gt;By BOD with in 180 days of start of FY&lt;/div&gt;&lt;div&gt;Or &lt;br&gt;&lt;/div&gt;&lt;div&gt;on recommendation of audit committee&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvazVuXtEHL-wKIYWOqX-29" target="QvazVuXtEHL-wKIYWOqX-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvazVuXtEHL-wKIYWOqX-29" target="QvazVuXtEHL-wKIYWOqX-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-29" value="Company should inform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-30" value="Cost auditor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-31" value="CG with in 30 days" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1742" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-35" value="Term" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
