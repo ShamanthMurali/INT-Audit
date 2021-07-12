@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T06:03:23.112Z" agent="5.0 (X11)" etag="6gDZqof-3ihKLarosx0T" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T06:35:38.417Z" agent="5.0 (X11)" etag="PSnpxk58kzPIR6Tpy3H5" version="14.8.5" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2096" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-108" target="QvazVuXtEHL-wKIYWOqX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-108" target="QvazVuXtEHL-wKIYWOqX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-108" value="Cost audit" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="8760" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1489,6 +1495,24 @@
         </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-101" value="&lt;div&gt;a)&amp;nbsp;&amp;nbsp;&amp;nbsp; whether&amp;nbsp; the&amp;nbsp; company&amp;nbsp; is&amp;nbsp; maintaining&amp;nbsp; proper&amp;nbsp; records&amp;nbsp; showing&amp;nbsp; full particulars, including quantitative details and situation of fixed assets; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b)&amp;nbsp;&amp;nbsp;&amp;nbsp; whether&amp;nbsp; these&amp;nbsp; fixed&amp;nbsp; assets&amp;nbsp; have&amp;nbsp; been&amp;nbsp; physically&amp;nbsp; verified&amp;nbsp; by&amp;nbsp; the management&amp;nbsp;&amp;nbsp; at&amp;nbsp;&amp;nbsp; reasonable&amp;nbsp;&amp;nbsp; intervals;&amp;nbsp;&amp;nbsp; whether&amp;nbsp;&amp;nbsp; any&amp;nbsp;&amp;nbsp; material discrepancies&amp;nbsp; were&amp;nbsp; noticed&amp;nbsp; on&amp;nbsp; such&amp;nbsp; verification&amp;nbsp; and&amp;nbsp; if&amp;nbsp; so,&amp;nbsp; whether the same have been properly dealt with in the books of account;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c)&amp;nbsp;&amp;nbsp;&amp;nbsp; whether the title deeds of immovable properties are held in the name of the company. If not, provide the details thereof&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="9F2VfRxa8ZsIfczpcodk-84" vertex="1">
           <mxGeometry y="40" width="350" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvazVuXtEHL-wKIYWOqX-1" target="QvazVuXtEHL-wKIYWOqX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;List of Regulated Sectors &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp; Telecommunication Services &lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp; Generation, transmission distribution and supply of Electricity &lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp; Petroleum products&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&amp;nbsp;&amp;nbsp; Drugs and pharmaceuticals &lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;&amp;nbsp;&amp;nbsp; Fertilizers &lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp;&amp;nbsp;&amp;nbsp; Sugar and industrial alcohol &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="8840" width="239" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvazVuXtEHL-wKIYWOqX-2" target="QvazVuXtEHL-wKIYWOqX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-2" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;List of Non Regulated Sectors &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp; Machinery used for defense space atomic research&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp; Turbo jets and Turbo propellers &lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp; Arms and ammunition &lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&amp;nbsp;&amp;nbsp; Aeronautical Services &lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;&amp;nbsp;&amp;nbsp; Steel and Cement &lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp;&amp;nbsp;&amp;nbsp; Rubber and allied products &lt;br&gt;&lt;/div&gt;&lt;div&gt;7.&amp;nbsp;&amp;nbsp;&amp;nbsp; Roads and other infrastructure project &lt;br&gt;&lt;/div&gt;&lt;div&gt;8.&amp;nbsp;&amp;nbsp;&amp;nbsp; Ores and mineral products &lt;br&gt;&lt;/div&gt;&lt;div&gt;9.&amp;nbsp;&amp;nbsp;&amp;nbsp; Edible oil &lt;br&gt;&lt;/div&gt;&lt;div&gt;10.&amp;nbsp; Jute and Jute products&amp;nbsp; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380.5" y="8840" width="239" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-5" value="&lt;div&gt;1. Overall turnover from all products and services &lt;u&gt;&amp;gt;&lt;/u&gt; 50 crores&lt;/div&gt;&lt;div&gt;AND&lt;/div&gt;&lt;div&gt;2. Aggregate turnover form individual product and services for which cost records are required to be maintained is &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 25 crores&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="100.75" y="9060" width="232.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QvazVuXtEHL-wKIYWOqX-7" value="&lt;div&gt;1. Overall turnover from all products and services &lt;u&gt;&amp;gt;&lt;/u&gt; 100 crores&lt;/div&gt;&lt;div&gt;AND&lt;/div&gt;&lt;div&gt;2. Aggregate turnover form individual product and services for which cost records are required to be maintained is &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 35 crores&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="382.75" y="9060" width="232.5" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
