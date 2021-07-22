@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T00:13:14.570Z" agent="5.0 (X11)" etag="4NHY0KeapMZg5ieSuQTI" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T00:16:38.410Z" agent="5.0 (X11)" etag="2wjOESPCTrYlo56mQ2Bu" version="14.9.1" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
     <mxGraphModel dx="1444" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -578,8 +578,14 @@
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-95" value="&lt;div&gt;record of audit procedures performed, relevant audit evidence obtained, and conclusions the auditor reached. provides the following :&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; Who performed the audit work and Who&amp;nbsp; reviewed&amp;nbsp; the audit work&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Procedures performed by the auditor and &lt;br&gt;&lt;/div&gt;&lt;div&gt;evidence obtained&lt;/div&gt;&lt;div&gt;3. Conclusions reached by the auditor.&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Significant matters arising during audit and with mgmt/TCWG&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="180" width="300" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-97" target="GaGYNuxTkkT2lup7wjJ7-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-97" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of Documentation (Working papers)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Evidence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Retaining record of matters that significant to future audits.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Help in direct and supervise the engagement team.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Enabling the engagement team to be accountable for its work.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5 . Assisting the engagement team to plan and perform the audit.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="320" height="220" as="geometry" />
+          <mxGeometry x="290" y="360" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-99" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors affecting Form, Content and Extent of Documentation&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. size and complexity of the entity&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. nature of the audit procedures to be performed &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. identified ROMM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. significance of the audit evidence obtained&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. nature and extent of exceptions identified &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="600" width="300" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
