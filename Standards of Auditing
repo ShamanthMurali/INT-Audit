@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T00:16:38.410Z" agent="5.0 (X11)" etag="2wjOESPCTrYlo56mQ2Bu" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T00:31:03.416Z" agent="5.0 (X11)" etag="EGpHqG-dPc7yF8Eg1uIM" version="14.9.1" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1444" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1563" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -581,11 +581,23 @@
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-97" target="GaGYNuxTkkT2lup7wjJ7-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GaGYNuxTkkT2lup7wjJ7-97" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of Documentation (Working papers)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Evidence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Retaining record of matters that significant to future audits.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Help in direct and supervise the engagement team.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Enabling the engagement team to be accountable for its work.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5 . Assisting the engagement team to plan and perform the audit.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="360" width="300" height="220" as="geometry" />
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-97" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of Documentation (Working papers)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Evidence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Retaining record of matters that significant &lt;br&gt;&lt;/div&gt;&lt;div&gt;to future audits.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Help in direct and supervise the &lt;br&gt;&lt;/div&gt;&lt;div&gt;engagement team.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Enabling the engagement team to &lt;br&gt;&lt;/div&gt;&lt;div&gt;be accountable for its work.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5 . Assisting the engagement team to &lt;br&gt;&lt;/div&gt;&lt;div&gt;plan and perform the audit.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="300" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-99" target="GaGYNuxTkkT2lup7wjJ7-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-99" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors affecting Form, Content and Extent of Documentation&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. size and complexity of the entity&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. nature of the audit procedures to be performed &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. identified ROMM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. significance of the audit evidence obtained&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. nature and extent of exceptions identified &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="600" width="300" height="200" as="geometry" />
+          <mxGeometry x="290" y="610" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-101" target="GaGYNuxTkkT2lup7wjJ7-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-101" value="Audit File" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-103" value="&lt;div&gt;one or more folders or other storage media, in physical&amp;nbsp; or&amp;nbsp; electronic form, containing the records that comprise the&amp;nbsp; audit documentation for a specific engagement &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;auditor shall assemble final audit file on a timely basis.&lt;/div&gt;&lt;div&gt;(not more than 60 days after the date of the &lt;br&gt;&lt;/div&gt;&lt;div&gt;auditor’s report.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Completion Memorandum&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;audit documentation summary that describes- &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. The significant matters identified during the audit and &lt;br&gt;&lt;/div&gt;&lt;div&gt;b. How they were addressed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Ownership of Working Papers &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. documentation is the property of the auditor&lt;/div&gt;&lt;div&gt;2. He may at his discretion, make portions of, or extracts from, audit documentation available to clients, provided such disclosure does not undermine the validity of the work performed, othe independence of the auditor or of his personnel&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Retention of Working Papers &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;u&gt;&amp;gt;&lt;/u&gt; 7 years&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="910" width="440" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
