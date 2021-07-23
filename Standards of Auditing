@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T19:18:01.029Z" agent="5.0 (X11)" etag="qtbv9ldd3QbPm_gQnwlo" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T19:20:47.843Z" agent="5.0 (X11)" etag="PcrT4gJ_KVR5eae4_q7W" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="2099" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1445" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,11 +160,11 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA505&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="3620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TuKAxbe2wIa_8roPm6jD-39" target="ouRMiQ6DuUuypyKUajDh-23" edge="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TuKAxbe2wIa_8roPm6jD-39" target="ouRMiQ6DuUuypyKUajDh-23" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;External Confirmation&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-39">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="3520" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -665,84 +665,90 @@
         <mxCell id="ouRMiQ6DuUuypyKUajDh-20" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;General considerations for verifying true and fair view: &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. No asset or liability should be undervalued or over valued &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. No material asset should be omitted&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. No material liability should be omitted&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d.&amp;nbsp; Charge on asset, if any should be separately disclosed &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e.&amp;nbsp; Format of financial statements should be as per applicable&amp;nbsp;&amp;nbsp; financial reporting framework &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f.&amp;nbsp;&amp;nbsp; Selection and application of accounting policies should be as&amp;nbsp;&amp;nbsp; per AS&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;g.&amp;nbsp; Any extraordinary or non-recurring item should be separately disclosed &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3160" y="-860" width="360" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ouRMiQ6DuUuypyKUajDh-23" target="ouRMiQ6DuUuypyKUajDh-24" edge="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ouRMiQ6DuUuypyKUajDh-23" target="ouRMiQ6DuUuypyKUajDh-24" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-23" value="audit&amp;nbsp; evidence&amp;nbsp; obtained&amp;nbsp; as&amp;nbsp; a direct&amp;nbsp; written&amp;nbsp; response&amp;nbsp; to&amp;nbsp; the&amp;nbsp; auditor from&amp;nbsp; a&amp;nbsp; third&amp;nbsp; party in paper form, or by electronic or other medium" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-23" value="audit&amp;nbsp; evidence&amp;nbsp; obtained&amp;nbsp; as&amp;nbsp; a direct&amp;nbsp; written&amp;nbsp; response&amp;nbsp; to&amp;nbsp; the&amp;nbsp; auditor from&amp;nbsp; a&amp;nbsp; third&amp;nbsp; party in paper form, or by electronic or other medium" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3540" y="180" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-24" target="ouRMiQ6DuUuypyKUajDh-31" edge="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-24" target="ouRMiQ6DuUuypyKUajDh-31" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-24" value="Types of Confirmation Request" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-24" value="Types of Confirmation Request" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3620" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-27" target="ouRMiQ6DuUuypyKUajDh-37" edge="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-27" target="ouRMiQ6DuUuypyKUajDh-37" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-27" value="Negative confirmation request" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-27" value="Negative confirmation request" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3810" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-28" target="ouRMiQ6DuUuypyKUajDh-35" edge="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-28" target="ouRMiQ6DuUuypyKUajDh-35" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-28" value="Positive confirmation request" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-28" value="Positive confirmation request" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3430" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-32" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-31" target="ouRMiQ6DuUuypyKUajDh-27" edge="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-32" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-31" target="ouRMiQ6DuUuypyKUajDh-27" edge="1" visible="0">
           <mxGeometry x="0.4668" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-33" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-31" target="ouRMiQ6DuUuypyKUajDh-28" edge="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-33" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-31" target="ouRMiQ6DuUuypyKUajDh-28" edge="1" visible="0">
           <mxGeometry x="0.4666" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-31" value="&lt;div&gt;&lt;u&gt;If(Factors to be considered)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. ROMM is low&lt;/div&gt;&lt;div&gt;2. ICS is efficient&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. there are low chances of disagreement&lt;/div&gt;&lt;div&gt;4. the amount is small and immaterial&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-31" value="&lt;div&gt;&lt;u&gt;If(Factors to be considered)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. ROMM is low&lt;/div&gt;&lt;div&gt;2. ICS is efficient&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. there are low chances of disagreement&lt;/div&gt;&lt;div&gt;4. the amount is small and immaterial&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3560" y="320" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouRMiQ6DuUuypyKUajDh-35" target="_6mg-ACXW3XEM2QkLPh6-1">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouRMiQ6DuUuypyKUajDh-35" target="_6mg-ACXW3XEM2QkLPh6-1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-35" value="confirming party respond directly to the auditor&amp;nbsp;&amp;nbsp; indicating whether the confirming party agrees or disagrees with the information in the request, or&amp;nbsp; providing the requested information " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-35" value="confirming party respond directly to the auditor&amp;nbsp;&amp;nbsp; indicating whether the confirming party agrees or disagrees with the information in the request, or&amp;nbsp; providing the requested information " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3350" y="500" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouRMiQ6DuUuypyKUajDh-37" target="_6mg-ACXW3XEM2QkLPh6-1">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouRMiQ6DuUuypyKUajDh-37" target="_6mg-ACXW3XEM2QkLPh6-1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ouRMiQ6DuUuypyKUajDh-37" value="confirming party respond directly to the auditor only if the confirming party disagrees with the information provided in the request" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-37" value="confirming party respond directly to the auditor only if the confirming party disagrees with the information provided in the request" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3730" y="500" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-1" target="_6mg-ACXW3XEM2QkLPh6-5">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-1" target="_6mg-ACXW3XEM2QkLPh6-5" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-1" value="External confirmation Procedure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-1" value="External confirmation Procedure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3620" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-5" target="_6mg-ACXW3XEM2QkLPh6-9">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-5" target="_6mg-ACXW3XEM2QkLPh6-9" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-5" value="&lt;div&gt;1. Determining the information to be confirmed or requested &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Selecting the appropriate confirming party&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Designing confirmation requests considering&lt;/div&gt;&lt;div&gt;a. ROMM&lt;/div&gt;&lt;div&gt;b. Method of communication&lt;/div&gt;&lt;div&gt;c. Prior experience&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Sending&amp;nbsp; the&amp;nbsp; requests and follow-up&amp;nbsp; requests&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-5" value="&lt;div&gt;1. Determining the information to be confirmed or requested &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Selecting the appropriate confirming party&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Designing confirmation requests considering&lt;/div&gt;&lt;div&gt;a. ROMM&lt;/div&gt;&lt;div&gt;b. Method of communication&lt;/div&gt;&lt;div&gt;c. Prior experience&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Sending&amp;nbsp; the&amp;nbsp; requests and follow-up&amp;nbsp; requests&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3540" y="660" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-7" value="&lt;div&gt;A&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;S&lt;br&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-450" width="70" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-9" target="_6mg-ACXW3XEM2QkLPh6-11">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-9" target="_6mg-ACXW3XEM2QkLPh6-11" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-9" value="Management’s refusal to allow auditor to send a confirmation request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-9" value="Management’s refusal to allow auditor to send a confirmation request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3560" y="850" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-11" target="_6mg-ACXW3XEM2QkLPh6-13">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-11" target="_6mg-ACXW3XEM2QkLPh6-13" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-11" value="&lt;div&gt;1. Inquire reasons for the refusal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Evaluate relevant ROMM and risk of fraud&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Perform alternative audit procedures designed to obtain relevant and reliable audit evidence. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. communicate with those charged with governance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. determine the implications for the audit and the auditor’s opinion&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-11" value="&lt;div&gt;1. Inquire reasons for the refusal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Evaluate relevant ROMM and risk of fraud&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Perform alternative audit procedures designed to obtain relevant and reliable audit evidence. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. communicate with those charged with governance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. determine the implications for the audit and the auditor’s opinion&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3540" y="910" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors affecting reliability of external confirmation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Unauthorised Confirmation &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Management’s intervention in the confirmation sent by third party &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Doubt over integrity and reliability of third party&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Incomplete information given by third party&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Delayed response from third party &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-13" target="_6mg-ACXW3XEM2QkLPh6-15" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors affecting reliability of external confirmation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Unauthorised Confirmation &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Management’s intervention in the confirmation sent by third party &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Doubt over integrity and reliability of third party&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Incomplete information given by third party&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Delayed response from third party &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3540" y="1110" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Areas where EC can be done&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Confirmation from debtors/TR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.  Confirmation from creditors/TP&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.  Confirmation from banks / Financial institutions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.  Confirmation from 3rd party to whom goods are sent on approval basics / consignee.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3540" y="1330" width="280" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
