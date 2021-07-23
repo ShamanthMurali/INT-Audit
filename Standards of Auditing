@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T00:54:46.883Z" agent="5.0 (X11)" etag="K9zZEJF62bT5gopCWo1Y" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T01:18:09.013Z" agent="5.0 (X11)" etag="T3RMr62YWptFRTc598Qv" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1733" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1592" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,7 @@
           <mxGeometry x="2180" width="120" height="80" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Risk Assessment Procedure&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-27">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="2080" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1062,6 +1062,27 @@
         </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-128" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors to be considered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Areas of higher assessed ROMM&lt;/div&gt;&lt;div&gt;2. Significant auditor judgments relating to areas in the FS&lt;/div&gt;&lt;div&gt;3. effect on the audit of significant events or transactions&amp;nbsp; that occurred during the period. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=40;" vertex="1" visible="0" parent="1">
           <mxGeometry x="7118" y="500" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-130" target="_6mg-ACXW3XEM2QkLPh6-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-130" value="Internal Control" style="rounded=1;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=40;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-131" target="_6mg-ACXW3XEM2QkLPh6-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-131" value="the process designed, implemented and maintained by those charged with governance, management and other personnel to provide reasonable assurance about the achievement of an entity’s objectives with regard&amp;nbsp; to&amp;nbsp; reliability&amp;nbsp; of&amp;nbsp; financial&amp;nbsp; reporting,&amp;nbsp; effectiveness&amp;nbsp; and&amp;nbsp; efficiency&amp;nbsp; of operations, safeguarding of assets, and compliance with applicable laws and regulations." style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="260" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-133" target="_6mg-ACXW3XEM2QkLPh6-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-133" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. transactions are executed in accordance with&amp;nbsp; managements general or specific authorization&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. transactions recorded with correct amount in the appropriate accounts in the proper accounting period&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. assets are safeguarded from unauthorized access, use or disposition&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. recorded assets are compared with the existing assets at regular intervals and appropriate action is taken with regard to differences&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="390" width="320" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-135" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Limitations&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Internal control can provide only reasonable assurance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Human judgment in decision-making&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Judgements by Management&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Lack of understanding the purpose&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;5. Collusion among People&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;span&gt;Limitations in case of Small Entities&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. segregation of duties is not practicable. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. limited opportunities for segregation of duties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. owner-manager may be more able to override controls&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="620" width="320" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
