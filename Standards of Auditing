@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T09:29:45.666Z" agent="5.0 (X11)" etag="U_yQ1PqTOh4J1LXu3Bbe" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T10:14:07.403Z" agent="5.0 (X11)" etag="kp9AQFG7wf4fDjTAsuub" version="14.9.1" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
     <mxGraphModel dx="1563" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -677,8 +677,14 @@
         <mxCell id="ouRMiQ6DuUuypyKUajDh-24" value="Types of Confirmation Request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3620" y="250" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouRMiQ6DuUuypyKUajDh-27" target="ouRMiQ6DuUuypyKUajDh-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-27" value="Negative confirmation request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3810" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouRMiQ6DuUuypyKUajDh-28" target="ouRMiQ6DuUuypyKUajDh-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-28" value="Positive confirmation request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3430" y="440" width="120" height="40" as="geometry" />
@@ -695,6 +701,12 @@
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-31" value="&lt;div&gt;&lt;u&gt;If(Factors to be considered)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. ROMM is low&lt;/div&gt;&lt;div&gt;2. ICS is efficient&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. there are low chances of disagreement&lt;/div&gt;&lt;div&gt;4. the amount is small and immaterial&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3560" y="320" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-35" value="confirming party respond directly to the auditor&amp;nbsp;&amp;nbsp; indicating whether the confirming party agrees or disagrees with the information in the request, or&amp;nbsp; providing the requested information " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="500" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ouRMiQ6DuUuypyKUajDh-37" value="confirming party respond directly to the auditor only if the confirming party disagrees with the information provided in the request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3730" y="500" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
