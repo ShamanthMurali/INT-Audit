@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T23:13:55.297Z" agent="5.0 (X11)" etag="NfLLV17XcmqALeevNg-f" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T23:17:52.031Z" agent="5.0 (X11)" etag="ABNMHBHb_1j7owrguEyH" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1445" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2319" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -827,14 +827,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-33" value="Adverse (-ve)" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="6860" y="360" width="120" height="40" as="geometry">
-            <mxRectangle x="6860" y="360" width="190" height="170" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-91" value="&lt;div&gt;- True and fair view X&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- material misstatements that have major impact&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- pervasive()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_6mg-ACXW3XEM2QkLPh6-33">
-          <mxGeometry y="40" width="190" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-35" target="_6mg-ACXW3XEM2QkLPh6-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -975,12 +967,12 @@
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-77" value="qualified report" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="7170" y="705" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-40" value="Clean report" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="6720" y="360" width="120" height="40" as="geometry">
-            <mxRectangle x="6720" y="360" width="190" height="170" as="alternateBounds" />
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-34" value="&lt;div&gt;Disclaimer &lt;br&gt;&lt;/div&gt;&lt;div&gt;of opinion&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="7140" y="360" width="120" height="40" as="geometry">
+            <mxRectangle x="7140" y="360" width="190" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-48" value="&lt;div&gt;- True and fair view ✓&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Immaterial misstatements&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_6mg-ACXW3XEM2QkLPh6-40">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-93" value="&lt;div&gt;- No SAAE&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- True and fair view X&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- undetected misstatements&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- pervasive()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_6mg-ACXW3XEM2QkLPh6-34">
           <mxGeometry y="40" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-32" value="Qualified" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
@@ -991,12 +983,20 @@
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-92" value="&lt;div&gt;- True and fair view ✓&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- material misstatements that &lt;u&gt;&lt;b&gt;do not&lt;/b&gt;&lt;/u&gt;&lt;b&gt; &lt;/b&gt;have major impact&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_6mg-ACXW3XEM2QkLPh6-32">
           <mxGeometry y="40" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-34" value="&lt;div&gt;Disclaimer &lt;br&gt;&lt;/div&gt;&lt;div&gt;of opinion&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="7140" y="360" width="120" height="40" as="geometry">
-            <mxRectangle x="7140" y="360" width="190" height="170" as="alternateBounds" />
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-33" value="Adverse (-ve)" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="6860" y="360" width="120" height="40" as="geometry">
+            <mxRectangle x="6860" y="360" width="190" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-93" value="&lt;div&gt;- No SAAE&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- True and fair view X&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- undetected misstatements&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- pervasive()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_6mg-ACXW3XEM2QkLPh6-34">
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-91" value="&lt;div&gt;- True and fair view X&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- material misstatements that have major impact&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- pervasive(major effect on the FS)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_6mg-ACXW3XEM2QkLPh6-33">
+          <mxGeometry y="40" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-40" value="Clean report" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="6720" y="360" width="120" height="40" as="geometry">
+            <mxRectangle x="6720" y="360" width="190" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-48" value="&lt;div&gt;- True and fair view ✓&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Immaterial misstatements&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_6mg-ACXW3XEM2QkLPh6-40">
           <mxGeometry y="40" width="190" height="130" as="geometry" />
         </mxCell>
       </root>
