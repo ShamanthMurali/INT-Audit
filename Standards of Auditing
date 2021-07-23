@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T19:10:03.692Z" agent="5.0 (X11)" etag="WS_vNedTFmg34QXxpBQo" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T19:18:01.029Z" agent="5.0 (X11)" etag="qtbv9ldd3QbPm_gQnwlo" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1711" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2099" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -720,11 +720,29 @@
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-1" value="External confirmation Procedure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3620" y="600" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-5" target="_6mg-ACXW3XEM2QkLPh6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-5" value="&lt;div&gt;1. Determining the information to be confirmed or requested &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Selecting the appropriate confirming party&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Designing confirmation requests considering&lt;/div&gt;&lt;div&gt;a. ROMM&lt;/div&gt;&lt;div&gt;b. Method of communication&lt;/div&gt;&lt;div&gt;c. Prior experience&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Sending&amp;nbsp; the&amp;nbsp; requests and follow-up&amp;nbsp; requests&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3540" y="660" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-7" value="&lt;div&gt;A&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;S&lt;br&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-450" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-9" target="_6mg-ACXW3XEM2QkLPh6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-9" value="Management’s refusal to allow auditor to send a confirmation request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="850" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-11" target="_6mg-ACXW3XEM2QkLPh6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-11" value="&lt;div&gt;1. Inquire reasons for the refusal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Evaluate relevant ROMM and risk of fraud&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Perform alternative audit procedures designed to obtain relevant and reliable audit evidence. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. communicate with those charged with governance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. determine the implications for the audit and the auditor’s opinion&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3540" y="910" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors affecting reliability of external confirmation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Unauthorised Confirmation &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Management’s intervention in the confirmation sent by third party &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Doubt over integrity and reliability of third party&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Incomplete information given by third party&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Delayed response from third party &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3540" y="1110" width="280" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
