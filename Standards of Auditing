@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T23:10:04.423Z" agent="5.0 (X11)" etag="Dyd_o-Gkc0p9erKGLPpp" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T23:12:13.524Z" agent="5.0 (X11)" etag="4xZwCe-nRTGf6j_OCZvV" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="5020" dy="3190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2101" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1269,23 +1269,28 @@
         <mxCell id="uVYKNzydVZcMpzMGIu3k-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uVYKNzydVZcMpzMGIu3k-65" target="uVYKNzydVZcMpzMGIu3k-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uVYKNzydVZcMpzMGIu3k-65" target="uVYKNzydVZcMpzMGIu3k-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uVYKNzydVZcMpzMGIu3k-65" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. establish proper &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;uthority for every purchase and sale of assets&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. confirm liabilities have been incurred for &lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;egitimate purposes of the orgn&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. ensure safeguarding of &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ssets&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. ensure a/cing &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;olicies &amp;amp; &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;ractices followed consistently&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. review ICS and letter of weakness and &lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;uggestions(LOWS) to the mgmt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. provide &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;hannel for new ideas to the mgmt&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;7. &lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;pecial investigation for mgmt&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;8. verify &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccuracy and &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;uthenticity of a/cing&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;9. &lt;u&gt;&lt;b&gt;D&lt;/b&gt;&lt;/u&gt;etection and prevention of frauds and errors&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="990" width="320" height="330" as="geometry" />
         </mxCell>
         <mxCell id="uVYKNzydVZcMpzMGIu3k-67" value="&lt;div&gt;All&lt;/div&gt;&lt;div&gt;Love&lt;/div&gt;&lt;div&gt;Aloo&lt;/div&gt;&lt;div&gt;Paratha&lt;/div&gt;&lt;div&gt;Served with&lt;br&gt;&lt;/div&gt;&lt;div&gt;Chutney&lt;/div&gt;&lt;div&gt;Sauce&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;Dahi&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="1087.5" width="90" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="uVYKNzydVZcMpzMGIu3k-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="1450" width="120" height="40" as="geometry" />
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-73" value="Internal Audit&#xa; vs &#xa;Statutory Audit" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1860" y="1340" width="120" height="50" as="geometry">
+            <mxRectangle x="2110" y="1360" width="521" height="1158" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="uVYKNzydVZcMpzMGIu3k-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/L3JTL5h.png;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="1540" width="520" height="404" as="geometry" />
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/L3JTL5h.png;" vertex="1" parent="uVYKNzydVZcMpzMGIu3k-73">
+          <mxGeometry x="1" y="50" width="520" height="404" as="geometry" />
         </mxCell>
-        <mxCell id="uVYKNzydVZcMpzMGIu3k-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/iYemvt5.png;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="1940" width="520" height="196" as="geometry" />
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/iYemvt5.png;" vertex="1" parent="uVYKNzydVZcMpzMGIu3k-73">
+          <mxGeometry y="454" width="520" height="196" as="geometry" />
         </mxCell>
-        <mxCell id="uVYKNzydVZcMpzMGIu3k-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/6QAwKV1.png;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="2136" width="520" height="508" as="geometry" />
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/6QAwKV1.png;" vertex="1" parent="uVYKNzydVZcMpzMGIu3k-73">
+          <mxGeometry x="1" y="650" width="520" height="508" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
