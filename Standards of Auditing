@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T23:00:47.999Z" agent="5.0 (X11)" etag="rAtx1953IwHYVCg25ZAx" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T23:10:04.423Z" agent="5.0 (X11)" etag="Dyd_o-Gkc0p9erKGLPpp" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="2322" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5020" dy="3190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1274,6 +1274,18 @@
         </mxCell>
         <mxCell id="uVYKNzydVZcMpzMGIu3k-67" value="&lt;div&gt;All&lt;/div&gt;&lt;div&gt;Love&lt;/div&gt;&lt;div&gt;Aloo&lt;/div&gt;&lt;div&gt;Paratha&lt;/div&gt;&lt;div&gt;Served with&lt;br&gt;&lt;/div&gt;&lt;div&gt;Chutney&lt;/div&gt;&lt;div&gt;Sauce&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;Dahi&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="1087.5" width="90" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/L3JTL5h.png;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1540" width="520" height="404" as="geometry" />
+        </mxCell>
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/iYemvt5.png;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1940" width="520" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/6QAwKV1.png;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="2136" width="520" height="508" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
