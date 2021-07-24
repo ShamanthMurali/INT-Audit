@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T20:23:38.615Z" agent="5.0 (X11)" etag="XsR1bte3mSfbZNeJoFKD" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T20:24:48.907Z" agent="5.0 (X11)" etag="e6Yi7ayIfKzfIT_j8LBm" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1886" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1442" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1179,8 +1179,14 @@
         <mxCell id="uVYKNzydVZcMpzMGIu3k-36" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Benefits of Evaluation of Internal Control&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. errors and frauds are likely to be located in the ordinary course of operations of the biz; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. whether an adequate ICS is in use and operating as planned by the mgmt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. whether the controls safeguard the assets; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. how reliable the reports, records and the certificates to the mgmt can be; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. the extent and the depth of the examination that he needs to carry out in the different areas of accounting; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. what would be appropriate audit technique and the audit procedure in the given circumstances; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. what are the areas where control is weak and where it is excessive; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. whether some worthwhile suggestions can be given to improve ICS.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="2080" y="990" width="320" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="uVYKNzydVZcMpzMGIu3k-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uVYKNzydVZcMpzMGIu3k-41" target="uVYKNzydVZcMpzMGIu3k-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-41" value="Internal Audit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1860" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-42" value="Audit of Internal Control system designed, implemented and maintained by mgmt. and TCWG of the entity. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="450" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
