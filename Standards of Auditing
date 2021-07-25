@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T11:57:40.716Z" agent="5.0 (X11)" etag="ywebOogVTBG2Q2FIcU01" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-25T11:59:51.716Z" agent="5.0 (X11)" etag="LDzZKU7D9jALf33VqzOX" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1717" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2107" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1334,13 +1334,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-12" value="&lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;ontrol Risk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1530" width="120" height="40" as="geometry" />
+          <mxGeometry x="1630" y="1140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-13" target="-TBN9xiancuqXs8ifT44-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-13" value="&lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nherent Risk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="1530" width="120" height="40" as="geometry" />
+          <mxGeometry x="1410" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-TBN9xiancuqXs8ifT44-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-16" target="-TBN9xiancuqXs8ifT44-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Techniques used for performing risk assessment procedure&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;Inquiries of management&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(Inquiries towards TCWG, emp)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Analytical procedures&lt;/u&gt; - identify unusual transactions or events, and amounts, ratios, and trends that might indicate matters that have&amp;nbsp; audit&amp;nbsp; implications&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Observation and inspection&lt;/u&gt; for e.g observing entity’s operations&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="530" width="280" height="200" as="geometry" />
@@ -1352,25 +1355,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-18" value="Components of ROMM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1450" width="120" height="40" as="geometry" />
+          <mxGeometry x="1520" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-22" value="&lt;div&gt;[every transaction has a risk of mis-statement that could lead to fraud or error]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The susceptibility{prone} of an assertion{statement that you strongly believe is true} about a class of transaction, account balance or disclosure to a misstatement that could be material, either individually or when aggregated with other misstatements, before consideration of any related controls &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="1590" width="200" height="210" as="geometry" />
+          <mxGeometry x="1370" y="1200" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-24" value="&lt;div&gt;[the inherent risk cannot be 100% detected and prevented in timely basics]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The risk that a misstatement that could occur in an assertion about a class of transaction, account balance or disclosure and that could be material, either individually or when aggregated with other misstatements, will not be prevented, or detected and corrected, on a timely basis by the entity’s internal control. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="1590" width="200" height="210" as="geometry" />
+          <mxGeometry x="1590" y="1200" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-26" target="-TBN9xiancuqXs8ifT44-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-26" value="Audit Risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="1140" width="120" height="40" as="geometry" />
+          <mxGeometry x="1680" y="750" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-29" target="-TBN9xiancuqXs8ifT44-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-29" value="&lt;div&gt;Auditor gives inappropriate a positive opinion when the FS actually are materially misstated.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;audit risk does not include&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. auditor gives -ev opinion when FS are +ve is not a audit risk&lt;/div&gt;&lt;div&gt;2. does not refer to the auditor’s business risks such as loss from litigation, adverse&amp;nbsp; publicity,&amp;nbsp; or&amp;nbsp; other&amp;nbsp; events&amp;nbsp; arising&amp;nbsp; in&amp;nbsp; connection&amp;nbsp; with&amp;nbsp; the&amp;nbsp; audit&amp;nbsp; of financial statements.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1200" width="280" height="150" as="geometry" />
+          <mxGeometry x="1600" y="810" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-31" target="-TBN9xiancuqXs8ifT44-18">
           <mxGeometry relative="1" as="geometry" />
@@ -1382,19 +1385,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-31" value="&lt;div&gt;Components of Audit risk&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="1370" width="120" height="40" as="geometry" />
+          <mxGeometry x="1680" y="980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-34" target="-TBN9xiancuqXs8ifT44-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-34" value="&lt;u&gt;&lt;b&gt;D&lt;/b&gt;&lt;/u&gt;etection risk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1450" width="120" height="40" as="geometry" />
+          <mxGeometry x="1840" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-35" value="auditor might not detect a misstatement that exists and that could be material, either individually or when aggregated with other misstatements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="1510" width="200" height="100" as="geometry" />
+          <mxGeometry x="1800" y="1120" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-38" value="&lt;div&gt;&lt;u&gt;key&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;D&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="1430" width="40" height="70" as="geometry" />
+          <mxGeometry x="1720" y="1040" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
