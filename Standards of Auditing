@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T13:56:56.606Z" agent="5.0 (X11)" etag="No5rB8XPaiIZVnyLFfVC" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-25T15:47:25.641Z" agent="5.0 (X11)" etag="XkFLLj2bzEsSD41fh4JG" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1568" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1893" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,8 +60,11 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA240&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="740" width="120" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-15">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-15" target="ktTz3yD2QazfCwMk7vJG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;The Auditor’s Responsibilities Relating to &lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Fraud in an Audit of Financial Statements&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-15">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="640" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -115,10 +118,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-27" target="uVYKNzydVZcMpzMGIu3k-41" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TuKAxbe2wIa_8roPm6jD-27" target="uVYKNzydVZcMpzMGIu3k-41" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-27" target="-TBN9xiancuqXs8ifT44-2" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TuKAxbe2wIa_8roPm6jD-27" target="-TBN9xiancuqXs8ifT44-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2240" y="200" />
@@ -273,11 +276,11 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA610&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="6500" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-63" target="-TBN9xiancuqXs8ifT44-49">
+        <mxCell id="-TBN9xiancuqXs8ifT44-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TuKAxbe2wIa_8roPm6jD-63" target="-TBN9xiancuqXs8ifT44-49" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Using the work of Internal Auditor&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-63">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="6400" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1291,7 +1294,7 @@
         <mxCell id="uVYKNzydVZcMpzMGIu3k-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uVYKNzydVZcMpzMGIu3k-65" target="uVYKNzydVZcMpzMGIu3k-73" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uVYKNzydVZcMpzMGIu3k-65" target="-TBN9xiancuqXs8ifT44-4" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uVYKNzydVZcMpzMGIu3k-65" target="-TBN9xiancuqXs8ifT44-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uVYKNzydVZcMpzMGIu3k-65" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. establish proper &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;uthority for every purchase and sale of assets&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. confirm liabilities have been incurred for &lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;egitimate purposes of the orgn&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. ensure safeguarding of &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ssets&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. ensure a/cing &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;olicies &amp;amp; &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;ractices followed consistently&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. review ICS and letter of weakness and &lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;uggestions(LOWS) to the mgmt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. provide &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;hannel for new ideas to the mgmt&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;7. &lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;pecial investigation for mgmt&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;8. verify &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccuracy and &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;uthenticity of a/cing&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;9. &lt;u&gt;&lt;b&gt;D&lt;/b&gt;&lt;/u&gt;etection and prevention of frauds and errors&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -1300,19 +1303,19 @@
         <mxCell id="uVYKNzydVZcMpzMGIu3k-67" value="&lt;div&gt;All&lt;/div&gt;&lt;div&gt;Love&lt;/div&gt;&lt;div&gt;Aloo&lt;/div&gt;&lt;div&gt;Paratha&lt;/div&gt;&lt;div&gt;Served with&lt;br&gt;&lt;/div&gt;&lt;div&gt;Chutney&lt;/div&gt;&lt;div&gt;Sauce&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;Dahi&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1970" y="937.5" width="90" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="-TBN9xiancuqXs8ifT44-2" target="-TBN9xiancuqXs8ifT44-3">
+        <mxCell id="-TBN9xiancuqXs8ifT44-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-2" target="-TBN9xiancuqXs8ifT44-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-2" value="Risk Assessment Procedure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-2" value="Risk Assessment Procedure" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1640" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-3" target="-TBN9xiancuqXs8ifT44-8" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-3" target="-TBN9xiancuqXs8ifT44-8" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-3" value="&lt;div&gt;To identify and assess the risks of material misstatement, whether due to fraud or error,&amp;nbsp; at&amp;nbsp; the&amp;nbsp; financial&amp;nbsp; statement&amp;nbsp; and&amp;nbsp; assertion&amp;nbsp; levels,&amp;nbsp; through understanding the entity and its environment, including the entity’s internal control, thereby providing a basis for designing and implementing responses to the assessed risks of material misstatement &lt;br&gt;&lt;/div&gt;&lt;div&gt;(it is done before starting the audit)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-3" value="&lt;div&gt;To identify and assess the risks of material misstatement, whether due to fraud or error,&amp;nbsp; at&amp;nbsp; the&amp;nbsp; financial&amp;nbsp; statement&amp;nbsp; and&amp;nbsp; assertion&amp;nbsp; levels,&amp;nbsp; through understanding the entity and its environment, including the entity’s internal control, thereby providing a basis for designing and implementing responses to the assessed risks of material misstatement &lt;br&gt;&lt;/div&gt;&lt;div&gt;(it is done before starting the audit)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1520" y="300" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Importance of internal audit&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. IA help fulfill the primary responsibility of mgmt/TCWG to detect&amp;nbsp; and prevent frauds and errors&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. it will be a duty of the IA to examine ICS and come up with ways to overcome material weakness in the ICS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. helps determine the extent of audit procedures&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. discharges the duty of the mgmt of prevention, supervision and detection.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; help build strong ICS&lt;/div&gt;&lt;div&gt;ICS Strong = less frauds and errors&lt;/div&gt;&lt;div&gt;ICS weak = more frauds and errors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Importance of internal audit&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. IA help fulfill the primary responsibility of mgmt/TCWG to detect&amp;nbsp; and prevent frauds and errors&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. it will be a duty of the IA to examine ICS and come up with ways to overcome material weakness in the ICS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. helps determine the extent of audit procedures&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. discharges the duty of the mgmt of prevention, supervision and detection.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; help build strong ICS&lt;/div&gt;&lt;div&gt;ICS Strong = less frauds and errors&lt;/div&gt;&lt;div&gt;ICS weak = more frauds and errors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2080" y="1260" width="320" height="260" as="geometry" />
         </mxCell>
         <mxCell id="uVYKNzydVZcMpzMGIu3k-73" value="Internal Audit&#xa; vs &#xa;Statutory Audit" style="swimlane;startSize=50;" parent="1" vertex="1" collapsed="1" visible="0">
@@ -1329,104 +1332,158 @@
         <mxCell id="uVYKNzydVZcMpzMGIu3k-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/6QAwKV1.png;" parent="uVYKNzydVZcMpzMGIu3k-73" vertex="1">
           <mxGeometry x="1" y="650" width="520" height="508" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-8" target="-TBN9xiancuqXs8ifT44-10" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-TBN9xiancuqXs8ifT44-8" target="-TBN9xiancuqXs8ifT44-10" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-8" value="ROMM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-8" value="ROMM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1640" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-10" target="-TBN9xiancuqXs8ifT44-16" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-10" target="-TBN9xiancuqXs8ifT44-16" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-10" value="Risk&amp;nbsp; of&amp;nbsp; material&amp;nbsp; misstatement&amp;nbsp; may&amp;nbsp; be&amp;nbsp; defined&amp;nbsp; as&amp;nbsp; the&amp;nbsp; risk&amp;nbsp; that&amp;nbsp; the financial statements are materially misstated prior to audit.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-10" value="Risk&amp;nbsp; of&amp;nbsp; material&amp;nbsp; misstatement&amp;nbsp; may&amp;nbsp; be&amp;nbsp; defined&amp;nbsp; as&amp;nbsp; the&amp;nbsp; risk&amp;nbsp; that&amp;nbsp; the financial statements are materially misstated prior to audit.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1560" y="500" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-12" target="-TBN9xiancuqXs8ifT44-24" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-12" target="-TBN9xiancuqXs8ifT44-24" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-12" value="&lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;ontrol Risk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-12" value="&lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;ontrol Risk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1590" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-13" target="-TBN9xiancuqXs8ifT44-22" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-13" target="-TBN9xiancuqXs8ifT44-22" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-13" value="&lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nherent Risk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-13" value="&lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nherent Risk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1370" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-16" target="-TBN9xiancuqXs8ifT44-26" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-16" target="-TBN9xiancuqXs8ifT44-26" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Techniques used for performing risk assessment procedure&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;Inquiries of management&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(Inquiries towards TCWG, emp)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Analytical procedures&lt;/u&gt; - identify unusual transactions or events, and amounts, ratios, and trends that might indicate matters that have&amp;nbsp; audit&amp;nbsp; implications&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Observation and inspection&lt;/u&gt; for e.g observing entity’s operations&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Techniques used for performing risk assessment procedure&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;Inquiries of management&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(Inquiries towards TCWG, emp)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Analytical procedures&lt;/u&gt; - identify unusual transactions or events, and amounts, ratios, and trends that might indicate matters that have&amp;nbsp; audit&amp;nbsp; implications&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Observation and inspection&lt;/u&gt; for e.g observing entity’s operations&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1560" y="570" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-18" target="-TBN9xiancuqXs8ifT44-13" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-18" target="-TBN9xiancuqXs8ifT44-13" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-18" target="-TBN9xiancuqXs8ifT44-12" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-18" target="-TBN9xiancuqXs8ifT44-12" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-18" value="Components of ROMM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-18" value="Components of ROMM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1480" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-22" value="&lt;div&gt;[every transaction has a risk of mis-statement that could lead to fraud or error]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The susceptibility{prone} of an assertion{statement that you strongly believe is true} about a class of transaction, account balance or disclosure to a misstatement that could be material, either individually or when aggregated with other misstatements, before consideration of any related controls &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-22" value="&lt;div&gt;[every transaction has a risk of mis-statement that could lead to fraud or error]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The susceptibility{prone} of an assertion{statement that you strongly believe is true} about a class of transaction, account balance or disclosure to a misstatement that could be material, either individually or when aggregated with other misstatements, before consideration of any related controls &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1330" y="1240" width="200" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-24" value="&lt;div&gt;[the inherent risk cannot be 100% detected and prevented in timely basics]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The risk that a misstatement that could occur in an assertion about a class of transaction, account balance or disclosure and that could be material, either individually or when aggregated with other misstatements, will not be prevented, or detected and corrected, on a timely basis by the entity’s internal control. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-24" value="&lt;div&gt;[the inherent risk cannot be 100% detected and prevented in timely basics]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The risk that a misstatement that could occur in an assertion about a class of transaction, account balance or disclosure and that could be material, either individually or when aggregated with other misstatements, will not be prevented, or detected and corrected, on a timely basis by the entity’s internal control. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1550" y="1240" width="200" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-26" target="-TBN9xiancuqXs8ifT44-29" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-TBN9xiancuqXs8ifT44-26" target="-TBN9xiancuqXs8ifT44-29" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-26" value="Audit Risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-26" value="Audit Risk" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1640" y="790" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-29" target="-TBN9xiancuqXs8ifT44-31" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-29" target="-TBN9xiancuqXs8ifT44-31" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-29" value="&lt;div&gt;Auditor gives inappropriate a positive opinion when the FS actually are materially misstated.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;audit risk does not include&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. auditor gives -ev opinion when FS are +ve is not a audit risk&lt;/div&gt;&lt;div&gt;2. does not refer to the auditor’s business risks such as loss from litigation, adverse&amp;nbsp; publicity,&amp;nbsp; or&amp;nbsp; other&amp;nbsp; events&amp;nbsp; arising&amp;nbsp; in&amp;nbsp; connection&amp;nbsp; with&amp;nbsp; the&amp;nbsp; audit&amp;nbsp; of financial statements.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-29" value="&lt;div&gt;Auditor gives inappropriate a positive opinion when the FS actually are materially misstated.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;audit risk does not include&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. auditor gives -ev opinion when FS are +ve is not a audit risk&lt;/div&gt;&lt;div&gt;2. does not refer to the auditor’s business risks such as loss from litigation, adverse&amp;nbsp; publicity,&amp;nbsp; or&amp;nbsp; other&amp;nbsp; events&amp;nbsp; arising&amp;nbsp; in&amp;nbsp; connection&amp;nbsp; with&amp;nbsp; the&amp;nbsp; audit&amp;nbsp; of financial statements.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1560" y="850" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-31" target="-TBN9xiancuqXs8ifT44-18" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-31" target="-TBN9xiancuqXs8ifT44-18" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-31" target="-TBN9xiancuqXs8ifT44-34" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-31" target="-TBN9xiancuqXs8ifT44-34" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-31" target="-TBN9xiancuqXs8ifT44-38" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-31" target="-TBN9xiancuqXs8ifT44-38" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-31" value="&lt;div&gt;Components of Audit risk&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-31" value="&lt;div&gt;Components of Audit risk&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1640" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-34" target="-TBN9xiancuqXs8ifT44-35" visible="0">
+        <mxCell id="-TBN9xiancuqXs8ifT44-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-34" target="-TBN9xiancuqXs8ifT44-35" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-34" value="&lt;u&gt;&lt;b&gt;D&lt;/b&gt;&lt;/u&gt;etection risk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-34" value="&lt;u&gt;&lt;b&gt;D&lt;/b&gt;&lt;/u&gt;etection risk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1800" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-35" value="auditor might not detect a misstatement that exists and that could be material, either individually or when aggregated with other misstatements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-35" value="auditor might not detect a misstatement that exists and that could be material, either individually or when aggregated with other misstatements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1760" y="1160" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-38" value="&lt;div&gt;&lt;u&gt;key&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;D&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-38" value="&lt;div&gt;&lt;u&gt;key&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;D&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1680" y="1080" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-43" target="-TBN9xiancuqXs8ifT44-46">
+        <mxCell id="-TBN9xiancuqXs8ifT44-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-43" target="-TBN9xiancuqXs8ifT44-46" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-43" target="-TBN9xiancuqXs8ifT44-45">
+        <mxCell id="-TBN9xiancuqXs8ifT44-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-43" target="-TBN9xiancuqXs8ifT44-45" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6500" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-45" value="Direct assistence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-45" value="Direct assistence" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6640" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-46" value="use the work of the IA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-TBN9xiancuqXs8ifT44-46" value="use the work of the IA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6360" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TBN9xiancuqXs8ifT44-49" value="Evaluating IA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-49" target="ktTz3yD2QazfCwMk7vJG-1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-TBN9xiancuqXs8ifT44-49" value="Evaluating IA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6500" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-1" target="-TBN9xiancuqXs8ifT44-43" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-1" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="6500" y="240" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-4" target="ktTz3yD2QazfCwMk7vJG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Fruad&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;“an intentional act by one or more individuals among &lt;br&gt;&lt;/div&gt;&lt;div&gt;mgmt, TCWG, emp, or 3rd parties, involving the use of deception to obtain an unjust or illegal advantage”. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="180" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-6" target="ktTz3yD2QazfCwMk7vJG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-6" target="ktTz3yD2QazfCwMk7vJG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-6" value="Misrepresentations " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-8" target="ktTz3yD2QazfCwMk7vJG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-8" value="Misappropriation of assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-9" target="ktTz3yD2QazfCwMk7vJG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-9" value="Fraudulent Financial Reporting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-10" target="ktTz3yD2QazfCwMk7vJG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-10" value="perpetrated by management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-12" target="ktTz3yD2QazfCwMk7vJG-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-12" value="perpetrated&amp;nbsp; by employees" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-17" value="&lt;div&gt;manipulating operating results and financial statements&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Manipulation/Falsification/alteration &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Misrepresentation/Intentional Omission Intentional&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Misapplication of accounting principles &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="470" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ktTz3yD2QazfCwMk7vJG-19" value="&lt;div&gt;theft of an entity’s assets in relatively small and immaterial amounts. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Embezzling receipts &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Stealing physical assets or intellectual property&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Causing an entity to pay for goods and services not received&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Using an entity’s assets for personal use&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="470" width="250" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
