@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T20:05:01.536Z" agent="5.0 (X11)" etag="SsOxRxJ_-W0LOpC-Q2po" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T20:09:36.227Z" agent="5.0 (X11)" etag="FXDMEpb41_fiykJJz6-3" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1564" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1892" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1796,7 +1796,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-96" target="jzqZOG9cQNNDQsuIwyla-127">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="2830" />
+              <mxPoint x="1340" y="2830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-96" value="Fraud reporting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1251" y="2790" width="120" height="40" as="geometry" />
@@ -1852,6 +1857,9 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-118" value="shall forward his report&amp;nbsp; to the CG along with a note containing the details of his report for which he has not received any reply or observations " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1178" y="3170" width="140" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-130" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-119" target="jzqZOG9cQNNDQsuIwyla-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-119" value="&lt;div&gt;report shall be sent to the Secretary, MCA in Registered&amp;nbsp; Post by Speed&amp;nbsp; Post followed by an e-mail&amp;nbsp; in confirmation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The report shall contain auditors&lt;/div&gt;&lt;div&gt; postal address, &lt;br&gt;&lt;/div&gt;&lt;div&gt;e-mail address &lt;br&gt;&lt;/div&gt;&lt;div&gt;contact&lt;/div&gt;&lt;div&gt; signed by the auditor&lt;/div&gt;&lt;div&gt; with his seal and,&lt;/div&gt;&lt;div&gt; Membership Number; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;in Form ADT-4 &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1068" y="3330" width="200" height="210" as="geometry" />
         </mxCell>
@@ -1867,11 +1875,22 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-123" value="&lt;div&gt;Auditor report shall conain,&lt;/div&gt;&lt;div&gt;a) Nature of Fraud with description. &lt;br&gt;&lt;/div&gt;&lt;div&gt;b) Approximate amount involved. &lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Parties involved. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1348" y="2990" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-131" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-124" target="jzqZOG9cQNNDQsuIwyla-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1448" y="3570" />
+              <mxPoint x="1300" y="3570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-124" value="&lt;div&gt;company is required to disclose in&amp;nbsp; the Board’s Report details of the fraud reported, stating,&lt;/div&gt;&lt;div&gt;a) Nature of Fraud with description &lt;br&gt;&lt;/div&gt;&lt;div&gt;b) Approximate amount involved &lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Parties involved, if remedial action not taken &lt;br&gt;&lt;/div&gt;&lt;div&gt;d) Remedial actions taken&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1348" y="3090" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-127" value="Same as cos audit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1253.5" y="2830" width="115" height="20" as="geometry" />
+          <mxGeometry x="1251" y="2830" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-129" value="CARO 2016 - Fraud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="3600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
