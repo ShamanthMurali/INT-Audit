@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T00:49:33.997Z" agent="5.0 (X11)" etag="JlZdxb3g05_hOa1dr901" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-29T01:38:55.167Z" agent="5.0 (X11)" etag="whbOqgAvMKHbnAwjxT1N" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1712" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1445" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,6 +158,9 @@
         </mxCell>
         <mxCell id="TuKAxbe2wIa_8roPm6jD-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA320&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="2540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-30" target="jzqZOG9cQNNDQsuIwyla-220">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Materiality in Planning and Performing &lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;an Audit&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-30">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
@@ -2129,7 +2132,7 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-224" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-220" target="jzqZOG9cQNNDQsuIwyla-221">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-220" value="auditor&amp;nbsp; shall&amp;nbsp; determine materiality&amp;nbsp; for&amp;nbsp; the&amp;nbsp; financial&amp;nbsp; statements&amp;nbsp; as&amp;nbsp; a&amp;nbsp; whole.&amp;nbsp; If,&amp;nbsp; in&amp;nbsp; the&amp;nbsp; specific circumstances&amp;nbsp; of&amp;nbsp; the&amp;nbsp; entity,&amp;nbsp; there&amp;nbsp; is&amp;nbsp; one&amp;nbsp; or&amp;nbsp; more&amp;nbsp; particular&amp;nbsp; classes&amp;nbsp; of transactions, account balances or disclosures for which&amp;nbsp; misstatements&amp;nbsp; of lesser&amp;nbsp; amounts&amp;nbsp; than&amp;nbsp; the&amp;nbsp; materiality&amp;nbsp; for&amp;nbsp; the&amp;nbsp; financial&amp;nbsp; statements&amp;nbsp; as&amp;nbsp; a whole could reasonably be expected to influence the economic decisions of users taken on the basis of the financial statements, the auditor shall also determine&amp;nbsp; the&amp;nbsp; materiality&amp;nbsp; level&amp;nbsp; or&amp;nbsp; levels&amp;nbsp; to&amp;nbsp; be&amp;nbsp; applied&amp;nbsp; to&amp;nbsp; those&amp;nbsp; particular classes of transactions, account balances or disclosures. Performance materiality means the amount or amounts set by the auditor at less than materiality for the financial statements as a whole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-220" value="&lt;div&gt;auditor shall determine materiality for the financial&amp;nbsp; statements as a whole. If there is one or more particular&amp;nbsp; classes of transactions, account balances or disclosures for which misstatements of lesser amounts than the&amp;nbsp; materiality for the FS as a whole could reasonably be expected to influence the economic decisions of users taken on the basis of the FS, the auditor shall also determine&amp;nbsp; the&amp;nbsp; materiality level or levels to be applied to those particular classes of transactions, account balances or disclosures.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; Performance materiality means the amount or amounts set by the auditor at less than materiality for the financial statements as a whole&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2440" y="200" width="320" height="210" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-225" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-221" target="jzqZOG9cQNNDQsuIwyla-222">
@@ -2144,8 +2147,26 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-222" value="Benchmark Selection " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2540" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-223" value="Determining materiality involves the exercise of professional judgment. A percentage&amp;nbsp; is&amp;nbsp; often applied&amp;nbsp; to&amp;nbsp; a&amp;nbsp; chosen&amp;nbsp; benchmark&amp;nbsp; as&amp;nbsp; a&amp;nbsp; starting&amp;nbsp; point&amp;nbsp; in determining materiality for the financial statements as a whole.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-228" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-223" target="jzqZOG9cQNNDQsuIwyla-227">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-223" value="Determining materiality involves the exercise of professional judgment. A percentage is often applied to a chosen&amp;nbsp; benchmark as a starting point in determining materiality for the financial statements as a whole.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2440" y="550" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-227" target="jzqZOG9cQNNDQsuIwyla-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-227" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors that affect identification of an appropriate benchmark&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. The elements of the financial statements. Example: Assets, liabilities, equity, revenue, expenses &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. items on which the attention of the users of the particular entity’s financial statements tends to be focused. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. nature of the entity its life cycle, and the industry and economic environment in which the entity operates&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. entity’s ownership structure and the way it is financed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. relative volatility of the benchmark&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="640" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-230" target="jzqZOG9cQNNDQsuIwyla-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-230" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Revision in Materiality&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Materiality for the FS as a whole may need to be revised as a result of a &lt;u&gt;change in circumstances that occurred during the audit, new information, or a change in the auditor’s understanding&lt;/u&gt; of the entity and its operations as a result of performing further audit procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If the auditor concludes that a lower materiality for the FS as a whole than that initially determined is appropriate, the auditor shall determine whether it is necessary to revise performance materiality, and whether the nature, timing and extent of the further audit procedures remain appropriate. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="900" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-231" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Documenting Materiality&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;1. Materiality for the financial statements as a whole &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If&amp;nbsp; applicable,&amp;nbsp; the&amp;nbsp; materiality&amp;nbsp; level&amp;nbsp; or&amp;nbsp; levels&amp;nbsp; for&amp;nbsp; particular&amp;nbsp; classes&amp;nbsp; of transactions, account balances or disclosures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Performance&amp;nbsp; materiality &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Any revision of the above as the audit progressed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="1120" width="320" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
