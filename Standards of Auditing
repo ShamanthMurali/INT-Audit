@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T20:17:50.178Z" agent="5.0 (X11)" etag="6zDhTPJdrKMS6QFM6iT1" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T20:27:45.081Z" agent="5.0 (X11)" etag="_k31g3J-XZHFaJAuR6Jl" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1350" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2321" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1895,8 +1895,26 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-129" value="CARO 2016 - Fraud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="3600" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-132" target="jzqZOG9cQNNDQsuIwyla-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-132" value="&lt;div&gt;Fraud by the company or any fraud on the&lt;/div&gt;&lt;div&gt; Company by its officers or employees has been noticed or reported during the year. If yes, &lt;br&gt;&lt;/div&gt;&lt;div&gt;the nature and the amount involved is to be&lt;/div&gt;&lt;div&gt;indicated &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="3660" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-134" target="jzqZOG9cQNNDQsuIwyla-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-134" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit procedure to report under CARO 2016&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. auditor should make inquiries of mgmt to determine whether mgmt is aware of fraud or suspected fraud that the company is investigating.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. examine the reports of the IA ascertain whether any fraud has been reported&amp;nbsp; or noticed by the mgmt. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. examine the minutes of the audit committee ascertain whether instance of fraud pertaining to the company has been reported and actions taken thereon. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. obtain written representations from management that:&lt;/div&gt;&lt;div&gt;a. acknowledge its responsibility for implementation and operation of a/cing and ICS designed detect &amp;amp; prevent fraud and error.&lt;/div&gt;&lt;div&gt;b. it has disclosed to auditor all significant facts relating to frauds or suspected frauds known to mgmt.&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. it has disclosed auditor results of its assessment of the risk that the financial statements may be materially misstated as a result of fraud.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="3760" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-136" target="jzqZOG9cQNNDQsuIwyla-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-136" value="Auditor unable to continue the engagement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="4100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-137" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="4140" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
