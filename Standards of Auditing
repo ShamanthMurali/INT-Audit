@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T19:21:28.198Z" agent="5.0 (X11)" etag="33IIgzCJwwqH9DxpFc_p" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T19:21:59.373Z" agent="5.0 (X11)" etag="sEjz3Tvds2fuhBMWnj_-" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="2024" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1682" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1498,10 +1498,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktTz3yD2QazfCwMk7vJG-21" value="Auditors responsibilities" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="2050" width="120" height="40" as="geometry" />
+          <mxGeometry x="1251" y="2280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ktTz3yD2QazfCwMk7vJG-22" value="&lt;div&gt;1. primary responsibility for the prevention and detection of fraud&amp;nbsp; rests&amp;nbsp; with&amp;nbsp; TCWG and mgmt.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. An&amp;nbsp; auditor&amp;nbsp; in accordance with SA responsible for obtaining&amp;nbsp; reasonable assurance that the FS taken are free from material misstatement, whether caused by fraud or error.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Risk of not detecting a material misstatement resulting from&amp;nbsp; fraud is higher than the risk of not detecting error. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. auditor has to adhered to the basic principles governing an audit is determined by the adequacy of the procedures undertaken in the circumstances and the suitability of&amp;nbsp; the auditor’s report based on the results of these procedures. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. The liability of the auditor for failure to detect fraud exists only due to not exercising reasonable care and skill.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. If the auditor can prove with working paper that he has followed adequate procedures necessary conduct of an audit,&amp;nbsp; he&amp;nbsp; cannot be&amp;nbsp; held&amp;nbsp; responsible. if not he will be responsible.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Although the auditor may suspect or, in rare cases, identify the occurrence of fraud, the auditor does not make legal determinations of whether fraud has actually occurred&lt;/div&gt;&lt;div&gt;[auditor shall only identify frauds, need not investigate]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="2110" width="360" height="410" as="geometry" />
+          <mxGeometry x="1131" y="2340" width="360" height="410" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-1" target="jzqZOG9cQNNDQsuIwyla-5">
           <mxGeometry relative="1" as="geometry" />
