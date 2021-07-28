@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T20:09:36.227Z" agent="5.0 (X11)" etag="FXDMEpb41_fiykJJz6-3" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T20:17:50.178Z" agent="5.0 (X11)" etag="6zDhTPJdrKMS6QFM6iT1" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1892" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1350" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1889,8 +1889,14 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-127" value="Same as cos audit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1251" y="2830" width="115" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-133" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-129" target="jzqZOG9cQNNDQsuIwyla-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-129" value="CARO 2016 - Fraud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="3600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-132" value="&lt;div&gt;Fraud by the company or any fraud on the&lt;/div&gt;&lt;div&gt; Company by its officers or employees has been noticed or reported during the year. If yes, &lt;br&gt;&lt;/div&gt;&lt;div&gt;the nature and the amount involved is to be&lt;/div&gt;&lt;div&gt;indicated &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="3660" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
