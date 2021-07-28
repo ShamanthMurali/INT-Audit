@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T23:05:00.175Z" agent="5.0 (X11)" etag="UUpydBX2NowHt41rwHGg" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T23:24:10.665Z" agent="5.0 (X11)" etag="opqe6S5S1tpkva7RzqXZ" version="14.9.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1712" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2636" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,6 +269,9 @@
         </mxCell>
         <mxCell id="TuKAxbe2wIa_8roPm6jD-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA570&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="5780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-57" target="jzqZOG9cQNNDQsuIwyla-184">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Going concern&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-57">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
@@ -2027,6 +2030,57 @@
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-181" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Limitation on Scope prior to Audit Engagement&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. If &lt;u&gt;mgmt or TCWG impose limitation&lt;/u&gt; on the scope of the auditor’s work in the terms of a proposed audit engagement then &lt;u&gt;auditor shall evaluate the possible effect of such changes. &lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If the auditor believes the &lt;u&gt;limitation will result in&lt;/u&gt; the&amp;nbsp; auditor &lt;u&gt;disclaiming an opinion&lt;/u&gt; on the FS, the &lt;u&gt;auditor shall not accept&lt;/u&gt; such a limited engagement as an audit engagement, unless required by law or regulation to do so. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-440" y="580" width="320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-184" target="jzqZOG9cQNNDQsuIwyla-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-184" value="Under the going concern basis of accounting, the financial&amp;nbsp; statements are prepared on the assumption that the entity is a going concern and will continue its operations for the foreseeable future i.e. 12m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5680" y="180" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-186" target="jzqZOG9cQNNDQsuIwyla-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-186" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Auditor’s responsibilities&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. obtain SAAE and conclude on, the appropriateness of&amp;nbsp; mgmt’s use of the going concern basis of a/cing in the&amp;nbsp;&amp;nbsp; preparation of the FS &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. conclude, based on the audit evidence obtained,&amp;nbsp;&amp;nbsp; whether a material uncertainty exists about the entity’s ability to continue as a going concern. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5680" y="270" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-188" target="jzqZOG9cQNNDQsuIwyla-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-188" target="jzqZOG9cQNNDQsuIwyla-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-188" target="jzqZOG9cQNNDQsuIwyla-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-188" value="Indicators of Material Uncertainty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5780" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-190" target="jzqZOG9cQNNDQsuIwyla-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-190" value="Other" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6080" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-191" target="jzqZOG9cQNNDQsuIwyla-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-191" value="Operating" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5780" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-192" target="jzqZOG9cQNNDQsuIwyla-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-192" value="Financial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5480" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-196" value="&lt;div&gt;•&amp;nbsp;&amp;nbsp; Net liability or net current liability position.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Fixed-term borrowings approaching maturity without realistic prospects of renewal or repayment; or excessive reliance on short-term borrowings to finance long-term assets.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Indications of withdrawal of financial support by creditors.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Negative operating cash flows indicated by historical or prospective financial statements.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Adverse key financial ratios.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Substantial operating losses or significant deterioration in the value of assets used to&lt;/div&gt;&lt;div&gt; generate cash flows &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5400" y="570" width="280" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-198" value="&lt;div&gt;•&amp;nbsp;&amp;nbsp; Management intentions to liquidate the entity or to cease operations.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Loss of key management without replacement.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Loss of a major market, key customer(s),&amp;nbsp; franchise, license, or principal supplier(s).&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Labor difficulties.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Shortages of important &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5700" y="570" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-200" value="&lt;div&gt;• Non-compliance with capital or other statutory or regulatory requirements, such as solvency or liquidity requirements for financial institutions.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Pending legal or regulatory proceedings against the entity that may, if successful, result in claims &lt;br&gt;&lt;/div&gt;&lt;div&gt;that the entity is unlikely to be able to satisfy.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Changes in law or regulation or government&lt;/div&gt;&lt;div&gt; policy expected to adversely affect the entity. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; • Uninsured or under insured catastrophes when they occur&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6000" y="570" width="280" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
