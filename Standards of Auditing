@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T00:07:03.567Z" agent="5.0 (X11)" etag="-glmyqGv94auYreM8eti" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T00:16:56.565Z" agent="5.0 (X11)" etag="fjuVIBpWMUBWom4U3kJN" version="14.9.3" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1448" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1716" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2427,11 +2427,23 @@
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-86" value="auditor shall consider the purpose of the audit procedure and the characteristics of the population from which the sample will be drawn.&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="4560" y="2540" width="120" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-88" target="oLZOzhoHg1RqNFXuGlJu-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-88" value="auditor shall determine a sample size sufficient to reduce sampling risk to an acceptably low level.&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="4700" y="2540" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-90" value="select items such that each sampling unit in the population has a chance of selection " style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="4840" y="2540" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-92" target="oLZOzhoHg1RqNFXuGlJu-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-92" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors affecting sample size&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) &lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;ize of the organisation under audit. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) Adequacy and reliability of &lt;u&gt;&lt;b&gt;B&lt;/b&gt;&lt;/u&gt;ooks and records. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) State of the &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nternal control. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt;olerable error range. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) Degree of the desired &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;onfidence.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="4615" y="2670" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-94" value="&lt;div&gt;S&lt;/div&gt;&lt;div&gt;B&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;Take&lt;/div&gt;&lt;div&gt;Care&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="2710" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
