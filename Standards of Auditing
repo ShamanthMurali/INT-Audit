@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T23:05:58.522Z" agent="5.0 (X11)" etag="QkiiAfm1Brl12vZCIStP" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T00:07:03.567Z" agent="5.0 (X11)" etag="-glmyqGv94auYreM8eti" version="14.9.3" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1896" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1448" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2282,11 +2282,156 @@
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-35" value="Monetary Unit Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4700" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-36" target="oLZOzhoHg1RqNFXuGlJu-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-36" value="Stratified Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4380" y="1160" width="120" height="40" as="geometry" />
+          <mxGeometry x="4470" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-37" target="oLZOzhoHg1RqNFXuGlJu-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-37" value="Simple Random&amp;nbsp; Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4220" y="1160" width="120" height="40" as="geometry" />
+          <mxGeometry x="4160" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-45" value="&lt;div&gt;Under&amp;nbsp; this&amp;nbsp; method&amp;nbsp; each&amp;nbsp; unit&amp;nbsp; of&amp;nbsp; the&amp;nbsp; whole population has&amp;nbsp; an&amp;nbsp; equal&amp;nbsp; chance&amp;nbsp; of&amp;nbsp; being selected. selection of items may be by choosing numbers from table of random numbers by computers or picking up numbers randomly from a drum.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;* simple and easy to use &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* bias does not affect the selection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* considered appropriate provided the population to be sampled consists of reasonably similar units and fall within a reasonable range&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4070" y="1220" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-47" value="involves dividing the whole population to be tested in a few separate groups called strata and taking a sample from each of them. Each stratum is treated as if it was a separate population and if proportionate of items area selected from each of these stratum. The number of groups into which the whole population has to be divided is determined on the basis of auditor judgment." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4380" y="1220" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-49" target="oLZOzhoHg1RqNFXuGlJu-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-49" target="oLZOzhoHg1RqNFXuGlJu-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-49" value="Approaches to Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4680" y="1440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-50" target="oLZOzhoHg1RqNFXuGlJu-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-50" value="Statistical Approach " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="1520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-51" target="oLZOzhoHg1RqNFXuGlJu-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-51" value="Non Statistical approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4850" y="1520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-54" target="oLZOzhoHg1RqNFXuGlJu-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-54" value="&lt;div&gt;sampling that has the random selection of the sample items; and the use of probability theory to evaluate sample results, including measurement of sampling risk characteristic&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* more scientific than auditor’s own judgment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* involves use of mathematical laws of probability in determining the appropriate sample size&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4440" y="1580" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-56" target="oLZOzhoHg1RqNFXuGlJu-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-56" value="&lt;div&gt;Not statistical and auditors judgement based.&lt;/div&gt;&lt;div&gt;* neither objective nor scientific &lt;br&gt;&lt;/div&gt;&lt;div&gt;* risk of personal bias in selection of sample items cannot be eliminated &lt;br&gt;&lt;/div&gt;&lt;div&gt;* use only when required to provide satisfactory information in less time or with less effort&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="1580" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-59" target="oLZOzhoHg1RqNFXuGlJu-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-59" value="&lt;div&gt;statistical or non-statistical sampling approach is a matter for the auditor’s judgment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sample size is not a valid criterion to distinguish between statistical and non-statistical approaches.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;non-statistical or statistical sampling, the sample must be representative. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="1760" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-62" target="oLZOzhoHg1RqNFXuGlJu-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-62" value="Tolerance Level" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4690" y="1940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-64" target="oLZOzhoHg1RqNFXuGlJu-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-64" target="oLZOzhoHg1RqNFXuGlJu-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-64" value="Level upto which auditor can accept&amp;nbsp; misstatements/deviations while performing test of details/controls. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4630" y="2000" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-66" target="oLZOzhoHg1RqNFXuGlJu-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-66" value="Tolerable rate of&amp;nbsp; deviation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4800" y="2090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-67" target="oLZOzhoHg1RqNFXuGlJu-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-67" value="Tolerable misstatement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4580" y="2090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-68" target="oLZOzhoHg1RqNFXuGlJu-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-68" value="&lt;div&gt;&amp;nbsp;monetary amount set by the auditor, which the auditor seeks to obtain appropriate level of assurance that-&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;monetary amount set by the auditor is not exceeded by the actual misstatement in the population&lt;/u&gt;.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4540" y="2150" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-70" target="oLZOzhoHg1RqNFXuGlJu-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4860" y="2370" />
+              <mxPoint x="4760" y="2370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-70" value="&lt;div&gt;A rate of deviation from prescribed internal control procedures set by the auditor in respect of which the auditor seeks to obtain an appropriate level of assurance that-&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;u&gt;the rate of deviation set by the auditor is not exceeded by the actual rate of deviation in the population &lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="2150" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-74" target="oLZOzhoHg1RqNFXuGlJu-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4640" y="2370" />
+              <mxPoint x="4760" y="2370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-74" value="&lt;div&gt;Tolerance level &lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;`uarr` Sample size `darr`&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Tolerance level &lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;`darr` Sample size `uarr`&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4535" y="2280" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-76" target="oLZOzhoHg1RqNFXuGlJu-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-76" target="oLZOzhoHg1RqNFXuGlJu-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-76" target="oLZOzhoHg1RqNFXuGlJu-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-76" value="Sample" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4700" y="2400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-79" target="oLZOzhoHg1RqNFXuGlJu-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-79" value="Sample Selection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4840" y="2480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-80" target="oLZOzhoHg1RqNFXuGlJu-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-80" value="Sample Size" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4700" y="2480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-81" target="oLZOzhoHg1RqNFXuGlJu-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-81" value="Sample design" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="2480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-86" value="auditor shall consider the purpose of the audit procedure and the characteristics of the population from which the sample will be drawn.&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="2540" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-88" value="auditor shall determine a sample size sufficient to reduce sampling risk to an acceptably low level.&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="4700" y="2540" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-90" value="select items such that each sampling unit in the population has a chance of selection " style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="4840" y="2540" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
