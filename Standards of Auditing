@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T01:39:02.538Z" agent="5.0 (X11)" etag="t_a4WpANNI-xWSI9eGOE" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-31T22:47:18.171Z" agent="5.0 (X11)" etag="4s27iEPfLjZlhzzTs1y4" version="14.9.3" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1445" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1716" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,10 +21,10 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA210&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-6" target="jzqZOG9cQNNDQsuIwyla-145" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TuKAxbe2wIa_8roPm6jD-6" target="jzqZOG9cQNNDQsuIwyla-145" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-6" target="jzqZOG9cQNNDQsuIwyla-142" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TuKAxbe2wIa_8roPm6jD-6" target="jzqZOG9cQNNDQsuIwyla-142" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-280" y="200" />
@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-6" target="ouRMiQ6DuUuypyKUajDh-2" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TuKAxbe2wIa_8roPm6jD-6" target="ouRMiQ6DuUuypyKUajDh-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-280" y="200" />
@@ -79,7 +79,7 @@
         <mxCell id="ktTz3yD2QazfCwMk7vJG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TuKAxbe2wIa_8roPm6jD-15" target="ktTz3yD2QazfCwMk7vJG-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-15" target="jzqZOG9cQNNDQsuIwyla-1" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TuKAxbe2wIa_8roPm6jD-15" target="jzqZOG9cQNNDQsuIwyla-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;The Auditor’s Responsibilities Relating to &lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Fraud in an Audit of Financial Statements&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-15">
@@ -159,7 +159,7 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA320&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="2540" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-30" target="jzqZOG9cQNNDQsuIwyla-220" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TuKAxbe2wIa_8roPm6jD-30" target="jzqZOG9cQNNDQsuIwyla-220" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Materiality in Planning and Performing &lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;an Audit&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-30">
@@ -234,8 +234,11 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-47" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA530&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="4700" width="120" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-48">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-48" target="oLZOzhoHg1RqNFXuGlJu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid2&quot;&gt;&lt;span style=&quot;left: 179.963px ; top: 318.491px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.855795)&quot; dir=&quot;ltr&quot;&gt;Audit Sampling&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-48">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="4600" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -267,7 +270,7 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA570&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="5780" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-57" target="jzqZOG9cQNNDQsuIwyla-184" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TuKAxbe2wIa_8roPm6jD-57" target="jzqZOG9cQNNDQsuIwyla-184" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Going concern&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-57">
@@ -1501,10 +1504,10 @@
         <mxCell id="ktTz3yD2QazfCwMk7vJG-17" value="&lt;div&gt;manipulating operating results and financial statements&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; window dressing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; secret reserve&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Manipulation/alteration &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Misrepresentation/Intentional Omission&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Misapplication of accounting principles &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="740" y="530" width="250" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-19" target="jzqZOG9cQNNDQsuIwyla-31" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ktTz3yD2QazfCwMk7vJG-19" target="jzqZOG9cQNNDQsuIwyla-31" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-19" target="jzqZOG9cQNNDQsuIwyla-30" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ktTz3yD2QazfCwMk7vJG-19" target="jzqZOG9cQNNDQsuIwyla-30" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktTz3yD2QazfCwMk7vJG-19" value="&lt;div&gt;theft of an entity’s assets in relatively small and immaterial amounts. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Embezzling receipts &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Stealing physical assets or intellectual property&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Causing an entity to pay for goods and services not received&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Using an entity’s assets for personal use&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -1516,127 +1519,127 @@
         <mxCell id="ktTz3yD2QazfCwMk7vJG-21" value="Auditors responsibilities" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1221" y="2280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-97" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-22" target="jzqZOG9cQNNDQsuIwyla-96" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-97" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ktTz3yD2QazfCwMk7vJG-22" target="jzqZOG9cQNNDQsuIwyla-96" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktTz3yD2QazfCwMk7vJG-22" value="&lt;div&gt;1. primary responsibility for the prevention and detection of fraud&amp;nbsp; rests&amp;nbsp; with&amp;nbsp; TCWG and mgmt.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. An&amp;nbsp; auditor&amp;nbsp; in accordance with SA responsible for obtaining&amp;nbsp; reasonable assurance that the FS taken are free from material misstatement, whether caused by fraud or error.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Risk of not detecting a material misstatement resulting from&amp;nbsp; fraud is higher than the risk of not detecting error. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. auditor has to adhered to the basic principles governing an audit is determined by the adequacy of the procedures undertaken in the circumstances and the suitability of&amp;nbsp; the auditor’s report based on the results of these procedures. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. The liability of the auditor for failure to detect fraud exists only due to not exercising reasonable care and skill.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. If the auditor can prove with working paper that he has followed adequate procedures necessary conduct of an audit,&amp;nbsp; he&amp;nbsp; cannot be&amp;nbsp; held&amp;nbsp; responsible. if not he will be responsible.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Although the auditor may suspect or, in rare cases, identify the occurrence of fraud, the auditor does not make legal determinations of whether fraud has actually occurred&lt;/div&gt;&lt;div&gt;[auditor shall only identify frauds, need not investigate]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1101" y="2340" width="360" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-1" target="jzqZOG9cQNNDQsuIwyla-5" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-1" target="jzqZOG9cQNNDQsuIwyla-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-1" target="jzqZOG9cQNNDQsuIwyla-11" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-1" target="jzqZOG9cQNNDQsuIwyla-11" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-1" value="Errors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-1" value="Errors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="570" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-2" value="&lt;u&gt;Error of principle&lt;/u&gt; : no distinction b/w capital and revenue items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-2" value="&lt;u&gt;Error of principle&lt;/u&gt; : no distinction b/w capital and revenue items" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="530" y="480" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-3" target="jzqZOG9cQNNDQsuIwyla-2" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-3" target="jzqZOG9cQNNDQsuIwyla-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-3" value="&lt;u&gt;Compensating&lt;/u&gt; : 2 or more errors that compensate each other" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-3" value="&lt;u&gt;Compensating&lt;/u&gt; : 2 or more errors that compensate each other" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="530" y="420" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-4" target="jzqZOG9cQNNDQsuIwyla-3" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-4" target="jzqZOG9cQNNDQsuIwyla-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-4" value="&lt;u&gt;Commission&lt;/u&gt; : transaction has been wrongly recorded" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-4" value="&lt;u&gt;Commission&lt;/u&gt; : transaction has been wrongly recorded" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="530" y="360" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-5" target="jzqZOG9cQNNDQsuIwyla-4" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-5" target="jzqZOG9cQNNDQsuIwyla-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-5" value="&lt;u&gt;Omission&lt;/u&gt; :&amp;nbsp; transaction has been omitted from BOA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-5" value="&lt;u&gt;Omission&lt;/u&gt; :&amp;nbsp; transaction has been omitted from BOA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="530" y="300" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-11" value="Error is not a part of SA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-11" value="Error is not a part of SA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="410" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktTz3yD2QazfCwMk7vJG-17" target="jzqZOG9cQNNDQsuIwyla-15" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ktTz3yD2QazfCwMk7vJG-17" target="jzqZOG9cQNNDQsuIwyla-15" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-15" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-15" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1" visible="0">
           <mxGeometry x="730" y="740" width="270" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-15">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jzqZOG9cQNNDQsuIwyla-15" vertex="1">
           <mxGeometry width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-17" value="&lt;u&gt;&lt;b&gt;Window dressing&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-16">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-17" value="&lt;u&gt;&lt;b&gt;Window dressing&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="jzqZOG9cQNNDQsuIwyla-16" vertex="1">
           <mxGeometry width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-18" value="&lt;u&gt;&lt;b&gt;secret reserve&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-16">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-18" value="&lt;u&gt;&lt;b&gt;secret reserve&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="jzqZOG9cQNNDQsuIwyla-16" vertex="1">
           <mxGeometry x="135" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-19" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-15">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-19" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jzqZOG9cQNNDQsuIwyla-15" vertex="1">
           <mxGeometry y="40" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-20" value="&lt;div&gt;better than actual&lt;/div&gt;&lt;div&gt;worst &amp;gt;&amp;gt;best&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-19">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-20" value="&lt;div&gt;better than actual&lt;/div&gt;&lt;div&gt;worst &amp;gt;&amp;gt;best&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="jzqZOG9cQNNDQsuIwyla-19" vertex="1">
           <mxGeometry width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-21" value="&lt;div&gt;Worse than actual&lt;/div&gt;&lt;div&gt;best &amp;gt;&amp;gt; worst&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-19">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-21" value="&lt;div&gt;Worse than actual&lt;/div&gt;&lt;div&gt;best &amp;gt;&amp;gt; worst&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="jzqZOG9cQNNDQsuIwyla-19" vertex="1">
           <mxGeometry x="135" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-15">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jzqZOG9cQNNDQsuIwyla-15" vertex="1">
           <mxGeometry y="80" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-23" value="&lt;div&gt;Assets ↑ sales/income ↑&lt;br&gt;&lt;/div&gt;&lt;div&gt;Liab ↓ pur/exp ↓&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-22">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-23" value="&lt;div&gt;Assets ↑ sales/income ↑&lt;br&gt;&lt;/div&gt;&lt;div&gt;Liab ↓ pur/exp ↓&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="jzqZOG9cQNNDQsuIwyla-22" vertex="1">
           <mxGeometry width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-24" value="&lt;div&gt;Assets ↓ sales/income ↓&lt;/div&gt;Liab ↑ pur/exp ↑" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-22">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-24" value="&lt;div&gt;Assets ↓ sales/income ↓&lt;/div&gt;Liab ↑ pur/exp ↑" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="jzqZOG9cQNNDQsuIwyla-22" vertex="1">
           <mxGeometry x="135" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-25" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-15">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-25" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jzqZOG9cQNNDQsuIwyla-15" vertex="1">
           <mxGeometry y="120" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-26" value="&lt;div&gt;* To obtain loans&lt;/div&gt;&lt;div&gt;* attract Investors&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-25">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-26" value="&lt;div&gt;* To obtain loans&lt;/div&gt;&lt;div&gt;* attract Investors&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="jzqZOG9cQNNDQsuIwyla-25" vertex="1">
           <mxGeometry width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-27" value="&lt;div&gt;* to evade tax&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;* non payment of bonus/&lt;span style=&quot;white-space: pre&quot;&gt;dividend&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="jzqZOG9cQNNDQsuIwyla-25">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-27" value="&lt;div&gt;* to evade tax&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;* non payment of bonus/&lt;span style=&quot;white-space: pre&quot;&gt;dividend&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="jzqZOG9cQNNDQsuIwyla-25" vertex="1">
           <mxGeometry x="135" width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-30" target="jzqZOG9cQNNDQsuIwyla-35" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-30" target="jzqZOG9cQNNDQsuIwyla-35" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-30" target="jzqZOG9cQNNDQsuIwyla-34" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-30" target="jzqZOG9cQNNDQsuIwyla-34" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-30" value="defalcation of cash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-30" value="defalcation of cash" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1290" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-31" target="jzqZOG9cQNNDQsuIwyla-41" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-31" target="jzqZOG9cQNNDQsuIwyla-41" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-31" value="Misappropriation of goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-31" value="Misappropriation of goods" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1041" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-34" target="jzqZOG9cQNNDQsuIwyla-38" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-34" target="jzqZOG9cQNNDQsuIwyla-38" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-34" value="suppressing cash receipts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-34" value="suppressing cash receipts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1410" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-35" target="jzqZOG9cQNNDQsuIwyla-39" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-35" target="jzqZOG9cQNNDQsuIwyla-39" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-35" value="Inflating cash payments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-35" value="Inflating cash payments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1215" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-38" target="jzqZOG9cQNNDQsuIwyla-45" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-38" target="jzqZOG9cQNNDQsuIwyla-45" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-38" value="Teeming and Lading" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-38" value="Teeming and Lading" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1410" y="900" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-80" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-39" target="jzqZOG9cQNNDQsuIwyla-47" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-80" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-39" target="jzqZOG9cQNNDQsuIwyla-47" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-39" value="&lt;div&gt;(0) Fake vouchers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) Making payments against fictitious vouchers. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2)&amp;nbsp; Making payments&amp;nbsp; against vouchers, where Amt. have&amp;nbsp; been inflated. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3) Manipulating totals of wage rolls by&amp;nbsp; including dummy workers&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(4) Casting a larger totals for petty cash expenditure &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-39" value="&lt;div&gt;(0) Fake vouchers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) Making payments against fictitious vouchers. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2)&amp;nbsp; Making payments&amp;nbsp; against vouchers, where Amt. have&amp;nbsp; been inflated. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3) Manipulating totals of wage rolls by&amp;nbsp; including dummy workers&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(4) Casting a larger totals for petty cash expenditure &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1200" y="900" width="150" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-141" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-41" target="jzqZOG9cQNNDQsuIwyla-47" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-141" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-41" target="jzqZOG9cQNNDQsuIwyla-47" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1101" y="1220" />
@@ -1644,10 +1647,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-41" value="&lt;div&gt;&amp;gt;Difficult to detect&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; &amp;gt; there must be rules and&amp;nbsp; procedures for allowing&amp;nbsp; persons inside the area where goods are kept. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;there should be external security arrangements to see that no goods are taken out without proper authority.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-41" value="&lt;div&gt;&amp;gt;Difficult to detect&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; &amp;gt; there must be rules and&amp;nbsp; procedures for allowing&amp;nbsp; persons inside the area where goods are kept. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;there should be external security arrangements to see that no goods are taken out without proper authority.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1021" y="820" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-45" target="jzqZOG9cQNNDQsuIwyla-47" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-45" target="jzqZOG9cQNNDQsuIwyla-47" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1470" y="1220" />
@@ -1655,46 +1658,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-45" value="Amount received from a customer&amp;nbsp; being misappropriated; also to&amp;nbsp; prevent its detection the money&amp;nbsp; received from another customer subsequently being credited to the account of the customer who has paid earlier. Similarly, moneys received from the customer who has paid thereafter being credited to the account of the second customer and such a practice is continued so that&amp;nbsp; no one account is outstanding for payment for any length of time, which may lead the management to either send out a statement of account to him or communicate with him " style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-45" value="Amount received from a customer&amp;nbsp; being misappropriated; also to&amp;nbsp; prevent its detection the money&amp;nbsp; received from another customer subsequently being credited to the account of the customer who has paid earlier. Similarly, moneys received from the customer who has paid thereafter being credited to the account of the second customer and such a practice is continued so that&amp;nbsp; no one account is outstanding for payment for any length of time, which may lead the management to either send out a statement of account to him or communicate with him " style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1370" y="960" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-47" target="jzqZOG9cQNNDQsuIwyla-55" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-47" target="jzqZOG9cQNNDQsuIwyla-55" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-47" value="Fraud Risk Factors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-47" value="Fraud Risk Factors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1215" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-48" target="jzqZOG9cQNNDQsuIwyla-64" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-48" target="jzqZOG9cQNNDQsuIwyla-64" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-48" value="&lt;div&gt;Attitude /&lt;/div&gt;&lt;div&gt;Rationalization&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-48" value="&lt;div&gt;Attitude /&lt;/div&gt;&lt;div&gt;Rationalization&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1445" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-49" target="jzqZOG9cQNNDQsuIwyla-61" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-49" target="jzqZOG9cQNNDQsuIwyla-61" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-49" value="Opportunity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-49" value="Opportunity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1225" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-50" target="jzqZOG9cQNNDQsuIwyla-60" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-50" target="jzqZOG9cQNNDQsuIwyla-60" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-50" value="Incentive/Pressure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-50" value="Incentive/Pressure" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1005" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-55" target="jzqZOG9cQNNDQsuIwyla-50" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-55" target="jzqZOG9cQNNDQsuIwyla-50" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-55" target="jzqZOG9cQNNDQsuIwyla-49" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-55" target="jzqZOG9cQNNDQsuIwyla-49" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-55" target="jzqZOG9cQNNDQsuIwyla-48" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-55" target="jzqZOG9cQNNDQsuIwyla-48" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-55" value="events or conditions that indicate an incentive or pressure to commit fraud or provide an opportunity to commit fraud." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-55" value="events or conditions that indicate an incentive or pressure to commit fraud or provide an opportunity to commit fraud." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1095" y="1300" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-88" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-60" target="jzqZOG9cQNNDQsuIwyla-66" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-88" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-60" target="jzqZOG9cQNNDQsuIwyla-66" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1065" y="1720" />
@@ -1702,16 +1705,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-60" value="&lt;div&gt;High degree of competition&amp;nbsp; or&amp;nbsp; market saturation, accompanied by declining margins &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;High vulnerability to rapid changes,&amp;nbsp; such as changes in technology, product obsolescence, or interest rates&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;  Managerial Remuneration linked with profit of the entity &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Personal financial&amp;nbsp; obligations may create pressure on employees with access to cash &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-60" value="&lt;div&gt;High degree of competition&amp;nbsp; or&amp;nbsp; market saturation, accompanied by declining margins &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;High vulnerability to rapid changes,&amp;nbsp; such as changes in technology, product obsolescence, or interest rates&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;  Managerial Remuneration linked with profit of the entity &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Personal financial&amp;nbsp; obligations may create pressure on employees with access to cash &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="965" y="1440" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-61" target="jzqZOG9cQNNDQsuIwyla-66" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-61" target="jzqZOG9cQNNDQsuIwyla-66" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-61" value="&lt;div&gt;A strong financial presence or ability to dominate a certain industry sector that allows the entity to dictate terms or conditions to suppliers or customers that may result in inappropriate or non-arm’s-length {not fair value} transactions  &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Large amounts of cash in hand &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Weak internal controls&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-61" value="&lt;div&gt;A strong financial presence or ability to dominate a certain industry sector that allows the entity to dictate terms or conditions to suppliers or customers that may result in inappropriate or non-arm’s-length {not fair value} transactions  &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Large amounts of cash in hand &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Weak internal controls&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1185" y="1440" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-64" target="jzqZOG9cQNNDQsuIwyla-66" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-64" target="jzqZOG9cQNNDQsuIwyla-66" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1505" y="1720" />
@@ -1719,49 +1722,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-64" value="&lt;div&gt;Known history of violations of securities laws or other laws and regulations &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; Management Communicating unethical values to employees. &amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Behavior indicating displeasure or dissatisfaction with the entity or its treatment of the employee&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-64" value="&lt;div&gt;Known history of violations of securities laws or other laws and regulations &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; Management Communicating unethical values to employees. &amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Behavior indicating displeasure or dissatisfaction with the entity or its treatment of the employee&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1405" y="1440" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="jzqZOG9cQNNDQsuIwyla-69" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="jzqZOG9cQNNDQsuIwyla-69" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="jzqZOG9cQNNDQsuIwyla-68" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="jzqZOG9cQNNDQsuIwyla-68" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-67" target="jzqZOG9cQNNDQsuIwyla-71" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-67" target="jzqZOG9cQNNDQsuIwyla-71" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="jzqZOG9cQNNDQsuIwyla-70" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="jzqZOG9cQNNDQsuIwyla-70" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-67" value="Discrepancies in the accounting records" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-67" value="Discrepancies in the accounting records" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="776" y="1840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="jzqZOG9cQNNDQsuIwyla-67" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="jzqZOG9cQNNDQsuIwyla-67" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-68" target="jzqZOG9cQNNDQsuIwyla-75" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-68" target="jzqZOG9cQNNDQsuIwyla-75" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-66" value="Circumstances relating to possibility of fraud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-66" value="Circumstances relating to possibility of fraud" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1205" y="1760" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-68" value="Problematic relationships b/w auditor &amp;amp; mgmt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-68" value="Problematic relationships b/w auditor &amp;amp; mgmt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1376" y="1840" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-69" target="jzqZOG9cQNNDQsuIwyla-73" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-69" target="jzqZOG9cQNNDQsuIwyla-73" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-69" value="Conflicting or missing evidence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-69" value="Conflicting or missing evidence" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1076" y="1840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-70" target="jzqZOG9cQNNDQsuIwyla-77" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-70" target="jzqZOG9cQNNDQsuIwyla-77" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-70" value="Other" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-70" value="Other" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1676" y="1840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-71" target="ktTz3yD2QazfCwMk7vJG-21" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-71" target="ktTz3yD2QazfCwMk7vJG-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="836" y="2260" />
@@ -1769,10 +1772,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-71" value="&lt;div&gt;1. Transactions not&amp;nbsp; recorded completely, timely manner, improperly amount, accounting period, classification, or entity policy. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Unsupported or unauthorized balances or transactions &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Last-minute adjustments that significantly affect financial results &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Evidence of employees’ access to systems and records inconsistent with that necessary to perform their authorized duties. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Tips or complaints to the auditor about alleged fraud&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-71" value="&lt;div&gt;1. Transactions not&amp;nbsp; recorded completely, timely manner, improperly amount, accounting period, classification, or entity policy. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Unsupported or unauthorized balances or transactions &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Last-minute adjustments that significantly affect financial results &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Evidence of employees’ access to systems and records inconsistent with that necessary to perform their authorized duties. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Tips or complaints to the auditor about alleged fraud&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="696" y="1900" width="280" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-73" target="ktTz3yD2QazfCwMk7vJG-21" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-73" target="ktTz3yD2QazfCwMk7vJG-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1136" y="2240" />
@@ -1780,10 +1783,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-73" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Missing documents &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Documents that appear to have been altered &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Significant unexplained items on reconciliations &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Unusual discrepancies between the entity’s records and confirmation replies &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp;&amp;nbsp; Missing or non-existent cancelled cheques    &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-73" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Missing documents &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Documents that appear to have been altered &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Significant unexplained items on reconciliations &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Unusual discrepancies between the entity’s records and confirmation replies &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp;&amp;nbsp; Missing or non-existent cancelled cheques    &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="996" y="1900" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-89" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-75" target="ktTz3yD2QazfCwMk7vJG-21" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-89" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-75" target="ktTz3yD2QazfCwMk7vJG-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1436" y="2240" />
@@ -1791,10 +1794,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-75" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Denial of access to records, facilities, certain employees, customers, vendors, or others from whom audit evidence might be sought &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Undue time pressures imposed by mgmt to resolve complex or contentious issues &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Unusual delays by the entity in providing requested information &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Unwillingness to facilitate auditor access to&amp;nbsp; key electronic files for testing through the use of computer-assisted audit techniques &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp;&amp;nbsp; Denial of access to key IT operations staff and facilities, including security, operations, and systems development personnel. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6&amp;nbsp;&amp;nbsp; An unwillingness to address identified&amp;nbsp; deficiencies in internal control on a timely basis.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-75" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Denial of access to records, facilities, certain employees, customers, vendors, or others from whom audit evidence might be sought &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Undue time pressures imposed by mgmt to resolve complex or contentious issues &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Unusual delays by the entity in providing requested information &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Unwillingness to facilitate auditor access to&amp;nbsp; key electronic files for testing through the use of computer-assisted audit techniques &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp;&amp;nbsp; Denial of access to key IT operations staff and facilities, including security, operations, and systems development personnel. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6&amp;nbsp;&amp;nbsp; An unwillingness to address identified&amp;nbsp; deficiencies in internal control on a timely basis.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1296" y="1910" width="280" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-77" target="ktTz3yD2QazfCwMk7vJG-21" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-77" target="ktTz3yD2QazfCwMk7vJG-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1736" y="2260" />
@@ -1802,16 +1805,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-77" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Unwillingness by mgmt to permit the auditor to&amp;nbsp; meet privately with TCWG. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Accounting policies that appear to be at variance with industry norms &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Frequent changes in accounting estimates that do not give results &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Tolerance of violations of the entity’s Code of Conduct&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-77" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Unwillingness by mgmt to permit the auditor to&amp;nbsp; meet privately with TCWG. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Accounting policies that appear to be at variance with industry norms &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Frequent changes in accounting estimates that do not give results &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Tolerance of violations of the entity’s Code of Conduct&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1596" y="1900" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-96" target="jzqZOG9cQNNDQsuIwyla-103" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-96" target="jzqZOG9cQNNDQsuIwyla-103" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-96" target="jzqZOG9cQNNDQsuIwyla-105" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-96" target="jzqZOG9cQNNDQsuIwyla-105" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-96" target="jzqZOG9cQNNDQsuIwyla-127" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-96" target="jzqZOG9cQNNDQsuIwyla-127" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1310" y="2830" />
@@ -1819,79 +1822,79 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-96" value="Fraud reporting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-96" value="Fraud reporting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1221" y="2790" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-103" target="jzqZOG9cQNNDQsuIwyla-107">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-103" target="jzqZOG9cQNNDQsuIwyla-107" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-103" value="&amp;gt; 1 crore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-103" value="&amp;gt; 1 crore" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1078" y="2870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-105" target="jzqZOG9cQNNDQsuIwyla-121">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-105" target="jzqZOG9cQNNDQsuIwyla-121" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-105" value="&amp;lt; 1 crore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-105" value="&amp;lt; 1 crore" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1358" y="2870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-107" target="jzqZOG9cQNNDQsuIwyla-110">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-107" target="jzqZOG9cQNNDQsuIwyla-110" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-107" value="1. report the fraud to the BOD with 2 days of his knowldge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-107" value="1. report the fraud to the BOD with 2 days of his knowldge" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1058" y="2930" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-110" target="jzqZOG9cQNNDQsuIwyla-112">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-110" target="jzqZOG9cQNNDQsuIwyla-112" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-110" target="jzqZOG9cQNNDQsuIwyla-114">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-110" target="jzqZOG9cQNNDQsuIwyla-114" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-110" value="2. Seek reply or observation from the BOD on the fraud within 45 days " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-110" value="2. Seek reply or observation from the BOD on the fraud within 45 days " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1058" y="2990" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-112" target="jzqZOG9cQNNDQsuIwyla-116">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-112" target="jzqZOG9cQNNDQsuIwyla-116" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-112" value="BOD gives their reply or observation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-112" value="BOD gives their reply or observation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="998" y="3080" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-114" target="jzqZOG9cQNNDQsuIwyla-118">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-114" target="jzqZOG9cQNNDQsuIwyla-118" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-114" value="BOD Fails to give their reply or observation in 45 days" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-114" value="BOD Fails to give their reply or observation in 45 days" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1158" y="3080" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-116" target="jzqZOG9cQNNDQsuIwyla-119">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-116" target="jzqZOG9cQNNDQsuIwyla-119" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-116" value="auditor shall forward his report and the reply or observations of the BOD or the Audit Committee along with&amp;nbsp; his&amp;nbsp; comments to the CG within 15 days&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-116" value="auditor shall forward his report and the reply or observations of the BOD or the Audit Committee along with&amp;nbsp; his&amp;nbsp; comments to the CG within 15 days&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="988" y="3170" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-118" target="jzqZOG9cQNNDQsuIwyla-119">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-118" target="jzqZOG9cQNNDQsuIwyla-119" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-118" value="shall forward his report&amp;nbsp; to the CG along with a note containing the details of his report for which he has not received any reply or observations " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-118" value="shall forward his report&amp;nbsp; to the CG along with a note containing the details of his report for which he has not received any reply or observations " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1148" y="3170" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-130" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-119" target="jzqZOG9cQNNDQsuIwyla-129" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-130" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-119" target="jzqZOG9cQNNDQsuIwyla-129" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-119" value="&lt;div&gt;report shall be sent to the Secretary, MCA in Registered&amp;nbsp; Post by Speed&amp;nbsp; Post followed by an e-mail&amp;nbsp; in confirmation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The report shall contain auditors&lt;/div&gt;&lt;div&gt; postal address, &lt;br&gt;&lt;/div&gt;&lt;div&gt;e-mail address &lt;br&gt;&lt;/div&gt;&lt;div&gt;contact&lt;/div&gt;&lt;div&gt; signed by the auditor&lt;/div&gt;&lt;div&gt; with his seal and,&lt;/div&gt;&lt;div&gt; Membership Number; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;in Form ADT-4 &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-119" value="&lt;div&gt;report shall be sent to the Secretary, MCA in Registered&amp;nbsp; Post by Speed&amp;nbsp; Post followed by an e-mail&amp;nbsp; in confirmation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The report shall contain auditors&lt;/div&gt;&lt;div&gt; postal address, &lt;br&gt;&lt;/div&gt;&lt;div&gt;e-mail address &lt;br&gt;&lt;/div&gt;&lt;div&gt;contact&lt;/div&gt;&lt;div&gt; signed by the auditor&lt;/div&gt;&lt;div&gt; with his seal and,&lt;/div&gt;&lt;div&gt; Membership Number; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;in Form ADT-4 &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1038" y="3330" width="200" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-121" target="jzqZOG9cQNNDQsuIwyla-123">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-121" target="jzqZOG9cQNNDQsuIwyla-123" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-121" value="1. report the fraud to the BOD with 2 days of his knowldge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-121" value="1. report the fraud to the BOD with 2 days of his knowldge" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1338" y="2930" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="jzqZOG9cQNNDQsuIwyla-123" target="jzqZOG9cQNNDQsuIwyla-124">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-123" target="jzqZOG9cQNNDQsuIwyla-124" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-123" value="&lt;div&gt;Auditor report shall conain,&lt;/div&gt;&lt;div&gt;a) Nature of Fraud with description. &lt;br&gt;&lt;/div&gt;&lt;div&gt;b) Approximate amount involved. &lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Parties involved. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-123" value="&lt;div&gt;Auditor report shall conain,&lt;/div&gt;&lt;div&gt;a) Nature of Fraud with description. &lt;br&gt;&lt;/div&gt;&lt;div&gt;b) Approximate amount involved. &lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Parties involved. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1318" y="2990" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-131" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-124" target="jzqZOG9cQNNDQsuIwyla-129" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-131" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-124" target="jzqZOG9cQNNDQsuIwyla-129" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1418" y="3570" />
@@ -1899,190 +1902,190 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-124" value="&lt;div&gt;company is required to disclose in&amp;nbsp; the Board’s Report details of the fraud reported, stating,&lt;/div&gt;&lt;div&gt;a) Nature of Fraud with description &lt;br&gt;&lt;/div&gt;&lt;div&gt;b) Approximate amount involved &lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Parties involved, if remedial action not taken &lt;br&gt;&lt;/div&gt;&lt;div&gt;d) Remedial actions taken&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-124" value="&lt;div&gt;company is required to disclose in&amp;nbsp; the Board’s Report details of the fraud reported, stating,&lt;/div&gt;&lt;div&gt;a) Nature of Fraud with description &lt;br&gt;&lt;/div&gt;&lt;div&gt;b) Approximate amount involved &lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Parties involved, if remedial action not taken &lt;br&gt;&lt;/div&gt;&lt;div&gt;d) Remedial actions taken&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1318" y="3090" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-127" value="Same as cos audit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-127" value="Same as cos audit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1221" y="2830" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-133" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-129" target="jzqZOG9cQNNDQsuIwyla-132" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-133" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-129" target="jzqZOG9cQNNDQsuIwyla-132" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-129" value="CARO 2016 - Fraud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-129" value="CARO 2016 - Fraud" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1210" y="3600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-132" target="jzqZOG9cQNNDQsuIwyla-134" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-132" target="jzqZOG9cQNNDQsuIwyla-134" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-132" value="&lt;div&gt;Fraud by the company or any fraud on the&lt;/div&gt;&lt;div&gt; Company by its officers or employees has been noticed or reported during the year. If yes, &lt;br&gt;&lt;/div&gt;&lt;div&gt;the nature and the amount involved is to be&lt;/div&gt;&lt;div&gt;indicated &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-132" value="&lt;div&gt;Fraud by the company or any fraud on the&lt;/div&gt;&lt;div&gt; Company by its officers or employees has been noticed or reported during the year. If yes, &lt;br&gt;&lt;/div&gt;&lt;div&gt;the nature and the amount involved is to be&lt;/div&gt;&lt;div&gt;indicated &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1140" y="3660" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-134" target="jzqZOG9cQNNDQsuIwyla-136" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-134" target="jzqZOG9cQNNDQsuIwyla-136" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-134" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit procedure to report under CARO 2016&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. auditor should make inquiries of mgmt to determine whether mgmt is aware of fraud or suspected fraud that the company is investigating.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. examine the reports of the IA ascertain whether any fraud has been reported&amp;nbsp; or noticed by the mgmt. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. examine the minutes of the audit committee ascertain whether instance of fraud pertaining to the company has been reported and actions taken thereon. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. obtain written representations from management that:&lt;/div&gt;&lt;div&gt;a. acknowledge its responsibility for implementation and operation of a/cing and ICS designed detect &amp;amp; prevent fraud and error.&lt;/div&gt;&lt;div&gt;b. it has disclosed to auditor all significant facts relating to frauds or suspected frauds known to mgmt.&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. it has disclosed auditor results of its assessment of the risk that the financial statements may be materially misstated as a result of fraud.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-134" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit procedure to report under CARO 2016&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. auditor should make inquiries of mgmt to determine whether mgmt is aware of fraud or suspected fraud that the company is investigating.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. examine the reports of the IA ascertain whether any fraud has been reported&amp;nbsp; or noticed by the mgmt. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. examine the minutes of the audit committee ascertain whether instance of fraud pertaining to the company has been reported and actions taken thereon. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. obtain written representations from management that:&lt;/div&gt;&lt;div&gt;a. acknowledge its responsibility for implementation and operation of a/cing and ICS designed detect &amp;amp; prevent fraud and error.&lt;/div&gt;&lt;div&gt;b. it has disclosed to auditor all significant facts relating to frauds or suspected frauds known to mgmt.&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. it has disclosed auditor results of its assessment of the risk that the financial statements may be materially misstated as a result of fraud.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1090" y="3760" width="360" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-136" target="jzqZOG9cQNNDQsuIwyla-137" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-136" target="jzqZOG9cQNNDQsuIwyla-137" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-136" value="Auditor unable to continue the engagement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-136" value="Auditor unable to continue the engagement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1210" y="4100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-137" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-137" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1210" y="4140" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-144" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-142" target="jzqZOG9cQNNDQsuIwyla-143" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-144" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-142" target="jzqZOG9cQNNDQsuIwyla-143" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-142" value="Pre-conditions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-142" value="Pre-conditions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-680" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-143" value="&lt;div&gt;Obtain agreement of mgmt that it acknowledges &amp;amp; understands its responsibility:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. for perparation of FS as per FRF&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. ICS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. provide auditor with:&lt;/div&gt;&lt;div&gt;a.&lt;span&gt;	&lt;/span&gt;Access to all information relevant for preparation of FS&lt;/div&gt;&lt;div&gt;b. Additional information for the purpose of the audit;&lt;/div&gt;&lt;div&gt;c. Unrestricted access to persons necessary to obtain audit evidence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[if preconditions are not there do not accept the audit]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-143" value="&lt;div&gt;Obtain agreement of mgmt that it acknowledges &amp;amp; understands its responsibility:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. for perparation of FS as per FRF&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. ICS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. provide auditor with:&lt;/div&gt;&lt;div&gt;a.&lt;span&gt; &lt;/span&gt;Access to all information relevant for preparation of FS&lt;/div&gt;&lt;div&gt;b. Additional information for the purpose of the audit;&lt;/div&gt;&lt;div&gt;c. Unrestricted access to persons necessary to obtain audit evidence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[if preconditions are not there do not accept the audit]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-780" y="300" width="320" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-145" target="jzqZOG9cQNNDQsuIwyla-146" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-145" target="jzqZOG9cQNNDQsuIwyla-146" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-145" value="&lt;div&gt;Terms of &lt;br&gt;&lt;/div&gt;&lt;div&gt;Engagement&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-145" value="&lt;div&gt;Terms of &lt;br&gt;&lt;/div&gt;&lt;div&gt;Engagement&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-340" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-146" target="jzqZOG9cQNNDQsuIwyla-148" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-146" target="jzqZOG9cQNNDQsuIwyla-148" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-146" target="jzqZOG9cQNNDQsuIwyla-181" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-146" target="jzqZOG9cQNNDQsuIwyla-181" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-146" value="&lt;div&gt;audit engagement shall be recorded in an audit&amp;nbsp; engagement letter or other suitable form of written&amp;nbsp; agreement and shall include:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;bjective of audit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;cope of audit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;esponsibilities of mgmt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;esponsibilities of auditor&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;5. &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;emuneration and other matters&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;6. &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;dentify applicable FRF&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;7. &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;xpected form and content of any reports&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-146" value="&lt;div&gt;audit engagement shall be recorded in an audit&amp;nbsp; engagement letter or other suitable form of written&amp;nbsp; agreement and shall include:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;bjective of audit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;cope of audit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;esponsibilities of mgmt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;esponsibilities of auditor&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;5. &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;emuneration and other matters&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;6. &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;dentify applicable FRF&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;7. &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;xpected form and content of any reports&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-440" y="300" width="320" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-148" value="&lt;div&gt;S&lt;/div&gt;&lt;div&gt;O&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;E&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-148" value="&lt;div&gt;S&lt;/div&gt;&lt;div&gt;O&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;E&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-100" y="370" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-151" target="jzqZOG9cQNNDQsuIwyla-153" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-151" target="jzqZOG9cQNNDQsuIwyla-153" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-151" target="jzqZOG9cQNNDQsuIwyla-154" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-151" target="jzqZOG9cQNNDQsuIwyla-154" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-151" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Acceptance of a change in the terms of engagement &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-151" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Acceptance of a change in the terms of engagement &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-440" y="770" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-153" target="jzqZOG9cQNNDQsuIwyla-158" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-153" target="jzqZOG9cQNNDQsuIwyla-158" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-153" target="jzqZOG9cQNNDQsuIwyla-157" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-153" target="jzqZOG9cQNNDQsuIwyla-157" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-153" value="change in the terms of audit engagement is reasonable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-153" value="change in the terms of audit engagement is reasonable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-420" y="850" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-154" value="change in the terms of audit engagement is not reasonable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-154" value="change in the terms of audit engagement is not reasonable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-250" y="850" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-157" target="jzqZOG9cQNNDQsuIwyla-168" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-157" target="jzqZOG9cQNNDQsuIwyla-168" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-157" value="auditor is unable to&amp;nbsp; agree" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-157" value="auditor is unable to&amp;nbsp; agree" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-330" y="940" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-158" target="jzqZOG9cQNNDQsuIwyla-159" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-158" target="jzqZOG9cQNNDQsuIwyla-159" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-158" value="Auditor agrees" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-158" value="Auditor agrees" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-490" y="940" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-159" value="record the new terms of the engagement in an engagement letter or other suitable form of written agreement" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-159" value="record the new terms of the engagement in an engagement letter or other suitable form of written agreement" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-490" y="1000" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-163" value="&lt;div&gt;1. Withdraw from the audit engagement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. report the&amp;nbsp; circumstances to other parties, such as TCWG, owners or regulators &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-163" value="&lt;div&gt;1. Withdraw from the audit engagement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. report the&amp;nbsp; circumstances to other parties, such as TCWG, owners or regulators &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-260" y="1180" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-168" target="jzqZOG9cQNNDQsuIwyla-172" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-168" target="jzqZOG9cQNNDQsuIwyla-172" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-168" target="jzqZOG9cQNNDQsuIwyla-171" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-168" target="jzqZOG9cQNNDQsuIwyla-171" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-168" value="Ask mgmt to give original audit engagement " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-168" value="Ask mgmt to give original audit engagement " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-330" y="1030" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-171" target="jzqZOG9cQNNDQsuIwyla-163" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-171" target="jzqZOG9cQNNDQsuIwyla-163" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-171" value="mgmt disagree" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-171" value="mgmt disagree" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-250" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-172" target="jzqZOG9cQNNDQsuIwyla-176" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-172" target="jzqZOG9cQNNDQsuIwyla-176" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-172" value="Mgmt agrees" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-172" value="Mgmt agrees" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-410" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-176" value="Auditor shall continue with original audit engagement" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-176" value="Auditor shall continue with original audit engagement" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-420" y="1180" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-181" target="jzqZOG9cQNNDQsuIwyla-151" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-181" target="jzqZOG9cQNNDQsuIwyla-151" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-181" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Limitation on Scope prior to Audit Engagement&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. If &lt;u&gt;mgmt or TCWG impose limitation&lt;/u&gt; on the scope of the auditor’s work in the terms of a proposed audit engagement then &lt;u&gt;auditor shall evaluate the possible effect of such changes. &lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If the auditor believes the &lt;u&gt;limitation will result in&lt;/u&gt; the&amp;nbsp; auditor &lt;u&gt;disclaiming an opinion&lt;/u&gt; on the FS, the &lt;u&gt;auditor shall not accept&lt;/u&gt; such a limited engagement as an audit engagement, unless required by law or regulation to do so. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-181" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Limitation on Scope prior to Audit Engagement&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. If &lt;u&gt;mgmt or TCWG impose limitation&lt;/u&gt; on the scope of the auditor’s work in the terms of a proposed audit engagement then &lt;u&gt;auditor shall evaluate the possible effect of such changes. &lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If the auditor believes the &lt;u&gt;limitation will result in&lt;/u&gt; the&amp;nbsp; auditor &lt;u&gt;disclaiming an opinion&lt;/u&gt; on the FS, the &lt;u&gt;auditor shall not accept&lt;/u&gt; such a limited engagement as an audit engagement, unless required by law or regulation to do so. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-440" y="580" width="320" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-184" target="jzqZOG9cQNNDQsuIwyla-186" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-184" target="jzqZOG9cQNNDQsuIwyla-186" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-184" value="Under the going concern basis of accounting, the financial&amp;nbsp; statements are prepared on the assumption that the entity is a going concern and will continue its operations for the foreseeable future i.e. 12m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-184" value="Under the going concern basis of accounting, the financial&amp;nbsp; statements are prepared on the assumption that the entity is a going concern and will continue its operations for the foreseeable future i.e. 12m" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5680" y="180" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-186" target="jzqZOG9cQNNDQsuIwyla-188" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-186" target="jzqZOG9cQNNDQsuIwyla-188" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-186" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Auditor’s responsibilities&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. obtain SAAE and conclude on, the appropriateness of&amp;nbsp; mgmt’s use of the going concern basis of a/cing in the&amp;nbsp;&amp;nbsp; preparation of the FS &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. conclude, based on the audit evidence obtained,&amp;nbsp;&amp;nbsp; whether a material uncertainty exists about the entity’s ability to continue as a going concern. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-186" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Auditor’s responsibilities&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. obtain SAAE and conclude on, the appropriateness of&amp;nbsp; mgmt’s use of the going concern basis of a/cing in the&amp;nbsp;&amp;nbsp; preparation of the FS &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. conclude, based on the audit evidence obtained,&amp;nbsp;&amp;nbsp; whether a material uncertainty exists about the entity’s ability to continue as a going concern. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5680" y="270" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-188" target="jzqZOG9cQNNDQsuIwyla-192" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-188" target="jzqZOG9cQNNDQsuIwyla-192" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-188" target="jzqZOG9cQNNDQsuIwyla-191" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-188" target="jzqZOG9cQNNDQsuIwyla-191" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-188" target="jzqZOG9cQNNDQsuIwyla-190" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-188" target="jzqZOG9cQNNDQsuIwyla-190" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-188" value="Indicators of Material Uncertainty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-188" value="Indicators of Material Uncertainty" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5780" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-190" target="jzqZOG9cQNNDQsuIwyla-200" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-190" target="jzqZOG9cQNNDQsuIwyla-200" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-190" value="Other" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-190" value="Other" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6080" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-191" target="jzqZOG9cQNNDQsuIwyla-198" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-191" target="jzqZOG9cQNNDQsuIwyla-198" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-191" value="Operating" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-191" value="Operating" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5780" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-192" target="jzqZOG9cQNNDQsuIwyla-196" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-192" target="jzqZOG9cQNNDQsuIwyla-196" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-192" value="Financial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-192" value="Financial" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5480" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-203" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-196" target="jzqZOG9cQNNDQsuIwyla-202" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-203" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-196" target="jzqZOG9cQNNDQsuIwyla-202" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-196" value="&lt;div&gt;•&amp;nbsp;&amp;nbsp; Net liability or net current liability position.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Fixed-term borrowings approaching maturity without realistic prospects of renewal or repayment; or excessive reliance on short-term borrowings to finance long-term assets.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Indications of withdrawal of financial support by creditors.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Negative operating cash flows indicated by historical or prospective financial statements.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Adverse key financial ratios.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Substantial operating losses or significant deterioration in the value of assets used to&lt;/div&gt;&lt;div&gt; generate cash flows &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-196" value="&lt;div&gt;•&amp;nbsp;&amp;nbsp; Net liability or net current liability position.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Fixed-term borrowings approaching maturity without realistic prospects of renewal or repayment; or excessive reliance on short-term borrowings to finance long-term assets.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Indications of withdrawal of financial support by creditors.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Negative operating cash flows indicated by historical or prospective financial statements.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Adverse key financial ratios.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Substantial operating losses or significant deterioration in the value of assets used to&lt;/div&gt;&lt;div&gt; generate cash flows &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5400" y="570" width="280" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-204" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-198" target="jzqZOG9cQNNDQsuIwyla-202" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-204" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-198" target="jzqZOG9cQNNDQsuIwyla-202" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-198" value="&lt;div&gt;•&amp;nbsp;&amp;nbsp; Management intentions to liquidate the entity or to cease operations.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Loss of key management without replacement.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Loss of a major market, key customer(s),&amp;nbsp; franchise, license, or principal supplier(s).&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Labor difficulties.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Shortages of important &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-198" value="&lt;div&gt;•&amp;nbsp;&amp;nbsp; Management intentions to liquidate the entity or to cease operations.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Loss of key management without replacement.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Loss of a major market, key customer(s),&amp;nbsp; franchise, license, or principal supplier(s).&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Labor difficulties.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; Shortages of important &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5700" y="570" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-205" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-200" target="jzqZOG9cQNNDQsuIwyla-202" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-205" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-200" target="jzqZOG9cQNNDQsuIwyla-202" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6140" y="890" />
@@ -2090,83 +2093,119 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-200" value="&lt;div&gt;• Non-compliance with capital or other statutory or regulatory requirements, such as solvency or liquidity requirements for financial institutions.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Pending legal or regulatory proceedings against the entity that may, if successful, entity is unlikely to be able to satisfy.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Changes in law or regulation or govt&lt;/div&gt;&lt;div&gt; policy expected to adversely affect the entity. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; • Uninsured or under insured catastrophes when they occur&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-200" value="&lt;div&gt;• Non-compliance with capital or other statutory or regulatory requirements, such as solvency or liquidity requirements for financial institutions.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Pending legal or regulatory proceedings against the entity that may, if successful, entity is unlikely to be able to satisfy.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Changes in law or regulation or govt&lt;/div&gt;&lt;div&gt; policy expected to adversely affect the entity. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; • Uninsured or under insured catastrophes when they occur&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6000" y="570" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-202" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit procedures to evaluate feasibility of &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Management’s assessment&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. evaluate mgmt’s assessment of going concern. auditor shall use period used by mgmt to make its assessment as required by the applicable FRF &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 2. If management’s assessment is &amp;lt; 12m from the date of the FS, auditor shall request mgmt to extend its assessment period to at least 12m &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. The auditor shall consider whether mgmt’s assessment includes all relevant information of which the auditor is aware as a result of the audit &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Evaluating mgmt’s plans for future actions in relation to going concern assessment, whether plans are feasible in circumstances &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. whether any additional facts or information have become available since the date on which mgmt made its assessment &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Where the entity has prepared a cash flow forecast, and analysis of the forecast in considering the future outcome of events in the evaluation of mgmt’s plans for future actions:&lt;/div&gt;&lt;div&gt;(i) Evaluating the reliability of the data generated to prepare the forecast&lt;/div&gt;&lt;div&gt;(ii) whether there is adequate support for the assumptions in the forecast.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-202" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit procedures to evaluate feasibility of &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Management’s assessment&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. evaluate mgmt’s assessment of going concern. auditor shall use period used by mgmt to make its assessment as required by the applicable FRF &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 2. If management’s assessment is &amp;lt; 12m from the date of the FS, auditor shall request mgmt to extend its assessment period to at least 12m &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. The auditor shall consider whether mgmt’s assessment includes all relevant information of which the auditor is aware as a result of the audit &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Evaluating mgmt’s plans for future actions in relation to going concern assessment, whether plans are feasible in circumstances &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. whether any additional facts or information have become available since the date on which mgmt made its assessment &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Where the entity has prepared a cash flow forecast, and analysis of the forecast in considering the future outcome of events in the evaluation of mgmt’s plans for future actions:&lt;/div&gt;&lt;div&gt;(i) Evaluating the reliability of the data generated to prepare the forecast&lt;/div&gt;&lt;div&gt;(ii) whether there is adequate support for the assumptions in the forecast.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5640" y="920" width="400" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-207" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid9&quot;&gt;&lt;span style=&quot;left: 179.908px ; top: 661.68px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859822)&quot; dir=&quot;ltr&quot;&gt;Overall Objectives of the Indepen&lt;/span&gt;&lt;span style=&quot;left: 469.303px ; top: 661.68px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859206)&quot; dir=&quot;ltr&quot;&gt;dent Auditor and the Conduct of an Audit in &lt;/span&gt;&lt;span style=&quot;left: 179.89px ; top: 685.085px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.855724)&quot; dir=&quot;ltr&quot;&gt;Accordance with Standards on Auditing&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-207" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid9&quot;&gt;&lt;span style=&quot;left: 179.908px ; top: 661.68px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859822)&quot; dir=&quot;ltr&quot;&gt;Overall Objectives of the Indepen&lt;/span&gt;&lt;span style=&quot;left: 469.303px ; top: 661.68px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859206)&quot; dir=&quot;ltr&quot;&gt;dent Auditor and the Conduct of an Audit in &lt;/span&gt;&lt;span style=&quot;left: 179.89px ; top: 685.085px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.855724)&quot; dir=&quot;ltr&quot;&gt;Accordance with Standards on Auditing&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="-110" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-209" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid11&quot;&gt;&lt;span style=&quot;left: 179.871px ; top: 758.482px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859929)&quot; dir=&quot;ltr&quot;&gt;Quality Control for an Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-209" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid11&quot;&gt;&lt;span style=&quot;left: 179.871px ; top: 758.482px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859929)&quot; dir=&quot;ltr&quot;&gt;Quality Control for an Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="-70" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-210" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid14&quot;&gt;&lt;span style=&quot;left: 179.798px ; top: 891.68px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859734)&quot; dir=&quot;ltr&quot;&gt;Consideration of Laws and Regulations in an Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-210" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid14&quot;&gt;&lt;span style=&quot;left: 179.798px ; top: 891.68px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859734)&quot; dir=&quot;ltr&quot;&gt;Consideration of Laws and Regulations in an Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-90" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-211" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid15&quot;&gt;&lt;span style=&quot;left: 307.567px ; top: 928.48px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.854251)&quot; dir=&quot;ltr&quot;&gt;Joint &lt;/span&gt;&lt;span style=&quot;left: 345.563px ; top: 928.48px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.86003)&quot; dir=&quot;ltr&quot;&gt;Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-211" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid15&quot;&gt;&lt;span style=&quot;left: 307.567px ; top: 928.48px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.854251)&quot; dir=&quot;ltr&quot;&gt;Joint &lt;/span&gt;&lt;span style=&quot;left: 345.563px ; top: 928.48px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.86003)&quot; dir=&quot;ltr&quot;&gt;Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="-60" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-212" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid20&quot;&gt;&lt;span style=&quot;left: 179.706px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.860697)&quot; dir=&quot;ltr&quot;&gt;Audit Evidence &lt;/span&gt;&lt;span style=&quot;left: 345.103px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.864772)&quot; dir=&quot;ltr&quot;&gt;-  Specific Conside&lt;/span&gt;&lt;span style=&quot;left: 472.486px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.861248)&quot; dir=&quot;ltr&quot;&gt;rations for Selec&lt;/span&gt;&lt;span style=&quot;left: 586.493px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.861169)&quot; dir=&quot;ltr&quot;&gt;ted Items&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-212" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid20&quot;&gt;&lt;span style=&quot;left: 179.706px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.860697)&quot; dir=&quot;ltr&quot;&gt;Audit Evidence &lt;/span&gt;&lt;span style=&quot;left: 345.103px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.864772)&quot; dir=&quot;ltr&quot;&gt;-  Specific Conside&lt;/span&gt;&lt;span style=&quot;left: 472.486px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.861248)&quot; dir=&quot;ltr&quot;&gt;rations for Selec&lt;/span&gt;&lt;span style=&quot;left: 586.493px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.861169)&quot; dir=&quot;ltr&quot;&gt;ted Items&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3225" y="-80" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-214" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid0&quot;&gt;&lt;span style=&quot;left: 180px ; top: 245.093px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.861209)&quot; dir=&quot;ltr&quot;&gt;Initial Audit Enga&lt;/span&gt;&lt;span style=&quot;left: 354.8px ; top: 245.093px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.848688)&quot; dir=&quot;ltr&quot;&gt;gements &lt;/span&gt;&lt;span style=&quot;left: 419.2px ; top: 245.093px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.854008)&quot; dir=&quot;ltr&quot;&gt;–   Opening Balances&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-214" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid0&quot;&gt;&lt;span style=&quot;left: 180px ; top: 245.093px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.861209)&quot; dir=&quot;ltr&quot;&gt;Initial Audit Enga&lt;/span&gt;&lt;span style=&quot;left: 354.8px ; top: 245.093px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.848688)&quot; dir=&quot;ltr&quot;&gt;gements &lt;/span&gt;&lt;span style=&quot;left: 419.2px ; top: 245.093px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.854008)&quot; dir=&quot;ltr&quot;&gt;–   Opening Balances&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3945" y="-80" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-215" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid1&quot;&gt;&lt;span style=&quot;left: 205.374px ; top: 281.691px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.855822)&quot; dir=&quot;ltr&quot;&gt;Analytical Procedures&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-215" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid1&quot;&gt;&lt;span style=&quot;left: 205.374px ; top: 281.691px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.855822)&quot; dir=&quot;ltr&quot;&gt;Analytical Procedures&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4310" y="-50" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-216" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid2&quot;&gt;&lt;span style=&quot;left: 179.963px ; top: 318.491px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.855795)&quot; dir=&quot;ltr&quot;&gt;Audit Sampling&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4685" y="-50" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-217" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid3&quot;&gt;&lt;span style=&quot;left: 231.336px ; top: 355.089px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.862252)&quot; dir=&quot;ltr&quot;&gt;Related Parties&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-217" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid3&quot;&gt;&lt;span style=&quot;left: 231.336px ; top: 355.089px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.862252)&quot; dir=&quot;ltr&quot;&gt;Related Parties&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5060" y="-50" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-218" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid4&quot;&gt;&lt;span style=&quot;left: 179.926px ; top: 391.686px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.857397)&quot; dir=&quot;ltr&quot;&gt;Subsequent Events&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-218" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid4&quot;&gt;&lt;span style=&quot;left: 179.926px ; top: 391.686px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.857397)&quot; dir=&quot;ltr&quot;&gt;Subsequent Events&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5390" y="-50" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-219" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid12&quot;&gt;&lt;span style=&quot;left: 179.871px ; top: 708.479px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859389)&quot; dir=&quot;ltr&quot;&gt;Comparative Information – &lt;/span&gt;&lt;span style=&quot;left: 425.879px ; top: 708.479px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.854604)&quot; dir=&quot;ltr&quot;&gt;Corresponding Figures and Compara&lt;/span&gt;&lt;span style=&quot;left: 685.08px ; top: 708.479px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.871695)&quot; dir=&quot;ltr&quot;&gt;tive &lt;/span&gt;&lt;span style=&quot;left: 179.89px ; top: 731.681px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859969)&quot; dir=&quot;ltr&quot;&gt;Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-219" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid12&quot;&gt;&lt;span style=&quot;left: 179.871px ; top: 708.479px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859389)&quot; dir=&quot;ltr&quot;&gt;Comparative Information – &lt;/span&gt;&lt;span style=&quot;left: 425.879px ; top: 708.479px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.854604)&quot; dir=&quot;ltr&quot;&gt;Corresponding Figures and Compara&lt;/span&gt;&lt;span style=&quot;left: 685.08px ; top: 708.479px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.871695)&quot; dir=&quot;ltr&quot;&gt;tive &lt;/span&gt;&lt;span style=&quot;left: 179.89px ; top: 731.681px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859969)&quot; dir=&quot;ltr&quot;&gt;Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8200" y="-90" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-224" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-220" target="jzqZOG9cQNNDQsuIwyla-221" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-224" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-220" target="jzqZOG9cQNNDQsuIwyla-221" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-220" value="&lt;div&gt;auditor shall determine materiality for the financial&amp;nbsp; statements as a whole. If there is one or more particular&amp;nbsp; classes of transactions, account balances or disclosures for which misstatements of lesser amounts than the&amp;nbsp; materiality for the FS as a whole could reasonably be expected to influence the economic decisions of users taken on the basis of the FS, the auditor shall also determine&amp;nbsp; the&amp;nbsp; materiality level or levels to be applied to those particular classes of transactions, account balances or disclosures.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; Performance materiality means the amount or amounts set by the auditor at less than materiality for the financial statements as a whole&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-220" value="&lt;div&gt;auditor shall determine materiality for the financial&amp;nbsp; statements as a whole. If there is one or more particular&amp;nbsp; classes of transactions, account balances or disclosures for which misstatements of lesser amounts than the&amp;nbsp; materiality for the FS as a whole could reasonably be expected to influence the economic decisions of users taken on the basis of the FS, the auditor shall also determine&amp;nbsp; the&amp;nbsp; materiality level or levels to be applied to those particular classes of transactions, account balances or disclosures.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; Performance materiality means the amount or amounts set by the auditor at less than materiality for the financial statements as a whole&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2440" y="200" width="320" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-225" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-221" target="jzqZOG9cQNNDQsuIwyla-222" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-225" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-221" target="jzqZOG9cQNNDQsuIwyla-222" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-221" value="Determination of materiality" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-221" value="Determination of materiality" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2540" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-226" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-222" target="jzqZOG9cQNNDQsuIwyla-223" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-226" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-222" target="jzqZOG9cQNNDQsuIwyla-223" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-222" value="Benchmark Selection " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-222" value="Benchmark Selection " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2540" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-228" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-223" target="jzqZOG9cQNNDQsuIwyla-227" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-228" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-223" target="jzqZOG9cQNNDQsuIwyla-227" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-223" value="Determining materiality involves the exercise of professional judgment. A percentage is often applied to a chosen&amp;nbsp; benchmark as a starting point in determining materiality for the financial statements as a whole.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-223" value="Determining materiality involves the exercise of professional judgment. A percentage is often applied to a chosen&amp;nbsp; benchmark as a starting point in determining materiality for the financial statements as a whole.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2440" y="550" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-227" target="jzqZOG9cQNNDQsuIwyla-230" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-227" target="jzqZOG9cQNNDQsuIwyla-230" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-227" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors that affect identification of an appropriate benchmark&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. The elements of the financial statements. Example: Assets, liabilities, equity, revenue, expenses &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. items on which the attention of the users of the particular entity’s financial statements tends to be focused. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. nature of the entity its life cycle, and the industry and economic environment in which the entity operates&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. entity’s ownership structure and the way it is financed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. relative volatility of the benchmark&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-227" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors that affect identification of an appropriate benchmark&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. The elements of the financial statements. Example: Assets, liabilities, equity, revenue, expenses &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. items on which the attention of the users of the particular entity’s financial statements tends to be focused. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. nature of the entity its life cycle, and the industry and economic environment in which the entity operates&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. entity’s ownership structure and the way it is financed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. relative volatility of the benchmark&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2440" y="640" width="320" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-230" target="jzqZOG9cQNNDQsuIwyla-231" visible="0">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-230" target="jzqZOG9cQNNDQsuIwyla-231" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-230" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Revision in Materiality&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Materiality for the FS as a whole may need to be revised as a result of a &lt;u&gt;change in circumstances that occurred during the audit, new information, or a change in the auditor’s understanding&lt;/u&gt; of the entity and its operations as a result of performing further audit procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If the auditor concludes that a lower materiality for the FS as a whole than that initially determined is appropriate, the auditor shall determine whether it is necessary to revise performance materiality, and whether the nature, timing and extent of the further audit procedures remain appropriate. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-230" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Revision in Materiality&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Materiality for the FS as a whole may need to be revised as a result of a &lt;u&gt;change in circumstances that occurred during the audit, new information, or a change in the auditor’s understanding&lt;/u&gt; of the entity and its operations as a result of performing further audit procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If the auditor concludes that a lower materiality for the FS as a whole than that initially determined is appropriate, the auditor shall determine whether it is necessary to revise performance materiality, and whether the nature, timing and extent of the further audit procedures remain appropriate. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2440" y="900" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-231" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Documenting Materiality&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;1. Materiality for the financial statements as a whole &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If&amp;nbsp; applicable,&amp;nbsp; the&amp;nbsp; materiality&amp;nbsp; level&amp;nbsp; or&amp;nbsp; levels&amp;nbsp; for&amp;nbsp; particular&amp;nbsp; classes&amp;nbsp; of transactions, account balances or disclosures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Performance&amp;nbsp; materiality &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Any revision of the above as the audit progressed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="jzqZOG9cQNNDQsuIwyla-231" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Documenting Materiality&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;1. Materiality for the financial statements as a whole &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If&amp;nbsp; applicable,&amp;nbsp; the&amp;nbsp; materiality&amp;nbsp; level&amp;nbsp; or&amp;nbsp; levels&amp;nbsp; for&amp;nbsp; particular&amp;nbsp; classes&amp;nbsp; of transactions, account balances or disclosures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Performance&amp;nbsp; materiality &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Any revision of the above as the audit progressed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2440" y="1120" width="320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-2" target="oLZOzhoHg1RqNFXuGlJu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-2" value="&amp;nbsp;“Audit&amp;nbsp; sampling”,&amp;nbsp; ‘audit&amp;nbsp; sampling’&amp;nbsp; refers&amp;nbsp; to&amp;nbsp; the application of audit procedures&amp;nbsp; to&amp;nbsp; less&amp;nbsp; than&amp;nbsp; 100%&amp;nbsp; of&amp;nbsp; items&amp;nbsp; within&amp;nbsp; a&amp;nbsp; population&amp;nbsp; of&amp;nbsp; audit relevance such that all sampling units have a chance of selection in order to provide the auditor with a reasonable basis on which to draw conclusions about the entire population. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="180" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-4" target="oLZOzhoHg1RqNFXuGlJu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Population&lt;/b&gt;&lt;/u&gt;: refers to the entire set of data from which a sample is&amp;nbsp; selected and on which the auditor wishes to draw conclusions.&lt;/div&gt;Auditors opinion will be based on the population only" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="280" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-6" target="oLZOzhoHg1RqNFXuGlJu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-6" target="oLZOzhoHg1RqNFXuGlJu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Characteristics of the population &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Completeness&lt;/u&gt; : include all relevant items from throughout the entire period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;Appropriateness&lt;/u&gt;&amp;nbsp; : drawn sample is appropriate for the specific audit objective&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Reliable&lt;/u&gt; : audit sampling is sufficiently complete and accurate. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="350" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-8" value="&lt;div&gt;C&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;R&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4500" y="380" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-11" target="oLZOzhoHg1RqNFXuGlJu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-11" target="oLZOzhoHg1RqNFXuGlJu-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-11" value="Risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4700" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-13" value="Non-Sampling Risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4800" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-14" value="Sampling Risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="590" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
