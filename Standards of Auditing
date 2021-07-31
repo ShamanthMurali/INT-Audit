@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T00:50:42.456Z" agent="5.0 (X11)" etag="5P22M8T4rVx8p3ln0C89" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T01:00:17.074Z" agent="5.0 (X11)" etag="wyiFKU5HjL0Y6lH0ERvh" version="14.9.3" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1352" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2942" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2280,11 +2280,17 @@
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-30" value="Sampling Techniques" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4700" y="2780" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-31" target="oLZOzhoHg1RqNFXuGlJu-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-31" value="Haphazard Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5030" y="2860" width="120" height="40" as="geometry" />
+          <mxGeometry x="5315" y="2860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-32" target="oLZOzhoHg1RqNFXuGlJu-106">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-32" value="Block Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4870" y="2860" width="120" height="40" as="geometry" />
+          <mxGeometry x="4995" y="2860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-33" target="oLZOzhoHg1RqNFXuGlJu-37">
           <mxGeometry relative="1" as="geometry" />
@@ -2293,13 +2299,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-33" value="Random Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3880" y="2860" width="120" height="40" as="geometry" />
+          <mxGeometry x="3925" y="2860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-34" target="oLZOzhoHg1RqNFXuGlJu-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oLZOzhoHg1RqNFXuGlJu-34" value="Systematic or Interval Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4370" y="2860" width="120" height="40" as="geometry" />
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-34" value="&lt;div&gt;Systematic or &lt;br&gt;&lt;/div&gt;&lt;div&gt;Interval Sampling&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4425" y="2860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-35" target="oLZOzhoHg1RqNFXuGlJu-104">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-35" value="Monetary Unit Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4710" y="2860" width="120" height="40" as="geometry" />
@@ -2308,19 +2317,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-36" value="Stratified Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4050" y="2940" width="120" height="40" as="geometry" />
+          <mxGeometry x="4105" y="2940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-37" target="oLZOzhoHg1RqNFXuGlJu-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-37" value="Simple Random&amp;nbsp; Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3740" y="2940" width="120" height="40" as="geometry" />
+          <mxGeometry x="3785" y="2940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-45" value="&lt;div&gt;Under&amp;nbsp; this&amp;nbsp; method&amp;nbsp; each&amp;nbsp; unit&amp;nbsp; of&amp;nbsp; the&amp;nbsp; whole population has&amp;nbsp; an&amp;nbsp; equal&amp;nbsp; chance&amp;nbsp; of&amp;nbsp; being selected. selection of items may be by choosing numbers from table of random numbers by computers or picking up numbers randomly from a drum.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;* simple and easy to use &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* bias does not affect the selection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* considered appropriate provided the population to be sampled consists of reasonably similar units and fall within a reasonable range&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3650" y="3000" width="300" height="200" as="geometry" />
+          <mxGeometry x="3695" y="3000" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-47" value="Involves dividing the whole population to be tested in a few separate groups called strata and taking a sample from each of them. Each stratum is treated as if it was a separate population and if proportionate of items area selected from each of these stratum. The number of groups into which the whole population has to be divided is determined on the basis of auditor judgment." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="3000" width="300" height="120" as="geometry" />
+          <mxGeometry x="4015" y="3000" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-49" target="oLZOzhoHg1RqNFXuGlJu-50">
           <mxGeometry relative="1" as="geometry" />
@@ -2477,7 +2486,16 @@
           <mxGeometry x="4557.5" y="2380" width="425" height="360" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-102" value="number of sampling units in the population is divided by the sample size to give a sampling interval, for example 50, and having determined a starting point within the first 50, each 50th sampling unit thereafter is selected. When using systematic selection, the auditor would need to determine that sampling units within the population are not structured in such a way that the&amp;nbsp; sampling interval corresponds with a particular pattern in the population. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4280" y="2920" width="300" height="140" as="geometry" />
+          <mxGeometry x="4335" y="2920" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-104" value="&amp;nbsp;It is a type of value-weighted selection in which sample size, selection and evaluation results in a conclusion in monetary amounts. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4655" y="2920" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-106" value="This method involves selection of a block(s) of contiguous items from within the population. Block&amp;nbsp; selection cannot ordinarily be used in audit sampling because most populations are structured such that items in a sequence can be expected to have similar&amp;nbsp; characteristics to each other, but different characteristics from items elsewhere in the population. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4905" y="2920" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-108" value="auditor selects the sample without following a structured technique. auditor would nonetheless avoid any&amp;nbsp; conscious bias or predictability and thus attempt to ensure that all items in the population have a chance of selection. Haphazard selection is not appropriate when using statistical sampling. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5225" y="2920" width="300" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
