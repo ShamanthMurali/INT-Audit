@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T00:43:12.140Z" agent="5.0 (X11)" etag="TPDQRkToetoRbxZpENKP" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T00:45:52.965Z" agent="5.0 (X11)" etag="xdg2kH-aZhKc_4eKkV_F" version="14.9.3" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="2643" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1716" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2293,7 +2293,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-33" value="Random Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4310" y="2860" width="120" height="40" as="geometry" />
+          <mxGeometry x="3880" y="2860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-34" value="Systematic or Interval Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4550" y="2860" width="120" height="40" as="geometry" />
@@ -2305,19 +2305,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-36" value="Stratified Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4480" y="2940" width="120" height="40" as="geometry" />
+          <mxGeometry x="4050" y="2940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-37" target="oLZOzhoHg1RqNFXuGlJu-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-37" value="Simple Random&amp;nbsp; Sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4170" y="2940" width="120" height="40" as="geometry" />
+          <mxGeometry x="3740" y="2940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-45" value="&lt;div&gt;Under&amp;nbsp; this&amp;nbsp; method&amp;nbsp; each&amp;nbsp; unit&amp;nbsp; of&amp;nbsp; the&amp;nbsp; whole population has&amp;nbsp; an&amp;nbsp; equal&amp;nbsp; chance&amp;nbsp; of&amp;nbsp; being selected. selection of items may be by choosing numbers from table of random numbers by computers or picking up numbers randomly from a drum.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;* simple and easy to use &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* bias does not affect the selection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* considered appropriate provided the population to be sampled consists of reasonably similar units and fall within a reasonable range&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4080" y="3000" width="300" height="200" as="geometry" />
+          <mxGeometry x="3650" y="3000" width="300" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="oLZOzhoHg1RqNFXuGlJu-47" value="involves dividing the whole population to be tested in a few separate groups called strata and taking a sample from each of them. Each stratum is treated as if it was a separate population and if proportionate of items area selected from each of these stratum. The number of groups into which the whole population has to be divided is determined on the basis of auditor judgment." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4390" y="3000" width="300" height="120" as="geometry" />
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-47" value="Involves dividing the whole population to be tested in a few separate groups called strata and taking a sample from each of them. Each stratum is treated as if it was a separate population and if proportionate of items area selected from each of these stratum. The number of groups into which the whole population has to be divided is determined on the basis of auditor judgment." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3960" y="3000" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-49" target="oLZOzhoHg1RqNFXuGlJu-50">
           <mxGeometry relative="1" as="geometry" />
