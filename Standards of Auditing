@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T00:42:52.318Z" agent="5.0 (X11)" etag="lI8U1HFLgrgW-_q_sed3" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T00:43:12.140Z" agent="5.0 (X11)" etag="TPDQRkToetoRbxZpENKP" version="14.9.3" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="2942" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2643" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2234,11 +2234,30 @@
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-21" value="Test of details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4640" y="740" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-24" target="oLZOzhoHg1RqNFXuGlJu-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4520" y="940" />
+              <mxPoint x="4760" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-24" value="&lt;div&gt;&amp;gt; auditor may say that they are effective, but actually they are not&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; auditor may say that they are not effective, but actually they are effective&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="4440" y="800" width="160" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-26" target="oLZOzhoHg1RqNFXuGlJu-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-26" value="&lt;div&gt;&amp;gt; auditor may say that they ROMM does not exist, but they do&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; auditor may say that they ROMM exist, but they dont&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="4620" y="800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oLZOzhoHg1RqNFXuGlJu-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLZOzhoHg1RqNFXuGlJu-28" target="oLZOzhoHg1RqNFXuGlJu-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4910" y="940" />
+              <mxPoint x="4760" y="940" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-28" value="Risk that the auditor reaches an erroneous conclusion for any reason not related to sampling risk. &lt;br&gt;&lt;div&gt;E.g. inappropriate audit procedures, misinterpretation of audit evidence and failure to recognize a misstatement or deviation. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4780" y="660" width="260" height="100" as="geometry" />
