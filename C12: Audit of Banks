@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T20:40:24.780Z" agent="5.0 (X11)" etag="YCBHU6KHPD81xJwvWZ8A" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-08T20:46:02.242Z" agent="5.0 (X11)" etag="QD4EJyjVXFjM3s4pSoCd" version="14.9.5" type="github">
   <diagram id="ErfhvTYTZrg_oTytCJzO" name="Page-1">
-    <mxGraphModel dx="1563" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3344" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,14 +82,38 @@
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-27" value="Collateral security is an additional&amp;nbsp; security. Security can be in any&amp;nbsp; form&amp;nbsp; i.e. tangible or intangible asset, movable or immovable asset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1820" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-32" target="RrWA5nGCw_mJGV-3aDG2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-32" target="RrWA5nGCw_mJGV-3aDG2-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-32" target="RrWA5nGCw_mJGV-3aDG2-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-32" target="RrWA5nGCw_mJGV-3aDG2-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-32" target="RrWA5nGCw_mJGV-3aDG2-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-32" target="RrWA5nGCw_mJGV-3aDG2-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-32" value="Mode of Creation of Security" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1960" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-33" target="RrWA5nGCw_mJGV-3aDG2-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-33" value="Hypothecation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="231" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-34" target="RrWA5nGCw_mJGV-3aDG2-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-34" value="Pledge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="-29" y="2040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-35" target="RrWA5nGCw_mJGV-3aDG2-40">
           <mxGeometry relative="1" as="geometry" />
@@ -98,34 +122,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-35" value="Mortgage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="-339" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-36" target="RrWA5nGCw_mJGV-3aDG2-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-36" value="Lien" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="1011" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-37" target="RrWA5nGCw_mJGV-3aDG2-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-37" value="Set-off" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="751" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-38" target="RrWA5nGCw_mJGV-3aDG2-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-38" value="Assignment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="491" y="2040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-39" target="RrWA5nGCw_mJGV-3aDG2-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-39" value="Equitable mortgage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2120" width="120" height="40" as="geometry" />
+          <mxGeometry x="-249" y="2120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-40" target="RrWA5nGCw_mJGV-3aDG2-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-40" value="Registered Mortgage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="2120" width="120" height="40" as="geometry" />
+          <mxGeometry x="-429" y="2120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RrWA5nGCw_mJGV-3aDG2-41" value="can be affected by a registered instrument called &lt;br&gt;the ‘Mortgage Deed’ signed by the mortgagor. It registers the property to &lt;br&gt;the mortgagee as a security." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="2180" width="160" height="100" as="geometry" />
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-41" value="can be affected by a registered instrument called &lt;br&gt;the ‘Mortgage Deed’ signed by the mortgagor. It registers the property to the mortgagee as a security." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="2180" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-42" value="&lt;div&gt;effected by a mere delivery&lt;/div&gt;&lt;div&gt; of title deeds or other documents of title with intent to create security thereof.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="2180" width="160" height="70" as="geometry" />
+          <mxGeometry x="-269" y="2180" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-47" value="bailment or delivery of goods by the borrower to the lending bank with the intention of creating a charge thereon as security for the advance. The legal ownership of the goods remains with the pledger while&amp;nbsp; the&amp;nbsp; lending&amp;nbsp; banker&amp;nbsp; gets&amp;nbsp; certain&amp;nbsp; defined&amp;nbsp; interests&amp;nbsp; in&amp;nbsp; the&amp;nbsp; goods.&amp;nbsp; The pledge of goods constitutes a specific (or fixed) charge. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="2100" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-49" value="The hypothecation is the creation of an equitable charge (i.e., a charge created not by an express enactment but by equity and reason), which is created in favour of the lending bank by execution of hypothecation &lt;br&gt;agreement in respect of the moveable securities belonging to the borrower. &amp;nbsp; &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Neither ownership nor possession is transferred to the bank. However, the &lt;/div&gt;borrower holds the physical possession of the goods as an agent/trustee of &lt;br&gt;the bank." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="2100" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-51" value="Assignment represents a transfer of an&amp;nbsp; existing or future debt, right or &lt;br&gt;property belonging to a person in favor of another person. Book debts and &lt;br&gt;life insurance policies are accepted&amp;nbsp; by&amp;nbsp; banks as security by way of &lt;br&gt;assignment. &lt;br&gt;&amp;nbsp; An assignment gives the assignee&amp;nbsp; absolute right over the moneys/debts &lt;br&gt;assigned to him. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="2100" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-53" value="Set-off is a statutory right of a creditor to adjust, wholly or partly, the debit balance in the debtor’s account against any credit balance lying in another account of the debtor.&amp;nbsp; &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp; The right of set-off enables a bank&amp;nbsp; to&amp;nbsp; combine two accounts (a deposit &lt;br&gt;&lt;div&gt;account and a loan account) of the same person provided both the accounts are in &lt;br&gt;&lt;/div&gt;&lt;div&gt;the same name and in the same right. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="2100" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="RrWA5nGCw_mJGV-3aDG2-55" value="Lien is creation of a legal charge with consent of the owner, which gives lender &lt;br&gt;a legal right to seize and dispose / liquidate the asset under lien. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="951" y="2100" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
