@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T09:05:49.945Z" agent="5.0 (X11)" etag="YjG62_c1Nb9QLZnt9NIn" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-08T09:06:49.207Z" agent="5.0 (X11)" etag="ynzn5lU_6pO6_Zi28ld0" version="14.9.5" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="2102" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1446" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2524,11 +2524,17 @@
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-7" target="h4j_J2Ua0VX4yCe80c4F-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-7" target="h4j_J2Ua0VX4yCe80c4F-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors to be considered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;Predictability&lt;/u&gt; – A predictable relationship is one that may &lt;br&gt;reasonably be expected to exist and continue over time.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; &lt;u&gt;Availability of Data&lt;/u&gt; – The availability of reliable and relevant data will &lt;br&gt;facilitate effective procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; &lt;u&gt;Nature of Assertion&lt;/u&gt; – more effective in providing evidence for some &lt;br&gt;assertions. Predictive analytical procedures using data analytics can be&lt;br&gt; used to address completeness, valuation/measurement and occurrence &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;4.&amp;nbsp; &lt;u&gt;Inherent Risk or “What Can Go Wrong”&lt;/u&gt; – consider &lt;br&gt;the ROMM in order to determine if a substantive analytical procedure can be &lt;br&gt;&lt;/div&gt;used to obtain audit evidence.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; &lt;u&gt;Disaggregation&lt;/u&gt; – degree of disaggregation{&lt;span class=&quot;one-click-content css-nnyc96 e1q3nk1v1&quot;&gt;&lt;span class=&quot;tx&quot;&gt;breaking up into component parts&lt;/span&gt;&lt;/span&gt;} of &lt;br&gt;&lt;/div&gt;&lt;div&gt;data can directly affect the degree of its usefulness in detecting misstatements &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4165" y="510" width="470" height="270" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-9" value="&lt;div&gt;P&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;N&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;D&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4100" y="605" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-13" value="Techniques" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="820" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
