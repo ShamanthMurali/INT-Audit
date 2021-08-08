@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T13:04:40.581Z" agent="5.0 (X11)" etag="9uOpCGOwovt_2udM0z1_" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-08T13:50:05.069Z" agent="5.0 (X11)" etag="v-f1IPO6yJwJ4MJvcYPq" version="14.9.5" type="github">
   <diagram id="Riv2HUoPxJbzIjorfe0j" name="Page-1">
-    <mxGraphModel dx="1781" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1039" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,6 +131,55 @@
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-37" value="due to the regulatory requirement of auditors to report on internal financial controls of a company, the audit report also may have to be modified in some instances." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1320" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1870" />
+              <mxPoint x="193" y="1870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1870" />
+              <mxPoint x="688" y="1870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-47" value="Types of Controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-48" target="4fQ1YcwH95BBMGURaLkN-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-48" value="IT-dependent Controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="1890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-49" target="4fQ1YcwH95BBMGURaLkN-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-49" value="Application Controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-50" target="4fQ1YcwH95BBMGURaLkN-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-50" value="General IT controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="1890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-51" value="“General IT controls are policies and procedures that relate to many applications&amp;nbsp; and support the effective functioning of application controls. They apply to mainframe, miniframe, and end-user environments. &amp;nbsp;&lt;br&gt;General IT-controls that maintain the integrity of information and security of &lt;br&gt;data commonly include controls over the following”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="1950" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-52" value="Application controls include both automated and manual controls that &lt;br&gt;operate at a business process level. Automated Application controls are &lt;br&gt;embedded into IT applications viz., ERPs and help in ensuring the &lt;br&gt;completeness, accuracy and integrity of data in those systems. &lt;br&gt;E.g. data validation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="1950" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-53" value="IT dependent controls are basically manual controls that make use of &lt;br&gt;some form of data or information or report produced from IT systems &lt;br&gt;and applications. In this case, even though the control is performed manually, the design and effectiveness of such controls depends on the reliability of source data. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1950" width="230" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
