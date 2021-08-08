@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T09:18:24.761Z" agent="5.0 (X11)" etag="IJs5FkGxPwODIPwyYn-d" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-08T11:36:55.792Z" agent="5.0 (X11)" etag="EmO2W6p98A-j0rIIfTaw" version="14.9.5" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="2102" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2639" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2524,53 +2524,71 @@
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-7" target="h4j_J2Ua0VX4yCe80c4F-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-7" target="h4j_J2Ua0VX4yCe80c4F-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors to be considered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;Predictability&lt;/u&gt; – A predictable relationship is one that may &lt;br&gt;reasonably be expected to exist and continue over time.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; &lt;u&gt;Availability of Data&lt;/u&gt; – The availability of reliable and relevant data will &lt;br&gt;facilitate effective procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; &lt;u&gt;Nature of Assertion&lt;/u&gt; – more effective in providing evidence for some &lt;br&gt;assertions. Predictive analytical procedures using data analytics can be&lt;br&gt; used to address completeness, valuation/measurement and occurrence &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;4.&amp;nbsp; &lt;u&gt;Inherent Risk or “What Can Go Wrong”&lt;/u&gt; – consider &lt;br&gt;the ROMM in order to determine if a substantive analytical procedure can be &lt;br&gt;&lt;/div&gt;used to obtain audit evidence.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; &lt;u&gt;Disaggregation&lt;/u&gt; – degree of disaggregation{&lt;span class=&quot;one-click-content css-nnyc96 e1q3nk1v1&quot;&gt;&lt;span class=&quot;tx&quot;&gt;breaking up into component parts&lt;/span&gt;&lt;/span&gt;} of &lt;br&gt;&lt;/div&gt;&lt;div&gt;data can directly affect the degree of its usefulness in detecting misstatements &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4165" y="510" width="470" height="270" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-9" value="&lt;div&gt;P&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;N&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;D&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4100" y="605" width="40" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-13" value="Techniques" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4340" y="820" width="120" height="40" as="geometry" />
+          <mxGeometry x="4332.5" y="1110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-15" target="h4j_J2Ua0VX4yCe80c4F-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-15" value="Structural modelling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4615" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="4660" y="1190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-16" target="h4j_J2Ua0VX4yCe80c4F-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-16" value="&lt;div&gt;Reasonableness &lt;br&gt;&lt;/div&gt;&lt;div&gt;tests&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4400" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="4445" y="1190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-17" target="h4j_J2Ua0VX4yCe80c4F-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-17" value="Ratio analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4180" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="4225" y="1190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-18" target="h4j_J2Ua0VX4yCe80c4F-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-18" value="Trend analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="4005" y="1190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-19" value="comparison of current &lt;br&gt;data with the prior period balance or with a trend in two or more prior period balances. evaluate whether the current balance of an account moves in line with the trend established with previous balances for&amp;nbsp; that account, or based on an understanding of factors that may cause the account to change. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3920" y="980" width="200" height="160" as="geometry" />
+          <mxGeometry x="3965" y="1250" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-21" value="Individual balance &lt;br&gt;sheet account is difficult to predict on its own, but its relationship to another account is often more predictable (e.g., trade receivables balance related to sales). Ratios can be compared over time or to the ratios of separate entities within the group, or with the ratios of other companies in the same industry." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4140" y="980" width="200" height="160" as="geometry" />
+          <mxGeometry x="4185" y="1250" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-23" value="&lt;div&gt;[reasonable or not]&lt;br&gt;&lt;/div&gt;&lt;div&gt;analytical procedures that does not rely on events of prior periods, but upon non-financial data for the audit period under consideration (e.g., occupancy&amp;nbsp; rates to estimate rental income or interest rates to estimate interest income or expense).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4360" y="980" width="200" height="160" as="geometry" />
+          <mxGeometry x="4405" y="1250" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="h4j_J2Ua0VX4yCe80c4F-25" value="A modelling tool constructs a statistical model from &lt;br&gt;financial and/or non-financial data&amp;nbsp; of&amp;nbsp; prior accounting periods to&amp;nbsp; predict current account balances (e.g., linear regression). " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4575" y="980" width="200" height="160" as="geometry" />
+          <mxGeometry x="4620" y="1250" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-31" value="&lt;div&gt;Precautions to be taken before performing analytical procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4165" y="800" width="470" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-32" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="4320" y="960" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-33" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Extent of Reliance on Analytical procedures&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is influenced by its source and nature and is dependent &lt;/div&gt;on the circumstances under which it is obtained&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1&amp;nbsp; Source of the information available. For example, more &lt;/div&gt;&lt;div&gt;reliable when obtained from independent sources outside the entity; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2&amp;nbsp; Comparability of the information available &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp; Nature and relevance of the information available. &lt;/div&gt; &lt;div&gt;&lt;br&gt;&lt;/div&gt;4&amp;nbsp; Controls over the preparation of the information that are designed to ensure &lt;br&gt;its completeness, accuracy and validity. For example, controls over the &lt;br&gt;preparation, review and maintenance of budgets. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4165" y="1440" width="425" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
