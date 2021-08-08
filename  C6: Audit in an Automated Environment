@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T13:50:05.069Z" agent="5.0 (X11)" etag="v-f1IPO6yJwJ4MJvcYPq" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-08T13:50:19.773Z" agent="5.0 (X11)" etag="5f04Hcykui0mAbFEeVNg" version="14.9.5" type="github">
   <diagram id="Riv2HUoPxJbzIjorfe0j" name="Page-1">
-    <mxGraphModel dx="1039" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,9 @@
           <mxGeometry x="160" y="950" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-25" target="4fQ1YcwH95BBMGURaLkN-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-25" target="4fQ1YcwH95BBMGURaLkN-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;where Information Technology is needed in audit&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;&lt;b&gt;V&lt;/b&gt;&lt;/u&gt;olume of transactions are high (Insurance, Banking, Railways ticketing).&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; &lt;u&gt;&lt;b&gt;H&lt;/b&gt;&lt;/u&gt;i-tech nature of business (Telecom, e-Commerce).&amp;nbsp;&amp;nbsp; &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Company &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;olicy (Compliance).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;egulatory requirements&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;ncreased use of Systems and Application software in Business (for example, use of ERPs)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp; &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;omplexity of transactions has increased&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;fficiency and &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;ffectiveness of audit increases.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
