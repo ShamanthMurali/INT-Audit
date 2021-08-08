@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T11:47:40.564Z" agent="5.0 (X11)" etag="um3K7uVANxKeNyC6z46Y" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-08T16:48:49.085Z" agent="5.0 (X11)" etag="ipSty_EhakBAJf145SCr" version="14.9.5" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="4427" dy="2891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1716" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,7 +223,7 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA520&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="4340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-45" target="h4j_J2Ua0VX4yCe80c4F-1" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TuKAxbe2wIa_8roPm6jD-45" target="h4j_J2Ua0VX4yCe80c4F-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid1&quot;&gt;&lt;span style=&quot;left: 205.374px ; top: 281.691px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.855822)&quot; dir=&quot;ltr&quot;&gt;Analytical Procedures&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-45">
@@ -262,8 +262,11 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA560&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="5420" width="120" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-54">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-54" target="g2CRcYAwDNHOzEdYmdUe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid4&quot;&gt;&lt;span style=&quot;left: 179.926px ; top: 391.686px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.857397)&quot; dir=&quot;ltr&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Subsequent&lt;/font&gt; &lt;font style=&quot;font-size: 14px&quot;&gt;Events&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-54">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="5320" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -2497,82 +2500,82 @@
         <mxCell id="oLZOzhoHg1RqNFXuGlJu-108" value="auditor selects the sample without following a structured technique. auditor would nonetheless avoid any&amp;nbsp; conscious bias or predictability and thus attempt to ensure that all items in the population have a chance of selection. Haphazard selection is not appropriate when using statistical sampling. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5225" y="2920" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-1" target="h4j_J2Ua0VX4yCe80c4F-3" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-1" target="h4j_J2Ua0VX4yCe80c4F-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-1" value="“analytical procedures” means evaluations of &lt;br&gt;&lt;div&gt;financial information through analysis of plausible relationships among &lt;br&gt;&lt;/div&gt;&lt;div&gt;both financial and non-financial data. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. To obtain relevant and reliable &lt;u&gt;substantive &lt;/u&gt;&lt;br&gt;analytical procedures&lt;/div&gt;&lt;div&gt;2. To design and perform analytical procedures that help forming &lt;br&gt;&lt;/div&gt;&lt;div&gt;an overall conclusion of auditor opinion about the FS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-1" value="“analytical procedures” means evaluations of &lt;br&gt;&lt;div&gt;financial information through analysis of plausible relationships among &lt;br&gt;&lt;/div&gt;&lt;div&gt;both financial and non-financial data. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. To obtain relevant and reliable &lt;u&gt;substantive &lt;/u&gt;&lt;br&gt;analytical procedures&lt;/div&gt;&lt;div&gt;2. To design and perform analytical procedures that help forming &lt;br&gt;&lt;/div&gt;&lt;div&gt;an overall conclusion of auditor opinion about the FS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4200" y="180" width="400" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-3" target="h4j_J2Ua0VX4yCe80c4F-4" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-3" target="h4j_J2Ua0VX4yCe80c4F-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-3" value="Timing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-3" value="Timing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4340" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-4" target="h4j_J2Ua0VX4yCe80c4F-7" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-4" target="h4j_J2Ua0VX4yCe80c4F-7" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-4" target="h4j_J2Ua0VX4yCe80c4F-6" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-4" target="h4j_J2Ua0VX4yCe80c4F-6" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-4" value="&lt;div&gt;Can be applied at -&lt;br&gt;&lt;/div&gt;&lt;div&gt;a) &lt;u&gt;Planning phase&lt;/u&gt;: Trend analysis of past profits &lt;/div&gt;b) &lt;u&gt;Testing phase&lt;/u&gt;: Comparing salary with total number of employees &lt;br&gt;c) &lt;u&gt;Completion&amp;nbsp; phase&lt;/u&gt;: Overall ratio analysis of&amp;nbsp; current year financial performance " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-4" value="&lt;div&gt;Can be applied at -&lt;br&gt;&lt;/div&gt;&lt;div&gt;a) &lt;u&gt;Planning phase&lt;/u&gt;: Trend analysis of past profits &lt;/div&gt;b) &lt;u&gt;Testing phase&lt;/u&gt;: Comparing salary with total number of employees &lt;br&gt;c) &lt;u&gt;Completion&amp;nbsp; phase&lt;/u&gt;: Overall ratio analysis of&amp;nbsp; current year financial performance " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4260" y="390" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-6" value="&lt;div&gt;C&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-6" value="&lt;div&gt;C&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4200" y="415" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-7" target="h4j_J2Ua0VX4yCe80c4F-9" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-7" target="h4j_J2Ua0VX4yCe80c4F-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-7" target="h4j_J2Ua0VX4yCe80c4F-31" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-7" target="h4j_J2Ua0VX4yCe80c4F-31" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors to be considered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;Predictability&lt;/u&gt; – A predictable relationship is one that may &lt;br&gt;reasonably be expected to exist and continue over time.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; &lt;u&gt;Availability of Data&lt;/u&gt; – The availability of reliable and relevant data will &lt;br&gt;facilitate effective procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; &lt;u&gt;Nature of Assertion&lt;/u&gt; – more effective in providing evidence for some &lt;br&gt;assertions. Predictive analytical procedures using data analytics can be&lt;br&gt; used to address completeness, valuation/measurement and occurrence &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;4.&amp;nbsp; &lt;u&gt;Inherent Risk or “What Can Go Wrong”&lt;/u&gt; – consider &lt;br&gt;the ROMM in order to determine if a substantive analytical procedure can be &lt;br&gt;&lt;/div&gt;used to obtain audit evidence.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; &lt;u&gt;Disaggregation&lt;/u&gt; – degree of disaggregation{&lt;span class=&quot;one-click-content css-nnyc96 e1q3nk1v1&quot;&gt;&lt;span class=&quot;tx&quot;&gt;breaking up into component parts&lt;/span&gt;&lt;/span&gt;} of &lt;br&gt;&lt;/div&gt;&lt;div&gt;data can directly affect the degree of its usefulness in detecting misstatements &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors to be considered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;Predictability&lt;/u&gt; – A predictable relationship is one that may &lt;br&gt;reasonably be expected to exist and continue over time.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; &lt;u&gt;Availability of Data&lt;/u&gt; – The availability of reliable and relevant data will &lt;br&gt;facilitate effective procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; &lt;u&gt;Nature of Assertion&lt;/u&gt; – more effective in providing evidence for some &lt;br&gt;assertions. Predictive analytical procedures using data analytics can be&lt;br&gt; used to address completeness, valuation/measurement and occurrence &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;4.&amp;nbsp; &lt;u&gt;Inherent Risk or “What Can Go Wrong”&lt;/u&gt; – consider &lt;br&gt;the ROMM in order to determine if a substantive analytical procedure can be &lt;br&gt;&lt;/div&gt;used to obtain audit evidence.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; &lt;u&gt;Disaggregation&lt;/u&gt; – degree of disaggregation{&lt;span class=&quot;one-click-content css-nnyc96 e1q3nk1v1&quot;&gt;&lt;span class=&quot;tx&quot;&gt;breaking up into component parts&lt;/span&gt;&lt;/span&gt;} of &lt;br&gt;&lt;/div&gt;&lt;div&gt;data can directly affect the degree of its usefulness in detecting misstatements &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4165" y="510" width="470" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-9" value="&lt;div&gt;P&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;N&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;D&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-9" value="&lt;div&gt;P&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;N&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;D&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4100" y="605" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-17" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-17" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-16" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-16" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-18" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-18" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-15" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-13" target="h4j_J2Ua0VX4yCe80c4F-15" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-13" value="Techniques" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-13" value="Techniques" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4332.5" y="1110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-15" target="h4j_J2Ua0VX4yCe80c4F-25" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-15" target="h4j_J2Ua0VX4yCe80c4F-25" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-15" value="Structural modelling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-15" value="Structural modelling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4660" y="1190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-16" target="h4j_J2Ua0VX4yCe80c4F-23" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-16" target="h4j_J2Ua0VX4yCe80c4F-23" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-16" value="&lt;div&gt;Reasonableness &lt;br&gt;&lt;/div&gt;&lt;div&gt;tests&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-16" value="&lt;div&gt;Reasonableness &lt;br&gt;&lt;/div&gt;&lt;div&gt;tests&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4445" y="1190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-17" target="h4j_J2Ua0VX4yCe80c4F-21" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-17" target="h4j_J2Ua0VX4yCe80c4F-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-17" value="Ratio analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-17" value="Ratio analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4225" y="1190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-18" target="h4j_J2Ua0VX4yCe80c4F-19" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-18" target="h4j_J2Ua0VX4yCe80c4F-19" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-18" value="Trend analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-18" value="Trend analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4005" y="1190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-19" target="h4j_J2Ua0VX4yCe80c4F-33" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-19" target="h4j_J2Ua0VX4yCe80c4F-33" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4065" y="1440" />
@@ -2580,22 +2583,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-19" value="comparison of current &lt;br&gt;data with the prior period balance or with a trend in two or more prior period balances. evaluate whether the current balance of an account moves in line with the trend established with previous balances for&amp;nbsp; that account, or based on an understanding of factors that may cause the account to change. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-19" value="comparison of current &lt;br&gt;data with the prior period balance or with a trend in two or more prior period balances. evaluate whether the current balance of an account moves in line with the trend established with previous balances for&amp;nbsp; that account, or based on an understanding of factors that may cause the account to change. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3965" y="1250" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-21" target="h4j_J2Ua0VX4yCe80c4F-33" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-21" target="h4j_J2Ua0VX4yCe80c4F-33" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-21" value="Individual balance &lt;br&gt;sheet account is difficult to predict on its own, but its relationship to another account is often more predictable (e.g., trade receivables balance related to sales). Ratios can be compared over time or to the ratios of separate entities within the group, or with the ratios of other companies in the same industry." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-21" value="Individual balance &lt;br&gt;sheet account is difficult to predict on its own, but its relationship to another account is often more predictable (e.g., trade receivables balance related to sales). Ratios can be compared over time or to the ratios of separate entities within the group, or with the ratios of other companies in the same industry." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4185" y="1250" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-23" target="h4j_J2Ua0VX4yCe80c4F-33" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-23" target="h4j_J2Ua0VX4yCe80c4F-33" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-23" value="&lt;div&gt;[reasonable or not]&lt;br&gt;&lt;/div&gt;&lt;div&gt;analytical procedures that does not rely on events of prior periods, but upon non-financial data for the audit period under consideration (e.g., occupancy&amp;nbsp; rates to estimate rental income or interest rates to estimate interest income or expense).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-23" value="&lt;div&gt;[reasonable or not]&lt;br&gt;&lt;/div&gt;&lt;div&gt;analytical procedures that does not rely on events of prior periods, but upon non-financial data for the audit period under consideration (e.g., occupancy&amp;nbsp; rates to estimate rental income or interest rates to estimate interest income or expense).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4405" y="1250" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-25" target="h4j_J2Ua0VX4yCe80c4F-33" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-25" target="h4j_J2Ua0VX4yCe80c4F-33" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4720" y="1440" />
@@ -2603,29 +2606,104 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-25" value="A modelling tool constructs a statistical model from &lt;br&gt;financial and/or non-financial data&amp;nbsp; of&amp;nbsp; prior accounting periods to&amp;nbsp; predict current account balances (e.g., linear regression). " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-25" value="A modelling tool constructs a statistical model from &lt;br&gt;financial and/or non-financial data&amp;nbsp; of&amp;nbsp; prior accounting periods to&amp;nbsp; predict current account balances (e.g., linear regression). " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4620" y="1250" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-31" target="h4j_J2Ua0VX4yCe80c4F-13" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-31" target="h4j_J2Ua0VX4yCe80c4F-13" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-31" target="h4j_J2Ua0VX4yCe80c4F-32" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-31" target="h4j_J2Ua0VX4yCe80c4F-32" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-31" value="&lt;div&gt;Precautions to be taken before performing analytical procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-31" value="&lt;div&gt;Precautions to be taken before performing analytical procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4165" y="800" width="470" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-32" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-32" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4320" y="960" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h4j_J2Ua0VX4yCe80c4F-33" target="h4j_J2Ua0VX4yCe80c4F-34" visible="0">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h4j_J2Ua0VX4yCe80c4F-33" target="h4j_J2Ua0VX4yCe80c4F-34" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-33" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Extent of Reliance on Analytical procedures&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is influenced by its source and nature and is dependent &lt;/div&gt;on the circumstances under which it is obtained&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1&amp;nbsp; Source of the information available. For example, more &lt;/div&gt;&lt;div&gt;reliable when obtained from independent sources outside the entity; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2&amp;nbsp; Comparability of the information available &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp; Nature and relevance of the information available. &lt;/div&gt; &lt;div&gt;&lt;br&gt;&lt;/div&gt;4&amp;nbsp; Controls over the preparation of the information that are designed to ensure &lt;br&gt;its completeness, accuracy and validity. For example, controls over the &lt;br&gt;preparation, review and maintenance of budgets. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-33" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Extent of Reliance on Analytical procedures&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is influenced by its source and nature and is dependent &lt;/div&gt;on the circumstances under which it is obtained&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1&amp;nbsp; Source of the information available. For example, more &lt;/div&gt;&lt;div&gt;reliable when obtained from independent sources outside the entity; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2&amp;nbsp; Comparability of the information available &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp; Nature and relevance of the information available. &lt;/div&gt; &lt;div&gt;&lt;br&gt;&lt;/div&gt;4&amp;nbsp; Controls over the preparation of the information that are designed to ensure &lt;br&gt;its completeness, accuracy and validity. For example, controls over the &lt;br&gt;preparation, review and maintenance of budgets. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4180" y="1470" width="425" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="h4j_J2Ua0VX4yCe80c4F-34" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Results of Analytical Procedure &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Identify fluctuations&amp;nbsp; or&amp;nbsp; relationships&amp;nbsp; that&amp;nbsp; are&amp;nbsp; inconsistent&amp;nbsp; with&amp;nbsp; other&amp;nbsp; relevant&amp;nbsp; information or that differ from expected values by a significant amount, the auditor shall investigate such differences by: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(i) Inquiring of management and obtaining appropriate audit evidence &lt;br&gt;&lt;div&gt;relevant to management’s responses&lt;br&gt;&lt;/div&gt;&lt;br&gt;(ii)&amp;nbsp; PAAP as necessary in the circumstances: &lt;br&gt;mgmt is unable to provide an explanation, audit evidence obtained relevant to mgmt’s response, is not considered adequate. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="h4j_J2Ua0VX4yCe80c4F-34" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Results of Analytical Procedure &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Identify fluctuations&amp;nbsp; or&amp;nbsp; relationships&amp;nbsp; that&amp;nbsp; are&amp;nbsp; inconsistent&amp;nbsp; with&amp;nbsp; other&amp;nbsp; relevant&amp;nbsp; information or that differ from expected values by a significant amount, the auditor shall investigate such differences by: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(i) Inquiring of management and obtaining appropriate audit evidence &lt;br&gt;&lt;div&gt;relevant to management’s responses&lt;br&gt;&lt;/div&gt;&lt;br&gt;(ii)&amp;nbsp; PAAP as necessary in the circumstances: &lt;br&gt;mgmt is unable to provide an explanation, audit evidence obtained relevant to mgmt’s response, is not considered adequate. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4180" y="1730" width="425" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2CRcYAwDNHOzEdYmdUe-1" target="g2CRcYAwDNHOzEdYmdUe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-1" value="Subsequent events are such &lt;u&gt;events&lt;/u&gt; which &lt;u&gt;occur after date of FS&lt;/u&gt; and &lt;u&gt;before date of auditor’s report&lt;/u&gt; and facts that come to the &lt;br&gt;knowledge of auditor after issue of auditor’s report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5280" y="180" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2CRcYAwDNHOzEdYmdUe-3" target="g2CRcYAwDNHOzEdYmdUe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2CRcYAwDNHOzEdYmdUe-3" target="g2CRcYAwDNHOzEdYmdUe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/UNOFyZ7.png;" vertex="1" parent="1">
+          <mxGeometry x="5297.09" y="380" width="365.83" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2CRcYAwDNHOzEdYmdUe-5" target="g2CRcYAwDNHOzEdYmdUe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objective&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Obtain SAAE whether events occurring between date of FS and auditor’s &lt;br&gt;report that require adjustment of, or disclosure in FS are appropriately reflected&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; Respond appropriately to facts that become known to the auditor after the &lt;br&gt;date of auditor’s report, and amend the auditor’s report if necessary.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5252.5" y="250" width="455" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2CRcYAwDNHOzEdYmdUe-9" target="g2CRcYAwDNHOzEdYmdUe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-9" value="Events" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5220" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2CRcYAwDNHOzEdYmdUe-10" target="g2CRcYAwDNHOzEdYmdUe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-10" value="Fact" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5620" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit Procedures - Events occurring after FS before Audit report&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. understand procedures mgmt has established identify subsequent events.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. Inquiring of mgmt/TCWG whether any subsequent events occurred might affect the FS&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Reading minutes of the meetings that have been held after the date of the FS&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; Reading latest subsequent interim FS &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; Obtain written representations that subsequent events requiring &lt;br&gt;&lt;/div&gt;&lt;div&gt;adjustment / disclosure have been adjusted / disclosed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="620" width="380" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit Procedures- Facts occurring after auditor’s report but &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;before FS are issued&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;1&amp;nbsp; Discuss the matter with management / TCWG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp; Determine whether FS need amendment or not&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;3&amp;nbsp; Inquire how management intends to address the matter in the FS&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4&amp;nbsp; If management amends the FS, the auditor shall: &lt;br&gt;(a) Carry out the audit procedures necessary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5490" y="620" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-17" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit Procedures- Facts occurring after auditor’s report but &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;After FS are issued&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;1&amp;nbsp; (a) :&lt;/div&gt;&lt;div&gt;&amp;nbsp; the auditor shall modify the opinion and then provide the auditor’s report&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) : &lt;br&gt;notify mgmt/TCWG not to issue the financial statements to third &lt;br&gt;parties before the necessary amendments have been made. &amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If management does not take the necessary steps to ensure that anyone &lt;br&gt;in receipt of the previously issued financial statements&amp;nbsp; is&amp;nbsp; informed&amp;nbsp; of&amp;nbsp; the &lt;br&gt;situation, the auditor shall notify&amp;nbsp; management and TCWG&lt;/div&gt;&lt;div&gt; If, despite such notification, management or those charged with governance &lt;br&gt;do&amp;nbsp; not&amp;nbsp; take&amp;nbsp; these&amp;nbsp; necessary&amp;nbsp; steps,&amp;nbsp; the&amp;nbsp; auditor&amp;nbsp; shall&amp;nbsp; take&amp;nbsp; appropriate &lt;br&gt;action to seek to prevent reliance on the auditor’s report&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5890" y="620" width="500" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2CRcYAwDNHOzEdYmdUe-18" target="g2CRcYAwDNHOzEdYmdUe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-18" value="&lt;div&gt;If the auditor’s report has&lt;/div&gt;&lt;div&gt; not yet been provided to the entity&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5960" y="960" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2CRcYAwDNHOzEdYmdUe-19" target="g2CRcYAwDNHOzEdYmdUe-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-19" value="If the auditor’s report has already been provided to the entity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6160" y="960" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-20" value="auditor shall modify the opinion and then provide the auditor’s report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5960" y="1030" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2CRcYAwDNHOzEdYmdUe-21" target="g2CRcYAwDNHOzEdYmdUe-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-21" value="notify mgmt/TCWG not to issue the financial statements to third parties before the necessary amendments have been made" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6160" y="1030" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2CRcYAwDNHOzEdYmdUe-24" target="g2CRcYAwDNHOzEdYmdUe-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-24" value="&lt;div&gt;If mgt does not&lt;/div&gt;&lt;div&gt; take necessary steps to ensure that anyone&lt;/div&gt;in receipt of the previously issued FS is informed of the situation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="6160" y="1130" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-26" value="&lt;div&gt;If mgt does not&lt;/div&gt;&lt;div&gt; take necessary steps to ensure that anyone&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6250" y="1270" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g2CRcYAwDNHOzEdYmdUe-27" value="notify mgmt / TCWG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6160" y="1250" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
