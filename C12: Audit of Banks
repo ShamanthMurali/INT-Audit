@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T01:00:52.296Z" agent="5.0 (X11)" etag="DfA85_y2j6xooIekGt80" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-09T01:32:46.581Z" agent="5.0 (X11)" etag="3aysuNBSNb-dGDjhVzXZ" version="14.9.5" type="github">
   <diagram id="ErfhvTYTZrg_oTytCJzO" name="Page-1">
-    <mxGraphModel dx="1351" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5023" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,10 +224,58 @@
           <mxGeometry x="180" y="3410" width="480" height="260" as="geometry" />
         </mxCell>
         <mxCell id="nBsDl6pV9YPzUL2T5VkE-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit of Advances&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Check classification of advances and its disclosure&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;2. Examine internal control- policy of the bank, sanctioning authority, system of &lt;br&gt;&lt;div&gt;verifying credibility of the borrower, system of recording advances etc. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. Examine loan documentation- purpose of the loan, sanction letter, security and &lt;br&gt;&lt;div&gt;collaterals taken from the borrower&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;4. Recover ability of advances and income recognition &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. Provisioning&amp;nbsp; and&amp;nbsp; NPA&amp;nbsp; norms&amp;nbsp; whether&amp;nbsp; applied&amp;nbsp; properly&amp;nbsp; or&amp;nbsp; not&amp;nbsp; (as&amp;nbsp; discussed &lt;br&gt;earlier). &lt;br&gt;6. Whether security is adequate and legally enforceable or not. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-249" y="3880" width="465" height="230" as="geometry" />
+          <mxGeometry x="-527" y="3760" width="465" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="nBsDl6pV9YPzUL2T5VkE-3" value="&lt;div&gt;Evaluation of Internal Control over advances&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;The auditor should examine the efficacy of various internal controls over &lt;br&gt;advances to determine the nature, timing and extent of his substantive &lt;br&gt;&lt;div&gt;procedures.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1&amp;nbsp; make an advance only after satisfying itself as to the credit &lt;br&gt;worthiness of the borrower and after obtaining sanction from the appropriate &lt;br&gt;&lt;div&gt;authorities of the bank. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2&amp;nbsp; All the necessary documents should be executed by the parties before &lt;br&gt;&lt;div&gt;advances are made. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3 The compliance with the terms of sanction and end use of funds should be &lt;br&gt;&lt;div&gt;ensured. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4 Sufficient margin as specified in the sanction letter should be kept against &lt;br&gt;securities taken so as to cover for any decline in the value thereof. The &lt;br&gt;&lt;div&gt;availability of sufficient margin needs to be assessed at regular intervals. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5 All securities requiring registration should be registered in the name&amp;nbsp; of&amp;nbsp; the &lt;br&gt;bank or otherwise accompanied by documents&amp;nbsp; sufficient to give&amp;nbsp; title&amp;nbsp; to&amp;nbsp; the &lt;br&gt;&lt;div&gt;bank. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;7.6&amp;nbsp; All the accounts which exceed the sanctioned limit or drawing power or are &lt;br&gt;otherwise irregular should be brought to the notice of the controlling authority &lt;br&gt;regularly " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234.5" y="3880" width="465" height="420" as="geometry" />
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Evaluation of Internal Control over advances&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;The auditor should examine the efficacy of various internal controls over &lt;br&gt;advances to determine the nature, timing and extent of his substantive &lt;br&gt;&lt;div&gt;procedures.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1&amp;nbsp; make an advance only after satisfying itself as to the credit &lt;br&gt;worthiness of the borrower and after obtaining sanction from the appropriate &lt;br&gt;&lt;div&gt;authorities of the bank. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2&amp;nbsp; All the necessary documents should be executed by the parties before &lt;br&gt;&lt;div&gt;advances are made. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3 The compliance with the terms of sanction and end use of funds should be &lt;br&gt;&lt;div&gt;ensured. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4 Sufficient margin is kept against securities to cover any decline in value and assessed at regular intervals. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5 All securities requiring registration should be registered in the name of the &lt;br&gt;bank or otherwise accompanied by documents sufficient to give title to the bank. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6&amp;nbsp; accounts which exceed sanctioned limit or drawing power are brought to the &lt;br&gt;&lt;/div&gt;&lt;div&gt;notice of the controlling authority regularly. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-43.5" y="3760" width="445.5" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBsDl6pV9YPzUL2T5VkE-4" target="nBsDl6pV9YPzUL2T5VkE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit of Revenue items&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Material income* on gross basics should be considered on accrual as per AS-9. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. If any item of income is not considered to be material* , it&amp;nbsp; may&amp;nbsp; be&amp;nbsp; recognised&amp;nbsp; when&amp;nbsp; received(cash basics) and the auditors need not qualify the statements in that situation. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. banks should not recognize income on NPA until it is actually realised. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. interest accrued and credited to the income account with respect to NPAs should be reversed &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. Fees and commissions earned by the banks as a result of re-negotiations or &lt;br&gt;rescheduling of outstanding debts should be recognized on an accrual basis &lt;br&gt;over the period of time covered by the re-negotiated or rescheduled extension &lt;br&gt;of credit. Test checks the Interest earned by the banks for sample items. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="3760" width="465" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBsDl6pV9YPzUL2T5VkE-5" target="nBsDl6pV9YPzUL2T5VkE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBsDl6pV9YPzUL2T5VkE-5" target="nBsDl6pV9YPzUL2T5VkE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-5" value="*Material income (MI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594.5" y="4030" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBsDl6pV9YPzUL2T5VkE-6" target="nBsDl6pV9YPzUL2T5VkE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-6" value="Net basics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674.5" y="4110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBsDl6pV9YPzUL2T5VkE-7" target="nBsDl6pV9YPzUL2T5VkE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-7" value="Gross basics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.5" y="4110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBsDl6pV9YPzUL2T5VkE-8" target="nBsDl6pV9YPzUL2T5VkE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-8" value="MI = Inc &amp;gt; 1% of total income(NPBT)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.5" y="4170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBsDl6pV9YPzUL2T5VkE-9" target="nBsDl6pV9YPzUL2T5VkE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-9" value="MI = Inc &amp;gt; 1% of NPAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674.5" y="4170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-19" value="&lt;div&gt;Yes - accrual basics&lt;/div&gt;&lt;div&gt;No - cash basics&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.5" y="4230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-21" value="&lt;div&gt;Yes - accrual basics&lt;/div&gt;&lt;div&gt;No - cash basics&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674.5" y="4230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBsDl6pV9YPzUL2T5VkE-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit of Expenses &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Expenditure is to be shown under three broad heads &amp;nbsp;&lt;br&gt;(1) Interest expended &lt;br&gt;(2) Operating expenses &lt;br&gt;&lt;div&gt;(3) Provisions and contingencies&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. assess the overall reasonableness of the amount of interest expense &lt;br&gt;by analyzing ratios of interest paid on different types of deposits&amp;nbsp; and &lt;br&gt;&lt;div&gt;borrowings to the average quantum of the respective liabilities during the year &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. verify the calculation of interest and satisfy himself that: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Interest has been provided on all deposits upto the date of the balance sheet; &lt;br&gt;&lt;/div&gt;&lt;div&gt;and verify whether there is any excess or short credit of material amount. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Interest rates are in accordance with the bank’s internal regulations and RBI&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c. FD Interest Rate in accounting system are in accordance with the Interest Rate mentioned in FD Receipt/Certificate &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. Interest&amp;nbsp; on&amp;nbsp; Savings&amp;nbsp; Account accordance with the rules framed by the bank in this behalf or not&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;e. Interest on overdue/ matured term deposits should be estimated and provided for " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="902" y="3760" width="465" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
