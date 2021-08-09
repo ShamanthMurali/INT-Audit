@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T16:06:13.271Z" agent="5.0 (X11)" etag="1eIuLSDJiiRf_g5tJS09" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-09T16:51:49.052Z" agent="5.0 (X11)" etag="tg1XEc_sKcqoSRiGpDOQ" version="14.9.5" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1448" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2643" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,11 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA200 &lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-699" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-3" target="nxGcZgy3DwgqNJVg8IEv-1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Overall Objectives of the Independent Auditor and the Conduct of an Audit in Accordance with Standards on Auditing&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-3">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="-799" y="120" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -2108,9 +2111,6 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-202" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit procedures to evaluate feasibility of &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Management’s assessment&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. evaluate mgmt’s assessment of going concern. auditor shall use period used by mgmt to make its assessment as required by the applicable FRF &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 2. If management’s assessment is &amp;lt; 12m from the date of the FS, auditor shall request mgmt to extend its assessment period to at least 12m &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. The auditor shall consider whether mgmt’s assessment includes all relevant information of which the auditor is aware as a result of the audit &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Evaluating mgmt’s plans for future actions in relation to going concern assessment, whether plans are feasible in circumstances &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. whether any additional facts or information have become available since the date on which mgmt made its assessment &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Where the entity has prepared a cash flow forecast, and analysis of the forecast in considering the future outcome of events in the evaluation of mgmt’s plans for future actions:&lt;/div&gt;&lt;div&gt;(i) Evaluating the reliability of the data generated to prepare the forecast&lt;/div&gt;&lt;div&gt;(ii) whether there is adequate support for the assumptions in the forecast.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5640" y="920" width="400" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-207" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid9&quot;&gt;&lt;span style=&quot;left: 179.908px ; top: 661.68px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859822)&quot; dir=&quot;ltr&quot;&gt;Overall Objectives of the Indepen&lt;/span&gt;&lt;span style=&quot;left: 469.303px ; top: 661.68px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859206)&quot; dir=&quot;ltr&quot;&gt;dent Auditor and the Conduct of an Audit in &lt;/span&gt;&lt;span style=&quot;left: 179.89px ; top: 685.085px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.855724)&quot; dir=&quot;ltr&quot;&gt;Accordance with Standards on Auditing&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="-110" width="310" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-209" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid11&quot;&gt;&lt;span style=&quot;left: 179.871px ; top: 758.482px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859929)&quot; dir=&quot;ltr&quot;&gt;Quality Control for an Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="-70" width="310" height="30" as="geometry" />
         </mxCell>
@@ -2734,6 +2734,89 @@
         </mxCell>
         <mxCell id="IKwhIBVx80-9PYvc8_yb-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit Conclusions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If the auditor finds the following-&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. unable to obtain SAAE regarding the opening balances&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp; opening balances contain a misstatement &lt;br&gt;that materially affects the current period’s financial statements, and the &lt;br&gt;effect of the misstatement is not properly accounted for or not adequately &lt;br&gt;&lt;/div&gt;&lt;div&gt;presented or disclosed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp; If the auditor concludes that: &amp;nbsp;&lt;br&gt;(a)&amp;nbsp; the current period’s accounting policies are not consistently applied &lt;br&gt;in&amp;nbsp; relation&amp;nbsp; to&amp;nbsp; opening&amp;nbsp; balances&lt;br&gt;(b)&amp;nbsp; change in accounting policies is not properly accounted / presented / disclosed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Auditor shall express a qualified opinion or an &lt;br&gt;adverse opinion, as appropriate, in accordance with SA 705 &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;_________________________________&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt;&amp;gt;&amp;nbsp; If the predecessor auditor’s opinion regarding the prior period’s FS included a modification to the auditor’s opinion t&lt;u&gt;hat remains &lt;br&gt;relevant and material to the current period’s&lt;/u&gt; FS&lt;/div&gt;&lt;div&gt;the&amp;nbsp; auditor shall modify the auditor’s opinion on the current period’s&lt;/div&gt;&lt;div&gt;&amp;nbsp;FS in accordance with SA 705&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3800" y="650" width="480" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-1" target="nxGcZgy3DwgqNJVg8IEv-3" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-1" value="&lt;div&gt;1. obtain reasonable assurance about whether the FS as a whole are free from material misstatement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. report on the FS, and communicate as required by the SAs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-799" y="220" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-6" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-639" y="390" />
+              <mxPoint x="-760" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-4" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-639" y="390" />
+              <mxPoint x="-520" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-5" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-639" y="390" />
+              <mxPoint x="-240" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-7" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-639" y="390" />
+              <mxPoint x="-994" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-3" value="Requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-699" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-4" target="nxGcZgy3DwgqNJVg8IEv-14" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-4" value="Professional Judgment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-580" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-5" target="nxGcZgy3DwgqNJVg8IEv-16" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-5" value="Conduct of an audit in accordance with SAs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-300" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-6" target="nxGcZgy3DwgqNJVg8IEv-12" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-6" value="Professional Skepticism" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-819.5" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-7" target="nxGcZgy3DwgqNJVg8IEv-8" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-7" value="Ethical Requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1054.5" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-8" target="nxGcZgy3DwgqNJVg8IEv-9" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-8" value="&lt;div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;rofessional Competence and due care- Skills, Knowledge and Questioning &lt;/div&gt;Mind&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;onfidentiality- should not disclose information acquired during the course of &lt;/div&gt;&lt;div&gt;audit without client’s prior consent unless required by law or regulation. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;rofessional Behavior- Good Code of Conduct and systematic approach to &lt;/div&gt;audit.&lt;/div&gt;&lt;div&gt;&lt;br&gt;4. &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;bjectivity - Being unbiased &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;ntegrity - Honesty &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1124.5" y="480" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-9" value="&lt;div&gt;P&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;O&lt;/div&gt;&lt;div&gt;I&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1184.5" y="570" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-12" value="&lt;div&gt;1. questioning mind&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. alert to conditions which indicate possible misstatement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. recognizing circumstances which exist when FS materially misstated&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-854.5" y="480" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-14" value="&lt;div&gt;auditor shall exercise professional judgment in planning and performing an audit of FS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;necessary in regarding decisions about:&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Materiality and audit risk &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. nature, timing, and extent of audit procedures&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Evaluating whether SAAE has been obtained&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. evaluation of mgmt’s judgments&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. drawing of conclusions based on the audit evidence obtained&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-654.5" y="480" width="269" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-16" value="&lt;div&gt;1. shall comply with all relevant SAs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. achieve SA objectives to achieve overall objective&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. may depart from a relevant requirement in an SA. In such circumstances, PAAP to achieve the&amp;nbsp; aim of that requirement. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. If objective of SA cannot be achieved auditor shall modify the auditor’s opinion or withdraw from the engagement&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-374.5" y="480" width="269" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
