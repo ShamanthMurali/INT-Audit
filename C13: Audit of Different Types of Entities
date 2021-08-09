@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T16:53:00.870Z" agent="5.0 (X11)" version="14.9.5" etag="Se4qMBe7t6pRjcjsOmvF" type="github"><diagram id="hz5IPeGCTFuj1s-dtFxm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-09T16:57:51.998Z" agent="5.0 (X11)" etag="XIuc-tlOMFj5JvPuBCA-" version="14.9.5" type="github">
+  <diagram id="hz5IPeGCTFuj1s-dtFxm" name="Page-1">
+    <mxGraphModel dx="1715" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IZyFVW_KutWZbLwf99ln-1" value="Audit of Different Types of Entities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-2" value="&lt;div&gt;Government&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-6">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="-610" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-7" value="Local Bodies" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-8">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="-450" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-9" value="NGO" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-10">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="-290" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-11" value="Sole trader" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="-130" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-13" value="Firm" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-14">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="30" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-15" value="LLP" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-16">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="190" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-17" value="&lt;div&gt;Charitable&lt;/div&gt;&lt;div&gt;institution&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-18">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="350" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-19" value="&lt;div&gt;Educational &lt;br&gt;&lt;/div&gt;&lt;div&gt;Institution&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-20">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="510" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-21" value="Hospital" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-22">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="670" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-23" value="Club" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-24">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="830" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-25" value="Cinema" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-26">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="990" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-27" value="&lt;div&gt;Hire Purchase &lt;br&gt;&lt;/div&gt;&lt;div&gt;and Leasing&lt;/div&gt;&lt;div&gt;Companies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-28">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="1150" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-29" value="Hotels" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-30">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="1310" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IZyFVW_KutWZbLwf99ln-31" value="&lt;div&gt;Co-operative&lt;/div&gt;&lt;div&gt;Society&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-32">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="1470" y="180" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
