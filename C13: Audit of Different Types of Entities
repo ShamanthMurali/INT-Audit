@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T15:22:12.218Z" agent="5.0 (X11)" etag="N5EL1MCNNHPD52_4MmRj" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-11T15:51:44.583Z" agent="5.0 (X11)" etag="HBefgq_ON0EAKKQiQBvS" version="14.9.5" type="github">
   <diagram id="hz5IPeGCTFuj1s-dtFxm" name="Page-1">
-    <mxGraphModel dx="1720" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2421" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,6 +130,45 @@
         </mxCell>
         <mxCell id="-S-AlKYmnnd1beDGiUsj-4" value="&lt;u&gt;CAG shall within 60 days&lt;/u&gt; from the date &lt;br&gt;&lt;div&gt;of receipt of the audit report, have a right to,— &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. conduct a supplementary audit. either by himself or by authorizing persons on behalf&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. comment upon or supplement such audit report and such audit report shall be sent by the company to every person entitled to copies of audited FS and place it at AGM.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="-760" y="350" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uw9GzHqP9_j2fkDacKYc-1" target="Uw9GzHqP9_j2fkDacKYc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uw9GzHqP9_j2fkDacKYc-1" target="Uw9GzHqP9_j2fkDacKYc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uw9GzHqP9_j2fkDacKYc-1" target="Uw9GzHqP9_j2fkDacKYc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-1" value="Elements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uw9GzHqP9_j2fkDacKYc-2" target="Uw9GzHqP9_j2fkDacKYc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-2" value="Expenditure audit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-3" value="Audit of revenue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-4" value="Audit of Stores and Stocks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uw9GzHqP9_j2fkDacKYc-8" target="Uw9GzHqP9_j2fkDacKYc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-8" value="&lt;div&gt;&amp;nbsp;&lt;u&gt;&lt;b&gt;Audit of rules and orders&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;whether every transaction is according to the rules and regulations framed by appropriate authorities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;audit of sanctions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;whether every transaction is supported / backed by a sanction of an appropriate authority&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;audit of provision of funds&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;whether there is adequate provision made for the expenditure and the amt does not exceed the appropriation made and is used for a particuler purpose only&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="640" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uw9GzHqP9_j2fkDacKYc-9" target="Uw9GzHqP9_j2fkDacKYc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-9" value="&lt;u&gt;&lt;b&gt;audit of performance&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;whether the govt programs have achieved desired objectives at the lowest cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Economy&lt;/u&gt;- minimising the cost of resources used&amp;nbsp; for an activity, having regard to appropriate quantity, quality and at the best price &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;u&gt;Efficiency&lt;/u&gt;-&amp;nbsp; It is the input-output ratio. efficiency is&amp;nbsp; achieved when the output is maximised at the minimum of inputs, or input is minimised for any given quantity and quality of output. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;u&gt;Effectiveness&lt;/u&gt;- It is the extent to which objectives are achieved and the relationship b/w the intended impact and the actual impact of an activity &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="840" width="280" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw9GzHqP9_j2fkDacKYc-10" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;propriety audit&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Principles governing propriety audit:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a) the govt officials should not incur the expenditure more than the occasion demands&lt;/div&gt;&lt;div&gt;&lt;br&gt;b) Should not use for its own advantage&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c) funds are not utilised for the benefit of a particular person or group &lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;of persons&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1100" width="280" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
