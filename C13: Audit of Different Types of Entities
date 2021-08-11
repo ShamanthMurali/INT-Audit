@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T22:39:09.917Z" agent="5.0 (X11)" etag="BpsItDrEw9AVewblnBTT" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-11T23:18:22.864Z" agent="5.0 (X11)" etag="QWz8_Wq2Q4wsoRWfV_lI" version="14.9.6" type="github">
   <diagram id="hz5IPeGCTFuj1s-dtFxm" name="Page-1">
     <mxGraphModel dx="1718" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -22,7 +22,7 @@
           <mxGeometry x="-500" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-8">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="-450" y="180" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -46,7 +46,7 @@
           <mxGeometry x="-20" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-14">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="30" y="180" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -196,6 +196,9 @@
         </mxCell>
         <mxCell id="Uw9GzHqP9_j2fkDacKYc-22" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Duties of CAG&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Compile and submit Accounts of Union and States&lt;br&gt;&lt;/div&gt;&lt;div&gt;Audit of Receipts and Expenditure&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Audit of Grants or Loans&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Audit of Receipts of Union or States&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Audit of Accounts of Stores and Inventory&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Audit&amp;nbsp; of&amp;nbsp; Government&amp;nbsp; Companies&amp;nbsp; and&amp;nbsp; Corporations&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. General Provisions Relating to Audit&lt;/div&gt;&lt;div&gt;&lt;b&gt;a.&lt;/b&gt; audit and report on all expenditure from the&amp;nbsp; Consolidated Fund of India and of each State / UT.&lt;/div&gt;&lt;div&gt;&lt;b&gt;b.&lt;/b&gt; audit and report all transactions of the state / UT relating to Contingency Funds and Public Accounts&lt;/div&gt;&lt;div&gt;&lt;b&gt;c.&lt;/b&gt; audit and report on all trading, manufacturing and P/L a/cs and B/S and other subsidiary accounts kept in any department of the State/UT. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-760" y="930" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="_xo7v4rB_vBV-IrAo5zr-3" value="Partnership firm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="220" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
