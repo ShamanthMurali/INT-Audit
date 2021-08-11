@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T19:59:18.124Z" agent="5.0 (X11)" etag="z9Oql0GJ8r61Uv-ymWx7" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-11T15:22:12.218Z" agent="5.0 (X11)" etag="N5EL1MCNNHPD52_4MmRj" version="14.9.5" type="github">
   <diagram id="hz5IPeGCTFuj1s-dtFxm" name="Page-1">
-    <mxGraphModel dx="1266" dy="181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="IZyFVW_KutWZbLwf99ln-2" value="&lt;div&gt;Government&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-660" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-S-AlKYmnnd1beDGiUsj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-6" target="-S-AlKYmnnd1beDGiUsj-2">
+        <mxCell id="-S-AlKYmnnd1beDGiUsj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZyFVW_KutWZbLwf99ln-6" target="-S-AlKYmnnd1beDGiUsj-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-6">
@@ -122,14 +122,14 @@
             <mxGeometry x="1470" y="180" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-S-AlKYmnnd1beDGiUsj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-S-AlKYmnnd1beDGiUsj-2" target="-S-AlKYmnnd1beDGiUsj-4">
+        <mxCell id="-S-AlKYmnnd1beDGiUsj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-S-AlKYmnnd1beDGiUsj-2" target="-S-AlKYmnnd1beDGiUsj-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-S-AlKYmnnd1beDGiUsj-2" value="&lt;div&gt;Auditor shall be appointed by the CAG of India&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CAG has the power to issue directions and instructions to the auditor so apointed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is the duty of the auditor so appointed to submit the audit report of govt co. to the CAG&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="-S-AlKYmnnd1beDGiUsj-2" value="&lt;div&gt;Auditor shall be appointed by the CAG of India&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CAG has the power to issue directions and instructions to the auditor so apointed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is the duty of the auditor so appointed to submit the audit report of govt co. to the CAG&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="-760" y="220" width="320" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-S-AlKYmnnd1beDGiUsj-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="350" width="320" height="110" as="geometry" />
+        <mxCell id="-S-AlKYmnnd1beDGiUsj-4" value="&lt;u&gt;CAG shall within 60 days&lt;/u&gt; from the date &lt;br&gt;&lt;div&gt;of receipt of the audit report, have a right to,— &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. conduct a supplementary audit. either by himself or by authorizing persons on behalf&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. comment upon or supplement such audit report and such audit report shall be sent by the company to every person entitled to copies of audited FS and place it at AGM.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="350" width="320" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
