@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T07:35:11.243Z" agent="5.0 (X11)" etag="3knjJsMjT6N50BZO5K1T" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T08:12:00.969Z" agent="5.0 (X11)" etag="qrKXs5GMN08qUwIjqMuD" version="14.9.6" type="github">
   <diagram id="hz5IPeGCTFuj1s-dtFxm" name="Page-1">
-    <mxGraphModel dx="1567" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1715" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
         <mxCell id="IZyFVW_KutWZbLwf99ln-13" value="Firm" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-20" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6-QJOc4JNgniOkC8MXnb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-14" target="_xo7v4rB_vBV-IrAo5zr-3">
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-14" target="_xo7v4rB_vBV-IrAo5zr-3" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-14">
@@ -200,8 +200,143 @@
         <mxCell id="Uw9GzHqP9_j2fkDacKYc-22" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Duties of CAG&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Compile and submit Accounts of Union and States&lt;br&gt;&lt;/div&gt;&lt;div&gt;Audit of Receipts and Expenditure&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Audit of Grants or Loans&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Audit of Receipts of Union or States&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Audit of Accounts of Stores and Inventory&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Audit&amp;nbsp; of&amp;nbsp; Government&amp;nbsp; Companies&amp;nbsp; and&amp;nbsp; Corporations&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. General Provisions Relating to Audit&lt;/div&gt;&lt;div&gt;&lt;b&gt;a.&lt;/b&gt; audit and report on all expenditure from the&amp;nbsp; Consolidated Fund of India and of each State / UT.&lt;/div&gt;&lt;div&gt;&lt;b&gt;b.&lt;/b&gt; audit and report all transactions of the state / UT relating to Contingency Funds and Public Accounts&lt;/div&gt;&lt;div&gt;&lt;b&gt;c.&lt;/b&gt; audit and report on all trading, manufacturing and P/L a/cs and B/S and other subsidiary accounts kept in any department of the State/UT. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-760" y="930" width="320" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="_xo7v4rB_vBV-IrAo5zr-3" value="Partnership firm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_xo7v4rB_vBV-IrAo5zr-3" target="6-QJOc4JNgniOkC8MXnb-2" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xo7v4rB_vBV-IrAo5zr-3" value="Partnership firm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-20" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-2" value="(i) &lt;u&gt;&lt;b&gt;Letter of Appointment&lt;/b&gt;&lt;/u&gt;:- &lt;u&gt;Confirming&lt;/u&gt; that the &lt;u&gt;letter of appointment&lt;/u&gt;, &lt;u&gt;signed&lt;/u&gt; by &lt;br&gt;a &lt;u&gt;partner&lt;/u&gt;, duly &lt;u&gt;authorised&lt;/u&gt;, &lt;u&gt;clearly states&lt;/u&gt; the &lt;u&gt;nature and scope of audit&lt;/u&gt;&amp;nbsp; &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) &lt;u&gt;&lt;b&gt;Partnership Documents&lt;/b&gt;&lt;/u&gt;:- &lt;u&gt;Studying&lt;/u&gt; the &lt;u&gt;minutes book&lt;/u&gt; relating to &lt;br&gt;&lt;/div&gt;authorization of extraordinary and capital expenditure, raising of loans; &amp;nbsp;&lt;br&gt;purchase of assets, etc.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) &lt;u&gt;&lt;b&gt;Objects of Partnership&lt;/b&gt;&lt;/u&gt;:- Verifying that the &lt;u&gt;business engaged is authorised&lt;/u&gt; by the partnership agreement; or by any extension or modification thereof agreed to subsequently. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) &lt;u&gt;&lt;b&gt;Books of Account&lt;/b&gt;&lt;/u&gt;:- whether books of account appear &lt;u&gt;reasonable&lt;/u&gt; and are considered &lt;u&gt;adequate&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) &lt;u&gt;&lt;b&gt;Mutual Interest&lt;/b&gt;&lt;/u&gt;:- under the partnership deed &lt;u&gt;any violation&lt;/u&gt; of a &lt;br&gt;&lt;/div&gt;&lt;div&gt;provision in the partnership agreements. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) &lt;u&gt;&lt;b&gt;Provision for Taxes&lt;/b&gt;&lt;/u&gt; :- provision has been made in the accounts before arriving at the amount of profit divisible among the partners. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vii) &lt;u&gt;&lt;b&gt;Division of Profits&lt;/b&gt;&lt;/u&gt; :- Verifying that the profits and losses have been &lt;u&gt;divided&lt;/u&gt; &lt;/div&gt;among the partners in their agreed &lt;u&gt;PSR&lt;/u&gt;. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-200" y="280" width="480" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-20" target="6-QJOc4JNgniOkC8MXnb-4" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-4" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="320" y="240" width="400" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-4">
+          <mxGeometry width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-6" value="&lt;u&gt;&lt;b&gt;Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-5">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-7" value="&lt;u&gt;&lt;b&gt;Expense&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-5">
+          <mxGeometry x="200" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-8" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-4">
+          <mxGeometry y="20" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-9" value="Tuition fees" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-8">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-10" value="Salaries to staff" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-8">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-4">
+          <mxGeometry y="60" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-12" value="Donations" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-11">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-13" value="Repairs and maintenance " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-11">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-4">
+          <mxGeometry y="100" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-15" value="subsidies and govt grants" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-14">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-16" value="Printing and stationary" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-14">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-4">
+          <mxGeometry y="140" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-18" value="fines and penalties" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-17">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-19" value="scholarship, awards, and prizes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-17">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-4">
+          <mxGeometry y="180" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-21" value="Canteen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-20">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-22" value="Other Expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-20">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-23" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-4">
+          <mxGeometry y="220" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-24" value="Other Incomes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-23">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-23">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-30" target="6-QJOc4JNgniOkC8MXnb-26" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-26" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1120" y="240" width="400" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-26">
+          <mxGeometry width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-28" value="&lt;u&gt;&lt;b&gt;Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-27">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-29" value="&lt;u&gt;&lt;b&gt;Expense&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-27">
+          <mxGeometry x="200" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-30" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-26">
+          <mxGeometry y="20" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-31" value="Room rent" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-30">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-32" value="Salaries to staff" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-30">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-33" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-26">
+          <mxGeometry y="60" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-34" value="sale of food and beverages" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-33">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-35" value="Repairs and maintenance " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-33">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-36" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-26">
+          <mxGeometry y="100" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-37" value="Income from other places" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-36">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-38" value="Purchase of groceries and cutlery" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-36">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-39" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-26">
+          <mxGeometry y="140" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-40" value="income from other facilities provided" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-39">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-41" value="commission to agents and online portals" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-39">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-42" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-26">
+          <mxGeometry y="180" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-43" value="other incomes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-42">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-44" value="Other Expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-42">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
