@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T09:07:39.369Z" agent="5.0 (X11)" etag="nljzJ7rLDpIUO2Qd_Q_Y" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T09:36:34.853Z" agent="5.0 (X11)" etag="XihI7AS8duVKDwehandr" version="14.9.6" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1711" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2634" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2123,9 +2123,6 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-211" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid15&quot;&gt;&lt;span style=&quot;left: 307.567px ; top: 928.48px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.854251)&quot; dir=&quot;ltr&quot;&gt;Joint &lt;/span&gt;&lt;span style=&quot;left: 345.563px ; top: 928.48px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.86003)&quot; dir=&quot;ltr&quot;&gt;Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="-60" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-212" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid20&quot;&gt;&lt;span style=&quot;left: 179.706px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.860697)&quot; dir=&quot;ltr&quot;&gt;Audit Evidence &lt;/span&gt;&lt;span style=&quot;left: 345.103px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.864772)&quot; dir=&quot;ltr&quot;&gt;-  Specific Conside&lt;/span&gt;&lt;span style=&quot;left: 472.486px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.861248)&quot; dir=&quot;ltr&quot;&gt;rations for Selec&lt;/span&gt;&lt;span style=&quot;left: 586.493px ; top: 1135.08px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.861169)&quot; dir=&quot;ltr&quot;&gt;ted Items&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3225" y="-80" width="230" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-217" value="&lt;span class=&quot;markedContent&quot; id=&quot;page18R_mcid3&quot;&gt;&lt;span style=&quot;left: 231.336px ; top: 355.089px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.862252)&quot; dir=&quot;ltr&quot;&gt;Related Parties&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5060" y="-50" width="150" height="30" as="geometry" />
         </mxCell>
@@ -2833,8 +2830,14 @@
         <mxCell id="F00aUhvjc9wKKkgv-FN--2" value="&lt;div&gt;To obtain SAAE regarding &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Existence and condition of inventory. &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Completeness of litigation and claims involving the entity. &lt;/div&gt;3. Presentation and disclosure of segment information as per FRF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3120" y="180" width="400" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--4" target="F00aUhvjc9wKKkgv-FN--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F00aUhvjc9wKKkgv-FN--4" value="&lt;div&gt;Segment &lt;br&gt;&lt;/div&gt;&lt;div&gt;informantion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3480" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="3620" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--5" target="F00aUhvjc9wKKkgv-FN--16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F00aUhvjc9wKKkgv-FN--5" value="Litigation claims" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3260" y="300" width="120" height="40" as="geometry" />
@@ -2843,16 +2846,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F00aUhvjc9wKKkgv-FN--6" value="Inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3040" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="2850" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F00aUhvjc9wKKkgv-FN--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--10" target="F00aUhvjc9wKKkgv-FN--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F00aUhvjc9wKKkgv-FN--10" value="&lt;div&gt;Only when inventory is material to the FS, the auditor shall &lt;br&gt;obtain SAAE regarding the existence inventory by: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Evaluate mgmt’s procedures for recording and &lt;/div&gt;&lt;div&gt;controlling the results of the entity’s physical inventory counting&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Observe the performance of management’s count procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Inspect the inventory &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Perform test counts &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. determine whether they accurately reflect actual inventory count results. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;6. inventory under custody and control of 3rd party is material to &lt;br&gt;&lt;div&gt;the&amp;nbsp; FS, auditor shall obtain SAAE regarding the existence and &lt;br&gt;&lt;/div&gt;&lt;div&gt;condition of that inventory by: &lt;/div&gt;a.) Request confirmation from 3rd party for quantities and condition&lt;br&gt;b.) Perform inspection if possible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2890" y="360" width="420" height="290" as="geometry" />
+          <mxGeometry x="2700" y="360" width="420" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--12" target="F00aUhvjc9wKKkgv-FN--14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F00aUhvjc9wKKkgv-FN--12" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors to be considered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) Nature of inventory. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) Stages of completion of WIP. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) ROMM related to inventory. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) The nature of the ICS related to inventory. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)&amp;nbsp; Whether adequate procedures are established and proper &lt;br&gt;&lt;/div&gt;&lt;div&gt;instructions issued for physical inventory counting. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f) Timing of physical inventory counting. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(g) Whether entity maintains a perpetual inventory system. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(h)&amp;nbsp; The locations of inventory, and risks of material misstatement&lt;/div&gt;&lt;div&gt; at different locations &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2920" y="670" width="360" height="290" as="geometry" />
+          <mxGeometry x="2730" y="670" width="360" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--14" value="&lt;div&gt;1. &lt;u&gt;Auditor is unable to attend inventory count&lt;/u&gt;?&lt;/div&gt;&lt;div&gt;auditor shall make or observe some physical &lt;br&gt;counts&amp;nbsp; on&amp;nbsp; an&amp;nbsp; alternative&amp;nbsp; date&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Inventory count is performed as on alternate date&lt;/u&gt;?&lt;/div&gt;&lt;div&gt;obtain audit evidence about whether changes in inventory&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;b/w the count date and the date of the &lt;br&gt;FS are properly recorded.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Physical verification is impracticable&lt;/u&gt;?&lt;/div&gt;&lt;div&gt;obtain SAAE by PAAP&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="980" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--16" value="1.&amp;nbsp; Inquiry mgmt / In-house legal counsel &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. Review minutes of meetings of TCWG with its external legal counsel &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Reviewing legal expense accounts &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. direct communication with entity’s external legal counsel through a letter of inquiry, prepared by mgmt and sent by the auditor, requesting to communicate directly with the auditor. &lt;br&gt;&lt;/div&gt;&lt;div&gt;if not possible then PAAP.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5.&amp;nbsp; request mgmt / TCWG to provide written representations for known, actual or &lt;br&gt;&lt;div&gt;possible litigation which should be considered, disclosed and accounted for in the&lt;/div&gt;&lt;div&gt; FS as per FRF.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3145" y="360" width="350" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--18" value="&lt;div&gt;obtain SAAE regarding presentation and disclosure of segment information as per FRF by:&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;________________________&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)&amp;nbsp; Obtaining an understanding of the methods used by mgmt in &lt;/div&gt;&lt;div&gt;determining segment information&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(i)&amp;nbsp; Evaluating whether such methods are likely to result&amp;nbsp; in disclosure in &lt;br&gt;&lt;div&gt;accordance with the applicable FRF&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Where appropriate, testing the application of such methods &lt;br&gt;&lt;/div&gt;&lt;div&gt;________________________&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(b)&amp;nbsp; Performing&amp;nbsp; analytical&amp;nbsp; procedures or PAAP in the circumstances" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="360" width="320" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
