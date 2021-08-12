@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T13:56:12.452Z" agent="5.0 (X11)" etag="Jg85zlald96hfnx68HA0" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T14:04:56.863Z" agent="5.0 (X11)" etag="_t-N4BajRw1W-bSdLdcW" version="14.9.6" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1796" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2185" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2911,8 +2911,20 @@
         <mxCell id="F00aUhvjc9wKKkgv-FN--34" value="&lt;u&gt;&lt;b&gt;How can an auditor verify the existence of related party relationships and transactions?&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Entity IT returns. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Information supplied by the entity to regulatory authorities.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 3. Shareholder registers to identify the entity’s principal shareholders. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Contracts and agreements with KMP / TCWG. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Significant contracts and agreements not in the entity’s ordinary course of biz. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Life insurance policies acquired by the entity. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Internal auditors’ reports. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4880" y="990" width="480" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--36" target="F00aUhvjc9wKKkgv-FN--37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F00aUhvjc9wKKkgv-FN--36" value="Knowledge of Client’s business" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--37" target="F00aUhvjc9wKKkgv-FN--39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--37" value="“Identifying and Assessing the ROMM through Understanding the Entity and Its Environment”" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="300" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--39" value="1. The nature of the entity, including: &lt;br&gt;(i) its operations; &lt;br&gt;(ii)its ownership and governance structures; &lt;br&gt;(iii) types of investments that the entity is making / plans to make&lt;br&gt;(iv)&amp;nbsp; entity&#39;s structured and how it is financed enable the auditor to understand classes of transactions, account balances, and disclosures.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;2. whether the entity’s accounting policies are appropriate for its biz and consistent with the applicable FRF and accounting policies used in the relevant industry. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. entity’s objectives, strategies, and related business risks that may result in ROMM&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4. measurement and review of the entity’s financial performance." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="360" width="320" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
