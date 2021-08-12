@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T12:23:02.307Z" agent="5.0 (X11)" etag="MCpYa-0ltG3aZ-LoqmEU" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T13:06:49.134Z" agent="5.0 (X11)" etag="EMGvow7D90oGl2z_01Cb" version="14.9.6" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1985" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2742" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,6 +53,9 @@
         </mxCell>
         <mxCell id="TuKAxbe2wIa_8roPm6jD-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA220&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-9" target="F00aUhvjc9wKKkgv-FN--20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Quality Control for an Audit of Financial Statements&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-9">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
@@ -2865,6 +2868,21 @@
         </mxCell>
         <mxCell id="F00aUhvjc9wKKkgv-FN--18" value="&lt;div&gt;obtain SAAE regarding presentation and disclosure of segment information as per FRF by:&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;________________________&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)&amp;nbsp; Obtaining an understanding of the methods used by mgmt in &lt;/div&gt;&lt;div&gt;determining segment information&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(i)&amp;nbsp; Evaluating whether such methods are likely to result&amp;nbsp; in disclosure in &lt;br&gt;&lt;div&gt;accordance with the applicable FRF&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Where appropriate, testing the application of such methods &lt;br&gt;&lt;/div&gt;&lt;div&gt;________________________&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(b)&amp;nbsp; Performing&amp;nbsp; analytical&amp;nbsp; procedures or PAAP in the circumstances" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3520" y="360" width="320" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--20" value="The firm’s system of quality control should include policies and &lt;br&gt;&lt;div&gt;procedures addressing each of the following elements: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;Leadership responsibilities&lt;/b&gt;&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt; Engagement partner shall take responsibility for the overall quality &lt;br&gt;&lt;/div&gt;&lt;div&gt;on each audit engagement to which that partner is assigned. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;Actions of the engagement partner &lt;br&gt;&lt;/div&gt;(i)complying professional standards &amp;amp; regulatory &amp;amp; legal requirements &lt;br&gt;(ii) Complying with firm’s quality control policies and procedures&lt;br&gt;(iii)quality is essential in performing audit engagements &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;Ethical requirements&lt;/b&gt;&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; auditor shall comply with relevant ethical requirements, including independence,&amp;nbsp; relating to FS audit engagements. &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;Professional ethics: &lt;br&gt;&lt;div&gt;(e) Professional behavior&lt;/div&gt;&lt;div&gt;(d) Confidentiality&lt;/div&gt;&lt;div&gt;(c) Professional competence&lt;/div&gt;(b) Objectivity&lt;br&gt;(a) Integrity&lt;br&gt;&lt;br&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;Human resources&lt;/b&gt;&lt;/u&gt; &lt;/div&gt;&lt;div&gt; firm should establish policies and procedures designed to provide reasonable assurance that it has sufficient personnel with capabilities, competence, and commitment to ethical principles. &lt;/div&gt;&amp;nbsp; Such policies and procedures shall address the following issues: &lt;br&gt;(a) Recruitment&lt;br&gt;(b) Performance evaluation&lt;br&gt;(c) Capabilities&lt;br&gt;(d) Competence&lt;br&gt;(e) Career Development&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;&lt;b&gt;Engagement performance &lt;/b&gt;&lt;/u&gt;&lt;/div&gt;Matters to be addressed for improving engagement performance: &lt;br&gt;1.) How engagement teams are briefed on the engagement &lt;br&gt;2.) Processes for complying with applicable engagement standards &lt;br&gt;&lt;div&gt;3.) Processes of engagement supervision, staff training and coaching &lt;br&gt;&lt;/div&gt;&lt;div&gt;4.) Methods of reviewing the work performed &lt;/div&gt;5.) Appropriate documentation / timing / extent of the work performed&lt;br&gt;&lt;div&gt;6.) Processes to keep all policies and procedures updated &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;&lt;b&gt;Monitoring&lt;/b&gt;&lt;/u&gt; &lt;/div&gt;Ongoing consideration and evaluation of policies and procedures of the firm’s system of quality control, including a periodic inspection of a selection of completed engagements. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="200" width="400" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.001;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--20" target="F00aUhvjc9wKKkgv-FN--21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--21" value="&lt;div&gt;P&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;O&lt;/div&gt;&lt;div&gt;I&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="444" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.001;exitY=0.232;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--20" target="F00aUhvjc9wKKkgv-FN--23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--23" value="&lt;div&gt;L&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;H&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="320" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
