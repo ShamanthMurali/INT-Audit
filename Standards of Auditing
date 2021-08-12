@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T16:51:49.052Z" agent="5.0 (X11)" etag="tg1XEc_sKcqoSRiGpDOQ" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T09:07:39.369Z" agent="5.0 (X11)" etag="nljzJ7rLDpIUO2Qd_Q_Y" version="14.9.6" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="2643" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1711" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA200 &lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-699" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-3" target="nxGcZgy3DwgqNJVg8IEv-1" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TuKAxbe2wIa_8roPm6jD-3" target="nxGcZgy3DwgqNJVg8IEv-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Overall Objectives of the Independent Auditor and the Conduct of an Audit in Accordance with Standards on Auditing&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-3">
@@ -190,7 +190,10 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA501&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="3260" width="120" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-36">
+        <mxCell id="F00aUhvjc9wKKkgv-FN--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-36" target="F00aUhvjc9wKKkgv-FN--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Audit Evidence - Specific Considerations &lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;for Selected Items&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-36">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="3160" y="120" width="320" height="40" as="geometry" />
           </mxCell>
@@ -2735,13 +2738,13 @@
         <mxCell id="IKwhIBVx80-9PYvc8_yb-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit Conclusions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If the auditor finds the following-&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. unable to obtain SAAE regarding the opening balances&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp; opening balances contain a misstatement &lt;br&gt;that materially affects the current period’s financial statements, and the &lt;br&gt;effect of the misstatement is not properly accounted for or not adequately &lt;br&gt;&lt;/div&gt;&lt;div&gt;presented or disclosed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp; If the auditor concludes that: &amp;nbsp;&lt;br&gt;(a)&amp;nbsp; the current period’s accounting policies are not consistently applied &lt;br&gt;in&amp;nbsp; relation&amp;nbsp; to&amp;nbsp; opening&amp;nbsp; balances&lt;br&gt;(b)&amp;nbsp; change in accounting policies is not properly accounted / presented / disclosed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Auditor shall express a qualified opinion or an &lt;br&gt;adverse opinion, as appropriate, in accordance with SA 705 &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;_________________________________&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt;&amp;gt;&amp;nbsp; If the predecessor auditor’s opinion regarding the prior period’s FS included a modification to the auditor’s opinion t&lt;u&gt;hat remains &lt;br&gt;relevant and material to the current period’s&lt;/u&gt; FS&lt;/div&gt;&lt;div&gt;the&amp;nbsp; auditor shall modify the auditor’s opinion on the current period’s&lt;/div&gt;&lt;div&gt;&amp;nbsp;FS in accordance with SA 705&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3800" y="650" width="480" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-1" target="nxGcZgy3DwgqNJVg8IEv-3" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxGcZgy3DwgqNJVg8IEv-1" target="nxGcZgy3DwgqNJVg8IEv-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-1" value="&lt;div&gt;1. obtain reasonable assurance about whether the FS as a whole are free from material misstatement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. report on the FS, and communicate as required by the SAs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-1" value="&lt;div&gt;1. obtain reasonable assurance about whether the FS as a whole are free from material misstatement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. report on the FS, and communicate as required by the SAs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-799" y="220" width="320" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-6" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-6" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-639" y="390" />
@@ -2749,7 +2752,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-4" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-639" y="390" />
@@ -2757,7 +2760,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-5" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-639" y="390" />
@@ -2765,7 +2768,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-7" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxGcZgy3DwgqNJVg8IEv-3" target="nxGcZgy3DwgqNJVg8IEv-7" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-639" y="390" />
@@ -2773,50 +2776,83 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-3" value="Requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-3" value="Requirements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-699" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-4" target="nxGcZgy3DwgqNJVg8IEv-14" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxGcZgy3DwgqNJVg8IEv-4" target="nxGcZgy3DwgqNJVg8IEv-14" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-4" value="Professional Judgment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-4" value="Professional Judgment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-580" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-5" target="nxGcZgy3DwgqNJVg8IEv-16" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxGcZgy3DwgqNJVg8IEv-5" target="nxGcZgy3DwgqNJVg8IEv-16" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-5" value="Conduct of an audit in accordance with SAs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-5" value="Conduct of an audit in accordance with SAs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-300" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-6" target="nxGcZgy3DwgqNJVg8IEv-12" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxGcZgy3DwgqNJVg8IEv-6" target="nxGcZgy3DwgqNJVg8IEv-12" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-6" value="Professional Skepticism" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-6" value="Professional Skepticism" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-819.5" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-7" target="nxGcZgy3DwgqNJVg8IEv-8" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxGcZgy3DwgqNJVg8IEv-7" target="nxGcZgy3DwgqNJVg8IEv-8" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-7" value="Ethical Requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-7" value="Ethical Requirements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-1054.5" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxGcZgy3DwgqNJVg8IEv-8" target="nxGcZgy3DwgqNJVg8IEv-9" visible="0">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxGcZgy3DwgqNJVg8IEv-8" target="nxGcZgy3DwgqNJVg8IEv-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-8" value="&lt;div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;rofessional Competence and due care- Skills, Knowledge and Questioning &lt;/div&gt;Mind&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;onfidentiality- should not disclose information acquired during the course of &lt;/div&gt;&lt;div&gt;audit without client’s prior consent unless required by law or regulation. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;rofessional Behavior- Good Code of Conduct and systematic approach to &lt;/div&gt;audit.&lt;/div&gt;&lt;div&gt;&lt;br&gt;4. &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;bjectivity - Being unbiased &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;ntegrity - Honesty &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-8" value="&lt;div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;rofessional Competence and due care- Skills, Knowledge and Questioning &lt;/div&gt;Mind&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;onfidentiality- should not disclose information acquired during the course of &lt;/div&gt;&lt;div&gt;audit without client’s prior consent unless required by law or regulation. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;rofessional Behavior- Good Code of Conduct and systematic approach to &lt;/div&gt;audit.&lt;/div&gt;&lt;div&gt;&lt;br&gt;4. &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;bjectivity - Being unbiased &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;ntegrity - Honesty &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-1124.5" y="480" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-9" value="&lt;div&gt;P&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;O&lt;/div&gt;&lt;div&gt;I&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-9" value="&lt;div&gt;P&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;O&lt;/div&gt;&lt;div&gt;I&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-1184.5" y="570" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-12" value="&lt;div&gt;1. questioning mind&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. alert to conditions which indicate possible misstatement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. recognizing circumstances which exist when FS materially misstated&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-12" value="&lt;div&gt;1. questioning mind&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. alert to conditions which indicate possible misstatement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. recognizing circumstances which exist when FS materially misstated&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-854.5" y="480" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-14" value="&lt;div&gt;auditor shall exercise professional judgment in planning and performing an audit of FS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;necessary in regarding decisions about:&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Materiality and audit risk &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. nature, timing, and extent of audit procedures&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Evaluating whether SAAE has been obtained&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. evaluation of mgmt’s judgments&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. drawing of conclusions based on the audit evidence obtained&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-14" value="&lt;div&gt;auditor shall exercise professional judgment in planning and performing an audit of FS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;necessary in regarding decisions about:&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Materiality and audit risk &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. nature, timing, and extent of audit procedures&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Evaluating whether SAAE has been obtained&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. evaluation of mgmt’s judgments&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. drawing of conclusions based on the audit evidence obtained&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-654.5" y="480" width="269" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="nxGcZgy3DwgqNJVg8IEv-16" value="&lt;div&gt;1. shall comply with all relevant SAs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. achieve SA objectives to achieve overall objective&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. may depart from a relevant requirement in an SA. In such circumstances, PAAP to achieve the&amp;nbsp; aim of that requirement. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. If objective of SA cannot be achieved auditor shall modify the auditor’s opinion or withdraw from the engagement&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="nxGcZgy3DwgqNJVg8IEv-16" value="&lt;div&gt;1. shall comply with all relevant SAs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. achieve SA objectives to achieve overall objective&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. may depart from a relevant requirement in an SA. In such circumstances, PAAP to achieve the&amp;nbsp; aim of that requirement. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. If objective of SA cannot be achieved auditor shall modify the auditor’s opinion or withdraw from the engagement&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-374.5" y="480" width="269" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--2" target="F00aUhvjc9wKKkgv-FN--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--2" target="F00aUhvjc9wKKkgv-FN--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--2" target="F00aUhvjc9wKKkgv-FN--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--2" value="&lt;div&gt;To obtain SAAE regarding &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Existence and condition of inventory. &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Completeness of litigation and claims involving the entity. &lt;/div&gt;3. Presentation and disclosure of segment information as per FRF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="180" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--4" value="&lt;div&gt;Segment &lt;br&gt;&lt;/div&gt;&lt;div&gt;informantion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3480" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--5" value="Litigation claims" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--6" target="F00aUhvjc9wKKkgv-FN--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--6" value="Inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--10" target="F00aUhvjc9wKKkgv-FN--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--10" value="&lt;div&gt;Only when inventory is material to the FS, the auditor shall &lt;br&gt;obtain SAAE regarding the existence inventory by: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Evaluate mgmt’s procedures for recording and &lt;/div&gt;&lt;div&gt;controlling the results of the entity’s physical inventory counting&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Observe the performance of management’s count procedures &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Inspect the inventory &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Perform test counts &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. determine whether they accurately reflect actual inventory count results. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;6. inventory under custody and control of 3rd party is material to &lt;br&gt;&lt;div&gt;the&amp;nbsp; FS, auditor shall obtain SAAE regarding the existence and &lt;br&gt;&lt;/div&gt;&lt;div&gt;condition of that inventory by: &lt;/div&gt;a.) Request confirmation from 3rd party for quantities and condition&lt;br&gt;b.) Perform inspection if possible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2890" y="360" width="420" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--12" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors to be considered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) Nature of inventory. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) Stages of completion of WIP. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) ROMM related to inventory. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) The nature of the ICS related to inventory. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)&amp;nbsp; Whether adequate procedures are established and proper &lt;br&gt;&lt;/div&gt;&lt;div&gt;instructions issued for physical inventory counting. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f) Timing of physical inventory counting. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(g) Whether entity maintains a perpetual inventory system. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(h)&amp;nbsp; The locations of inventory, and risks of material misstatement&lt;/div&gt;&lt;div&gt; at different locations &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="670" width="360" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
