@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T14:12:31.520Z" agent="5.0 (X11)" etag="zdnWtqx9U2T0XKZYG8ke" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T15:10:12.934Z" agent="5.0 (X11)" etag="zoWWK2Aw52VHYvONRncd" version="14.9.6" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="17064" dy="9143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1796" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,8 +99,8 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA250 &lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1101" width="120" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-18">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+        <UserObject label="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Consideration of Laws and Regulations&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; in an Audit of Financial Statements&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-18">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="1001" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -2132,9 +2132,6 @@
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-202" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit procedures to evaluate feasibility of &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Management’s assessment&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. evaluate mgmt’s assessment of going concern. auditor shall use period used by mgmt to make its assessment as required by the applicable FRF &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 2. If management’s assessment is &amp;lt; 12m from the date of the FS, auditor shall request mgmt to extend its assessment period to at least 12m &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. The auditor shall consider whether mgmt’s assessment includes all relevant information of which the auditor is aware as a result of the audit &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Evaluating mgmt’s plans for future actions in relation to going concern assessment, whether plans are feasible in circumstances &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. whether any additional facts or information have become available since the date on which mgmt made its assessment &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Where the entity has prepared a cash flow forecast, and analysis of the forecast in considering the future outcome of events in the evaluation of mgmt’s plans for future actions:&lt;/div&gt;&lt;div&gt;(i) Evaluating the reliability of the data generated to prepare the forecast&lt;/div&gt;&lt;div&gt;(ii) whether there is adequate support for the assumptions in the forecast.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5640" y="920" width="400" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-210" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid14&quot;&gt;&lt;span style=&quot;left: 179.798px ; top: 891.68px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.859734)&quot; dir=&quot;ltr&quot;&gt;Consideration of Laws and Regulations in an Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="-90" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-211" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid15&quot;&gt;&lt;span style=&quot;left: 307.567px ; top: 928.48px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.854251)&quot; dir=&quot;ltr&quot;&gt;Joint &lt;/span&gt;&lt;span style=&quot;left: 345.563px ; top: 928.48px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.86003)&quot; dir=&quot;ltr&quot;&gt;Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="-60" width="310" height="30" as="geometry" />
