@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T08:25:25.368Z" agent="5.0 (X11)" etag="uTRwKirFKBK8S1XCYDhG" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T08:42:00.401Z" agent="5.0 (X11)" etag="W25nPiVC4KSPz52braeM" version="14.9.6" type="github">
   <diagram id="hz5IPeGCTFuj1s-dtFxm" name="Page-1">
-    <mxGraphModel dx="1549" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3358" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
           <mxGeometry x="-500" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-8">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="-450" y="180" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -36,6 +36,9 @@
         </UserObject>
         <mxCell id="IZyFVW_KutWZbLwf99ln-11" value="Sole trader" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-12" target="6-QJOc4JNgniOkC8MXnb-119" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-12">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
@@ -89,7 +92,7 @@
           <mxGeometry x="780" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-24">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="830" y="180" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -535,6 +538,30 @@
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-117" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-QJOc4JNgniOkC8MXnb-115">
           <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-118" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="-620" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-119" value="Nothing here" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-180" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-121" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="-140" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-122" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-123" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="500" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-124" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="660" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-125" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="980" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-QJOc4JNgniOkC8MXnb-126" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="1300" y="70" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
