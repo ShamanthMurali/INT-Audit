@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T00:00:49.839Z" agent="5.0 (X11)" etag="DNK0HUFsc-o2w4TJVzqX" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-14T00:16:54.143Z" agent="5.0 (X11)" etag="IJJBdBL1s12FLyKkKM_4" version="14.9.6" type="github">
   <diagram id="hz5IPeGCTFuj1s-dtFxm" name="Page-1">
-    <mxGraphModel dx="2098" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3970" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,6 +109,9 @@
         </UserObject>
         <mxCell id="IZyFVW_KutWZbLwf99ln-27" value="&lt;div&gt;Hire Purchase &lt;br&gt;&lt;/div&gt;&lt;div&gt;and Leasing&lt;/div&gt;&lt;div&gt;Companies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-28" target="Hg9eMksn8kzP_geKjeO2-68" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-28">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
@@ -751,6 +754,15 @@
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-67" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
           <mxGeometry x="1460" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-68" target="Hg9eMksn8kzP_geKjeO2-70" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-68" value="&lt;div&gt;1.) whether Hire purchase agreement is in writing and is signed by all parties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2.) whether Hire purchase agreement specifies- &lt;br&gt;(a) hire-purchase price of the goods&lt;br&gt;(b) cash price of the goods &lt;br&gt;(c) date of agreement&lt;br&gt;(d) number of installments&lt;br&gt;(e) amount of each of those installments &lt;br&gt;&lt;div&gt;(f) date, upon which it is payable&lt;/div&gt;&lt;div&gt;(g) person to whom it is payable &lt;/div&gt;(h) place where it is payable&lt;br&gt;(i) The goods to which the agreement relates&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.) Ensure that installment payments are being received regularly as per the agreement&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="940" y="220" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-70" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1100" y="480" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
