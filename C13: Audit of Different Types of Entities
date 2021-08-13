@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T20:45:41.308Z" agent="5.0 (X11)" etag="dM_Inf1C-XI7fWwRg8If" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-14T00:00:49.839Z" agent="5.0 (X11)" etag="DNK0HUFsc-o2w4TJVzqX" version="14.9.6" type="github">
   <diagram id="hz5IPeGCTFuj1s-dtFxm" name="Page-1">
-    <mxGraphModel dx="1890" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2098" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,8 +126,24 @@
         <mxCell id="IZyFVW_KutWZbLwf99ln-31" value="&lt;div&gt;Co-operative&lt;/div&gt;&lt;div&gt;Society&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="120" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-32" target="Hg9eMksn8kzP_geKjeO2-30" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="230" />
+              <mxPoint x="1240" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-32" target="Hg9eMksn8kzP_geKjeO2-29" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="230" />
+              <mxPoint x="1720" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-32">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="1470" y="180" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -572,23 +588,23 @@
         <mxCell id="Hg9eMksn8kzP_geKjeO2-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
           <mxGeometry x="-460" y="70" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-5" target="Hg9eMksn8kzP_geKjeO2-7">
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-5" target="Hg9eMksn8kzP_geKjeO2-7" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Qualifications of Auditors&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Apart from a CA, some of the State Co-operative &lt;br&gt;&lt;/div&gt;Acts have permitted persons holding a govt. diploma in co-operative &lt;br&gt;&lt;div&gt;accounts or in co-operation and accountancy and also a person who has served&lt;/div&gt;&lt;div&gt; as an auditor in the co-operative dept. of a govt. to act as an auditor. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="320" width="440" height="100" as="geometry" />
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Qualifications of Auditors&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Apart from a CA, some of the State Co-operative &lt;br&gt;&lt;/div&gt;Acts have permitted persons holding a govt. diploma in co-operative &lt;br&gt;&lt;div&gt;accounts or in co-operation and accountancy and also a person who has served&lt;/div&gt;&lt;div&gt; as an auditor in the co-operative dept. of a govt. to act as an auditor. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1020" y="320" width="440" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-7" target="Hg9eMksn8kzP_geKjeO2-10">
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-7" target="Hg9eMksn8kzP_geKjeO2-10" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Appointment of the Auditor&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Appointed by the Registrar of Co-operative Societies and the auditor so appointed &lt;br&gt;&lt;/div&gt;conducts the audit on behalf of the Registrar and submits his report to him and also to the society. The audit fees are paid by the society on the basis of statutory scale of fees prescribed by the Registrar, according to the category of the society audited." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="440" width="440" height="110" as="geometry" />
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Appointment of the Auditor&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Appointed by the Registrar of Co-operative Societies and the auditor so appointed &lt;br&gt;&lt;/div&gt;conducts the audit on behalf of the Registrar and submits his report to him and also to the society. The audit fees are paid by the society on the basis of statutory scale of fees prescribed by the Registrar, according to the category of the society audited." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1020" y="440" width="440" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-10" target="Hg9eMksn8kzP_geKjeO2-21">
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-10" target="Hg9eMksn8kzP_geKjeO2-21" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-10" value="Restrictions" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="980" y="570" width="440" height="300" as="geometry" />
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-10" value="Restrictions" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1020" y="570" width="440" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hg9eMksn8kzP_geKjeO2-10">
           <mxGeometry y="30" width="440" height="120" as="geometry" />
@@ -617,35 +633,124 @@
         <mxCell id="Hg9eMksn8kzP_geKjeO2-19" value="shall accept loans and deposits from persons who are not members subject to restrictions and limits of the bye-laws of the society." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hg9eMksn8kzP_geKjeO2-17">
           <mxGeometry x="140" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-21" target="Hg9eMksn8kzP_geKjeO2-23">
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-21" target="Hg9eMksn8kzP_geKjeO2-23" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-21" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Investment of funds&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;society may invest its funds in any one or more of the following: &lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) In Central or State Co-operative Bank.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) In any of the securities specified in section 20 of the Indian Trusts Act, 1882. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) In the shares, securities, bonds or debentures of any other society with limited &lt;br&gt;liability. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) In any co-operative bank, other than a Central or State co-operative bank, as &lt;br&gt;approved by the Registrar on specified terms and conditions. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e) In any other moneys permitted by the CG or SG&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="890" width="440" height="240" as="geometry" />
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-21" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Investment of funds&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;society may invest its funds in any one or more of the following: &lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) In Central or State Co-operative Bank.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) In any of the securities specified in section 20 of the Indian Trusts Act, 1882. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) In the shares, securities, bonds or debentures of any other society with limited &lt;br&gt;liability. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) In any co-operative bank, other than a Central or State co-operative bank, as &lt;br&gt;approved by the Registrar on specified terms and conditions. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e) In any other moneys permitted by the CG or SG&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1020" y="890" width="440" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-23" target="Hg9eMksn8kzP_geKjeO2-25">
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-23" target="Hg9eMksn8kzP_geKjeO2-25" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-23" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Appropriation of profits&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;a prescribed percentage of the profits should be transferred to Reserve Fund, before distribution as dividends or bonus to members. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Contributions to Charitable Purposes&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;lt;&lt;/u&gt; 10% of net profits remaining after the compulsory t/f to the &lt;/div&gt;&lt;div&gt;reserve fund&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1150" width="440" height="110" as="geometry" />
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-23" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Appropriation of profits&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;a prescribed percentage of the profits should be transferred to Reserve Fund, before distribution as dividends or bonus to members. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Contributions to Charitable Purposes&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;lt;&lt;/u&gt; 10% of net profits remaining after the compulsory t/f to the &lt;/div&gt;&lt;div&gt;reserve fund&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1020" y="1150" width="440" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-25" target="Hg9eMksn8kzP_geKjeO2-27">
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-25" target="Hg9eMksn8kzP_geKjeO2-27" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Special features of Co-operative Society audit&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) &lt;u&gt;Examination of overdue debts&lt;/u&gt; - Overdue debts for a period from &lt;br&gt;&lt;/div&gt;&lt;div&gt;6m to 5y and &amp;gt; 5 years will have to be classified and reported by an auditor.&lt;/div&gt;&lt;div&gt;auditor should assess whether PDD are made or not&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2.) &lt;u&gt;Adherence to Co-operative Principles&lt;/u&gt; - ascertain the objects, for which the co-operative org is set up, have been achieved in the course of its working &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.)&amp;nbsp; &lt;u&gt;Observations of the Provisions of the Act and Rules&lt;/u&gt; -&lt;/div&gt;&lt;div&gt; point out the infringement with the provisions &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4.) &lt;u&gt;Verification of Members’ Register and examination of their pass books&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5.)&amp;nbsp; &lt;u&gt;Special report to the Registrar&lt;/u&gt; - if auditor notices serious irregularities in the working of the society he may report to the Registrar. &amp;nbsp;&lt;br&gt;In this case, a special report is required: &lt;br&gt;(i) Personal profiteering by members of managing committee in &lt;br&gt;transactions of the society&lt;br&gt;&lt;div&gt;(ii) Detection of fraud relating to expenses, purchases, property and &lt;br&gt;&lt;/div&gt;&lt;div&gt;stores of the society. &lt;/div&gt;&lt;div&gt;(iii) Specific examples of mis-mgmt. Decisions of mgmt against &lt;br&gt;&lt;/div&gt;&lt;div&gt;cooperative principles. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;6.) &lt;u&gt;Audit classification of society&lt;/u&gt; - After a judgement of an overall &lt;br&gt;performance of the society, the auditor has to award a class to the society. &lt;br&gt;&lt;div&gt;This judgement is to be based on the criteria specified by the Registrar &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;7.) &lt;u&gt;Discussion of draft audit report with managing committee&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1285" width="440" height="435" as="geometry" />
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Special features of Co-operative Society audit&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) &lt;u&gt;Examination of overdue debts&lt;/u&gt; - Overdue debts for a period from &lt;br&gt;&lt;/div&gt;&lt;div&gt;6m to 5y and &amp;gt; 5 years will have to be classified and reported by an auditor.&lt;/div&gt;&lt;div&gt;auditor should assess whether PDD are made or not&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2.) &lt;u&gt;Adherence to Co-operative Principles&lt;/u&gt; - ascertain the objects, for which the co-operative org is set up, have been achieved in the course of its working &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.)&amp;nbsp; &lt;u&gt;Observations of the Provisions of the Act and Rules&lt;/u&gt; -&lt;/div&gt;&lt;div&gt; point out the infringement with the provisions &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4.) &lt;u&gt;Verification of Members’ Register and examination of their pass books&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5.)&amp;nbsp; &lt;u&gt;Special report to the Registrar&lt;/u&gt; - if auditor notices serious irregularities in the working of the society he may report to the Registrar. &amp;nbsp;&lt;br&gt;In this case, a special report is required: &lt;br&gt;(i) Personal profiteering by members of managing committee in &lt;br&gt;transactions of the society&lt;br&gt;&lt;div&gt;(ii) Detection of fraud relating to expenses, purchases, property and &lt;br&gt;&lt;/div&gt;&lt;div&gt;stores of the society. &lt;/div&gt;&lt;div&gt;(iii) Specific examples of mis-mgmt. Decisions of mgmt against &lt;br&gt;&lt;/div&gt;&lt;div&gt;cooperative principles. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;6.) &lt;u&gt;Audit classification of society&lt;/u&gt; - After a judgement of an overall &lt;br&gt;performance of the society, the auditor has to award a class to the society. &lt;br&gt;&lt;div&gt;This judgement is to be based on the criteria specified by the Registrar &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;7.) &lt;u&gt;Discussion of draft audit report with managing committee&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1020" y="1285" width="440" height="435" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit report&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In &lt;u&gt;addition&lt;/u&gt; the auditor will have to attach schedules to the &lt;br&gt;&lt;/div&gt;&lt;div&gt;report regarding the following information:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;a)&amp;nbsp; All transactions which appear to be contrary{opposite} to the provisions of the &lt;br&gt;Act, the rules and bye-laws of the society &lt;br&gt;b)&amp;nbsp; All sums, which should to have been, but have not been brought into &lt;br&gt;account by the society. &lt;br&gt;c)&amp;nbsp; Any material, or property belonging to society whose recovery appears to the &lt;br&gt;auditor to be bad or doubtful&lt;br&gt;d)&amp;nbsp; Any material irregularity in expenditure or in the realisation of monies due to society. &lt;br&gt;e) Any other matters specified by the Registrar." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1740" width="440" height="220" as="geometry" />
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit report&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In &lt;u&gt;addition&lt;/u&gt; the auditor will have to attach schedules to the &lt;br&gt;&lt;/div&gt;&lt;div&gt;report regarding the following information:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;a)&amp;nbsp; All transactions which appear to be contrary{opposite} to the provisions of the &lt;br&gt;Act, the rules and bye-laws of the society &lt;br&gt;b)&amp;nbsp; All sums, which should to have been, but have not been brought into &lt;br&gt;account by the society. &lt;br&gt;c)&amp;nbsp; Any material, or property belonging to society whose recovery appears to the &lt;br&gt;auditor to be bad or doubtful&lt;br&gt;d)&amp;nbsp; Any material irregularity in expenditure or in the realisation of monies due to society. &lt;br&gt;e) Any other matters specified by the Registrar." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1020" y="1740" width="440" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-29" value="Audit of Multi-State Co-operative Societies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="260" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-30" target="Hg9eMksn8kzP_geKjeO2-5">
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-29" target="Hg9eMksn8kzP_geKjeO2-32" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hg9eMksn8kzP_geKjeO2-30" value="Audit of Co-operative Societies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="260" width="160" height="40" as="geometry" />
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-29" value="Audit of Multi-State Co-operative Societies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1640" y="260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-30" target="Hg9eMksn8kzP_geKjeO2-5" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-30" value="Audit of Co-operative Societies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1160" y="260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-32" target="Hg9eMksn8kzP_geKjeO2-34" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-32" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Qualifications of Auditors&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Chartered Accountant only&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1630" y="320" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-34" target="Hg9eMksn8kzP_geKjeO2-38" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-34" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disqualification of auditor&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;following persons&lt;/u&gt; are &lt;u&gt;not eligible&lt;/u&gt; for appointment as auditors of a Multistate co-operative society &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a) A body corporate &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b) An officer or employee of the Multi-State co-operative society &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c) A person who is a member or who is in the employment, of an officer or &lt;br&gt;&lt;div&gt;employee of the Multi-State co-operative society. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d) A person who is indebted to the Multi-State co-operative society or who &lt;br&gt;has given any guarantee or provided any security in connection with the &lt;br&gt;indebtedness of any third person to the Multi-State co-operative society for &lt;br&gt;&lt;div&gt;an amount &lt;u&gt;exceeding one thousand rupees&lt;/u&gt;. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1500" y="420" width="440" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-38" target="Hg9eMksn8kzP_geKjeO2-40" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-38" target="Hg9eMksn8kzP_geKjeO2-39" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-38" value="Appointment of the Auditor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1660" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-39" target="Hg9eMksn8kzP_geKjeO2-48" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-39" value="Subsequent auditor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1740" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-40" target="Hg9eMksn8kzP_geKjeO2-43" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-40" value="First auitor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1580" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-46" value="If BOD fails" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-43" target="Hg9eMksn8kzP_geKjeO2-45" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-43" value="&lt;div&gt;appointed by BOD&lt;/div&gt;within 1m of registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1580" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-45" target="Hg9eMksn8kzP_geKjeO2-50" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-45" value="MultiState co-operative society in GM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1580" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-48" target="Hg9eMksn8kzP_geKjeO2-54" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-48" value="MultiState co-operative society in AGM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1740" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-50" target="Hg9eMksn8kzP_geKjeO2-58" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-50" value="&lt;div&gt;&lt;u&gt;Term&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;until conclusion of 1st AGM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1570" y="1020" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-54" target="Hg9eMksn8kzP_geKjeO2-58" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1800" y="1120" />
+              <mxPoint x="1720" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-54" value="&lt;div&gt;&lt;u&gt;Term&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;until conclusion of 1st AGM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1730" y="920" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-58" target="Hg9eMksn8kzP_geKjeO2-61" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-58" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Rights and Duties of auditors&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. right to access books of accounts and vouchers of the Multi-State &lt;br&gt;&lt;/div&gt;&lt;div&gt;co-operative society &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt; &lt;u&gt;auditor shall make following inquiries&lt;/u&gt;: &lt;br&gt;a) Whether loans and advances have been properly secured and&lt;br&gt;&lt;div&gt;whether the terms are in the interest of the Multi-State cooperative society &lt;br&gt;&lt;/div&gt;&lt;div&gt;or its members, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;b) Whether transactions of the Multi-State co-operative society which are &lt;br&gt;&lt;div&gt;represented merely by book entries are not prejudicial{harmful} to the interests &lt;br&gt;&lt;/div&gt;&lt;div&gt;of the Multi-State co-operative society &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Whether personal expenses have been charged to revenue account&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;d) Whether any shares have been allotted for cash, whether &lt;br&gt;&lt;div&gt;cash has actually, been received in such allotment, if not then whether the&lt;/div&gt;&lt;div&gt; position stated in FS are correct or misleading. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1500" y="1140" width="440" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-61" target="Hg9eMksn8kzP_geKjeO2-63" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-61" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Power of Central Government to direct special audit&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(a)&amp;nbsp; if the affairs of Multi-State co-operative society is not being &lt;br&gt;managed in accordance with self-help, mutual deed, prudent&lt;font style=&quot;font-size: 3px&quot;&gt;{&lt;span&gt;&lt;span&gt;showing care and thought for the future&lt;/span&gt;&lt;/span&gt;}&lt;/font&gt; practices and with sound biz principles &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(b) if managed in a manner likely to cause serious injury or damage to the interests of the trade industry or biz to which it pertains &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(c)&amp;nbsp; if the financial&amp;nbsp; position of the Multi-State co-operative society is &lt;br&gt;&lt;div&gt;such as to endanger its solvency &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(d)&amp;nbsp; The CG may at any time by order***, direct a special &lt;br&gt;audit. it shall be conducted by appointing either a CA or the Multi-State co-operative society’s auditor himself to conduct the special audit. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt; [***However, CG can order special audit only if that Govt or SG either by itself or both hold &lt;u&gt;&amp;gt;&lt;/u&gt; 51% of the paid-up share capital in such Multi-State co-operative society.]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1500" y="1440" width="440" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-63" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Inquiry by Central Registrar&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; The Central Registrar may, on a request from a&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. federal co-operative to which a Multi-State Co-operative society is affiliated&lt;/div&gt;&lt;div&gt;or&lt;br&gt; &lt;/div&gt;&lt;div&gt;b. a creditor&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. &lt;u&gt;&amp;gt;&lt;/u&gt; `1/3` of the members of the board &lt;br&gt;&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;d. &lt;u&gt;&amp;gt;&lt;/u&gt; `1/5` of the total number of members&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hold an inquiry or direct some person authorized &lt;/div&gt;&lt;div&gt;by him in writing in his behalf&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; To hold an inquiry into the constitutions, working and financial condition of a MultiState Co-operative society&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1500" y="1740" width="440" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9eMksn8kzP_geKjeO2-67" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="1460" y="70" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
