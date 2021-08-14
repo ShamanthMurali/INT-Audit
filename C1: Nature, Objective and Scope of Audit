@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T15:52:07.045Z" agent="5.0 (X11)" etag="UKqmkPLZJU2m9H-oUiv7" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-14T09:45:27.919Z" agent="5.0 (X11)" etag="7xYoid6hoNgq11OGdsOB" version="14.9.6" type="github">
   <diagram id="hTsLwC4ZYWxXKzajyYe-" name="Page-1">
-    <mxGraphModel dx="2154" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2108" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,8 +133,83 @@
         <mxCell id="ouAwMG1gBBQ8QLxgHwnT-48" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Basic principles governing an audit&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. integrity objectivity and independence (honest/sincere)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. confidentiality&lt;/div&gt;&lt;div&gt;3. skills and competence&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4. work performed by others&lt;/div&gt;&lt;div&gt;5. audit evidence (sufficient and appropriate audit evidence)&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. planning (timely and efficient)&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. documentation&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;8. conclusions and reporting&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. systems (AS and ICS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1950" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DUpJFK9i9lKS9M-cFjVT-1" value="&lt;div&gt;&lt;u&gt;Key&lt;/u&gt;&lt;/div&gt;&lt;div&gt;F&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DUpJFK9i9lKS9M-cFjVT-1" value="&lt;div&gt;&lt;u&gt;Key&lt;/u&gt;&lt;/div&gt;&lt;div&gt;F&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="1510" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-1" value="Threats to Independence" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry y="2880" width="840" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-22" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
+          <mxGeometry y="30" width="840" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-23" value="Threats" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-22">
+          <mxGeometry width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-24" value="Meaning" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-22">
+          <mxGeometry x="140" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-25" value="Safe guards" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-22">
+          <mxGeometry x="580" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
+          <mxGeometry y="50" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-3" value="&lt;u&gt;&lt;b&gt;Self-interest threats&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-2">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-4" value="&lt;div&gt;occur when partner or associate could benefit from a financial interest &lt;br&gt;&lt;/div&gt;&lt;div&gt;in an audit client.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-2">
+          <mxGeometry x="140" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-2">
+          <mxGeometry x="580" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
+          <mxGeometry y="90" width="840" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-7" value="&lt;u&gt;&lt;b&gt;Self-review threats&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-6">
+          <mxGeometry width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-8" value="when a member of the audit team was previously a director or senior &lt;br&gt;employee of the client. Instances where such threats come into play are &lt;br&gt;(i) when an auditor having recently been a director or senior&amp;nbsp; &lt;br&gt;&lt;div&gt;officer of the company&lt;/div&gt;&lt;div&gt;(ii) when auditors perform services that are themselves subject matters of audit&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-6">
+          <mxGeometry x="140" width="440" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-6">
+          <mxGeometry x="580" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
+          <mxGeometry y="180" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-11" value="&lt;u&gt;&lt;b&gt;Advocacy threats&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-10">
+          <mxGeometry width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-12" value="&lt;div&gt;occur when the auditor promotes, or is perceived to&amp;nbsp; &lt;br&gt;promote, a client’s opinion to a point where people may believe&amp;nbsp;&lt;br&gt; that objectivity is getting compromised, e.g. when an auditor deals &lt;br&gt;with shares or securities of the audited company, or becomes the&amp;nbsp;&lt;br&gt; client’s advocate in litigation &amp;amp; 3rd party disputes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-10">
+          <mxGeometry x="140" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-10">
+          <mxGeometry x="580" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
+          <mxGeometry y="260" width="840" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-15" value="&lt;u&gt;&lt;b&gt;Familiarity threats&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-14">
+          <mxGeometry width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-16" value=" (i) close relative of the audit team working in a senior position in the client company &lt;br&gt;&lt;div&gt;(ii) former partner of the audit firm being a director or senior employee of client&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) long association b/w specific auditors and their specific client counterparts&lt;br&gt;&lt;/div&gt;(iv) acceptance of significant gifts or hospitality from the client &lt;br&gt;company, its directors or emp. " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-14">
+          <mxGeometry x="140" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-14">
+          <mxGeometry x="580" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-18" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
+          <mxGeometry y="360" width="840" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-19" value="&lt;u&gt;&lt;b&gt;Intimidation threats&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-18">
+          <mxGeometry width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-20" value="threat of replacement over disagreements with the application of &lt;br/&gt;accounting principles, or pressure to disproportionately reduce work in &lt;br/&gt;response to reduced audit fees." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-18">
+          <mxGeometry x="140" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-18">
+          <mxGeometry x="580" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
