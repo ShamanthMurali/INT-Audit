@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T09:45:27.919Z" agent="5.0 (X11)" etag="7xYoid6hoNgq11OGdsOB" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-14T09:48:59.736Z" agent="5.0 (X11)" etag="RPLONUOaxVAO1OADmdUy" version="14.9.6" type="github">
   <diagram id="hTsLwC4ZYWxXKzajyYe-" name="Page-1">
-    <mxGraphModel dx="2108" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3995" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,17 +118,13 @@
         <mxCell id="ouAwMG1gBBQ8QLxgHwnT-42" value="Independence of&amp;nbsp; Auditors" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="325" y="2090" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ouAwMG1gBBQ8QLxgHwnT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouAwMG1gBBQ8QLxgHwnT-43" target="ouAwMG1gBBQ8QLxgHwnT-45" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ouAwMG1gBBQ8QLxgHwnT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouAwMG1gBBQ8QLxgHwnT-43" target="f5kDjT3PVkxGhnYM-qrR-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="2460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ouAwMG1gBBQ8QLxgHwnT-43" value="&lt;div&gt;Independence&amp;nbsp; implies that&amp;nbsp; the&amp;nbsp; judgement&amp;nbsp; of&amp;nbsp; a person&amp;nbsp; is&amp;nbsp; not&amp;nbsp; subordinate&amp;nbsp; to&amp;nbsp; the wishes or direction of another person who might have engaged him.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;“Independence is: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) &lt;u&gt;&lt;b&gt;Independence of mind&lt;/b&gt;&lt;/u&gt; – the state of mind that permits the provision of an opinion without being affected by influences allowing an individual to act with integrity, and exercise objectivity and professional skepticism; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) &lt;u&gt;&lt;b&gt;Independence&amp;nbsp; in&amp;nbsp; appearance&lt;/b&gt;&lt;/u&gt;&amp;nbsp; – the&amp;nbsp; avoidance&amp;nbsp; of&amp;nbsp; facts&amp;nbsp; and&amp;nbsp; circumstances&amp;nbsp; that are so significant that a third party would reasonably conclude an auditor’s integrity, objectivity or professional skepticism had been compromised.”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The auditor should be straightforward, honest and sincere in his approach to his professional work. He must be fair and must not allow prejudice or bias to override his objectivity. He should maintain an impartial attitude and both be and a ppear to be&amp;nbsp; free&amp;nbsp; of&amp;nbsp; any&amp;nbsp; interest&amp;nbsp; which&amp;nbsp; might&amp;nbsp; be&amp;nbsp; regarded&amp;nbsp; as&amp;nbsp; being&amp;nbsp; incompatible&amp;nbsp; with&amp;nbsp; integrity and objectivity.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="2150" width="480" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="ouAwMG1gBBQ8QLxgHwnT-45" value="&lt;u&gt;&lt;b&gt;Threats to Independence&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="2460" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ouAwMG1gBBQ8QLxgHwnT-46" value="&lt;div&gt;1. &lt;u&gt;&lt;b&gt;Self-interest threats&lt;/b&gt;&lt;/u&gt;,occur when partner or associate could benefit from a financial interest in an audit client.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;Self-review threats&lt;/b&gt;&lt;/u&gt;, when a member of the audit team was previously a director or senior employee of the client. Instances where such threats come into play are (i) when an auditor having recently&amp;nbsp; been&amp;nbsp; a&amp;nbsp; director&amp;nbsp; or&amp;nbsp; senior&amp;nbsp; officer&amp;nbsp; of&amp;nbsp; the&amp;nbsp; company,&amp;nbsp; and&amp;nbsp; (ii)&amp;nbsp; when auditors perform services that are themselves subject matters of audit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;Advocacy threats&lt;/b&gt;&lt;/u&gt;, which occur when the auditor promotes, or is perceived to&amp;nbsp; promote,&amp;nbsp; a client’s&amp;nbsp; opinion&amp;nbsp; to&amp;nbsp; a point&amp;nbsp; where&amp;nbsp; people&amp;nbsp; may&amp;nbsp; believe&amp;nbsp; that objectivity is getting compromised, e.g. when an auditor deals with shares or securities&amp;nbsp; of&amp;nbsp; the&amp;nbsp; audited&amp;nbsp; company,&amp;nbsp; or&amp;nbsp; becomes&amp;nbsp; the&amp;nbsp; client’s&amp;nbsp; advocate&amp;nbsp; in litigation and third party disputes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;&lt;b&gt;Familiarity&amp;nbsp;&amp;nbsp; threats&lt;/b&gt;&lt;/u&gt;&amp;nbsp; (i) close relative of the audit team working in a senior position in the client company, (ii) former partner of the audit firm being a&amp;nbsp; director&amp;nbsp; or&amp;nbsp; senior employee of&amp;nbsp; the&amp;nbsp; client,&amp;nbsp; (iii)&amp;nbsp; long association between specific auditors and their specific client counterparts, and (iv) acceptance of significant gifts or hospitality from the client company, its directors or employees. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;&lt;b&gt;Intimidation threats&lt;/b&gt;&lt;/u&gt;, threat of replacement over disagreements with the application of accounting principles, or pressure to disproportionately reduce work in response to reduced audit fees.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="188" y="2500" width="475" height="340" as="geometry" />
         </mxCell>
         <mxCell id="ouAwMG1gBBQ8QLxgHwnT-48" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Basic principles governing an audit&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. integrity objectivity and independence (honest/sincere)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. confidentiality&lt;/div&gt;&lt;div&gt;3. skills and competence&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4. work performed by others&lt;/div&gt;&lt;div&gt;5. audit evidence (sufficient and appropriate audit evidence)&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. planning (timely and efficient)&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. documentation&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;8. conclusions and reporting&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. systems (AS and ICS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1950" width="440" height="200" as="geometry" />
@@ -137,7 +133,7 @@
           <mxGeometry x="740" y="1510" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-1" value="Threats to Independence" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry y="2880" width="840" height="410" as="geometry" />
+          <mxGeometry x="5" y="2470" width="840" height="410" as="geometry" />
         </mxCell>
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-22" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
           <mxGeometry y="30" width="840" height="20" as="geometry" />
@@ -160,7 +156,7 @@
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-4" value="&lt;div&gt;occur when partner or associate could benefit from a financial interest &lt;br&gt;&lt;/div&gt;&lt;div&gt;in an audit client.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-2">
           <mxGeometry x="140" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f5kDjT3PVkxGhnYM-qrR-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-2">
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-5" value="disqualifications as per cos audit" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-2">
           <mxGeometry x="580" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
@@ -172,7 +168,7 @@
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-8" value="when a member of the audit team was previously a director or senior &lt;br&gt;employee of the client. Instances where such threats come into play are &lt;br&gt;(i) when an auditor having recently been a director or senior&amp;nbsp; &lt;br&gt;&lt;div&gt;officer of the company&lt;/div&gt;&lt;div&gt;(ii) when auditors perform services that are themselves subject matters of audit&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-6">
           <mxGeometry x="140" width="440" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="f5kDjT3PVkxGhnYM-qrR-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-6">
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-9" value="SA560" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-6">
           <mxGeometry x="580" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
@@ -184,7 +180,7 @@
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-12" value="&lt;div&gt;occur when the auditor promotes, or is perceived to&amp;nbsp; &lt;br&gt;promote, a client’s opinion to a point where people may believe&amp;nbsp;&lt;br&gt; that objectivity is getting compromised, e.g. when an auditor deals &lt;br&gt;with shares or securities of the audited company, or becomes the&amp;nbsp;&lt;br&gt; client’s advocate in litigation &amp;amp; 3rd party disputes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-10">
           <mxGeometry x="140" width="440" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f5kDjT3PVkxGhnYM-qrR-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-10">
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-13" value="S144 of cos act" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-10">
           <mxGeometry x="580" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
@@ -196,7 +192,7 @@
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-16" value=" (i) close relative of the audit team working in a senior position in the client company &lt;br&gt;&lt;div&gt;(ii) former partner of the audit firm being a director or senior employee of client&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) long association b/w specific auditors and their specific client counterparts&lt;br&gt;&lt;/div&gt;(iv) acceptance of significant gifts or hospitality from the client &lt;br&gt;company, its directors or emp. " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-14">
           <mxGeometry x="140" width="440" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="f5kDjT3PVkxGhnYM-qrR-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-14">
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-17" value="&lt;div&gt;1. disqualifications as per cos audit&lt;/div&gt;&lt;div&gt;2. rotation of auditor&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-14">
           <mxGeometry x="580" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-18" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-1">
@@ -208,7 +204,7 @@
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-20" value="threat of replacement over disagreements with the application of &lt;br/&gt;accounting principles, or pressure to disproportionately reduce work in &lt;br/&gt;response to reduced audit fees." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-18">
           <mxGeometry x="140" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f5kDjT3PVkxGhnYM-qrR-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-18">
+        <mxCell id="f5kDjT3PVkxGhnYM-qrR-21" value="final removal by SH only" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f5kDjT3PVkxGhnYM-qrR-18">
           <mxGeometry x="580" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
