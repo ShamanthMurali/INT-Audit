@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T19:54:02.638Z" agent="5.0 (X11)" etag="D8KDf5s0zYEg0tHruE8m" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T20:10:46.106Z" agent="5.0 (X11)" etag="S9t-QprbxvxWSkZO3jEG" version="15.2.7" type="github">
   <diagram id="Dq3Bf0Ob6L3IU1oHNY2R" name="Page-1">
-    <mxGraphModel dx="3181" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2568" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,56 +55,65 @@
         <mxCell id="JVfyQsDlpFgOe32HRUAi-17" value="&lt;div&gt;&lt;u&gt;Consider&amp;nbsp; following&amp;nbsp; assertions&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Occurrence (O) and Existence (E)&lt;/b&gt;&lt;/u&gt;: Transactions and events disclosed in the FS have occurred and relate to the entity.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Completeness&lt;/b&gt;&lt;/u&gt;: All transactions, balances, events and other&amp;nbsp; matters that should have been disclosed have been disclosed in the FS.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Measurement(M) and Valuation(V)&lt;/b&gt;&lt;/u&gt;: Transactions, events,&amp;nbsp; balances and other financial matters have been measured and disclosed correctly in a manner that promotes understand ability of the FS.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="270" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="JVfyQsDlpFgOe32HRUAi-18" value="Share Capital" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1075" y="650" width="120" height="40" as="geometry" />
+        <mxCell id="HmFCgczZDOIW98-LxWr3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-18" target="HmFCgczZDOIW98-LxWr3-1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVfyQsDlpFgOe32HRUAi-19" value="&lt;div&gt;Reserves and &lt;br&gt;&lt;/div&gt;&lt;div&gt;Surplus &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-915" y="650" width="120" height="40" as="geometry" />
+        <mxCell id="JVfyQsDlpFgOe32HRUAi-18" value="Share Capital" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-1080" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HmFCgczZDOIW98-LxWr3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-19" target="HmFCgczZDOIW98-LxWr3-3" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVfyQsDlpFgOe32HRUAi-19" value="&lt;div&gt;Reserves and &lt;br&gt;&lt;/div&gt;&lt;div&gt;Surplus &lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-915" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HmFCgczZDOIW98-LxWr3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-20" target="HmFCgczZDOIW98-LxWr3-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-20" value="Borrowings" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-755" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="-755" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-21" value="Trade Receivables" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-595" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="-595" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-22" value="Cash and Cash equivalents" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-435" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="-435" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-23" value="Inventories" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-275" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="-275" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-24" value="Fixed Assets (Property, Plant and Equipment) " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-115" y="650" width="120" height="50" as="geometry" />
+          <mxGeometry x="-115" y="640" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-25" value="Intangible Asset" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="45" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-26" value="Trade Payables and Current Liabilities" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="205" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-27" value="Loans and Advances" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="365" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-28" value="Provisions and Contingent Liability" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="525" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-29" value="Sale of Products and Services " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="685" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="685" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-30" value="Other Income Comprising interest Income, Dividend Income, Gain/ Loss on Sale of Investments etc. " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="845" y="650" width="280" height="40" as="geometry" />
+          <mxGeometry x="845" y="640" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-31" value="Purchases" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1165" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="1165" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-32" value="Employee Benefit Expense " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1325" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="1325" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-33" value="Depreciation and Amortisation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1485" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="1485" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-34" value="Other Expenses like Power and Fuel, Rent, Repair to Building, Plant and Machinery, Insurance, Travelling, Legal and Professional, Miscellaneous Expenses" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1645" y="650" width="280" height="80" as="geometry" />
+          <mxGeometry x="1645" y="640" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-1" value="Vouching &#xa;vs verification" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-530" y="440" width="120" height="40" as="geometry">
@@ -204,6 +213,15 @@
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/igpQDB1.png;" parent="66pDrFZKpN6Ti9aJz2PV-32" vertex="1">
           <mxGeometry x="-2.5" y="403" width="520" height="267" as="geometry" />
+        </mxCell>
+        <mxCell id="HmFCgczZDOIW98-LxWr3-1" value="1.1 &lt;u&gt;&lt;b&gt;Existence&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;It is the sum stated in the memorandum as the capital of the company with which it is to be registered being the maximum amount which it is&lt;br&gt;authorized to raise by issuing shares, and upon which it pays the stamp&lt;br&gt;&lt;div&gt;duty&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.2 &lt;u&gt;&lt;b&gt;Valuation&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;1. Tally the period- end share capital balance- authorised, issued and paid&lt;br&gt;&lt;div&gt;up, to the previous year audited financial statements&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. In case there in no change during the year, obtain a written confirmation/&lt;br&gt;representation from the Company Secretary that there were no changes to&lt;br&gt;&lt;div&gt;entity’s capital structure during the year.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;3. In case there is any change, obtain the certified copies of relevant&lt;br&gt;resolutions passed at the meetings of board of directors, shareholders&lt;br&gt;authorizing the increase/ decrease in authorized and paid up share capital&lt;br&gt;&amp;nbsp;Verify whether the paid up capital as at the period- end is within the limits&lt;br&gt;&lt;div&gt;of authorized capital&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.3 &lt;u&gt;&lt;b&gt;Completeness&lt;/b&gt;&lt;/u&gt;&lt;br&gt;Equity bal that should have been recorded have been shown in the FS&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.4 &lt;u&gt;&lt;b&gt;Presentation and Disclosure&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;as per AS/IND AS as applicable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1220" y="700" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="HmFCgczZDOIW98-LxWr3-3" value="2.1 &lt;u&gt;&lt;b&gt;Existence/Valuation/Completeness&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;Tally the opening balance of reserves and surplus to the PY&lt;br&gt;&lt;div&gt;audited FS.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;For addition/ utilisation in current year, in case of:&lt;br&gt;a. Profit and Loss balance- trace the movement as disclosed in Statement&lt;br&gt;of changes in Equity to Surplus/ Deficit as per Income Statement for the&lt;br&gt;year under audit&lt;br&gt;b. For adjustment related to dividend payment and the tax related thereto&lt;br&gt;i.e. dividend distribution tax, verify the resolution passed by the board of&lt;br&gt;directors regarding declaration of dividend&lt;br&gt;&lt;div&gt;d. Utilisation of share premium as per the provisions&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2.2 &lt;u&gt;&lt;b&gt;Presentation and Disclosure&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;Ias per AS/IND AS as applicable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1055" y="700" width="400" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="HmFCgczZDOIW98-LxWr3-5" value="3.1 &lt;u&gt;&lt;b&gt;Existence&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;Review board minutes for approval of new lending agreements. During&lt;br&gt;review, make sure that any new loan agreements or bond issuances are&lt;br&gt;authorized. Ensure that significant debt commitments should be approved&lt;br&gt;by the board of directors.&lt;br&gt;&amp;nbsp;Agree details of loans recorded (interest rate, nature and repayment terms)&lt;br&gt;to the loan agreement. Verify that borrowing limits imposed by agreements&lt;br&gt;are not exceeded&lt;br&gt;&amp;nbsp;Agree overdrafts and loans recorded to bank confirmation / confirmation to&lt;br&gt;lenders&lt;br&gt;&amp;nbsp;Agree details of leases and hire purchase creditors recorded to underlying&lt;br&gt;agreement&lt;br&gt;&amp;nbsp;Examine trust deed for terms and dates of redemption, borrowing&lt;br&gt;&lt;div&gt;restrictions and compliance with covenants&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3.2 &lt;u&gt;&lt;b&gt;Valuation&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;Determine that the accounting policies and methods of recording debt are&lt;br&gt;appropriate and applied consistently.&lt;br&gt;&amp;nbsp;Recalculate the interest accrual, and discount or premium on redemption&lt;br&gt;&amp;nbsp;For foreign current loans, agree the closing exchange rate(s) used and test&lt;br&gt;the translation calculations&lt;br&gt;&lt;div&gt;&amp;nbsp;Check computation of the amortization of premium or discount.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3.3 &lt;u&gt;&lt;b&gt;Completeness&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;Obtain a schedule of short term and long term borrowing (including debt&lt;br&gt;outstanding at the end of the prior year, as well as any new debt or&lt;br&gt;renewal of debt) showing beginning and ending balances and borrowings&lt;br&gt;and repayments during the year, and perform the following:&lt;br&gt;a. Consider any evidence of additional debt obtained through examination&lt;br&gt;of minutes of the board, significant contracts, confirmations of bank&lt;br&gt;accounts, support for subsequent cash disbursements (when testing&lt;br&gt;payables), and other documents.&lt;br&gt;b. Test the summarization and trace the ending balances to the general&lt;br&gt;ledger&lt;br&gt;&amp;nbsp;For each lender (or, in some circumstances, selected lenders) with which&lt;br&gt;the client had debt outstanding at the prior year end or during the current&lt;br&gt;year, prepare, or have the client prepare, a confirmation request for the&lt;br&gt;&lt;div&gt;amount(s) owed to the lender&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3.4 &lt;u&gt;&lt;b&gt;Presentation and Disclosure&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;It should be as per AS/IND AS as applicable to the entity and in&lt;br&gt;accordance with Schedule III of Companies Act, 2013&lt;br&gt;&amp;nbsp;Examine the due dates on loans for proper classification between longterm and current. Analyse relevant details of interest rates, amounts due&lt;br&gt;(e.g. between current and non-current payables), dates and terms of&lt;br&gt;redemption or conversion&lt;br&gt;&amp;nbsp;Verify whether liabilities to bank towards bills discounted, bills negotiated,&lt;br&gt;cheques discounted, etc. are correctly reflected and disclosed in the&lt;br&gt;&lt;div&gt;accounts &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3.5 &lt;u&gt;&lt;b&gt;Other Aspects&lt;/b&gt;&lt;/u&gt;:&lt;br&gt;&amp;nbsp;Verify that the company has not contravened the restrictions laid down by&lt;br&gt;Section 180 of the Companies Act, on the borrowings of the company.&lt;br&gt;Also, check compliance of section 185 and 186 of Companies Act, 2013.&lt;br&gt;&amp;nbsp;Check compliance of Section 2(22)(e) of Income Tax Act,1961 and ensure&lt;br&gt;that payment by way of advance or loan to a shareholder holding not less&lt;br&gt;than 10% of voting power or any concern in which such shareholder is a&lt;br&gt;member or a partner and in which he has substantial interest, shall be&lt;br&gt;treated as dividend&lt;br&gt;&amp;nbsp;Where the entity has accepted deposits, examine whether the directives&lt;br&gt;issued by the Reserve Bank of India or other appropriate authority have&lt;br&gt;been complied with. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-895" y="700" width="465" height="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
