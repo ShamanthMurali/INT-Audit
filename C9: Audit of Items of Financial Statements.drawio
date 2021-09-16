@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T07:59:44.450Z" agent="5.0 (X11)" etag="ATBhLI_9Zro-MgFC47ys" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T08:02:23.097Z" agent="5.0 (X11)" etag="bhTkaPFy3JBq2r6F6L1x" version="15.2.7" type="github">
   <diagram id="Dq3Bf0Ob6L3IU1oHNY2R" name="Page-1">
-    <mxGraphModel dx="3181" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5297" dy="2891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,22 +8,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-2" value="Audit of Items of Financial Statements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" width="200" height="40" as="geometry" />
+          <mxGeometry x="315" y="-110" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVfyQsDlpFgOe32HRUAi-4" target="JVfyQsDlpFgOe32HRUAi-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-4" value="Auditor needs to obtain SAAE to verify mgmt’s assertions i.e. representations made by mgmt regarding financial items- transactions, balances and disclosures. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="60" width="360" height="50" as="geometry" />
+          <mxGeometry x="235" y="-50" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVfyQsDlpFgOe32HRUAi-6" target="JVfyQsDlpFgOe32HRUAi-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-6" value="Transactions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="-25" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-7" value="&lt;div&gt;&lt;u&gt;Consider&amp;nbsp; following&amp;nbsp; assertions&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Measurement&lt;/b&gt;&lt;/u&gt;: Transactions have been recorded accurately at their appropriate amounts and further, transactions have been&amp;nbsp;&amp;nbsp; classified and presented fairly in the FS. &amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Occurrence&lt;/b&gt;&lt;/u&gt;: Transactions recognized in the FS have occurred &lt;br&gt;&lt;/div&gt;&lt;div&gt;and relate to the entity &amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Completeness&lt;/b&gt;&lt;/u&gt;: All transactions that were supposed to be &lt;br&gt;&lt;/div&gt;&lt;div&gt;recorded have been recognized in the FS and further, transactions have been recognized in the correct accounting periods&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="270" width="360" height="190" as="geometry" />
+          <mxGeometry x="-145" y="160" width="360" height="190" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVfyQsDlpFgOe32HRUAi-11" target="JVfyQsDlpFgOe32HRUAi-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,91 +35,91 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-11" value="Verifing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="355" y="20" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVfyQsDlpFgOe32HRUAi-13" target="JVfyQsDlpFgOe32HRUAi-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-13" value="presentation and disclosure" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="735" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVfyQsDlpFgOe32HRUAi-15" target="JVfyQsDlpFgOe32HRUAi-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-15" value="Balances" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="355" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-16" value="&lt;div&gt;&lt;u&gt;Consider&amp;nbsp; following&amp;nbsp; assertions&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Existence&lt;/b&gt;&lt;/u&gt;: Assets, liabilities and equity balances exist as at the period end.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Valuation&lt;/b&gt;&lt;/u&gt;: Assets, liabilities and equity balances have been valued appropriately.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Rights &amp;amp; Obligations&lt;/b&gt;&lt;/u&gt;: Entity has the right to ownership or use of&amp;nbsp; the recognized assets, and the liabilities recognized in the FS represent the obligations of the entity&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Completeness&lt;/b&gt;&lt;/u&gt;: All assets, liabilities and equity balances that were supposed to be recorded have been recognized in the FS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="270" width="360" height="220" as="geometry" />
+          <mxGeometry x="235" y="160" width="360" height="220" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-17" value="&lt;div&gt;&lt;u&gt;Consider&amp;nbsp; following&amp;nbsp; assertions&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Occurrence (O) and Existence (E)&lt;/b&gt;&lt;/u&gt;: Transactions and events disclosed in the FS have occurred and relate to the entity.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Completeness&lt;/b&gt;&lt;/u&gt;: All transactions, balances, events and other&amp;nbsp; matters that should have been disclosed have been disclosed in the FS.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Measurement(M) and Valuation(V)&lt;/b&gt;&lt;/u&gt;: Transactions, events,&amp;nbsp; balances and other financial matters have been measured and disclosed correctly in a manner that promotes understand ability of the FS.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="270" width="360" height="200" as="geometry" />
+          <mxGeometry x="615" y="160" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HmFCgczZDOIW98-LxWr3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVfyQsDlpFgOe32HRUAi-18" target="HmFCgczZDOIW98-LxWr3-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-18" value="Share Capital" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-1084.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1090" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HmFCgczZDOIW98-LxWr3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVfyQsDlpFgOe32HRUAi-19" target="HmFCgczZDOIW98-LxWr3-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-19" value="&lt;div&gt;Reserves and &lt;br&gt;&lt;/div&gt;&lt;div&gt;Surplus &lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-919.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-925" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HmFCgczZDOIW98-LxWr3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVfyQsDlpFgOe32HRUAi-20" target="HmFCgczZDOIW98-LxWr3-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-20" value="Borrowings" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-759.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-765" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-21" target="HmFCgczZDOIW98-LxWr3-7" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-21" value="&amp;nbsp; Trade Receivables" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-599.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-605" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-22" target="UfjtboCrBmcmnvGXadqM-2" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-22" value="Cash and Cash equivalents" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-439.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-445" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-23" target="UfjtboCrBmcmnvGXadqM-4" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-23" value="Inventories" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-279.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-285" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-24" target="UfjtboCrBmcmnvGXadqM-6" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-24" value="&lt;div&gt;Fixed Assets &lt;br&gt;&lt;/div&gt;&lt;div&gt;(PPE) &lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-119.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-125" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-25" target="UfjtboCrBmcmnvGXadqM-8" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-25" value="Intangible Asset" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="40.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="35" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-26" target="UfjtboCrBmcmnvGXadqM-10" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-26" value="&lt;div&gt;Trade Payables &lt;br&gt;&lt;/div&gt;&lt;div&gt;and Current Liabilities&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="200.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="195" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-27" target="UfjtboCrBmcmnvGXadqM-12" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-27" value="&lt;div&gt;Loans &lt;br&gt;&lt;/div&gt;&lt;div&gt;and Advances&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="360.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="355" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-28" target="UfjtboCrBmcmnvGXadqM-14" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-28" value="Provisions and Contingent Liability" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="520.5" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="515" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-29" target="UfjtboCrBmcmnvGXadqM-16" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -151,11 +151,59 @@
         <mxCell id="JVfyQsDlpFgOe32HRUAi-33" value="Depreciation and Amortisation" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1480.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-25" target="JVfyQsDlpFgOe32HRUAi-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-25" value="P/L items" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="-285" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-26" target="JVfyQsDlpFgOe32HRUAi-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-26" target="JVfyQsDlpFgOe32HRUAi-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-26" target="JVfyQsDlpFgOe32HRUAi-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-26" target="JVfyQsDlpFgOe32HRUAi-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfjtboCrBmcmnvGXadqM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-26" target="JVfyQsDlpFgOe32HRUAi-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-26" value="B/S items" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-680" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="1160.5" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HmFCgczZDOIW98-LxWr3-1" value="1.1 &lt;u&gt;&lt;b&gt;Existence&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;It is the sum stated in the memorandum as the capital of the company with which it is to be registered being the maximum amount which it is&lt;br&gt;authorized to raise by issuing shares, and upon which it pays the stamp&lt;br&gt;&lt;div&gt;duty&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.2 &lt;u&gt;&lt;b&gt;Valuation&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;1. Tally the period- end share capital balance- authorised, issued and paid&lt;br&gt;&lt;div&gt;up, to the previous year audited financial statements&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. In case there in no change during the year, obtain a written confirmation/&lt;br&gt;representation from the Company Secretary that there were no changes to&lt;br&gt;&lt;div&gt;entity’s capital structure during the year.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;3. In case there is any change, obtain the certified copies of relevant&lt;br&gt;resolutions passed at the meetings of board of directors, shareholders&lt;br&gt;authorizing the increase/ decrease in authorized and paid up share capital&lt;br&gt;&amp;nbsp;Verify whether the paid up capital as at the period- end is within the limits&lt;br&gt;&lt;div&gt;of authorized capital&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.3 &lt;u&gt;&lt;b&gt;Completeness&lt;/b&gt;&lt;/u&gt;&lt;br&gt;Equity bal that should have been recorded have been shown in the FS&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.4 &lt;u&gt;&lt;b&gt;Presentation and Disclosure&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;as per AS/IND AS as applicable" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-1220" y="700" width="400" height="380" as="geometry" />
@@ -206,7 +254,7 @@
           <mxGeometry x="1333.63" y="740" width="413.75" height="380" as="geometry" />
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-1" value="Vouching &#xa;vs verification" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-530" y="440" width="120" height="40" as="geometry">
+          <mxGeometry x="380" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="360" y="560" width="360" height="320" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -277,7 +325,7 @@
           <mxGeometry x="180" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-27" value="How to Vouch" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-600" y="370" width="120" height="40" as="geometry">
+          <mxGeometry x="310" y="410" width="120" height="40" as="geometry">
             <mxRectangle x="-600" y="370" width="520" height="673" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -288,7 +336,7 @@
           <mxGeometry y="397" width="520" height="276" as="geometry" />
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-32" value="How to Verify" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-460" y="370" width="120" height="40" as="geometry">
+          <mxGeometry x="450" y="410" width="120" height="40" as="geometry">
             <mxRectangle x="-450" y="370" width="517.5" height="670" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
