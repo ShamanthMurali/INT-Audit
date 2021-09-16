@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T06:48:49.087Z" agent="5.0 (X11)" etag="ydlHe7Ntmjst8FR6VbZF" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T06:49:46.224Z" agent="5.0 (X11)" etag="xiBRWEQzVwsPDrKpBVJf" version="15.2.7" type="github">
   <diagram id="Dq3Bf0Ob6L3IU1oHNY2R" name="Page-1">
-    <mxGraphModel dx="4218" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5897" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,79 +59,79 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-18" value="Share Capital" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-1080" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1084.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HmFCgczZDOIW98-LxWr3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVfyQsDlpFgOe32HRUAi-19" target="HmFCgczZDOIW98-LxWr3-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-19" value="&lt;div&gt;Reserves and &lt;br&gt;&lt;/div&gt;&lt;div&gt;Surplus &lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-915" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-919.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HmFCgczZDOIW98-LxWr3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVfyQsDlpFgOe32HRUAi-20" target="HmFCgczZDOIW98-LxWr3-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-20" value="Borrowings" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-755" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-759.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-21" target="HmFCgczZDOIW98-LxWr3-7" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-21" value="&amp;nbsp; Trade Receivables" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-595" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-599.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-22" target="UfjtboCrBmcmnvGXadqM-2" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-22" value="Cash and Cash equivalents" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-435" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-439.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-23" target="UfjtboCrBmcmnvGXadqM-4" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-23" value="Inventories" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-275" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-279.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-24" target="UfjtboCrBmcmnvGXadqM-6" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-24" value="&lt;div&gt;Fixed Assets &lt;br&gt;&lt;/div&gt;&lt;div&gt;(PPE) &lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-115" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-119.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-25" target="UfjtboCrBmcmnvGXadqM-8" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-25" value="Intangible Asset" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="45" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="40.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVfyQsDlpFgOe32HRUAi-26" target="UfjtboCrBmcmnvGXadqM-10" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-26" value="&lt;div&gt;Trade Payables &lt;br&gt;&lt;/div&gt;&lt;div&gt;and Current Liabilities&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="205" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="200.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-27" value="&lt;div&gt;Loans &lt;br&gt;&lt;/div&gt;&lt;div&gt;and Advances&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="360.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-28" value="Provisions and Contingent Liability" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="520.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-29" value="Sale of Products and Services " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="685" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="680.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-30" value="Other Income Comprising interest Income, Dividend Income, Gain/ Loss on Sale of Investments etc. " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="845" y="640" width="280" height="40" as="geometry" />
+          <mxGeometry x="840.5" y="640" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-31" value="Purchases" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1165" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="1160.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-32" value="Employee Benefit Expense " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1325" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="1320.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-33" value="Depreciation and Amortisation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1485" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="1480.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-34" value="Other Expenses like Power and Fuel, Rent, Repair to Building, Plant and Machinery, Insurance, Travelling, Legal and Professional, Miscellaneous Expenses" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1645" y="640" width="280" height="80" as="geometry" />
+          <mxGeometry x="1640.5" y="640" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-1" value="Vouching &#xa;vs verification" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-530" y="440" width="120" height="40" as="geometry">
