@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T08:02:23.097Z" agent="5.0 (X11)" etag="bhTkaPFy3JBq2r6F6L1x" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T08:11:29.202Z" agent="5.0 (X11)" etag="GBvMBkvxemAUC7xr0IFj" version="15.2.7" type="github">
   <diagram id="Dq3Bf0Ob6L3IU1oHNY2R" name="Page-1">
-    <mxGraphModel dx="5297" dy="2891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4218" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,7 +254,7 @@
           <mxGeometry x="1333.63" y="740" width="413.75" height="380" as="geometry" />
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-1" value="Vouching &#xa;vs verification" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="380" y="480" width="120" height="40" as="geometry">
+          <mxGeometry x="365" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="360" y="560" width="360" height="320" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -325,7 +325,7 @@
           <mxGeometry x="180" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-27" value="How to Vouch" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="310" y="410" width="120" height="40" as="geometry">
+          <mxGeometry x="295" y="410" width="120" height="40" as="geometry">
             <mxRectangle x="-600" y="370" width="520" height="673" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -336,7 +336,7 @@
           <mxGeometry y="397" width="520" height="276" as="geometry" />
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-32" value="How to Verify" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="450" y="410" width="120" height="40" as="geometry">
+          <mxGeometry x="435" y="410" width="120" height="40" as="geometry">
             <mxRectangle x="-450" y="370" width="517.5" height="670" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
