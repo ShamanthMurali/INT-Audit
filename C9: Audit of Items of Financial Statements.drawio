@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T06:15:15.313Z" agent="5.0 (X11)" etag="um0Txpj6lIFKVBbL3ITT" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T06:15:47.382Z" agent="5.0 (X11)" etag="RBh3Zi9WdVc8FT0XwTtS" version="15.2.7" type="github">
   <diagram id="Dq3Bf0Ob6L3IU1oHNY2R" name="Page-1">
     <mxGraphModel dx="2568" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,8 +91,8 @@
         <mxCell id="JVfyQsDlpFgOe32HRUAi-23" value="Inventories" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-275" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JVfyQsDlpFgOe32HRUAi-24" value="Fixed Assets (Property, Plant and Equipment) " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-115" y="640" width="120" height="50" as="geometry" />
+        <mxCell id="JVfyQsDlpFgOe32HRUAi-24" value="&lt;div&gt;Fixed Assets &lt;br&gt;&lt;/div&gt;&lt;div&gt;(PPE) &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-115" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JVfyQsDlpFgOe32HRUAi-25" value="Intangible Asset" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="640" width="120" height="40" as="geometry" />
