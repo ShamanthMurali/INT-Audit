@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T08:26:53.868Z" agent="5.0 (X11)" etag="sRXOca9IRn7y9OHmbVUn" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T08:13:40.602Z" agent="5.0 (X11)" etag="dwdXZiqKgMq3naMV-4Wu" version="15.4.1" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1614" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2105" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,8 +119,11 @@
         <mxCell id="TuKAxbe2wIa_8roPm6jD-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;SA299&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1460" width="120" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-21">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+        <mxCell id="Ldv6dLhsrY2iylPFSwgB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuKAxbe2wIa_8roPm6jD-21" target="Ldv6dLhsrY2iylPFSwgB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Joint Audit of Financial Statements&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="TuKAxbe2wIa_8roPm6jD-21">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="1360" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1991,7 +1994,7 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-134" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit procedure to report under CARO 2016&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. auditor should make inquiries of mgmt to determine whether mgmt is aware of fraud or suspected fraud that the company is investigating.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. examine the reports of the IA ascertain whether any fraud has been reported&amp;nbsp; or noticed by the mgmt. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. examine the minutes of the audit committee ascertain whether instance of fraud pertaining to the company has been reported and actions taken thereon. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. obtain written representations from management that:&lt;/div&gt;&lt;div&gt;a. acknowledge its responsibility for implementation and operation of a/cing and ICS designed detect &amp;amp; prevent fraud and error.&lt;/div&gt;&lt;div&gt;b. it has disclosed to auditor all significant facts relating to frauds or suspected frauds known to mgmt.&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. it has disclosed auditor results of its assessment of the risk that the financial statements may be materially misstated as a result of fraud.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1090" y="3760" width="360" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="M0qmUR0kxqwNfTAftRLK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-136" target="M0qmUR0kxqwNfTAftRLK-1" visible="0">
+        <mxCell id="M0qmUR0kxqwNfTAftRLK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-136" target="M0qmUR0kxqwNfTAftRLK-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-136" value="Auditor unable to continue the engagement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -2160,9 +2163,6 @@
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-202" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit procedures to evaluate feasibility of &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Management’s assessment&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. evaluate mgmt’s assessment of going concern. auditor shall use period used by mgmt to make its assessment as required by the applicable FRF &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 2. If management’s assessment is &amp;lt; 12m from the date of the FS, auditor shall request mgmt to extend its assessment period to at least 12m &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. The auditor shall consider whether mgmt’s assessment includes all relevant information of which the auditor is aware as a result of the audit &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Evaluating mgmt’s plans for future actions in relation to going concern assessment, whether plans are feasible in circumstances &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. whether any additional facts or information have become available since the date on which mgmt made its assessment &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Where the entity has prepared a cash flow forecast, and analysis of the forecast in considering the future outcome of events in the evaluation of mgmt’s plans for future actions:&lt;/div&gt;&lt;div&gt;(i) Evaluating the reliability of the data generated to prepare the forecast&lt;/div&gt;&lt;div&gt;(ii) whether there is adequate support for the assumptions in the forecast.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5640" y="920" width="400" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="jzqZOG9cQNNDQsuIwyla-211" value="&lt;span class=&quot;markedContent&quot; id=&quot;page16R_mcid15&quot;&gt;&lt;span style=&quot;left: 307.567px ; top: 928.48px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.854251)&quot; dir=&quot;ltr&quot;&gt;Joint &lt;/span&gt;&lt;span style=&quot;left: 345.563px ; top: 928.48px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.86003)&quot; dir=&quot;ltr&quot;&gt;Audit of Financial Statements&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="-60" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-224" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-220" target="jzqZOG9cQNNDQsuIwyla-221" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -3103,8 +3103,11 @@
         <mxCell id="5QPsdsrj7TwqAgaVisbq-6" value="&lt;div&gt;E&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;A/cing &lt;br&gt;&lt;/div&gt;&lt;div&gt;Software&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666857;" parent="1" vertex="1" visible="0">
           <mxGeometry x="210" y="425" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="M0qmUR0kxqwNfTAftRLK-1" value="&lt;div&gt;If, as a result of a misstatement resulting from fraud or suspected fraud, the auditor&amp;nbsp; encounters&amp;nbsp; exceptional&amp;nbsp; circumstances&amp;nbsp; that&amp;nbsp; bring&amp;nbsp; into&amp;nbsp; question&amp;nbsp; the&amp;nbsp; auditor’s ability to continue performing the audit, the auditor shall: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Discuss with mgmt and TCWG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Consider withdrawing from the engagement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Determine whether there is a professional or legal requirement to report such circumstance&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="M0qmUR0kxqwNfTAftRLK-1" value="&lt;div&gt;If, as a result of a misstatement resulting from fraud or suspected fraud, the auditor&amp;nbsp; encounters&amp;nbsp; exceptional&amp;nbsp; circumstances&amp;nbsp; that&amp;nbsp; bring&amp;nbsp; into&amp;nbsp; question&amp;nbsp; the&amp;nbsp; auditor’s ability to continue performing the audit, the auditor shall: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Discuss with mgmt and TCWG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Consider withdrawing from the engagement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Determine whether there is a professional or legal requirement to report such circumstance&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1059" y="4160" width="422" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldv6dLhsrY2iylPFSwgB-1" value="A joint audit is an audit of financial statements of an entity by two or more auditors appointed with the objective&amp;nbsp; of issuing the audit report. Such auditors are described as joint auditors. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320.5" y="180" width="399" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
