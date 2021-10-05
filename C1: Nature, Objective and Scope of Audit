@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T17:25:21.475Z" agent="5.0 (X11)" etag="BUzeh-4T2CfJ2eQRugfW" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T17:25:31.811Z" agent="5.0 (X11)" etag="2SDVcA4N4I6Ck53Ex6qK" version="15.4.1" type="github">
   <diagram id="hTsLwC4ZYWxXKzajyYe-" name="Page-1">
     <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
           <mxGeometry x="745" y="1515" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-1" value="Threats to Independence" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=5" parent="1" vertex="1">
-          <mxGeometry x="3" y="2431" width="840" height="410" as="geometry" />
+          <mxGeometry x="10" y="2470" width="840" height="410" as="geometry" />
         </mxCell>
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-22" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f5kDjT3PVkxGhnYM-qrR-1" vertex="1">
           <mxGeometry y="30" width="840" height="20" as="geometry" />
