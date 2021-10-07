@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T07:33:24.232Z" agent="5.0 (X11)" etag="xAHvSJlgl9sNecgeYntI" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T07:39:00.830Z" agent="5.0 (X11)" etag="W2Z-pm34HQiQoPwVXcs3" version="15.4.3" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
     <mxGraphModel dx="1571" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1860,6 +1860,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-73" target="JJCQu0ALxTsPptZCf6qb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-73" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Missing documents &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Documents that appear to have been altered &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Significant unexplained items on reconciliations &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Unusual discrepancies between the entity’s records and confirmation replies &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp;&amp;nbsp; Missing or non-existent cancelled cheques    &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="996" y="1900" width="280" height="160" as="geometry" />
         </mxCell>
@@ -1871,6 +1874,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-75" target="JJCQu0ALxTsPptZCf6qb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-75" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Denial of access to records, facilities, certain employees, customers, vendors, or others from whom audit evidence might be sought &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Undue time pressures imposed by mgmt to resolve complex or contentious issues &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Unusual delays by the entity in providing requested information &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Unwillingness to facilitate auditor access to&amp;nbsp; key electronic files for testing through the use of computer-assisted audit techniques &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp;&amp;nbsp; Denial of access to key IT operations staff and facilities, including security, operations, and systems development personnel. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6&amp;nbsp;&amp;nbsp; An unwillingness to address identified&amp;nbsp; deficiencies in internal control on a timely basis.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1296" y="1910" width="280" height="300" as="geometry" />
         </mxCell>
@@ -1881,6 +1887,9 @@
               <mxPoint x="1281" y="2260" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-77" target="JJCQu0ALxTsPptZCf6qb-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-77" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Unwillingness by mgmt to permit the auditor to&amp;nbsp; meet privately with TCWG. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Accounting policies that appear to be at variance with industry norms &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Frequent changes in accounting estimates that do not give results &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Tolerance of violations of the entity’s Code of Conduct&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1596" y="1900" width="280" height="180" as="geometry" />
@@ -3159,11 +3168,20 @@
         <mxCell id="JJCQu0ALxTsPptZCf6qb-9" value="ROI" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="896.0000000000002" y="1389.9999999999998" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-12" value="Directly Call Post Office" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-12" value="Directly Call Post Office" style="shape=document;boundedLbl=1;sketch=0;portConstraintRotation=0;snapToPoint=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="560" y="1840" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JJCQu0ALxTsPptZCf6qb-14" value="&lt;div&gt;c&lt;br&gt;&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
           <mxGeometry x="620" y="1975" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-16" value="&lt;div&gt;M&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;Signs&lt;/div&gt;&lt;div&gt;unusual&lt;/div&gt;&lt;div&gt;cheques&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="2100" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-18" value="&lt;div&gt;D&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;E&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="2270" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-20" value="&lt;div&gt;U&lt;/div&gt;&lt;div&gt;see&lt;/div&gt;&lt;div&gt;F&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;c&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;s&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.07692307692307693;" vertex="1" parent="1">
+          <mxGeometry x="1756" y="2140" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
