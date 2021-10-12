@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T08:33:21.097Z" agent="5.0 (X11)" etag="mJ-yaxHr0RkunbQz8LpW" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T05:52:00.615Z" agent="5.0 (X11)" etag="Va5JBqQZy2llYOmVrJqF" version="15.5.0" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1901" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1750,7 +1750,7 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-50" target="jzqZOG9cQNNDQsuIwyla-60" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-50" target="JJCQu0ALxTsPptZCf6qb-9" visible="0">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-50" target="JJCQu0ALxTsPptZCf6qb-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-50" value="Incentive/Pressure" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -1808,7 +1808,7 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="jzqZOG9cQNNDQsuIwyla-70" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-67" target="JJCQu0ALxTsPptZCf6qb-12" visible="0">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-67" target="JJCQu0ALxTsPptZCf6qb-12" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-67" value="Discrepancies in the accounting records" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -1820,7 +1820,7 @@
         <mxCell id="jzqZOG9cQNNDQsuIwyla-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jzqZOG9cQNNDQsuIwyla-68" target="jzqZOG9cQNNDQsuIwyla-75" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="JJCQu0ALxTsPptZCf6qb-22" visible="0">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" parent="1" source="jzqZOG9cQNNDQsuIwyla-66" target="JJCQu0ALxTsPptZCf6qb-22" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-66" value="Circumstances relating to possibility of fraud" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -1849,7 +1849,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-71" target="JJCQu0ALxTsPptZCf6qb-14" visible="0">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-71" target="JJCQu0ALxTsPptZCf6qb-14" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-71" value="&lt;div&gt;1. Transactions not&amp;nbsp; recorded completely, timely manner, improperly amount, accounting period, classification, or entity policy. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Unsupported or unauthorized balances or transactions &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Last-minute adjustments that significantly affect financial results &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Evidence of employees’ access to systems and records inconsistent with that necessary to perform their authorized duties. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Tips or complaints to the auditor about alleged fraud&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -1863,7 +1863,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-73" target="JJCQu0ALxTsPptZCf6qb-16" visible="0">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzqZOG9cQNNDQsuIwyla-73" target="JJCQu0ALxTsPptZCf6qb-16" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-73" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Missing documents &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Documents that appear to have been altered &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Significant unexplained items on reconciliations &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Unusual discrepancies between the entity’s records and confirmation replies &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp;&amp;nbsp; Missing or non-existent cancelled cheques    &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -1877,7 +1877,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-75" target="JJCQu0ALxTsPptZCf6qb-18" visible="0">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" parent="1" source="jzqZOG9cQNNDQsuIwyla-75" target="JJCQu0ALxTsPptZCf6qb-18" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-75" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Denial of access to records, facilities, certain employees, customers, vendors, or others from whom audit evidence might be sought &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Undue time pressures imposed by mgmt to resolve complex or contentious issues &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Unusual delays by the entity in providing requested information &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Unwillingness to facilitate auditor access to&amp;nbsp; key electronic files for testing through the use of computer-assisted audit techniques &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp;&amp;nbsp; Denial of access to key IT operations staff and facilities, including security, operations, and systems development personnel. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6&amp;nbsp;&amp;nbsp; An unwillingness to address identified&amp;nbsp; deficiencies in internal control on a timely basis.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -1891,7 +1891,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="jzqZOG9cQNNDQsuIwyla-77" target="JJCQu0ALxTsPptZCf6qb-20" visible="0">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" parent="1" source="jzqZOG9cQNNDQsuIwyla-77" target="JJCQu0ALxTsPptZCf6qb-20" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzqZOG9cQNNDQsuIwyla-77" value="&lt;div&gt;1&amp;nbsp;&amp;nbsp; Unwillingness by mgmt to permit the auditor to&amp;nbsp; meet privately with TCWG. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp;&amp;nbsp; Accounting policies that appear to be at variance with industry norms &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&amp;nbsp;&amp;nbsp; Frequent changes in accounting estimates that do not give results &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; Tolerance of violations of the entity’s Code of Conduct&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -3003,7 +3003,7 @@
         <mxCell id="F00aUhvjc9wKKkgv-FN--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="F00aUhvjc9wKKkgv-FN--53" target="F00aUhvjc9wKKkgv-FN--54" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.975;entryY=0.359;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--53" target="JJCQu0ALxTsPptZCf6qb-24" visible="0">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.975;entryY=0.359;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;" parent="1" source="F00aUhvjc9wKKkgv-FN--53" target="JJCQu0ALxTsPptZCf6qb-24" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="369" />
@@ -3147,10 +3147,10 @@
         <mxCell id="Ldv6dLhsrY2iylPFSwgB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="Ldv6dLhsrY2iylPFSwgB-5" target="Ldv6dLhsrY2iylPFSwgB-7" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#999999;" edge="1" parent="1" source="Ldv6dLhsrY2iylPFSwgB-5" target="JJCQu0ALxTsPptZCf6qb-29" visible="0">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#999999;" parent="1" source="Ldv6dLhsrY2iylPFSwgB-5" target="JJCQu0ALxTsPptZCf6qb-29" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ldv6dLhsrY2iylPFSwgB-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) Sharing of&amp;nbsp; expertise. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Advantage of mutual&amp;nbsp; consultation. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) Lower&amp;nbsp; workload. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) Better quality of&amp;nbsp; performance. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) Improved service to the&amp;nbsp; client. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) Displacement of the auditor of the company taken over in a take&amp;nbsp; - over often obviated. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#999999&quot;&gt;(vii) In&amp;nbsp; respect&amp;nbsp; of&amp;nbsp; multi-national&amp;nbsp; companies,&amp;nbsp; the&amp;nbsp; work&amp;nbsp; can&amp;nbsp; be&amp;nbsp; spread&amp;nbsp; using&amp;nbsp; the&amp;nbsp;&amp;nbsp; expertise of the local firms which are in a better position to deal with detailed&amp;nbsp; work and the local laws and regulations.&lt;/font&gt;&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(viii) Lower staff development&amp;nbsp; costs. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ix) Lower costs to carry out the work.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; (x) A sense of healthy competition towards a better performance. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1" visible="0">
+        <mxCell id="Ldv6dLhsrY2iylPFSwgB-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) Sharing of&amp;nbsp; expertise. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Advantage of mutual&amp;nbsp; consultation. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) Lower&amp;nbsp; workload. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) Better quality of&amp;nbsp; performance. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) Improved service to the&amp;nbsp; client. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#B3B3B3&quot;&gt;(vi) Displacement of the auditor of the company taken over in a take&amp;nbsp; - over often obviated. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#999999&quot;&gt;(vii) In&amp;nbsp; respect&amp;nbsp; of&amp;nbsp; multi-national&amp;nbsp; companies,&amp;nbsp; the&amp;nbsp; work&amp;nbsp; can&amp;nbsp; be&amp;nbsp; spread&amp;nbsp; using&amp;nbsp; the&amp;nbsp;&amp;nbsp; expertise of the local firms which are in a better position to deal with detailed&amp;nbsp; work and the local laws and regulations.&lt;/font&gt;&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(viii) Lower staff development&amp;nbsp; costs. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ix) Lower costs to carry out the work.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; (x) A sense of healthy competition towards a better performance. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1170" y="280" width="340" height="460" as="geometry" />
         </mxCell>
         <mxCell id="Ldv6dLhsrY2iylPFSwgB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="Ldv6dLhsrY2iylPFSwgB-6" target="Ldv6dLhsrY2iylPFSwgB-7" edge="1" visible="0">
@@ -3161,7 +3161,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="Ldv6dLhsrY2iylPFSwgB-6" target="JJCQu0ALxTsPptZCf6qb-27" visible="0">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" parent="1" source="Ldv6dLhsrY2iylPFSwgB-6" target="JJCQu0ALxTsPptZCf6qb-27" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ldv6dLhsrY2iylPFSwgB-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) The fees being&amp;nbsp; shared. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Psychological problem where firms of different standing are associated in the joint audit. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) General superiority complexes of some auditors. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) Problems of co-ordination of the work.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) Areas of work of common concern being neglected. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) Uncertainty about the liability for the work done. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1" visible="0">
@@ -3182,34 +3182,34 @@
         <mxCell id="Ldv6dLhsrY2iylPFSwgB-9" value="It may be noted that the joint auditors are required to issue common audit report. &lt;br&gt;However, where the joint auditors are in disagreement with regard to the opinion &lt;br&gt;or any matters to be covered by the audit report, they shall express their opinion &lt;br&gt;in a separate audit report. In such circumstances, the audit report(s) issued by the &lt;br&gt;joint auditor(s) shall make a reference to each other’s audit report(s)." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1260" y="1730" width="520" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-9" value="ROI" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-9" value="ROI" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="896.0000000000002" y="1389.9999999999998" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-12" value="Directly Call Post Office" style="shape=document;boundedLbl=1;sketch=0;portConstraintRotation=0;snapToPoint=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;fontColor=default;" vertex="1" visible="0" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-12" value="Directly Call Post Office" style="shape=document;boundedLbl=1;sketch=0;portConstraintRotation=0;snapToPoint=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;fontColor=default;" parent="1" vertex="1" visible="0">
           <mxGeometry x="560" y="1840" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-14" value="&lt;div&gt;c&lt;br&gt;&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" visible="0" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-14" value="&lt;div&gt;c&lt;br&gt;&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1" visible="0">
           <mxGeometry x="620" y="1975" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-16" value="&lt;div&gt;M&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;Signs&lt;/div&gt;&lt;div&gt;unusual&lt;/div&gt;&lt;div&gt;cheques&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" visible="0" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-16" value="&lt;div&gt;M&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;Signs&lt;/div&gt;&lt;div&gt;unusual&lt;/div&gt;&lt;div&gt;cheques&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1035" y="2100" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-18" value="&lt;div&gt;D&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;E&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" visible="0" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-18" value="&lt;div&gt;D&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;E&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1520" y="2270" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-20" value="&lt;div&gt;U&lt;/div&gt;&lt;div&gt;see&lt;/div&gt;&lt;div&gt;F&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;c&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;s&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.07692307692307693;" vertex="1" visible="0" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-20" value="&lt;div&gt;U&lt;/div&gt;&lt;div&gt;see&lt;/div&gt;&lt;div&gt;F&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;c&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;s&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.07692307692307693;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1756" y="2140" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-22" value="i directly called post office to order cutlet but they told me MD signs unusual cheques, so i asked MD he said &quot;DUUUDE, U see facts&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;sketch=0;fontColor=default;" vertex="1" visible="0" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-22" value="i directly called post office to order cutlet but they told me MD signs unusual cheques, so i asked MD he said &quot;DUUUDE, U see facts&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;sketch=0;fontColor=default;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1756" y="1710" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-24" value="&lt;div&gt;win&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;R&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;sketch=0;fontColor=default;size=0.18181818181818182;" vertex="1" visible="0" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-24" value="&lt;div&gt;win&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;R&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;sketch=0;fontColor=default;size=0.18181818181818182;" parent="1" vertex="1" visible="0">
           <mxGeometry x="840" y="330" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-27" value="&lt;div&gt;all Areas in&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;are a Problem&lt;/div&gt;&lt;div&gt;but they take Unbelievable&lt;/div&gt;&lt;div&gt;Fees&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;sketch=0;fontColor=default;size=0.15384615384615385;" vertex="1" visible="0" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-27" value="&lt;div&gt;all Areas in&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;are a Problem&lt;/div&gt;&lt;div&gt;but they take Unbelievable&lt;/div&gt;&lt;div&gt;Fees&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;sketch=0;fontColor=default;size=0.15384615384615385;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1890" y="355" width="90" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="JJCQu0ALxTsPptZCf6qb-29" value="&lt;div&gt;&lt;div&gt;Pu&lt;br&gt;&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;Ina&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;Wd&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;co.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;C&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;sketch=0;fontColor=default;size=0.04;" vertex="1" visible="0" parent="1">
+        <mxCell id="JJCQu0ALxTsPptZCf6qb-29" value="&lt;div&gt;&lt;div&gt;Pu&lt;br&gt;&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;Ina&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;Wd&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;co.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;C&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;sketch=0;fontColor=default;size=0.04;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1080" y="400" width="40" height="220" as="geometry" />
         </mxCell>
       </root>
