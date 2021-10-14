@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T05:52:00.615Z" agent="5.0 (X11)" etag="Va5JBqQZy2llYOmVrJqF" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T10:51:19.998Z" agent="5.0 (X11)" etag="o29CbSMRTmpIkPT7Mhjw" version="15.5.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1718" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,7 +418,15 @@
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-2" target="GaGYNuxTkkT2lup7wjJ7-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GaGYNuxTkkT2lup7wjJ7-2" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Benefits&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. appropriate attention to important areas&lt;/div&gt;&lt;div&gt;2. Identify and resolve potential problems on a timely basis.&lt;/div&gt;&lt;div&gt;3. organize and manage the audit engagement&lt;/div&gt;&lt;div&gt;4. Selection&amp;nbsp; of Team&amp;nbsp; members&amp;nbsp; with&amp;nbsp; appropriate capabilities and competence&lt;/div&gt;&lt;div&gt;5. Direction and supervision of team members&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-2" target="Y2jF_T97C3CpNQij8BT2-1" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1750" y="310" />
+              <mxPoint x="1750" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-2" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Benefits&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. appropriate &lt;u&gt;attention&lt;/u&gt; to important areas&lt;/div&gt;&lt;div&gt;2. Identify and &lt;u&gt;resolve&lt;/u&gt; potential problems on a timely basis.&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;organize&lt;/u&gt; and manage the audit engagement&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;Selection&lt;/u&gt;&amp;nbsp; of Team&amp;nbsp; members&amp;nbsp; with&amp;nbsp; appropriate capabilities and competence&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;Direction&lt;/u&gt; and supervision of team members&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1760" y="240" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-5" target="GaGYNuxTkkT2lup7wjJ7-10" edge="1" visible="0">
@@ -436,13 +444,21 @@
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-9" target="GaGYNuxTkkT2lup7wjJ7-14" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GaGYNuxTkkT2lup7wjJ7-9" value="&lt;div&gt;1. sets the scope, timing and direction of the audit&lt;/div&gt;&lt;div&gt;2. resources&amp;nbsp; to&amp;nbsp; deploy&amp;nbsp; for&amp;nbsp; specific&amp;nbsp; audit&amp;nbsp; areas(experienced team for high&amp;nbsp; risk)&lt;/div&gt;&lt;div&gt;3. amount of resources to allocate to specific audit areas&lt;/div&gt;&lt;div&gt;4. When these resources are to be deployed&lt;/div&gt;&lt;div&gt;(Interim audit stage or at key cut-off dates )&lt;/div&gt;&lt;div&gt;5. How such resources are managed-&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-9" target="Y2jF_T97C3CpNQij8BT2-2" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="540" />
+              <mxPoint x="1580" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-9" value="&lt;div&gt;1. sets the &lt;u&gt;scope&lt;/u&gt;, timing and direction of the audit&lt;/div&gt;&lt;div&gt;2. resources&amp;nbsp; to&amp;nbsp; deploy&amp;nbsp; for&amp;nbsp; specific&amp;nbsp; audit&amp;nbsp; &lt;u&gt;areas&lt;/u&gt;(experienced team for high&amp;nbsp; risk)&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;amount&lt;/u&gt; of resources to allocate to specific audit areas&lt;/div&gt;&lt;div&gt;4. When these &lt;u&gt;resources&lt;/u&gt; are to be deployed&lt;/div&gt;&lt;div&gt;(Interim audit stage or at key cut-off dates )&lt;/div&gt;&lt;div&gt;5. How such &lt;u&gt;resources&lt;/u&gt; are managed-&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1590" y="520" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-10" target="GaGYNuxTkkT2lup7wjJ7-16" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GaGYNuxTkkT2lup7wjJ7-10" value="&lt;div&gt;1. application of strategy&lt;/div&gt;&lt;div&gt;2. Nature of the Clients biz&lt;/div&gt;&lt;div&gt;3. ICS/a/cing sys weak = more procedures&lt;/div&gt;&lt;div&gt;ICS/a/cing sys stronge = less procedures&lt;/div&gt;&lt;div&gt;4. Co-ordination of work&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-10" value="&lt;div&gt;1. application of strategy&lt;/div&gt;&lt;div&gt;2. Nature of the Clients biz&lt;/div&gt;&lt;div&gt;3. ICS/a/cing sys weak = more procedures&lt;/div&gt;&lt;div&gt;ICS/a/cing sys strong = less procedures&lt;/div&gt;&lt;div&gt;4. Co-ordination of work&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1915" y="520" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-14" target="GaGYNuxTkkT2lup7wjJ7-18" edge="1" visible="0">
@@ -459,7 +475,7 @@
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-16" target="GaGYNuxTkkT2lup7wjJ7-18" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GaGYNuxTkkT2lup7wjJ7-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors considered while developing audit Plan&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; Nature and timing of reports &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; Applicable legal or statutory requirements &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Accounting policies adopted by the client &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; Identification of significant audit areas &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; Setting of materiality levels for audit purposes &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp; The work of internal auditors and the extent of their involvement &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7.&amp;nbsp; The involvement of other auditors &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8.&amp;nbsp; The involvement of experts. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9.&amp;nbsp; The allocation of work between joint auditors &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors considered while developing audit Plan&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;Nature&lt;/u&gt; and timing of reports &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; Applicable &lt;u&gt;legal&lt;/u&gt; or statutory requirements &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; &lt;u&gt;Accounting&lt;/u&gt; policies adopted by the client &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; Identification of significant audit &lt;u&gt;areas &lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; Setting of &lt;u&gt;materiality&lt;/u&gt; levels for audit purposes &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp; The work of &lt;u&gt;internal&lt;/u&gt; auditors and the extent of their involvement &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7.&amp;nbsp; The involvement of other auditors &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8.&amp;nbsp; The involvement of experts. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9.&amp;nbsp; The allocation of work between joint auditors &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1900" y="670" width="310" height="300" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-18" target="GaGYNuxTkkT2lup7wjJ7-21" edge="1" visible="0">
@@ -489,10 +505,18 @@
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-24" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors considered while developing audit Plan&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Stay within the scope and limitation of the assignment.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. identify the best evidence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Apply steps and procedures useful for verification purpose in the specific situation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Consider all possibilities of error. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Co-ordinate the procedures to be applied to related items &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1730" y="1400" width="310" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="GaGYNuxTkkT2lup7wjJ7-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. provides assistant clear set of instructions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. provide a total perspective of the work&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. election of assistants of the basis of capability becomes easier&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. assistants putting signature accept the responsibility for work carried out by them individually&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. work done may be traced back to the assistant&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-27" target="Y2jF_T97C3CpNQij8BT2-4" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1640" y="1745" />
+              <mxPoint x="1640" y="1745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. provides assistant &lt;u&gt;clear&lt;/u&gt; set of instructions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. provide a &lt;u&gt;total&lt;/u&gt; perspective of the work&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;election&lt;/u&gt; of assistants of the basis of capability becomes easier&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. assistants putting signature accept the &lt;u&gt;responsibility&lt;/u&gt; for work carried out by them individually&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. work done may be &lt;u&gt;traced&lt;/u&gt; back to the assistant&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1590" y="1640" width="280" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="GaGYNuxTkkT2lup7wjJ7-29" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. work may become mechanical and carried out without any understanding of the object&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. tends&amp;nbsp; to&amp;nbsp; become&amp;nbsp; rigid&amp;nbsp; and&amp;nbsp; inflexible&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Inefficient&amp;nbsp; assistants&amp;nbsp; may&amp;nbsp; take&amp;nbsp; shelter&amp;nbsp; behind&amp;nbsp; the&amp;nbsp; programme&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. hard&amp;nbsp; and&amp;nbsp; fast&amp;nbsp; audit&amp;nbsp; programme&amp;nbsp; may&amp;nbsp; kill&amp;nbsp; the&amp;nbsp; initiative&amp;nbsp; of&amp;nbsp; efficient&amp;nbsp; and enterprising assistants. &lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-29" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. work may become &lt;u&gt;mechanical&lt;/u&gt; and carried out without any understanding of the object&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. tends&amp;nbsp; to&amp;nbsp; become&amp;nbsp; &lt;u&gt;rigid&lt;/u&gt;&amp;nbsp; and&amp;nbsp; inflexible&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Inefficient&amp;nbsp; assistants&amp;nbsp; may&amp;nbsp; take&amp;nbsp; &lt;u&gt;shelter&lt;/u&gt;&amp;nbsp; behind&amp;nbsp; the&amp;nbsp; programme&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. hard&amp;nbsp; and&amp;nbsp; fast&amp;nbsp; audit&amp;nbsp; programme&amp;nbsp; may&amp;nbsp; &lt;u&gt;kill&lt;/u&gt;&amp;nbsp; the&amp;nbsp; initiative&amp;nbsp; of&amp;nbsp; efficient&amp;nbsp; and enterprising assistants. &lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1900" y="1640" width="280" height="210" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-31" target="GaGYNuxTkkT2lup7wjJ7-33" edge="1" visible="0">
@@ -1394,7 +1418,7 @@
         </mxCell>
         <mxCell id="uVYKNzydVZcMpzMGIu3k-73" value="Internal Audit&#xa; vs &#xa;Statutory Audit" style="swimlane;startSize=50;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="2480" y="1190" width="120" height="50" as="geometry">
-            <mxRectangle x="1860" y="1340" width="521" height="1158" as="alternateBounds" />
+            <mxRectangle x="2480" y="1190" width="521" height="1158" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uVYKNzydVZcMpzMGIu3k-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/L3JTL5h.png;" parent="uVYKNzydVZcMpzMGIu3k-73" vertex="1">
@@ -1432,6 +1456,14 @@
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-16" target="-TBN9xiancuqXs8ifT44-26" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-16" target="Y2jF_T97C3CpNQij8BT2-11" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1820" y="620" />
+              <mxPoint x="1820" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-TBN9xiancuqXs8ifT44-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Techniques used for performing risk assessment procedure&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;Inquiries of management&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(Inquiries towards TCWG, emp)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Analytical procedures&lt;/u&gt; - identify unusual transactions or events, and amounts, ratios, and trends that might indicate matters that have&amp;nbsp; audit&amp;nbsp; implications&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Observation and inspection&lt;/u&gt; for e.g observing entity’s operations&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1840" y="570" width="280" height="200" as="geometry" />
@@ -3211,6 +3243,40 @@
         </mxCell>
         <mxCell id="JJCQu0ALxTsPptZCf6qb-29" value="&lt;div&gt;&lt;div&gt;Pu&lt;br&gt;&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;Ina&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;Wd&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;co.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;C&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;sketch=0;fontColor=default;size=0.04;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1080" y="400" width="40" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-1" value="AROSeD" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1690" y="290" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-2" value="StARR" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1520" y="530" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.223;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-16" target="Y2jF_T97C3CpNQij8BT2-3" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2220" y="737" />
+              <mxPoint x="2220" y="737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-3" value="NAMA LIfe" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2210" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-4" value="Total CERTification" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1480" y="1730" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-29" target="Y2jF_T97C3CpNQij8BT2-5" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2170" y="1745" />
+              <mxPoint x="2170" y="1745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-5" value="Kill woRMS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2180" y="1730" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-11" value="ai AIO ai aio" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1750" y="600" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
