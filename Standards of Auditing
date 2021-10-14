@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T15:07:08.152Z" agent="5.0 (X11)" etag="1M0btahLpejOjYDV_tFT" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T16:36:40.154Z" agent="5.0 (X11)" etag="iqEWjiYJMlewGt4OVnAP" version="15.5.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1718" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1708" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,7 +418,7 @@
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-2" target="GaGYNuxTkkT2lup7wjJ7-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-2" target="Y2jF_T97C3CpNQij8BT2-1" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-2" target="Y2jF_T97C3CpNQij8BT2-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1750" y="310" />
@@ -444,7 +444,7 @@
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-9" target="GaGYNuxTkkT2lup7wjJ7-14" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-9" target="Y2jF_T97C3CpNQij8BT2-2" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-9" target="Y2jF_T97C3CpNQij8BT2-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1580" y="540" />
@@ -505,7 +505,7 @@
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-24" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors considered while developing audit Plan&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Stay within the scope and limitation of the assignment.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. identify the best evidence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Apply steps and procedures useful for verification purpose in the specific situation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Consider all possibilities of error. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Co-ordinate the procedures to be applied to related items &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1730" y="1400" width="310" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-27" target="Y2jF_T97C3CpNQij8BT2-4" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-27" target="Y2jF_T97C3CpNQij8BT2-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1640" y="1745" />
@@ -1302,7 +1302,7 @@
         <mxCell id="uVYKNzydVZcMpzMGIu3k-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uVYKNzydVZcMpzMGIu3k-41" target="uVYKNzydVZcMpzMGIu3k-42" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uVYKNzydVZcMpzMGIu3k-41" target="Y2jF_T97C3CpNQij8BT2-13" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uVYKNzydVZcMpzMGIu3k-41" target="Y2jF_T97C3CpNQij8BT2-13" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uVYKNzydVZcMpzMGIu3k-41" value="Internal Audit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -1460,7 +1460,7 @@
         <mxCell id="-TBN9xiancuqXs8ifT44-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-16" target="-TBN9xiancuqXs8ifT44-26" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-TBN9xiancuqXs8ifT44-16" target="Y2jF_T97C3CpNQij8BT2-11" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-TBN9xiancuqXs8ifT44-16" target="Y2jF_T97C3CpNQij8BT2-11" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1820" y="620" />
@@ -3008,7 +3008,7 @@
         <mxCell id="F00aUhvjc9wKKkgv-FN--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F00aUhvjc9wKKkgv-FN--36" target="F00aUhvjc9wKKkgv-FN--37" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--36" target="Y2jF_T97C3CpNQij8BT2-15" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F00aUhvjc9wKKkgv-FN--36" target="Y2jF_T97C3CpNQij8BT2-15" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1360" y="270" />
@@ -3040,6 +3040,9 @@
         <mxCell id="F00aUhvjc9wKKkgv-FN--50" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objective&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. to obtain SAAE regarding laws and regulations &lt;br&gt;&lt;/div&gt;&lt;div&gt;which have direct effect on the FS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. to obtain SAAE regarding laws and regulations &lt;br&gt;&lt;/div&gt;&lt;div&gt;which have do not direct effect on the FS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. to respond to non-compliance&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1011.5" y="280" width="299" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="eiQfKXEVd5ao4zja93Em-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--52" target="eiQfKXEVd5ao4zja93Em-5" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F00aUhvjc9wKKkgv-FN--52" value="&lt;u&gt;&lt;b&gt;Reporting of Identified or Suspected Non-Compliance &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. a.) communicate with TCWG on matters involving noncompliance &lt;br&gt;&lt;/div&gt;&lt;div&gt;with laws and regulations.&lt;br&gt;b.) If it is believed to be intentional and material then auditor shall communicate &lt;br&gt;&lt;/div&gt;&lt;div&gt;the matter to TCWG as soon as practicable. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. a.) If auditor suspects mgmt / TCWG are involved in non-compliance, auditor &lt;br&gt;&lt;/div&gt;&lt;div&gt;shall communicate the matter to the next higher level of authority such as audit&lt;/div&gt;&lt;div&gt; committee or supervisory board. &lt;br&gt;b.) Where no higher authority exists, auditor shall consider the need to obtain&lt;/div&gt;&lt;div&gt; legal advice &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Reporting Non-Compliance in the Auditor’s Report on the FS&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;i) If the auditor concludes that the non-compliance has a material effect on the FS, &lt;br&gt;&lt;/div&gt;&lt;div&gt;and has not been adequately reflected in the FS, the auditor shall as per SA 705.&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(express a qualified or adverse opinion on the FS.)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ii)&amp;nbsp; If the auditor could not obtain SAAE from mgmt / TCWG that is required to evaluate whether non-compliance is material to the FS or not, then express an opinion as per SA705&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;Reporting Non-Compliance to Regulatory and Enforcement Authorities&lt;/u&gt;: &lt;br&gt;auditor shall determine whether he has a responsibility to report the&lt;/div&gt;&lt;div&gt; identified / suspected non-compliance to parties outside the entity.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="921" y="1100" width="479" height="360" as="geometry" />
         </mxCell>
@@ -3054,13 +3057,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F00aUhvjc9wKKkgv-FN--53" value="&lt;u&gt;&lt;b&gt;Risk Assessment Procedure&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;As part of obtaining an understanding of the entity and its environment in accordance with SA 315, the auditor shall obtain a general understanding of&lt;br&gt;&lt;br&gt;1. The legal and regulatory framework applicable to the entity&lt;br&gt;&lt;br&gt;2. How the entity is complying with that framework&lt;br&gt;&lt;br&gt;3. obtain SAAE regarding compliance which generally have a direct effect on the determination of material amounts and disclosures in the FS:&lt;br&gt;&lt;br&gt;4.&amp;nbsp; perform the following audit procedures to identify instances of non-compliance&lt;br&gt;&lt;br&gt;5.&amp;nbsp; Inquiring of mgmt / TCWG whether entity is complying with such laws and regulations&lt;br&gt;&lt;br&gt;6. Inspecting licensing / regulatory authorities.&lt;br&gt;&lt;br&gt;7. auditor shall remain alert for instances of non-compliance&lt;br&gt;&lt;br&gt;8. request mgmt / TCWG to provide written representations for known/suspected instances of non-compliance whose effect will be on the FS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="eiQfKXEVd5ao4zja93Em-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--53" target="eiQfKXEVd5ao4zja93Em-1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--53" value="&lt;u&gt;&lt;b&gt;Risk Assessment Procedure&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;As part of obtaining an understanding of the entity and its environment in accordance with SA 315, the auditor shall obtain a general understanding of&lt;br&gt;&lt;br&gt;1. The legal and regulatory &lt;u&gt;framework applicable&lt;/u&gt; to the entity&lt;br&gt;&lt;br&gt;2. &lt;u&gt;How the entity is complying&lt;/u&gt; with that framework&lt;br&gt;&lt;br&gt;3. &lt;u&gt;obtain SAAE regarding compliance&lt;/u&gt; which generally have a direct effect on the determination of material amounts and disclosures in the FS:&lt;br&gt;&lt;br&gt;4.&amp;nbsp; &lt;u&gt;perform&lt;/u&gt; the following &lt;u&gt;audit procedures&lt;/u&gt; to &lt;u&gt;identify instances of non-compliance&lt;/u&gt;&lt;br&gt;&lt;br&gt;5.&amp;nbsp; &lt;u&gt;Inquiring of mgmt / TCWG&lt;/u&gt; whether entity is complying with such laws and regulations&lt;br&gt;&lt;br&gt;6. &lt;u&gt;Inspecting licensing / regulatory&lt;/u&gt; authorities.&lt;br&gt;&lt;br&gt;7. auditor shall remain alert for instances of non-compliance&lt;br&gt;&lt;br&gt;8. &lt;u&gt;request mgmt / TCWG to provide written representations&lt;/u&gt; for known/suspected instances of non-compliance whose effect will be on the FS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="921" y="460" width="480" height="340" as="geometry" />
         </mxCell>
         <mxCell id="F00aUhvjc9wKKkgv-FN--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F00aUhvjc9wKKkgv-FN--54" target="F00aUhvjc9wKKkgv-FN--52" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F00aUhvjc9wKKkgv-FN--54" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit Procedures When Non-Compliance is Identified or Suspected&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;1. If the auditor becomes aware of information concerning an known/suspected non-compliance with laws and regulations, the auditor shall obtain:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;a) understanding the nature of the act and the circumstances in which it&lt;br&gt;has occurred&lt;br&gt;b) Further information to evaluate the possible effect on the FS&lt;br&gt;&lt;br&gt;2. discuss the matter with mgmt / TCWG. If they do not provide sufficient information then consider the need to obtain legal advice.&lt;br&gt;&lt;br&gt;3. If sufficient information cannot be obtained, then evaluate the effect in auditor’s opinion&lt;br&gt;&lt;br&gt;4. The auditor shall evaluate the implications of non-compliance in relation to&lt;br&gt;other aspects of the audit, including the auditor’s risk assessment and the&lt;br&gt;reliability of written representations, and take appropriate action." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="eiQfKXEVd5ao4zja93Em-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F00aUhvjc9wKKkgv-FN--54" target="eiQfKXEVd5ao4zja93Em-3" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F00aUhvjc9wKKkgv-FN--54" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit Procedures When Non-Compliance is Identified or Suspected&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;1. If the auditor becomes aware of information concerning an known/suspected non-compliance with laws and regulations, the auditor shall obtain:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;a) &lt;u&gt;understanding the nature&lt;/u&gt; of the act &lt;u&gt;and the circumstances&lt;/u&gt; in which it&lt;br&gt;has occurred&lt;br&gt;b) Further information to &lt;u&gt;evaluate the possible effect&lt;/u&gt; on the FS&lt;br&gt;&lt;br&gt;2. &lt;u&gt;discuss the matter&lt;/u&gt; with mgmt / TCWG. If they do not provide sufficient information then consider the need to obtain legal advice.&lt;br&gt;&lt;br&gt;3. If &lt;u&gt;sufficient information cannot be obtained&lt;/u&gt;, then &lt;u&gt;evaluate the effect&lt;/u&gt; in auditor’s opinion&lt;br&gt;&lt;br&gt;4. The auditor shall evaluate the implications of non-compliance in relation to&lt;br&gt;other aspects of the audit, including the auditor’s risk assessment and the&lt;br&gt;&lt;u&gt;reliability of written representations&lt;/u&gt;, and take appropriate action." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="921" y="820" width="480" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Nkanh-WFWcw47YXAjUpJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nkanh-WFWcw47YXAjUpJ-1" target="Nkanh-WFWcw47YXAjUpJ-3" edge="1" visible="0">
@@ -3255,13 +3264,13 @@
         <mxCell id="JJCQu0ALxTsPptZCf6qb-29" value="BMW&#39;s Car Quality is tipple S Class" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;sketch=0;fontColor=default;size=0.25;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1001" y="400" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-1" value="AROSeD" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-1" value="AROSeD" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1690" y="290" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-2" value="StARR" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-2" value="StARR" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1520" y="530" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.223;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-16" target="Y2jF_T97C3CpNQij8BT2-3" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.223;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-16" target="Y2jF_T97C3CpNQij8BT2-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2220" y="737" />
@@ -3269,13 +3278,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-3" value="NAMA LIfe" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-3" value="NAMA LIfe" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2210" y="720" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-4" value="Total CERTification" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-4" value="Total CERTification" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1480" y="1730" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaGYNuxTkkT2lup7wjJ7-29" target="Y2jF_T97C3CpNQij8BT2-5" visible="0">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-29" target="Y2jF_T97C3CpNQij8BT2-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2170" y="1745" />
@@ -3283,17 +3292,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-5" value="Kill woRMS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-5" value="Kill woRMS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2180" y="1730" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-11" value="AIO ai aio" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-11" value="AIO ai aio" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1750" y="600" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-13" value="Not a part of SA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-13" value="Not a part of SA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2601" y="240" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y2jF_T97C3CpNQij8BT2-15" value="Not a part of SA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="Y2jF_T97C3CpNQij8BT2-15" value="Not a part of SA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1270" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eiQfKXEVd5ao4zja93Em-1" value="wanted to get the door &lt;u&gt;framework&lt;/u&gt; done. choose the one that is &lt;u&gt;applicable&lt;/u&gt; and asked the carpenter to &lt;u&gt;comply&lt;/u&gt; that. &lt;u&gt;SAAE&lt;/u&gt; was Branded on that door. he started to &lt;u&gt;perform&lt;/u&gt; the &lt;u&gt;procedures&lt;/u&gt;. and he &lt;u&gt;inquired&lt;/u&gt; if i have the &lt;u&gt;license&lt;/u&gt; for the wood i said yes i have &lt;u&gt;written representations&lt;/u&gt; for that" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="620" y="580" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eiQfKXEVd5ao4zja93Em-3" value="&lt;div&gt;once the wood work was done i suspected something was wrong.&lt;/div&gt;&lt;div&gt;so i started trying to &lt;u&gt;obtain an understanding&lt;/u&gt; of &lt;u&gt;the&lt;/u&gt; &lt;u&gt;nature&lt;/u&gt; of wood&amp;nbsp; and &lt;u&gt;evaluate to possible effect&lt;/u&gt; to look of the house.&lt;/div&gt;&lt;div&gt;again &lt;u&gt;discussed the matter&lt;/u&gt; with the carpenter but he says he does &lt;u&gt;not have sufficient information&lt;/u&gt; and i started to doubt the &lt;u&gt;reliability of the written representation&lt;/u&gt; i had got.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="610" y="880" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eiQfKXEVd5ao4zja93Em-5" value="&lt;div&gt;so i immediately &lt;u&gt;called the TCWG&lt;/u&gt; of that wood company about their &lt;u&gt;non compliance&lt;/u&gt;. i asked if it was intentional. they said you go to &lt;u&gt;higher authority&lt;/u&gt; we don&#39;t care. so went for &lt;u&gt;legal advice&lt;/u&gt;. i even went as far as to &lt;u&gt;report&lt;/u&gt; it in news paper that SAAE brand does not have &lt;u&gt;Adequate&lt;/u&gt; quality and people should &lt;u&gt;evaluate&lt;/u&gt; before purchase. soon the &lt;u&gt;regulatory and the enforcement authorities&lt;/u&gt; called to &lt;u&gt;discuss the matter&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="610" y="1210" width="280" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
