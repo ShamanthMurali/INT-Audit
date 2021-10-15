@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T11:48:38.360Z" agent="5.0 (X11)" etag="905b5_qJFSranEaPvgUT" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-15T12:24:36.680Z" agent="5.0 (X11)" etag="NmnHqj8LVoP6qhrWEhSx" version="15.5.2" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1718" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2948" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -842,7 +842,10 @@
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_6mg-ACXW3XEM2QkLPh6-5" target="_6mg-ACXW3XEM2QkLPh6-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_6mg-ACXW3XEM2QkLPh6-5" value="&lt;div&gt;1. Determining the information to be confirmed or requested &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Selecting the appropriate confirming party&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Designing confirmation requests considering&lt;/div&gt;&lt;div&gt;a. ROMM&lt;/div&gt;&lt;div&gt;b. Method of communication&lt;/div&gt;&lt;div&gt;c. Prior experience&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Sending&amp;nbsp; the&amp;nbsp; requests and follow-up&amp;nbsp; requests&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="i3DWuZgvzReQ00yabzZy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-5" target="i3DWuZgvzReQ00yabzZy-24" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6mg-ACXW3XEM2QkLPh6-5" value="&lt;div&gt;1. &lt;u&gt;Determining&lt;/u&gt; the information to be confirmed or requested &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Selecting the appropriate &lt;u&gt;confirming&lt;/u&gt; &lt;u&gt;party&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Designing confirmation requests&lt;/u&gt; considering&lt;/div&gt;&lt;div&gt;a. ROMM&lt;/div&gt;&lt;div&gt;b. Method of communication&lt;/div&gt;&lt;div&gt;c. Prior experience&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;Sending&lt;/u&gt;&amp;nbsp; the&amp;nbsp; requests and follow-up&amp;nbsp; requests&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3540" y="660" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-7" value="&lt;div&gt;A&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;S&lt;br&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
@@ -857,14 +860,23 @@
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_6mg-ACXW3XEM2QkLPh6-11" target="_6mg-ACXW3XEM2QkLPh6-13" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i3DWuZgvzReQ00yabzZy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-11" target="i3DWuZgvzReQ00yabzZy-26" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-11" value="&lt;div&gt;1. Inquire reasons for the refusal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Evaluate relevant ROMM and risk of fraud&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Perform alternative audit procedures designed to obtain relevant and reliable audit evidence. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. communicate with those charged with governance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. determine the implications for the audit and the auditor’s opinion&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3540" y="910" width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_6mg-ACXW3XEM2QkLPh6-13" target="_6mg-ACXW3XEM2QkLPh6-15" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i3DWuZgvzReQ00yabzZy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-13" target="i3DWuZgvzReQ00yabzZy-28" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors affecting reliability of external confirmation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Unauthorised Confirmation &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Management’s intervention in the confirmation sent by third party &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Doubt over integrity and reliability of third party&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Incomplete information given by third party&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Delayed response from third party &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3540" y="1110" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="i3DWuZgvzReQ00yabzZy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mg-ACXW3XEM2QkLPh6-15" target="i3DWuZgvzReQ00yabzZy-30" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Areas where EC can be done&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Confirmation from debtors/TR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.  Confirmation from creditors/TP&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.  Confirmation from banks / Financial institutions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.  Confirmation from 3rd party to whom goods are sent on approval basics / consignee.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3540" y="1330" width="280" height="160" as="geometry" />
@@ -3370,10 +3382,10 @@
         <mxCell id="i3DWuZgvzReQ00yabzZy-1" value="So much TaRR" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3938" y="1050" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i3DWuZgvzReQ00yabzZy-6" value="Nature Sources it Controls just like a Cat" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.14285714285714285;" vertex="1" visible="0" parent="1">
+        <mxCell id="i3DWuZgvzReQ00yabzZy-6" value="&lt;u&gt;Nature&lt;/u&gt; &lt;u&gt;Sources&lt;/u&gt; it &lt;u&gt;Controls&lt;/u&gt; just like a &lt;u&gt;Com&lt;/u&gt;puter" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.14285714285714285;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4045" y="1525" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="i3DWuZgvzReQ00yabzZy-8" value="BRaHMins" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="i3DWuZgvzReQ00yabzZy-8" value="BRaHMinS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4250" y="2730" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i3DWuZgvzReQ00yabzZy-10" value="&lt;div&gt;i got a projector, i did the wire connecting &lt;u&gt;procedure&lt;/u&gt; to their &lt;u&gt;appropriate&lt;/u&gt; slots&lt;/div&gt;&lt;div&gt;wanted to see a &lt;u&gt;sample&lt;/u&gt; to find whether it was a &lt;u&gt;reasonable&lt;/u&gt; purchase&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;but i found some &lt;u&gt;deviations&lt;/u&gt; in the picture, so i started to &lt;u&gt;investigate the cause&lt;/u&gt; for it&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i found there were nothing wrong with projector but there were &lt;u&gt;misstatements in the sample&lt;/u&gt; itself&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.11764705882352941;" vertex="1" visible="0" parent="1">
@@ -3396,6 +3408,18 @@
         </mxCell>
         <mxCell id="i3DWuZgvzReQ00yabzZy-22" value="on top of that he had &lt;u&gt;non complied&lt;/u&gt; to taxes and the creditors had &lt;u&gt;legal proceeding&lt;/u&gt; against him. to a point he had no money for &lt;u&gt;insurance&lt;/u&gt; the only way to save him was to &lt;u&gt;change the law&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
           <mxGeometry x="6310" y="612.5" width="200" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="i3DWuZgvzReQ00yabzZy-24" value="people were &lt;u&gt;determined&lt;/u&gt; that congress will win. and the &lt;u&gt;confirming party&lt;/u&gt; was all ready &lt;u&gt;designing&lt;/u&gt; posters and started to plan how to &lt;u&gt;communicate&lt;/u&gt; their victory based on their &lt;u&gt;prior experience&lt;/u&gt; and asked the govt if they could &lt;u&gt;send&lt;/u&gt; posters" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3310" y="685" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="i3DWuZgvzReQ00yabzZy-26" value="but govt &lt;u&gt;refused&lt;/u&gt; and these people started to ask for &lt;u&gt;reason&lt;/u&gt;. the govt said it was &lt;u&gt;relevant&lt;/u&gt; and you have a high &lt;u&gt;risk of fraud&lt;/u&gt;. the party got angry and said &quot;you are doing &lt;u&gt;PAAP&lt;/u&gt; and we will &lt;u&gt;communicate&lt;/u&gt; this to everybody and the &lt;u&gt;implication&lt;/u&gt; of this, will not be good for you&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3310" y="927.5" width="210" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="i3DWuZgvzReQ00yabzZy-28" value="&lt;div&gt;the govt stared to &lt;u&gt;doubt&lt;/u&gt; the&lt;u&gt; integrity and reliability&lt;/u&gt; of the party and &lt;u&gt;intervened the management&lt;/u&gt;. and said,&quot; first of all you &lt;u&gt;delayed&lt;/u&gt; the elections then when we ask for information you give &lt;u&gt;incomplete information&lt;/u&gt;, enough of this, and from now on you are &lt;u&gt;unauthorized&lt;/u&gt; to be elected&quot;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.13114754098360656;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3310" y="1133.75" width="210" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="i3DWuZgvzReQ00yabzZy-30" value="the politicians said &quot;this is our &lt;u&gt;area&lt;/u&gt;&quot;. the govt got really angry and banned all the &lt;u&gt;debtors&lt;/u&gt;, &lt;u&gt;creditors&lt;/u&gt;, &lt;u&gt;bank&lt;/u&gt;, and all other &lt;u&gt;3 parties&lt;/u&gt; for dealing with this party" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.13114754098360656;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3310" y="1361.88" width="210" height="96.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
