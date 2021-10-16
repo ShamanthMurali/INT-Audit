@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T13:24:08.919Z" agent="5.0 (X11)" etag="lbvyUSTavNLMmVWL7qT6" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T15:09:50.315Z" agent="5.0 (X11)" etag="Rov572Tg8qnMfGfDCv9F" version="15.5.4" type="github">
   <diagram id="ErfhvTYTZrg_oTytCJzO" name="Page-1">
     <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,6 +98,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RrWA5nGCw_mJGV-3aDG2-32" target="RrWA5nGCw_mJGV-3aDG2-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-_h9bFcxFE14CwyX4Ju4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RrWA5nGCw_mJGV-3aDG2-32" target="-_h9bFcxFE14CwyX4Ju4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RrWA5nGCw_mJGV-3aDG2-32" value="Mode of Creation of Security" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -314,13 +317,13 @@
           <mxGeometry x="280.5000000000001" y="1320" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-_h9bFcxFE14CwyX4Ju4-1" value="The &lt;u&gt;Initial Engagements&lt;/u&gt; done by the &lt;u&gt;Previous Auditor&lt;/u&gt; messed up the &lt;u&gt;Internal Assignments&lt;/u&gt; which made the bank &lt;u&gt;Indebted&lt;/u&gt; to many, the bank &lt;u&gt;Understood&lt;/u&gt; the situation and started &lt;u&gt;Planning&lt;/u&gt;. it was &lt;u&gt;2:10&lt;/u&gt; i got a call from the bank and they wanted us to help them &lt;u&gt;Engage Risk&lt;/u&gt;." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1700" width="279.75" height="120" as="geometry" />
+          <mxGeometry x="-39.75" y="1660" width="279.75" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-_h9bFcxFE14CwyX4Ju4-2" value="we got &lt;u&gt;involvement&lt;/u&gt; to get an &lt;u&gt;Oversight&lt;/u&gt; in &lt;u&gt;Identification, measurement and monitoring of risk&lt;/u&gt;, but there was a problem there was no &lt;u&gt;Reliable information&lt;/u&gt; for us to &lt;u&gt;Control&lt;/u&gt; and &lt;u&gt;Monitoring&lt;/u&gt; risk" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
           <mxGeometry y="2080" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-_h9bFcxFE14CwyX4Ju4-3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="100.00000000000023" y="2570" width="40" height="40" as="geometry" />
+        <mxCell id="-_h9bFcxFE14CwyX4Ju4-3" value="LAMPSHell" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="2580" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-_h9bFcxFE14CwyX4Ju4-4" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="90.00000000000023" y="4120" width="40" height="40" as="geometry" />
