@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T23:58:30.774Z" agent="5.0 (X11)" etag="5YZESySTvDjAWgJx16EZ" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T18:41:10.447Z" agent="5.0 (X11)" etag="cVAYmJ3kQHXcrZip79Tx" version="15.5.4" type="github">
   <diagram id="hz5IPeGCTFuj1s-dtFxm" name="Page-1">
-    <mxGraphModel dx="4993" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1888" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
         <mxCell id="IZyFVW_KutWZbLwf99ln-15" value="LLP" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-16" target="W_TVgBxeTR90TRwsg7L4-16" visible="0">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZyFVW_KutWZbLwf99ln-16" target="W_TVgBxeTR90TRwsg7L4-16" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-16">
@@ -73,7 +73,7 @@
         <mxCell id="IZyFVW_KutWZbLwf99ln-17" value="&lt;div&gt;Charitable&lt;/div&gt;&lt;div&gt;institution&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-18" target="W_TVgBxeTR90TRwsg7L4-13" visible="0">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZyFVW_KutWZbLwf99ln-18" target="W_TVgBxeTR90TRwsg7L4-13" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="IZyFVW_KutWZbLwf99ln-18">
@@ -119,7 +119,7 @@
         <mxCell id="IZyFVW_KutWZbLwf99ln-27" value="&lt;div&gt;Hire Purchase &lt;br&gt;&lt;/div&gt;&lt;div&gt;and Leasing&lt;/div&gt;&lt;div&gt;Companies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-28" target="W_TVgBxeTR90TRwsg7L4-2" visible="0">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZyFVW_KutWZbLwf99ln-28" target="W_TVgBxeTR90TRwsg7L4-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1160" y="240" />
@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZyFVW_KutWZbLwf99ln-28" target="W_TVgBxeTR90TRwsg7L4-4" visible="0">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZyFVW_KutWZbLwf99ln-28" target="W_TVgBxeTR90TRwsg7L4-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1160" y="240" />
@@ -223,6 +223,9 @@
         <mxCell id="Uw9GzHqP9_j2fkDacKYc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uw9GzHqP9_j2fkDacKYc-9" target="Uw9GzHqP9_j2fkDacKYc-10" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uw9GzHqP9_j2fkDacKYc-9" target="jhzMFuu6LUGgW9uKCRj--2" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uw9GzHqP9_j2fkDacKYc-9" value="&lt;u&gt;&lt;b&gt;audit of performance&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;whether the govt programs have achieved desired objectives at the lowest cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Economy&lt;/u&gt;- minimising the cost of resources used&amp;nbsp; for an activity, having regard to appropriate quantity, quality and at the best price &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;u&gt;Efficiency&lt;/u&gt;-&amp;nbsp; It is the input-output ratio. efficiency is&amp;nbsp; achieved when the output is maximised at the minimum of inputs, or input is minimised for any given quantity and quality of output. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;u&gt;Effectiveness&lt;/u&gt;- It is the extent to which objectives are achieved and the relationship b/w the intended impact and the actual impact of an activity &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-1040" y="1630" width="280" height="260" as="geometry" />
         </mxCell>
@@ -231,6 +234,9 @@
         </mxCell>
         <mxCell id="Uw9GzHqP9_j2fkDacKYc-14" value="&lt;div&gt;1. whether receipts are properly calculated, collected, and credited to the govts accounts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. auditor should check is there is any misuse of revenue&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-740" y="1430" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uw9GzHqP9_j2fkDacKYc-16" target="jhzMFuu6LUGgW9uKCRj--3" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uw9GzHqP9_j2fkDacKYc-16" value="&lt;div&gt;1. whether store and stock are valued properly i.e. not overvalue or under valued&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. whether it is in existence by doing physical verification, whenever practical&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. whether it is a right of the govt i.e. it is a title of govt by checking supporting papers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. whether the price paid for the stores and stocks are reasonable or not&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. whether accounting procedures for purchase, sale etc. are followed properly&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-440" y="1430" width="280" height="220" as="geometry" />
@@ -244,6 +250,9 @@
         <mxCell id="_xo7v4rB_vBV-IrAo5zr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uw9GzHqP9_j2fkDacKYc-22" target="Uw9GzHqP9_j2fkDacKYc-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uw9GzHqP9_j2fkDacKYc-22" target="jhzMFuu6LUGgW9uKCRj--1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uw9GzHqP9_j2fkDacKYc-22" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Duties of CAG&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Compile and submit Accounts of Union and States&lt;br&gt;&lt;/div&gt;&lt;div&gt;Audit of Receipts and Expenditure&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Audit of Grants or Loans&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Audit of Receipts of Union or States&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Audit of Accounts of Stores and Inventory&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Audit&amp;nbsp; of&amp;nbsp; Government&amp;nbsp; Companies&amp;nbsp; and&amp;nbsp; Corporations&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. General Provisions Relating to Audit&lt;/div&gt;&lt;div&gt;&lt;b&gt;a.&lt;/b&gt; audit and report on all expenditure from the&amp;nbsp; Consolidated Fund of India and of each State / UT.&lt;/div&gt;&lt;div&gt;&lt;b&gt;b.&lt;/b&gt; audit and report all transactions of the state / UT relating to Contingency Funds and Public Accounts&lt;/div&gt;&lt;div&gt;&lt;b&gt;c.&lt;/b&gt; audit and report on all trading, manufacturing and P/L a/cs and B/S and other subsidiary accounts kept in any department of the State/UT. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-760" y="930" width="320" height="320" as="geometry" />
         </mxCell>
@@ -252,6 +261,9 @@
         </mxCell>
         <mxCell id="_xo7v4rB_vBV-IrAo5zr-3" value="Partnership firm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-20" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-QJOc4JNgniOkC8MXnb-2" target="jhzMFuu6LUGgW9uKCRj--9" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-2" value="(i) &lt;u&gt;&lt;b&gt;Letter of Appointment&lt;/b&gt;&lt;/u&gt;:- &lt;u&gt;Confirming&lt;/u&gt; that the &lt;u&gt;letter of appointment&lt;/u&gt;, &lt;u&gt;signed&lt;/u&gt; by &lt;br&gt;a &lt;u&gt;partner&lt;/u&gt;, duly &lt;u&gt;authorised&lt;/u&gt;, &lt;u&gt;clearly states&lt;/u&gt; the &lt;u&gt;nature and scope of audit&lt;/u&gt;&amp;nbsp; &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) &lt;u&gt;&lt;b&gt;Partnership Documents&lt;/b&gt;&lt;/u&gt;:- &lt;u&gt;Studying&lt;/u&gt; the &lt;u&gt;minutes book&lt;/u&gt; relating to &lt;br&gt;&lt;/div&gt;authorization of extraordinary and capital expenditure, raising of loans; &amp;nbsp;&lt;br&gt;purchase of assets, etc.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) &lt;u&gt;&lt;b&gt;Objects of Partnership&lt;/b&gt;&lt;/u&gt;:- Verifying that the &lt;u&gt;business engaged is authorised&lt;/u&gt; by the partnership agreement; or by any extension or modification thereof agreed to subsequently. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) &lt;u&gt;&lt;b&gt;Books of Account&lt;/b&gt;&lt;/u&gt;:- whether books of account appear &lt;u&gt;reasonable&lt;/u&gt; and are considered &lt;u&gt;adequate&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) &lt;u&gt;&lt;b&gt;Mutual Interest&lt;/b&gt;&lt;/u&gt;:- under the partnership deed &lt;u&gt;any violation&lt;/u&gt; of a &lt;br&gt;&lt;/div&gt;&lt;div&gt;provision in the partnership agreements. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) &lt;u&gt;&lt;b&gt;Provision for Taxes&lt;/b&gt;&lt;/u&gt; :- provision has been made in the accounts before arriving at the amount of profit divisible among the partners. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vii) &lt;u&gt;&lt;b&gt;Division of Profits&lt;/b&gt;&lt;/u&gt; :- Verifying that the profits and losses have been &lt;u&gt;divided&lt;/u&gt; &lt;/div&gt;among the partners in their agreed &lt;u&gt;PSR&lt;/u&gt;. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-200" y="280" width="480" height="340" as="geometry" />
@@ -266,64 +278,92 @@
           <mxGeometry width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-6" value="&lt;u&gt;&lt;b&gt;Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-5" vertex="1">
-          <mxGeometry width="200" height="20" as="geometry" />
+          <mxGeometry width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-7" value="&lt;u&gt;&lt;b&gt;Expense&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-5" vertex="1">
-          <mxGeometry x="200" width="200" height="20" as="geometry" />
+          <mxGeometry x="200" width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-8" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-4" vertex="1">
           <mxGeometry y="20" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-9" value="Tuition fees" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-8" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-10" value="Salaries to staff" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-8" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-4" vertex="1">
           <mxGeometry y="60" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-12" value="Donations" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-11" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-13" value="Repairs and maintenance " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-11" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-4" vertex="1">
           <mxGeometry y="100" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-15" value="subsidies and govt grants" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-14" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-16" value="Printing and stationary" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-14" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-4" vertex="1">
           <mxGeometry y="140" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-18" value="fines and penalties" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-17" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-19" value="scholarship, awards, and prizes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-17" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-4" vertex="1">
           <mxGeometry y="180" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-21" value="Canteen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-20" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-22" value="Other Expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-20" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-23" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-4" vertex="1">
           <mxGeometry y="220" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-24" value="Other Incomes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-23" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-23" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZyFVW_KutWZbLwf99ln-30" target="6-QJOc4JNgniOkC8MXnb-26" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -335,55 +375,79 @@
           <mxGeometry width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-28" value="&lt;u&gt;&lt;b&gt;Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-27" vertex="1">
-          <mxGeometry width="200" height="20" as="geometry" />
+          <mxGeometry width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-29" value="&lt;u&gt;&lt;b&gt;Expense&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-27" vertex="1">
-          <mxGeometry x="200" width="200" height="20" as="geometry" />
+          <mxGeometry x="200" width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-30" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-26" vertex="1">
           <mxGeometry y="20" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-31" value="Room rent" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-30" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-32" value="Salaries to staff" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-30" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-33" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-26" vertex="1">
           <mxGeometry y="60" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-34" value="sale of food and beverages" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-33" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-35" value="Repairs and maintenance " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-33" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-36" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-26" vertex="1">
           <mxGeometry y="100" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-37" value="Income from other places" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-36" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-38" value="Purchase of groceries and cutlery" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-36" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-39" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-26" vertex="1">
           <mxGeometry y="140" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-40" value="income from other facilities provided" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-39" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-41" value="commission to agents and online portals" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-39" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-42" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-26" vertex="1">
           <mxGeometry y="180" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-43" value="other incomes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-42" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-44" value="Other Expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-42" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IZyFVW_KutWZbLwf99ln-26" target="6-QJOc4JNgniOkC8MXnb-51" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -395,55 +459,79 @@
           <mxGeometry width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-53" value="&lt;u&gt;&lt;b&gt;Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-52" vertex="1">
-          <mxGeometry width="200" height="20" as="geometry" />
+          <mxGeometry width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-54" value="&lt;u&gt;&lt;b&gt;Expense&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-52" vertex="1">
-          <mxGeometry x="200" width="200" height="20" as="geometry" />
+          <mxGeometry x="200" width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-55" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-51" vertex="1">
           <mxGeometry y="20" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-56" value="sale of tickets" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-55" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-57" value="Salaries to staff" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-55" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-58" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-51" vertex="1">
           <mxGeometry y="60" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-59" value="cafeteria" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-58" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-60" value="Repairs and maintenance " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-58" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-61" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-51" vertex="1">
           <mxGeometry y="100" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-62" value="Advertisement" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-61" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-63" value="Purchase of movie rights" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-61" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-64" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-51" vertex="1">
           <mxGeometry y="140" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-65" value="Parking of vehicles" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-64" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-66" value="commission to online portals" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-64" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-67" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-51" vertex="1">
           <mxGeometry y="180" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-68" value="other incomes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-67" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-69" value="Other Expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-67" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IZyFVW_KutWZbLwf99ln-10" target="6-QJOc4JNgniOkC8MXnb-71" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -455,55 +543,79 @@
           <mxGeometry width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-73" value="&lt;u&gt;&lt;b&gt;Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-72" vertex="1">
-          <mxGeometry width="200" height="20" as="geometry" />
+          <mxGeometry width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-74" value="&lt;u&gt;&lt;b&gt;Expense&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-72" vertex="1">
-          <mxGeometry x="200" width="200" height="20" as="geometry" />
+          <mxGeometry x="200" width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-75" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-71" vertex="1">
           <mxGeometry y="20" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-76" value="Membership fees" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-75" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-77" value="program and project expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-75" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-78" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-71" vertex="1">
           <mxGeometry y="60" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-79" value="subscriptions " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-78" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-80" value="Repairs and maintenance " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-78" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-81" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-71" vertex="1">
           <mxGeometry y="100" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-82" value="interest and dividend" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-81" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-83" value="Other Expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-81" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-84" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-71" vertex="1">
           <mxGeometry y="140" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-85" value="Donations" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-84" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-86" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-84" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-87" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-71" vertex="1">
           <mxGeometry y="180" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-88" value="other incomes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-87" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-89" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-87" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZyFVW_KutWZbLwf99ln-22" target="6-QJOc4JNgniOkC8MXnb-90" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -515,76 +627,111 @@
           <mxGeometry width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-92" value="&lt;u&gt;&lt;b&gt;Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-91" vertex="1">
-          <mxGeometry width="200" height="20" as="geometry" />
+          <mxGeometry width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-93" value="&lt;u&gt;&lt;b&gt;Expense&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-91" vertex="1">
-          <mxGeometry x="200" width="200" height="20" as="geometry" />
+          <mxGeometry x="200" width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-94" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-90" vertex="1">
           <mxGeometry y="20" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-95" value="Consulting fees" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-94" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-96" value="Salaries to staff" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-94" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-97" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-90" vertex="1">
           <mxGeometry y="60" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-98" value="bed rent" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-97" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-99" value="Repairs and maintenance " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-97" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-90" vertex="1">
           <mxGeometry y="100" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-101" value="donations" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-100" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-102" value="waste disposal cost" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-100" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-103" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-90" vertex="1">
           <mxGeometry y="140" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-104" value="sale of medicines " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-103" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-105" value="honorarium &lt;span style=&quot;white-space: pre&quot;&gt;to visiting doctors&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-103" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-106" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-90" vertex="1">
           <mxGeometry y="180" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-107" value="canteen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-106" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-108" value="Research and development" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-106" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-112" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-90" vertex="1">
           <mxGeometry y="220" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-113" value="Conducting various tests&lt;span style=&quot;white-space: pre&quot;&gt; / operations / surgeries&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-112" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-114" value="Other expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-112" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-115" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6-QJOc4JNgniOkC8MXnb-90" vertex="1">
           <mxGeometry y="260" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-116" value="other incomes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-115" vertex="1">
-          <mxGeometry width="200" height="40" as="geometry" />
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-117" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-QJOc4JNgniOkC8MXnb-115" vertex="1">
-          <mxGeometry x="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6-QJOc4JNgniOkC8MXnb-119" value="Nothing here" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-180" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hg9eMksn8kzP_geKjeO2-2" target="jhzMFuu6LUGgW9uKCRj--7" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-2" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit Programme for Local&amp;nbsp; Bodies&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(i) &lt;u&gt;&lt;b&gt;APPOINTMENT&lt;/b&gt;&lt;/u&gt;:-Local Fund Audit Wing of the State Govt. is generally in-&lt;br&gt;charge of the audit&amp;nbsp; of&amp;nbsp; municipal&amp;nbsp; accounts.&amp;nbsp; Sometimes&amp;nbsp; bigger&amp;nbsp; municipal &amp;nbsp;&lt;br&gt;corporations e.g. Delhi, Mumbai etc have power to appoint their own auditors &lt;br&gt;&lt;div&gt;for regular external audit.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) &lt;u&gt;&lt;b&gt;AUDITOR’S&amp;nbsp; CONCERNS&lt;/b&gt;&lt;/u&gt;:-&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;Important objectives of audit are&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) reporting on the fairness of the content and presentation of FS &lt;/div&gt;&lt;div&gt;(b) reporting upon the strengths and weaknesses of systems of financial control&lt;/div&gt;&lt;div&gt; (c) reporting on the adherence to legal and/or administrative requirements &lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) reporting upon whether value is being fully received on money spent &lt;br&gt;&lt;/div&gt;&lt;div&gt;(e) detection and prevention of error, fraud and misuse of resources &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) &lt;u&gt;&lt;b&gt;RULES &amp;amp; REGULATIONS&lt;/b&gt;&lt;/u&gt; :- ensure that expenditure &lt;/div&gt;incurred conforms is with in the scope of provisions of law in accordance &lt;br&gt;with the financial rules and regulations framed by the competent authority. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) &lt;u&gt;&lt;b&gt;AUTHORISATIONS&lt;/b&gt;&lt;/u&gt; :- ensure that all types of sanctions authorized by the competent authority. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) &lt;u&gt;&lt;b&gt;PROVISIONING&lt;/b&gt;&lt;/u&gt; :- ensure that there is a provision of funds and the &lt;/div&gt;expenditure is incurred&amp;nbsp; from the provision and the same has been authorized &lt;br&gt;by the competent authority. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) &lt;u&gt;&lt;b&gt;PERFORMANCE&lt;/b&gt;&lt;/u&gt; :- check of different schemes, programmes and projects are&lt;/div&gt;&lt;div&gt; running economically and getting the expected results. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-680" y="220" width="480" height="420" as="geometry" />
@@ -611,28 +758,40 @@
           <mxGeometry y="30" width="440" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-12" value="share holdings" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hg9eMksn8kzP_geKjeO2-11" vertex="1">
-          <mxGeometry width="140" height="120" as="geometry" />
+          <mxGeometry width="140" height="120" as="geometry">
+            <mxRectangle width="140" height="120" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-13" value="&lt;div&gt;&amp;nbsp;no member of society other than a registered society&amp;nbsp; can hold share capital &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. &amp;gt;20% of the total NOES&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;b. shares worth &amp;gt; ₹ 1,000/-&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is higher]&lt;/b&gt;&lt;/u&gt;&lt;br&gt; &lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hg9eMksn8kzP_geKjeO2-11" vertex="1">
-          <mxGeometry x="140" width="300" height="120" as="geometry" />
+          <mxGeometry x="140" width="300" height="120" as="geometry">
+            <mxRectangle width="300" height="120" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Hg9eMksn8kzP_geKjeO2-10" vertex="1">
           <mxGeometry y="150" width="440" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-15" value="loans given" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hg9eMksn8kzP_geKjeO2-14" vertex="1">
-          <mxGeometry width="140" height="90" as="geometry" />
+          <mxGeometry width="140" height="90" as="geometry">
+            <mxRectangle width="140" height="90" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-16" value="&lt;div&gt;-&amp;gt; Registered society shall not make a loan to any person other than a member.&lt;/div&gt;&lt;div&gt;-&amp;gt;However registered society may make a loan to another registered society.&lt;/div&gt;&lt;div&gt;-&amp;gt; SG may further put restrictions as it thinks fit.&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hg9eMksn8kzP_geKjeO2-14" vertex="1">
-          <mxGeometry x="140" width="300" height="90" as="geometry" />
+          <mxGeometry x="140" width="300" height="90" as="geometry">
+            <mxRectangle width="300" height="90" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Hg9eMksn8kzP_geKjeO2-10" vertex="1">
           <mxGeometry y="240" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-18" value="borrowings" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hg9eMksn8kzP_geKjeO2-17" vertex="1">
-          <mxGeometry width="140" height="60" as="geometry" />
+          <mxGeometry width="140" height="60" as="geometry">
+            <mxRectangle width="140" height="60" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-19" value="shall accept loans and deposits from persons who are not members subject to restrictions and limits of the bye-laws of the society." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hg9eMksn8kzP_geKjeO2-17" vertex="1">
-          <mxGeometry x="140" width="300" height="60" as="geometry" />
+          <mxGeometry x="140" width="300" height="60" as="geometry">
+            <mxRectangle width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hg9eMksn8kzP_geKjeO2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hg9eMksn8kzP_geKjeO2-21" target="Hg9eMksn8kzP_geKjeO2-23" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -753,29 +912,50 @@
         <mxCell id="Hg9eMksn8kzP_geKjeO2-68" value="&lt;div&gt;1.) whether Hire purchase agreement is in writing and is signed by all parties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2.) whether Hire purchase agreement specifies- &lt;br&gt;(a) hire-purchase price of the goods&lt;br&gt;(b) cash price of the goods &lt;br&gt;(c) date of agreement&lt;br&gt;(d) number of installments&lt;br&gt;(e) amount of each of those installments &lt;br&gt;&lt;div&gt;(f) date, upon which it is payable&lt;/div&gt;&lt;div&gt;(g) person to whom it is payable &lt;/div&gt;(h) place where it is payable&lt;br&gt;(i) The goods to which the agreement relates&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.) Ensure that installment payments are being received regularly as per the agreement&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="710" y="340" width="440" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8e8ae4A0kZ-nSq_GDpQX-1" target="jhzMFuu6LUGgW9uKCRj--11" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8e8ae4A0kZ-nSq_GDpQX-1" value="1.) Vouch receipt on entrance fees with members applications.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2.) Vouch members’ subscriptions with the counterfoils of receipt issued to them, &lt;br&gt;trace receipts for a selected period to the Register of Members; also reconcile &lt;br&gt;the amount of total subscriptions due with the amount collected and that &lt;br&gt;&lt;div&gt;outstanding. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3.) Ensure that arrears of subscriptions for the previous year have been correctly &lt;br&gt;brought over and arrears for the year under audit and subscriptions received &lt;br&gt;&lt;div&gt;in advance have been correctly adjusted. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4.) Check if totals of various columns tally &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.)ascertain Member’s dues in arrears and whether steps have been taken for their &lt;br&gt;&lt;/div&gt;recovery; amount considered irrecoverable should be mentioned in the &lt;br&gt;&lt;div&gt;Audit Report. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;6.) members being charged with the price for services provided&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7.) Vouch purchases of foodstuffs, cigars, wines, etc., and test their sale price so &lt;/div&gt;as to confirm that the normal rates of gross profit have been earned on their &lt;br&gt;sales.&amp;nbsp; The&amp;nbsp; inventory&amp;nbsp; of&amp;nbsp; unsold&amp;nbsp; provisions&amp;nbsp; and&amp;nbsp; stores,&amp;nbsp; at&amp;nbsp; the&amp;nbsp; end&amp;nbsp; of&amp;nbsp; year, &lt;br&gt;&lt;div&gt;should be verified physically and its valuation checked. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8.) in respect of investments, check their current values for &lt;br&gt;&lt;/div&gt;&lt;div&gt;disclosure in final accounts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;9.) Examine financial powers of secretary and, if these have been &lt;br&gt;exceeded, report to Managing Committee" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="600" y="220" width="480" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-1" value="&lt;div&gt;1. ensure whether company can undertake financing activities or not.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Whether a procedure to ascertain the credit analysis of lessee exists or not.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;The lease agreement should be examined by the following&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. description of the lessor, lessee, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. the equipment and the location it is to be installed. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. amount of tenure of lease, dates of payment, late charges, deposits or &lt;/div&gt;advances etc. should be noted.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. whether the equipment shall be returned to the lessor on termination of &lt;/div&gt;the agreement and the cost shall be borne by the lessee. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. whether subletting authorized or not&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-1" value="&lt;div&gt;1. ensure whether company can undertake financing activities or not.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Whether a procedure to ascertain the credit analysis of lessee exists or not.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;The lease agreement should be examined by the following&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. description of the lessor, lessee, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. the equipment and the location it is to be installed. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. amount of tenure of lease, dates of payment, late charges, deposits or &lt;/div&gt;advances etc. should be noted.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. whether the equipment shall be returned to the lessor on termination of &lt;/div&gt;the agreement and the cost shall be borne by the lessee. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. whether subletting authorized or not&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1170" y="340" width="440" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W_TVgBxeTR90TRwsg7L4-2" target="Hg9eMksn8kzP_geKjeO2-68" visible="0">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W_TVgBxeTR90TRwsg7L4-2" target="Hg9eMksn8kzP_geKjeO2-68" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-2" value="Hire purchase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-2" value="Hire purchase" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="870" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W_TVgBxeTR90TRwsg7L4-4" target="W_TVgBxeTR90TRwsg7L4-1" visible="0">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W_TVgBxeTR90TRwsg7L4-4" target="W_TVgBxeTR90TRwsg7L4-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-4" value="Leasing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-4" value="Leasing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1330" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-13" value="Same as NGO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-13" value="Same as NGO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="300" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W_TVgBxeTR90TRwsg7L4-16" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" visible="0" parent="1">
+        <mxCell id="W_TVgBxeTR90TRwsg7L4-16" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1" visible="0">
           <mxGeometry x="140" y="220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--1" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-849.9999999999998" y="1069.9999999999998" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--2" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1139.9999999999998" y="1669.9999999999998" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-319.9999999999998" y="1669.9999999999998" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--7" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-769.9999999999998" y="359.9999999999998" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--9" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-319.9999999999998" y="379.9999999999998" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhzMFuu6LUGgW9uKCRj--11" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="425.0000000000002" y="399.9999999999998" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
