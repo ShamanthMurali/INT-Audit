@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T16:02:44.733Z" agent="5.0 (X11)" etag="jg7GbN6J0ke1QNK5DfJn" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T13:24:08.919Z" agent="5.0 (X11)" etag="lbvyUSTavNLMmVWL7qT6" version="15.5.4" type="github">
   <diagram id="ErfhvTYTZrg_oTytCJzO" name="Page-1">
-    <mxGraphModel dx="14806" dy="6589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,41 +277,65 @@
         <mxCell id="nBsDl6pV9YPzUL2T5VkE-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Audit of Expenses &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Expenditure is to be shown under three broad heads &amp;nbsp;&lt;br&gt;(1) Interest expended &lt;br&gt;(2) Operating expenses &lt;br&gt;&lt;div&gt;(3) Provisions and contingencies&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. assess the overall reasonableness of the amount of interest expense &lt;br&gt;by analyzing ratios of interest paid on different types of deposits&amp;nbsp; and &lt;br&gt;&lt;div&gt;borrowings to the average quantum of the respective liabilities during the year &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. verify the calculation of interest and satisfy himself that: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Interest has been provided on all deposits upto the date of the balance sheet; &lt;br&gt;&lt;/div&gt;&lt;div&gt;and verify whether there is any excess or short credit of material amount. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Interest rates are in accordance with the bank’s internal regulations and RBI&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c. FD Interest Rate in accounting system are in accordance with the Interest Rate mentioned in FD Receipt/Certificate &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. Interest&amp;nbsp; on&amp;nbsp; Savings&amp;nbsp; Account accordance with the rules framed by the bank in this behalf or not&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;e. Interest on overdue/ matured term deposits should be estimated and provided for " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="909" y="4320" width="465" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-1" value="A bank should have appropriate controls to manage its risks, including: &amp;nbsp;&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;1. effective segregation of duties&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; 2. accurate measurement and reporting of positions, verification and approval of transactions,&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; 3. reconciliation of positions and results&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. setting of limits&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; 5. reporting and approval of exceptions &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp; 6. physical security and contingency planning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-1" value="A bank should have appropriate controls to manage its risks, including: &amp;nbsp;&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;1. effective segregation of duties&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; 2. accurate measurement and reporting of positions, verification and approval of transactions,&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; 3. reconciliation of positions and results&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. setting of limits&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; 5. reporting and approval of exceptions &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp; 6. physical security and contingency planning" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="287" y="750" width="265.5" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RvaIdq2eTgn-a8RvTwpr-2" target="RvaIdq2eTgn-a8RvTwpr-3">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RvaIdq2eTgn-a8RvTwpr-2" target="RvaIdq2eTgn-a8RvTwpr-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-2" value="Bank auditor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-2" value="Bank auditor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358.12" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RvaIdq2eTgn-a8RvTwpr-3" target="RvaIdq2eTgn-a8RvTwpr-4">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RvaIdq2eTgn-a8RvTwpr-3" target="RvaIdq2eTgn-a8RvTwpr-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-3" value="&lt;div&gt;Eligibility and Qualification&lt;/div&gt;(same as company audit)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-3" value="&lt;div&gt;Eligibility and Qualification&lt;/div&gt;(same as company audit)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="318.12" y="1080" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RvaIdq2eTgn-a8RvTwpr-4" target="RvaIdq2eTgn-a8RvTwpr-7">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RvaIdq2eTgn-a8RvTwpr-4" target="RvaIdq2eTgn-a8RvTwpr-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-4" value="Appointment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-4" value="Appointment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="359.5099999999999" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RvaIdq2eTgn-a8RvTwpr-7" target="RvaIdq2eTgn-a8RvTwpr-10">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RvaIdq2eTgn-a8RvTwpr-7" target="RvaIdq2eTgn-a8RvTwpr-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/OLAWYlp.png;" vertex="1" parent="1">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/OLAWYlp.png;" parent="1" vertex="1">
           <mxGeometry x="274.89" y="1160" width="290.23" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RvaIdq2eTgn-a8RvTwpr-10" target="RvaIdq2eTgn-a8RvTwpr-11">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RvaIdq2eTgn-a8RvTwpr-10" target="RvaIdq2eTgn-a8RvTwpr-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-10" value="Remuneration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-10" value="Remuneration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360.5000000000001" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RvaIdq2eTgn-a8RvTwpr-11" value="&lt;div&gt;Nationalised Bank and SBI- fixed by RBI in consultation with CG&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt; other cases - as per company audit. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RvaIdq2eTgn-a8RvTwpr-11" value="&lt;div&gt;Nationalised Bank and SBI- fixed by RBI in consultation with CG&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt; other cases - as per company audit. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280.5000000000001" y="1320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-_h9bFcxFE14CwyX4Ju4-1" value="The &lt;u&gt;Initial Engagements&lt;/u&gt; done by the &lt;u&gt;Previous Auditor&lt;/u&gt; messed up the &lt;u&gt;Internal Assignments&lt;/u&gt; which made the bank &lt;u&gt;Indebted&lt;/u&gt; to many, the bank &lt;u&gt;Understood&lt;/u&gt; the situation and started &lt;u&gt;Planning&lt;/u&gt;. it was &lt;u&gt;2:10&lt;/u&gt; i got a call from the bank and they wanted us to help them &lt;u&gt;Engage Risk&lt;/u&gt;." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1700" width="279.75" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-_h9bFcxFE14CwyX4Ju4-2" value="we got &lt;u&gt;involvement&lt;/u&gt; to get an &lt;u&gt;Oversight&lt;/u&gt; in &lt;u&gt;Identification, measurement and monitoring of risk&lt;/u&gt;, but there was a problem there was no &lt;u&gt;Reliable information&lt;/u&gt; for us to &lt;u&gt;Control&lt;/u&gt; and &lt;u&gt;Monitoring&lt;/u&gt; risk" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
+          <mxGeometry y="2080" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-_h9bFcxFE14CwyX4Ju4-3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="100.00000000000023" y="2570" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-_h9bFcxFE14CwyX4Ju4-4" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="90.00000000000023" y="4120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-_h9bFcxFE14CwyX4Ju4-5" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-307.4999999999998" y="4560" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-_h9bFcxFE14CwyX4Ju4-6" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="171.50000000000023" y="4690" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-_h9bFcxFE14CwyX4Ju4-7" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="510.0000000000002" y="4600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-_h9bFcxFE14CwyX4Ju4-8" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1120.0000000000002" y="4710" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
