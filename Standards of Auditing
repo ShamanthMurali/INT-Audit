@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T06:17:19.582Z" agent="5.0 (X11)" etag="TuWzpPf7KgLjkZJEsVGL" version="15.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T11:56:07.223Z" agent="5.0 (X11)" etag="yF6U2s6JzuferSd77LXq" version="15.6.1" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
-    <mxGraphModel dx="1614" dy="1384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1219,8 +1219,8 @@
         <mxCell id="_6mg-ACXW3XEM2QkLPh6-135" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Limitations&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;H&lt;/b&gt;&lt;/u&gt;uman error&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;M&lt;/b&gt;&lt;/u&gt;isuse of authority by mgmt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;M&lt;/b&gt;&lt;/u&gt;anipulation by mgmt&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;nly provide reasonable assurance not 100%&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. not &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;pplicable to small firms&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. high &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;ost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;ollusion among employees&lt;/div&gt;&lt;div&gt;(mgmt 2 sided arrangement with customers)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. &lt;u&gt;&lt;b&gt;N&lt;/b&gt;&lt;/u&gt;o control (Owner manager)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2900" y="660" width="320" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="uVYKNzydVZcMpzMGIu3k-1" value="&lt;div&gt;S&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;R&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="2840" y="495" width="40" height="80" as="geometry" />
+        <mxCell id="uVYKNzydVZcMpzMGIu3k-1" value="To &lt;u&gt;safeguard&lt;/u&gt; &lt;u&gt;appropriate&lt;/u&gt; &lt;u&gt;transaction&lt;/u&gt; on &lt;u&gt;regular intervals&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="2780" y="495" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uVYKNzydVZcMpzMGIu3k-3" value="&lt;div&gt;Help&lt;/div&gt;&lt;div&gt;Modiji in &lt;br&gt;&lt;/div&gt;&lt;div&gt;making&lt;/div&gt;&lt;div&gt;Our India&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;corruption free&lt;/div&gt;&lt;div&gt;cashless&lt;/div&gt;&lt;div&gt;nation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2790" y="735" width="90" height="120" as="geometry" />
