@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T23:16:15.766Z" agent="5.0 (X11)" etag="TPBpJhFpFmO3FfANspz9" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T23:23:45.054Z" agent="5.0 (X11)" etag="0GgXAHSIAY4q0ovRHaq1" version="15.7.0" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="2108" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1569" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -700,7 +700,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-187" value="Removal of an auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="4360" width="160" height="40" as="geometry" />
+          <mxGeometry x="385" y="4360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ztlDOUhPdJNCALoM5vWy-191" target="2Pp1JnIfXIHfrOk5wE5I-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -965,7 +965,7 @@
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-39" target="2Pp1JnIfXIHfrOk5wE5I-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-39" value="SH&#39;s holding&amp;nbsp; at&amp;nbsp; least&amp;nbsp; 1%&amp;nbsp; of&amp;nbsp; voting power or Shares with paid up value of at least Rs. 5 Lacs." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-39" value="SH&#39;s holding at least 1% of voting power or Shares with paid up value of at least Rs. 5 Lacs." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="371" y="4500" width="188" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-41" target="2Pp1JnIfXIHfrOk5wE5I-43" edge="1">
@@ -1004,6 +1004,9 @@
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-49" value="If representation was ..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="4830" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-52" target="xLTECwSO7dbu3AnhDnFN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-52" value="&lt;div&gt;received &lt;br&gt;&lt;/div&gt;&lt;div&gt;Late&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="4910" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1016,11 +1019,11 @@
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-54" value="Notify the share holders" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="4970" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-56" target="xLTECwSO7dbu3AnhDnFN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-56" value="Not given" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="552" y="4910" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2Pp1JnIfXIHfrOk5wE5I-60" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="480" y="4960" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-62" target="2Pp1JnIfXIHfrOk5wE5I-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1566,6 +1569,15 @@
         </mxCell>
         <mxCell id="Y08mbyoYH6UdPb1NsfZ8-1" value="SPICy Dosa is my Fav Food" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="-79" y="8470" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-1" value="Auditor may require that the representation be read out at the meeting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="4970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-3" value="a copy thereof shall be filed with the registrar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552" y="4970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
+          <mxGeometry x="622" y="4940" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
