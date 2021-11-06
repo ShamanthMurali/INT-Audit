@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T23:30:29.881Z" agent="5.0 (X11)" etag="wg6l3lvFTFvYXCBgxfBT" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T23:31:02.117Z" agent="5.0 (X11)" etag="P0oDKk8HmnN1bLV-QmdF" version="15.7.0" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1898" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1449" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1088,7 +1088,7 @@
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-9" target="0-Jr7ITFuYC54BrKQtSs-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0-Jr7ITFuYC54BrKQtSs-9" value="&lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt;ransaction book entries are prejudicial(belong) to the company or not" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-9" value="&lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt;ransaction book entries are prejudicial{belong} to the company or not" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="5650" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-10" target="0-Jr7ITFuYC54BrKQtSs-16" edge="1">
