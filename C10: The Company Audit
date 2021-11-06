@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T12:55:02.203Z" agent="5.0 (X11)" etag="O7JJKYv84kanVpp0Bpr0" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T23:16:15.766Z" agent="5.0 (X11)" etag="TPBpJhFpFmO3FfANspz9" version="15.7.0" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1773" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2108" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -664,7 +664,7 @@
         <mxCell id="ztlDOUhPdJNCALoM5vWy-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ztlDOUhPdJNCALoM5vWy-169" target="ztlDOUhPdJNCALoM5vWy-170" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ztlDOUhPdJNCALoM5vWy-169" value="All unlisted companies..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ztlDOUhPdJNCALoM5vWy-169" value="All Pvt. ltd companies..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="552" y="3092" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztlDOUhPdJNCALoM5vWy-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ztlDOUhPdJNCALoM5vWy-170" target="ztlDOUhPdJNCALoM5vWy-175" edge="1">
@@ -1428,7 +1428,7 @@
         <mxCell id="9F2VfRxa8ZsIfczpcodk-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="9F2VfRxa8ZsIfczpcodk-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y08mbyoYH6UdPb1NsfZ8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="Y08mbyoYH6UdPb1NsfZ8-1">
+        <mxCell id="Y08mbyoYH6UdPb1NsfZ8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="Y08mbyoYH6UdPb1NsfZ8-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-81" value="Clause reporting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1564,7 +1564,7 @@
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-30" value="&lt;div&gt;Clause a&amp;nbsp; obtain all the information and explanations which&amp;nbsp; to&amp;nbsp; were necessary&amp;nbsp; for&amp;nbsp; the purpose of his audit.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Clause b&amp;nbsp; proper books of account have been&amp;nbsp; kept&amp;nbsp; by&amp;nbsp; the&amp;nbsp; company&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; Clause d&amp;nbsp;&amp;nbsp; company’s&amp;nbsp; balance&amp;nbsp; sheet&amp;nbsp; and profit&amp;nbsp; and&amp;nbsp; loss&amp;nbsp; a/c&amp;nbsp; are in agreement with the books of account and returns.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Clause e&amp;nbsp;&amp;nbsp; whether, financial&amp;nbsp; statements&amp;nbsp; comply&amp;nbsp; with&amp;nbsp; the accounting standards &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Clause g&amp;nbsp; any&amp;nbsp; director&amp;nbsp; is&amp;nbsp; disqualified&amp;nbsp; from being&amp;nbsp; appointed&amp;nbsp; as&amp;nbsp; a&amp;nbsp; director&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Clause i&amp;nbsp;&amp;nbsp; whether&amp;nbsp; company&amp;nbsp; has&amp;nbsp; adequate&amp;nbsp; internal financial&amp;nbsp; controls&amp;nbsp; with reference to financial statements &lt;br&gt;&lt;/div&gt;&lt;div&gt;(does not apply to small / one person company)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Clause j &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) whether the company has disclosed the impact, if any, of pending litigations on its financial position in its financial statement &lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) whether&amp;nbsp; the&amp;nbsp; company&amp;nbsp; has&amp;nbsp; made&amp;nbsp; provision,&amp;nbsp; for material foreseeable losses&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) whether amounts,&amp;nbsp; required&amp;nbsp; to&amp;nbsp; be transferred, to the Investor Education and Protection Fund by the company transfered or not &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Duty to state reasons for negative remarks in audit report&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Duty to Comply with Auditing Standards&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Duty to report fraud to Central Government&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Duty to Sign Audit Report&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="0-Jr7ITFuYC54BrKQtSs-29" vertex="1">
           <mxGeometry y="40" width="380" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="Y08mbyoYH6UdPb1NsfZ8-1" value="SPICy Dosa is my Fav Food" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="Y08mbyoYH6UdPb1NsfZ8-1" value="SPICy Dosa is my Fav Food" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="-79" y="8470" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
