@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T23:31:02.117Z" agent="5.0 (X11)" etag="P0oDKk8HmnN1bLV-QmdF" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T23:31:49.114Z" agent="5.0 (X11)" etag="WRONwCf0ydb4Hdlbpi-Q" version="15.7.0" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
     <mxGraphModel dx="1449" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1097,7 +1097,7 @@
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-10" value="&lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;ooks as business expense but personal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="5840" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0-Jr7ITFuYC54BrKQtSs-16" value="&lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;hare allotted for cash - cash received or not" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-16" value="&lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;hare allotted for cash - but cash received or not" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="5900" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-18" value="&lt;div&gt;Love&lt;/div&gt;&lt;div&gt;Toh&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;Se!&lt;br&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF99;" parent="1" vertex="1">
