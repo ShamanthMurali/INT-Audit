@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T23:26:14.859Z" agent="5.0 (X11)" etag="KHv7Y59b1c6ixZDrE7OM" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T23:30:29.881Z" agent="5.0 (X11)" etag="wg6l3lvFTFvYXCBgxfBT" version="15.7.0" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1353" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1898" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1061,7 +1061,7 @@
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-75" value="&lt;div&gt;A&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;Gives&lt;/div&gt;&lt;div&gt;Life&lt;br&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="560" y="5210" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0-Jr7ITFuYC54BrKQtSs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-1" target="0-Jr7ITFuYC54BrKQtSs-3" edge="1">
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0-Jr7ITFuYC54BrKQtSs-1" target="xLTECwSO7dbu3AnhDnFN-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-1" value="Duties of Auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
@@ -1071,37 +1071,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-3" value="&lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;oans and advance properly secured or not" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="5560" width="320" height="40" as="geometry" />
+          <mxGeometry x="200" y="5590" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-5" target="0-Jr7ITFuYC54BrKQtSs-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-5" value="&amp;nbsp;whether &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nvestment or banking co consist of shares and debentures sold at price less than at which they were purchased by the company" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="5740" width="320" height="50" as="geometry" />
+          <mxGeometry x="200" y="5770" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-7" target="0-Jr7ITFuYC54BrKQtSs-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-7" value="Loans and advances shown as &lt;u&gt;&lt;b&gt;D&lt;/b&gt;&lt;/u&gt;eposits or not" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="5680" width="320" height="40" as="geometry" />
+          <mxGeometry x="200" y="5710" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-9" target="0-Jr7ITFuYC54BrKQtSs-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-9" value="&lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt;ransaction book entries are prejudicial(belong) to the company or not" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="5620" width="320" height="40" as="geometry" />
+          <mxGeometry x="200" y="5650" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-10" target="0-Jr7ITFuYC54BrKQtSs-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-10" value="&lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;ooks as business expense but personal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="5810" width="320" height="40" as="geometry" />
+          <mxGeometry x="200" y="5840" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-16" value="&lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;hare allotted for cash - cash received or not" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="5870" width="320" height="40" as="geometry" />
+          <mxGeometry x="200" y="5900" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-18" value="&lt;div&gt;Love&lt;/div&gt;&lt;div&gt;Toh&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;Se!&lt;br&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF99;" parent="1" vertex="1">
-          <mxGeometry x="560" y="5640" width="40" height="120" as="geometry" />
+          <mxGeometry x="560" y="5670" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-25" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="640" y="5385" width="120" height="70" as="geometry" />
@@ -1110,7 +1110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-27" value="Others duties of Auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="5950" width="160" height="40" as="geometry" />
+          <mxGeometry x="280" y="5960" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-32" target="0-Jr7ITFuYC54BrKQtSs-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1557,7 +1557,7 @@
           <mxGeometry x="1830" y="1100" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-29" value="Other duties" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="300" y="6010" width="120" height="40" as="geometry">
+          <mxGeometry x="300" y="6020" width="120" height="40" as="geometry">
             <mxRectangle x="300" y="6010" width="380" height="550" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1575,6 +1575,12 @@
         </mxCell>
         <mxCell id="xLTECwSO7dbu3AnhDnFN-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
           <mxGeometry x="622" y="4940" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLTECwSO7dbu3AnhDnFN-6" target="0-Jr7ITFuYC54BrKQtSs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-6" value="Duty to inquire of certain matters - " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="5540" width="200" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
