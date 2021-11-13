@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T23:38:18.814Z" agent="5.0 (X11)" etag="dqcgXvdnQrdUBRYXGWxh" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T09:20:22.174Z" agent="5.0 (X11)" etag="JNVKQjK6iGQ1aMX6RT0X" version="15.7.3" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1449" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1001,7 +1001,7 @@
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-49" value="If representation was ..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="4830" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xLTECwSO7dbu3AnhDnFN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-52" target="xLTECwSO7dbu3AnhDnFN-1">
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-52" target="xLTECwSO7dbu3AnhDnFN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-52" value="&lt;div&gt;received &lt;br&gt;&lt;/div&gt;&lt;div&gt;Late&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1016,7 +1016,7 @@
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-54" value="Notify the share holders" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="4970" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xLTECwSO7dbu3AnhDnFN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-56" target="xLTECwSO7dbu3AnhDnFN-3">
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2Pp1JnIfXIHfrOk5wE5I-56" target="xLTECwSO7dbu3AnhDnFN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-56" value="Not given" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1061,7 +1061,7 @@
         <mxCell id="2Pp1JnIfXIHfrOk5wE5I-75" value="&lt;div&gt;A&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;Gives&lt;/div&gt;&lt;div&gt;Life&lt;br&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="560" y="5210" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xLTECwSO7dbu3AnhDnFN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0-Jr7ITFuYC54BrKQtSs-1" target="xLTECwSO7dbu3AnhDnFN-6">
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-1" target="xLTECwSO7dbu3AnhDnFN-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-1" value="Duties of Auditor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
@@ -1088,7 +1088,7 @@
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-9" target="0-Jr7ITFuYC54BrKQtSs-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0-Jr7ITFuYC54BrKQtSs-9" value="&lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt;ransaction book entries are prejudicial{belong} to the company or not" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0-Jr7ITFuYC54BrKQtSs-9" value="&lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt;ransaction book entries are prejudicial{harmful} to the company or not" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="5650" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0-Jr7ITFuYC54BrKQtSs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-Jr7ITFuYC54BrKQtSs-10" target="0-Jr7ITFuYC54BrKQtSs-16" edge="1">
@@ -1567,19 +1567,19 @@
         <mxCell id="Y08mbyoYH6UdPb1NsfZ8-1" value="SPICy Dosa is my Fav Food" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="-79" y="8470" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xLTECwSO7dbu3AnhDnFN-1" value="Auditor may require that the representation be read out at the meeting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-1" value="Auditor may require that the representation be read out at the meeting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="4970" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xLTECwSO7dbu3AnhDnFN-3" value="a copy thereof shall be filed with the registrar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-3" value="a copy thereof shall be filed with the registrar" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="552" y="4970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xLTECwSO7dbu3AnhDnFN-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" parent="1" vertex="1">
           <mxGeometry x="622" y="4940" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xLTECwSO7dbu3AnhDnFN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLTECwSO7dbu3AnhDnFN-6" target="0-Jr7ITFuYC54BrKQtSs-3">
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xLTECwSO7dbu3AnhDnFN-6" target="0-Jr7ITFuYC54BrKQtSs-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xLTECwSO7dbu3AnhDnFN-6" value="Duty to inquire of certain matters - " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xLTECwSO7dbu3AnhDnFN-6" value="Duty to inquire of certain matters - " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="5540" width="200" height="26" as="geometry" />
         </mxCell>
       </root>
