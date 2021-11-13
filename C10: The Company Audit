@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T09:24:31.706Z" agent="5.0 (X11)" etag="KaVyf3p8cTkt1QwuWsYF" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T09:31:04.009Z" agent="5.0 (X11)" etag="s4y1NgJE9srv3ycYDJE7" version="15.7.3" type="github">
   <diagram id="sSTXkkyw5Oass8XjPlCq" name="Page-1">
-    <mxGraphModel dx="1958" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1404,7 +1404,7 @@
         <mxCell id="9F2VfRxa8ZsIfczpcodk-77" value="&lt;div&gt;1. banking cos&lt;/div&gt;&lt;div&gt;2. insurance cos&lt;/div&gt;&lt;div&gt;3. section 8 cos&lt;/div&gt;&lt;div&gt;4. one person cos&lt;/div&gt;&lt;div&gt;5. small cos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. private cos not being a subsidiary or holding&lt;/div&gt;&lt;div&gt;(PUSC &lt;u&gt;&amp;lt;&lt;/u&gt; 1 crore&lt;/div&gt;&lt;div&gt;Borrowings &lt;u&gt;&amp;lt;&lt;/u&gt; 1 crore&lt;/div&gt;&lt;div&gt;Total revenue per FY &lt;u&gt;&amp;lt;&lt;/u&gt; 10 crore)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="389" y="8340" width="220" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9F2VfRxa8ZsIfczpcodk-80" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CARO does not apply to CFS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9F2VfRxa8ZsIfczpcodk-80" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CARO does not apply to Consolidated Financial Statements&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="8240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9F2VfRxa8ZsIfczpcodk-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9F2VfRxa8ZsIfczpcodk-81" target="9F2VfRxa8ZsIfczpcodk-86" edge="1">
