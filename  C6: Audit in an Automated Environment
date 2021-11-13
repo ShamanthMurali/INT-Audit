@@ -1,130 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T14:04:48.837Z" agent="5.0 (X11)" etag="1SBYoUOHcPtf_as0vrBL" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T20:53:32.811Z" agent="5.0 (X11)" etag="ThmtRmaosqOlYGcbRNZv" version="15.7.3" type="github">
   <diagram id="Riv2HUoPxJbzIjorfe0j" name="Page-1">
-    <mxGraphModel dx="1247" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="754" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-1" target="4fQ1YcwH95BBMGURaLkN-2">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-1" target="4fQ1YcwH95BBMGURaLkN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-1" value=" Audit in an Automated Environment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-1" value=" Audit in an Automated Environment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-2" target="4fQ1YcwH95BBMGURaLkN-5">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-2" target="4fQ1YcwH95BBMGURaLkN-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-2" target="4fQ1YcwH95BBMGURaLkN-7">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-2" target="4fQ1YcwH95BBMGURaLkN-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-2" value="automated environment refers to a business environment &lt;br&gt;where the &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;rocesses, &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;perations, &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccounting and even &lt;u&gt;&lt;b&gt;D&lt;/b&gt;&lt;/u&gt;ecisions are &lt;br&gt;carried out by using computer systems – also known as Information &lt;br&gt;Systems (IS) or Information Technology (IT) systems. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-2" value="automated environment refers to a business environment &lt;br&gt;where the &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;rocesses, &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;perations, &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccounting and even &lt;u&gt;&lt;b&gt;D&lt;/b&gt;&lt;/u&gt;ecisions are &lt;br&gt;carried out by using computer systems – also known as Information &lt;br&gt;Systems (IS) or Information Technology (IT) systems. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="60" width="380" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-5" target="4fQ1YcwH95BBMGURaLkN-9">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-5" target="4fQ1YcwH95BBMGURaLkN-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-5" target="4fQ1YcwH95BBMGURaLkN-11">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-5" target="4fQ1YcwH95BBMGURaLkN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Features&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1&amp;nbsp; Enables &lt;u&gt;&lt;b&gt;fast&lt;/b&gt;&lt;/u&gt;er business operations &lt;br&gt;&lt;/div&gt;&lt;div&gt;6&amp;nbsp; &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;onnectivity and networking capability&lt;/div&gt;&lt;div&gt;2&amp;nbsp; &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccuracy in data processing and computation &lt;br&gt;3&amp;nbsp; Ability to process &lt;u&gt;&lt;b&gt;l&lt;/b&gt;&lt;/u&gt;arge volumes of data &lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp; Better &lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;ecurity and controls&lt;/div&gt;&lt;div&gt;4&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;ntegration between business operations &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Features&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1&amp;nbsp; Enables &lt;u&gt;&lt;b&gt;fast&lt;/b&gt;&lt;/u&gt;er business operations &lt;br&gt;&lt;/div&gt;&lt;div&gt;6&amp;nbsp; &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;onnectivity and networking capability&lt;/div&gt;&lt;div&gt;2&amp;nbsp; &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccuracy in data processing and computation &lt;br&gt;3&amp;nbsp; Ability to process &lt;u&gt;&lt;b&gt;l&lt;/b&gt;&lt;/u&gt;arge volumes of data &lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp; Better &lt;u&gt;&lt;b&gt;S&lt;/b&gt;&lt;/u&gt;ecurity and controls&lt;/div&gt;&lt;div&gt;4&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;ntegration between business operations &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="150" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-7" value="PODA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="75" width="60" height="40" as="geometry" />
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-7" value="PODA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="167.5" y="75" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-9" value="&lt;div&gt;Fast&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;I&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="170" width="40" height="90" as="geometry" />
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-9" value="&lt;div&gt;Fast CALSI&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="195" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-11" target="4fQ1YcwH95BBMGURaLkN-13">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-11" target="4fQ1YcwH95BBMGURaLkN-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-11" target="4fQ1YcwH95BBMGURaLkN-15">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-11" target="4fQ1YcwH95BBMGURaLkN-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Relevance of IT in audit&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;eports used in business are produced from systems. &amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;M&lt;/b&gt;&lt;/u&gt;gmt and stakeholders rely on such reports&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;U&lt;/b&gt;&lt;/u&gt;ser access and security are controlled by assigning system roles to users &lt;/div&gt;(e.g. segregation of duties can be enforced effectively) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccounting entries are posted automatically&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;6. Business &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;olicies and &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;rocedures, including internal controls, are applied &lt;br&gt;automatically&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;omputation and &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;alculations are automatically carried out&lt;/div&gt;&lt;div&gt;(e.g., bank interest computation) &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Relevance of IT in audit&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;eports used in business are produced from systems. &amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;M&lt;/b&gt;&lt;/u&gt;gmt and stakeholders rely on such reports&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;U&lt;/b&gt;&lt;/u&gt;ser access and security are controlled by assigning system roles to users &lt;/div&gt;(e.g. segregation of duties can be enforced effectively) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccounting entries are posted automatically&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;6. Business &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;olicies and &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;rocedures, including internal controls, are applied &lt;br&gt;automatically&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;omputation and &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;alculations are automatically carried out&lt;/div&gt;&lt;div&gt;(e.g., bank interest computation) &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="300" width="425" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-13" value="&lt;div&gt;Rahul&lt;/div&gt;&lt;div&gt;Mehta&lt;/div&gt;&lt;div&gt;Uses&lt;/div&gt;&lt;div&gt;Apple P&lt;/div&gt;&lt;div&gt;C&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="375" width="40" height="90" as="geometry" />
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-13" value="&lt;div&gt;Rahul Mehta Uses Apple PC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="400" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-15" target="4fQ1YcwH95BBMGURaLkN-16">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-15" target="4fQ1YcwH95BBMGURaLkN-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-15" target="4fQ1YcwH95BBMGURaLkN-19">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-15" target="4fQ1YcwH95BBMGURaLkN-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Understanding of the company’s automated environment&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp; &lt;u&gt;&lt;b&gt;V&lt;/b&gt;&lt;/u&gt;ersion (functions and risks could vary in different versions of same application).&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;S being used (Which application systems).&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp; Their &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;urpose (financial and non-financial). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;3&amp;nbsp; &lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;ocation of IT systems - local vs global.&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nterfaces within systems (in case multiple systems exist).&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;n-house vs Packaged.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;rchitecture (desktop based, client-server, web application, cloud based). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8&amp;nbsp; &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;utsourced activities (IT maintenance and support). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;9&amp;nbsp; Key &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;ersons (CIO, CISO, Administrators)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Understanding of the company’s automated environment&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp; &lt;u&gt;&lt;b&gt;V&lt;/b&gt;&lt;/u&gt;ersion (functions and risks could vary in different versions of same application).&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;S being used (Which application systems).&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp; Their &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;urpose (financial and non-financial). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;3&amp;nbsp; &lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;ocation of IT systems - local vs global.&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nterfaces within systems (in case multiple systems exist).&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;n-house vs Packaged.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;rchitecture (desktop based, client-server, web application, cloud based). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8&amp;nbsp; &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;utsourced activities (IT maintenance and support). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;9&amp;nbsp; Key &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;ersons (CIO, CISO, Administrators)." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="560" width="425" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-16" value="&lt;div&gt;Vivo&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;In&lt;/div&gt;&lt;div&gt;India&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;Outside&lt;/div&gt;&lt;div&gt;Place&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-16" value="&lt;div&gt;Vivo&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;In&lt;/div&gt;&lt;div&gt;India&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;Outside&lt;/div&gt;&lt;div&gt;Place&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="650" width="50" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-19" target="4fQ1YcwH95BBMGURaLkN-21">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-19" target="4fQ1YcwH95BBMGURaLkN-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-19" target="4fQ1YcwH95BBMGURaLkN-29">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4fQ1YcwH95BBMGURaLkN-19" target="4fQ1YcwH95BBMGURaLkN-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-19" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Risks&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;naccurate processing of data, processing inaccurate data, or both.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; &lt;u&gt;&lt;b&gt;U&lt;/b&gt;&lt;/u&gt;nauthorized access to data.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; &lt;u&gt;&lt;b&gt;U&lt;/b&gt;&lt;/u&gt;nauthorized changes to systems or programs.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; &lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;ack of adequate segregation of duties.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; Direct data &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;hanges (backend changes).&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp; Excessive access / Privileged &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccess (super users).&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;7.&amp;nbsp; &lt;u&gt;&lt;b&gt;F&lt;/b&gt;&lt;/u&gt;ailure to make necessary changes to systems or programs.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8.&amp;nbsp; &lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;oss of data.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-19" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Risks&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;naccurate processing of data, processing inaccurate data, or both.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; &lt;u&gt;&lt;b&gt;U&lt;/b&gt;&lt;/u&gt;nauthorized access to data.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; &lt;u&gt;&lt;b&gt;U&lt;/b&gt;&lt;/u&gt;nauthorized changes to systems or programs.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; &lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;ack of adequate segregation of duties.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; Direct data &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;hanges (backend changes).&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp; Excessive access / Privileged &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;ccess (super users).&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;7.&amp;nbsp; &lt;u&gt;&lt;b&gt;F&lt;/b&gt;&lt;/u&gt;ailure to make necessary changes to systems or programs.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8.&amp;nbsp; &lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;oss of data.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="900" width="425" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-21" value="&lt;div&gt;I&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;Love&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;For&lt;/div&gt;&lt;div&gt;Life&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-21" value="&lt;div&gt;I&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;U&lt;/div&gt;&lt;div&gt;Love&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;For&lt;/div&gt;&lt;div&gt;Life&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="950" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-25" target="4fQ1YcwH95BBMGURaLkN-26">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-25" target="4fQ1YcwH95BBMGURaLkN-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-25" target="4fQ1YcwH95BBMGURaLkN-47">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-25" target="4fQ1YcwH95BBMGURaLkN-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;where Information Technology is needed in audit&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;&lt;b&gt;V&lt;/b&gt;&lt;/u&gt;olume of transactions are high (Insurance, Banking, Railways ticketing).&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; &lt;u&gt;&lt;b&gt;H&lt;/b&gt;&lt;/u&gt;i-tech nature of business (Telecom, e-Commerce).&amp;nbsp;&amp;nbsp; &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Company &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;olicy (Compliance).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;egulatory requirements&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;ncreased use of Systems and Application software in Business (for example, use of ERPs)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp; &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;omplexity of transactions has increased&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;fficiency and &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;ffectiveness of audit increases.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;where Information Technology is needed in audit&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;&lt;b&gt;V&lt;/b&gt;&lt;/u&gt;olume of transactions are high (Insurance, Banking, Railways ticketing).&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; &lt;u&gt;&lt;b&gt;H&lt;/b&gt;&lt;/u&gt;i-tech nature of business (Telecom, e-Commerce).&amp;nbsp;&amp;nbsp; &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Company &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;olicy (Compliance).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;egulatory requirements&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;ncreased use of Systems and Application software in Business (for example, use of ERPs)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp; &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;omplexity of transactions has increased&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;fficiency and &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;ffectiveness of audit increases.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="1520" width="425" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-26" value="&lt;div&gt;Very&lt;/div&gt;&lt;div&gt;High&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;E&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-26" value="&lt;div&gt;Very&lt;/div&gt;&lt;div&gt;High&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;E&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1585" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="4fQ1YcwH95BBMGURaLkN-31">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="4fQ1YcwH95BBMGURaLkN-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="4fQ1YcwH95BBMGURaLkN-32">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="4fQ1YcwH95BBMGURaLkN-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="4fQ1YcwH95BBMGURaLkN-30">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="4fQ1YcwH95BBMGURaLkN-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-29" value="Impact of IT related risks on -" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-29" value="Impact of IT related risks on -" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-30" target="4fQ1YcwH95BBMGURaLkN-37">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-30" target="4fQ1YcwH95BBMGURaLkN-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-30" value="Reporting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-30" value="Reporting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="1260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-31" target="4fQ1YcwH95BBMGURaLkN-35">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-31" target="4fQ1YcwH95BBMGURaLkN-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-31" value="Controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-31" value="Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-32" target="4fQ1YcwH95BBMGURaLkN-33">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-32" target="4fQ1YcwH95BBMGURaLkN-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-32" value="Substantive Audit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-32" value="Substantive Audit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-33" target="4fQ1YcwH95BBMGURaLkN-25">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-33" target="4fQ1YcwH95BBMGURaLkN-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-33" value="&lt;div&gt;1. cannot rely on the data obtained from systems&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. more audit evidence is needed&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt; 3. system data and report should be tested substantively for completeness and accuracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-33" value="&lt;div&gt;1. cannot rely on the data obtained from systems&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. more audit evidence is needed&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt; 3. system data and report should be tested substantively for completeness and accuracy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1320" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-35" target="4fQ1YcwH95BBMGURaLkN-25">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-35" target="4fQ1YcwH95BBMGURaLkN-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-35" value="1. cannot rely on IT dependent Manual controls &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. cannot rely on automated controls, system calculations and accounting &lt;/div&gt;procedures built into applications " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-35" value="1. cannot rely on IT dependent Manual controls &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. cannot rely on automated controls, system calculations and accounting &lt;/div&gt;procedures built into applications " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1320" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-37" target="4fQ1YcwH95BBMGURaLkN-25">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-37" target="4fQ1YcwH95BBMGURaLkN-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="660" y="1480" />
@@ -132,13 +132,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-37" value="due to the regulatory requirement of auditors to report on internal financial controls of a company, the audit report also may have to be modified in some instances." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-37" value="due to the regulatory requirement of auditors to report on internal financial controls of a company, the audit report also may have to be modified in some instances." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1320" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-49">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-50">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="1870" />
@@ -146,7 +146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-48">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="1870" />
@@ -154,43 +154,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-47" value="Types of Controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-47" value="Types of Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1810" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-48" target="4fQ1YcwH95BBMGURaLkN-52">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-48" target="4fQ1YcwH95BBMGURaLkN-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-48" value="IT-dependent Controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-48" value="IT-dependent Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="627.5" y="1890" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-49" target="4fQ1YcwH95BBMGURaLkN-53">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-49" target="4fQ1YcwH95BBMGURaLkN-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-49" value="Application Controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-49" value="Application Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1890" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-50" target="4fQ1YcwH95BBMGURaLkN-51">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-50" target="4fQ1YcwH95BBMGURaLkN-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-50" value="General IT controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-50" value="General IT controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="132.5" y="1890" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-51" value="“General IT controls are policies and procedures that relate to many applications&amp;nbsp; and support the effective functioning of application controls. They apply to mainframe, miniframe, and end-user environments. &amp;nbsp;&lt;br&gt;General IT-controls that maintain the integrity of information and security of &lt;br&gt;data commonly include controls over the following”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-51" value="“General IT controls are policies and procedures that relate to many applications&amp;nbsp; and support the effective functioning of application controls. They apply to mainframe, miniframe, and end-user environments. &amp;nbsp;&lt;br&gt;General IT-controls that maintain the integrity of information and security of &lt;br&gt;data commonly include controls over the following”" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="77.5" y="1950" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-52" value="Application controls include both automated and manual controls that &lt;br&gt;operate at a business process level. Automated Application controls are &lt;br&gt;embedded into IT applications viz., ERPs and help in ensuring the &lt;br&gt;completeness, accuracy and integrity of data in those systems. &lt;br&gt;E.g. data validation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-52" value="Application controls include both automated and manual controls that &lt;br&gt;operate at a business process level. Automated Application controls are &lt;br&gt;embedded into IT applications viz., ERPs and help in ensuring the &lt;br&gt;completeness, accuracy and integrity of data in those systems. &lt;br&gt;E.g. data validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="572.5" y="1950" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-53" value="IT dependent controls are basically manual controls that make use of &lt;br&gt;some form of data or information or report produced from IT systems &lt;br&gt;and applications. In this case, even though the control is performed manually, the design and effectiveness of such controls depends on the reliability of source data. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-53" value="IT dependent controls are basically manual controls that make use of &lt;br&gt;some form of data or information or report produced from IT systems &lt;br&gt;and applications. In this case, even though the control is performed manually, the design and effectiveness of such controls depends on the reliability of source data. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="1950" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-61" target="4fQ1YcwH95BBMGURaLkN-62">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-61" target="4fQ1YcwH95BBMGURaLkN-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-61" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Testing Methods&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; walk through of end-to-end&amp;nbsp; transaction using combination of inquiry, observation and inspection.&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;2.&amp;nbsp; user processes transactions under different scenarios&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Inspect the configuration defined in an application. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; Inspect&amp;nbsp; the&amp;nbsp; system&amp;nbsp; logs&amp;nbsp; to&amp;nbsp; determine&amp;nbsp; any&amp;nbsp; changes&amp;nbsp; made&amp;nbsp; since&amp;nbsp; last&amp;nbsp; audit &lt;br&gt;&lt;br&gt;&lt;/div&gt;6.&amp;nbsp; Common methods: &lt;br&gt;a. Inquiry &lt;br&gt;b. Observation &lt;br&gt;c. Inspection &lt;br&gt;d. Re-performance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-61" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Testing Methods&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; walk through of end-to-end&amp;nbsp; transaction using combination of inquiry, observation and inspection.&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;2.&amp;nbsp; user processes transactions under different scenarios&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Inspect the configuration defined in an application. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; Inspect&amp;nbsp; the&amp;nbsp; system&amp;nbsp; logs&amp;nbsp; to&amp;nbsp; determine&amp;nbsp; any&amp;nbsp; changes&amp;nbsp; made&amp;nbsp; since&amp;nbsp; last&amp;nbsp; audit &lt;br&gt;&lt;br&gt;&lt;/div&gt;6.&amp;nbsp; Common methods: &lt;br&gt;a. Inquiry &lt;br&gt;b. Observation &lt;br&gt;c. Inspection &lt;br&gt;d. Re-performance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="2140" width="280" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-62" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Data analytics&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;data analytics are known as Computer Assisted Auditing Techniques or CAATs in &lt;br&gt;short. Data analytics can be used in testing of electronic records and data residing &lt;br&gt;in IT systems using spread sheets and specialised audit tools viz., IDEA and &lt;br&gt;&lt;div&gt;ACL to perform the following: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Check&amp;nbsp; completeness&amp;nbsp; of&amp;nbsp; data&amp;nbsp; &lt;br&gt;2.&amp;nbsp; Selection of audit samples&amp;nbsp; &lt;br&gt;3.&amp;nbsp; Re-computation of balances&lt;br&gt;4.&amp;nbsp; Re-performance&amp;nbsp; of&amp;nbsp; mathematical&amp;nbsp; calculations&amp;nbsp; &lt;br&gt;5.&amp;nbsp; Analysis of journal entries&amp;nbsp;&amp;nbsp; &lt;br&gt;6.&amp;nbsp; Fraud investigation.&amp;nbsp; &amp;nbsp;&lt;br&gt;7.&amp;nbsp; Evaluating impact of control deficiencies. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-62" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Data analytics&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;data analytics are known as Computer Assisted Auditing Techniques or CAATs in &lt;br&gt;short. Data analytics can be used in testing of electronic records and data residing &lt;br&gt;in IT systems using spread sheets and specialised audit tools viz., IDEA and &lt;br&gt;&lt;div&gt;ACL to perform the following: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Check&amp;nbsp; completeness&amp;nbsp; of&amp;nbsp; data&amp;nbsp; &lt;br&gt;2.&amp;nbsp; Selection of audit samples&amp;nbsp; &lt;br&gt;3.&amp;nbsp; Re-computation of balances&lt;br&gt;4.&amp;nbsp; Re-performance&amp;nbsp; of&amp;nbsp; mathematical&amp;nbsp; calculations&amp;nbsp; &lt;br&gt;5.&amp;nbsp; Analysis of journal entries&amp;nbsp;&amp;nbsp; &lt;br&gt;6.&amp;nbsp; Fraud investigation.&amp;nbsp; &amp;nbsp;&lt;br&gt;7.&amp;nbsp; Evaluating impact of control deficiencies. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="2460" width="440" height="210" as="geometry" />
         </mxCell>
       </root>
