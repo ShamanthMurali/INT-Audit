@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T08:41:55.223Z" agent="5.0 (Windows)" etag="UTlOW5k-Z2VM48Fd2iyP" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T08:46:24.931Z" agent="5.0 (Windows)" etag="ug3laR2A5MRwABU7dIe1" version="15.8.3" type="github">
   <diagram id="hz5IPeGCTFuj1s-dtFxm" name="Page-1">
     <mxGraphModel dx="1483" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -920,6 +920,9 @@
         </mxCell>
         <mxCell id="W_TVgBxeTR90TRwsg7L4-16" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1" visible="0">
           <mxGeometry x="140" y="220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A38MNFytUNPZvvV2cew9-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;relevant&amp;nbsp; points the auditor needs to focus while planning the audit of NGO:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) Knowledge of the NGO’s work, its mission and vision, areas of operations and environment in which it operate. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) Reviewing its MOA, AOA, Rules and Regulations. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) Examination&amp;nbsp; of&amp;nbsp; minutes&amp;nbsp; of&amp;nbsp; the&amp;nbsp; Board/Managing&amp;nbsp; Committee/Governing Body/ Management and Committees thereof to ascertain the impact of any decisions on the financial records. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) Study the accounting system, procedures, internal controls and internal checks existing for the NGO and verify their applicability. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) Setting of materiality levels for audit purposes. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vii)&amp;nbsp; The nature and timing of reports or other communications. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;(viii) The involvement of experts and their reports. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ix) Review the previous year’s Audit Report. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="460" width="400" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
