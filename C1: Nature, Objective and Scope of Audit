@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T08:16:15.384Z" agent="5.0 (X11)" etag="7s8jT9O0CXcD0N3xNcIv" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T10:41:53.357Z" agent="5.0 (Windows)" etag="jdI-TZpx2BbWmqH-dqhX" version="15.8.3" type="github">
   <diagram id="hTsLwC4ZYWxXKzajyYe-" name="Page-1">
-    <mxGraphModel dx="2117" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1552" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,10 +118,8 @@
         <mxCell id="ouAwMG1gBBQ8QLxgHwnT-42" value="Independence of&amp;nbsp; Auditors" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="330" y="2300" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ouAwMG1gBBQ8QLxgHwnT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouAwMG1gBBQ8QLxgHwnT-43" target="f5kDjT3PVkxGhnYM-qrR-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="2670" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="VBm5s91lP-QQaEPUTzXE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouAwMG1gBBQ8QLxgHwnT-43" target="VBm5s91lP-QQaEPUTzXE-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ouAwMG1gBBQ8QLxgHwnT-43" value="&lt;div&gt;Independence&amp;nbsp; implies that&amp;nbsp; the&amp;nbsp; judgement&amp;nbsp; of&amp;nbsp; a person&amp;nbsp; is&amp;nbsp; not&amp;nbsp; subordinate&amp;nbsp; to&amp;nbsp; the wishes or direction of another person who might have engaged him.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;“Independence is: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) &lt;u&gt;&lt;b&gt;Independence of mind&lt;/b&gt;&lt;/u&gt; – the state of mind that permits the provision of an opinion without being affected by influences allowing an individual to act with integrity, and exercise objectivity and professional skepticism; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) &lt;u&gt;&lt;b&gt;Independence&amp;nbsp; in&amp;nbsp; appearance&lt;/b&gt;&lt;/u&gt;&amp;nbsp; – the&amp;nbsp; avoidance&amp;nbsp; of&amp;nbsp; facts&amp;nbsp; and&amp;nbsp; circumstances&amp;nbsp; that are so significant that a third party would reasonably conclude an auditor’s integrity, objectivity or professional skepticism had been compromised.”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The auditor should be straightforward, honest and sincere in his approach to his professional work. He must be fair and must not allow prejudice or bias to override his objectivity. He should maintain an impartial attitude and both be and a ppear to be&amp;nbsp; free&amp;nbsp; of&amp;nbsp; any&amp;nbsp; interest&amp;nbsp; which&amp;nbsp; might&amp;nbsp; be&amp;nbsp; regarded&amp;nbsp; as&amp;nbsp; being&amp;nbsp; incompatible&amp;nbsp; with&amp;nbsp; integrity and objectivity.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="2360" width="480" height="290" as="geometry" />
@@ -133,7 +131,7 @@
           <mxGeometry x="745" y="1515" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-1" value="Threats to Independence" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=5" parent="1" vertex="1">
-          <mxGeometry x="10" y="2675" width="840" height="410" as="geometry" />
+          <mxGeometry x="10" y="2955" width="840" height="410" as="geometry" />
         </mxCell>
         <mxCell id="f5kDjT3PVkxGhnYM-qrR-22" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f5kDjT3PVkxGhnYM-qrR-1" vertex="1">
           <mxGeometry y="30" width="840" height="20" as="geometry" />
@@ -244,13 +242,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oaym0yJvfkv63xUoYq8m-1" value="AS IS Family" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="-137.5" y="2785" width="120" height="50" as="geometry" />
+          <mxGeometry x="-137.5" y="3065" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oaym0yJvfkv63xUoYq8m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f5kDjT3PVkxGhnYM-qrR-6" target="oaym0yJvfkv63xUoYq8m-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XIWRKd_a-29eiagAM-me-1" value="RN21" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="2675" width="40" height="20" as="geometry" />
+        <mxCell id="XIWRKd_a-29eiagAM-me-1" value="RN21" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="2955" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VBm5s91lP-QQaEPUTzXE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VBm5s91lP-QQaEPUTzXE-1" target="f5kDjT3PVkxGhnYM-qrR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VBm5s91lP-QQaEPUTzXE-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;guiding principles to auditors independence: - &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(i) For&amp;nbsp; the&amp;nbsp; public&amp;nbsp; to&amp;nbsp; have&amp;nbsp; confidence&amp;nbsp; in&amp;nbsp; the&amp;nbsp; quality&amp;nbsp; of&amp;nbsp; audit,&amp;nbsp; it&amp;nbsp; is&amp;nbsp; essential&amp;nbsp; that &lt;br&gt;auditors&amp;nbsp; should&amp;nbsp; always&amp;nbsp; be&amp;nbsp; and&amp;nbsp; appears&amp;nbsp; to&amp;nbsp; be&amp;nbsp; independent&amp;nbsp; of&amp;nbsp; the&amp;nbsp; entities&amp;nbsp; that &lt;br&gt;&lt;div&gt;they are auditing. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(ii) In the case of audit, the key fundamental principles are integrity, objectivity and professional skepticism, which necessarily require the auditor to be independent. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(iii) Before taking on any work, an auditor must conscientiously consider whether it &lt;br&gt;&lt;div&gt;involves threats to his independence. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(iv)&amp;nbsp; When such threats exist, the auditor should either desist from the task or put in &lt;br&gt;&lt;div&gt;place safeguards that eliminate them. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(v) If&amp;nbsp; the&amp;nbsp; auditor&amp;nbsp; is&amp;nbsp; unable&amp;nbsp; to&amp;nbsp; fully&amp;nbsp; implement&amp;nbsp; credible&amp;nbsp; and&amp;nbsp; adequate&amp;nbsp; safeguards, &lt;br&gt;then he must not accept the work." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2670" width="480" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
