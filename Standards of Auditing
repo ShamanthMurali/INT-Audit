@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T11:08:28.126Z" agent="5.0 (Windows)" etag="lsnLroVTQRLr_BcHUCFp" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T11:10:27.951Z" agent="5.0 (Windows)" etag="1n-Of1FIeiatOsOgyxZ6" version="15.8.3" type="github">
   <diagram id="K5IW-J6E2Re54L07KRKV" name="Page-1">
     <mxGraphModel dx="1564" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -697,8 +697,8 @@
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-95" target="GaGYNuxTkkT2lup7wjJ7-97" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GaGYNuxTkkT2lup7wjJ7-95" value="&lt;div&gt;record of audit procedures performed, relevant audit evidence obtained, and conclusions the auditor reached. provides the following :&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; Who performed the audit work and Who&amp;nbsp; reviewed&amp;nbsp; the audit work&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Procedures performed by the auditor and &lt;br&gt;&lt;/div&gt;&lt;div&gt;evidence obtained&lt;/div&gt;&lt;div&gt;3. Conclusions reached by the auditor.&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Significant matters arising during audit and with mgmt/TCWG&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="290" y="180" width="300" height="160" as="geometry" />
+        <mxCell id="GaGYNuxTkkT2lup7wjJ7-95" value="&lt;div&gt;[RM21]&lt;br&gt;&lt;/div&gt;&lt;div&gt;record of audit procedures performed, relevant audit evidence obtained, and conclusions the auditor reached. provides the following :&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; Who performed the audit work and Who&amp;nbsp; reviewed&amp;nbsp; the audit work&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Procedures performed by the auditor and &lt;br&gt;&lt;/div&gt;&lt;div&gt;evidence obtained&lt;/div&gt;&lt;div&gt;3. Conclusions reached by the auditor.&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Significant matters arising during audit and with mgmt/TCWG&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="290" y="180" width="300" height="180" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-97" target="GaGYNuxTkkT2lup7wjJ7-99" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -707,25 +707,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-97" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of Documentation (Working papers)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;[RM21]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Evidence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Retaining record of matters that significant &lt;br&gt;&lt;/div&gt;&lt;div&gt;to future audits.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Help in direct and supervise the &lt;br&gt;&lt;/div&gt;&lt;div&gt;engagement team.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Enabling the engagement team to &lt;br&gt;&lt;/div&gt;&lt;div&gt;be accountable for its work.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5 . Assisting the engagement team to &lt;br&gt;&lt;/div&gt;&lt;div&gt;plan and perform the audit.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="290" y="360" width="300" height="250" as="geometry" />
+          <mxGeometry x="290" y="380" width="300" height="250" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-99" target="GaGYNuxTkkT2lup7wjJ7-101" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-99" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Factors affecting Form, Content and Extent of Documentation&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[RN21]&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. size and complexity of the entity&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. nature of the audit procedures to be performed &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. identified ROMM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. significance of the audit evidence obtained&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. nature and extent of exceptions identified &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="290" y="630" width="300" height="200" as="geometry" />
+          <mxGeometry x="290" y="650" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-101" target="GaGYNuxTkkT2lup7wjJ7-103" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-101" value="Audit File" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="380" y="870" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="890" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GaGYNuxTkkT2lup7wjJ7-103" target="ouRMiQ6DuUuypyKUajDh-8" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GaGYNuxTkkT2lup7wjJ7-103" value="&lt;div&gt;one or more folders or other storage media, in physical&amp;nbsp; or&amp;nbsp; electronic form, containing the records that comprise the&amp;nbsp; audit documentation for a specific engagement &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;auditor shall assemble final audit file on a timely basis.&lt;/div&gt;&lt;div&gt;(not more than 60 days after the date of the &lt;br&gt;&lt;/div&gt;&lt;div&gt;auditor’s report.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Completion Memorandum&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;audit documentation summary that describes- &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. The significant matters identified during the audit and &lt;br&gt;&lt;/div&gt;&lt;div&gt;b. How they were addressed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Ownership of Working Papers &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. documentation is the property of the auditor&lt;/div&gt;&lt;div&gt;2. He may at his discretion, make portions of, or extracts from, audit documentation available to clients, provided such disclosure does not undermine the validity of the work performed, or the independence of the auditor or of his personnel&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Retention of Working Papers &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;u&gt;&amp;gt;&lt;/u&gt; 7 years&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Documentation does not include&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Incomplete documents&lt;/div&gt;&lt;div&gt;2. Duplicate documents&lt;/div&gt;&lt;div&gt;3. Preliminary thinking (strategy)&lt;/div&gt;&lt;div&gt;4. typographically errors&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="220" y="930" width="440" height="430" as="geometry" />
+          <mxGeometry x="220" y="950" width="440" height="430" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-2" target="ouRMiQ6DuUuypyKUajDh-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -749,25 +749,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-8" value="&lt;div&gt;Types of Audit file&lt;/div&gt;&lt;div&gt;(Bifurcation only in case of recurring audit)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="1380" width="240" height="40" as="geometry" />
+          <mxGeometry x="320" y="1400" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-10" target="ouRMiQ6DuUuypyKUajDh-16" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-10" value="Current audit file" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="530" y="1460" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-11" target="ouRMiQ6DuUuypyKUajDh-14" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-11" value="Permanent audit file" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="230" y="1460" width="120" height="40" as="geometry" />
+          <mxGeometry x="230" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Contents&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. MOA, AOA, legal or organizational structure&lt;/div&gt;&lt;div&gt;2. Extracts or copies of important legal documents, agreements and minutes&lt;/div&gt;&lt;div&gt;3. copies of audited FS of PY&lt;/div&gt;&lt;div&gt;4. analysis of significant ratio and trends&lt;/div&gt;&lt;div&gt;5. notes regarding significant a/cing policies&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;6. significant audit observations of earlier year&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;7. record of study and evaluation of AS and ICS&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="150" y="1520" width="280" height="190" as="geometry" />
+          <mxGeometry x="150" y="1540" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Contents&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. correspondence related to acceptance of reappointment.&lt;/div&gt;&lt;div&gt;2. audit programme&lt;/div&gt;&lt;div&gt;3. Audit network&lt;/div&gt;&lt;div&gt;4. minutes book&lt;/div&gt;&lt;div&gt;5. copies of communication with other auditors/experts.&lt;/div&gt;&lt;div&gt;6. analysis&lt;span style=&quot;white-space: pre&quot;&gt; of transactions and balances &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;7. record of nature, timing, extent of audit&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt; procedures performed &lt;/span&gt;&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="450" y="1520" width="280" height="190" as="geometry" />
+          <mxGeometry x="450" y="1540" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ouRMiQ6DuUuypyKUajDh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ouRMiQ6DuUuypyKUajDh-18" target="ouRMiQ6DuUuypyKUajDh-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3228,7 +3228,7 @@
           <mxGeometry x="-550" y="730" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5QPsdsrj7TwqAgaVisbq-6" value="&lt;div&gt;E&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;A/cing &lt;br&gt;&lt;/div&gt;&lt;div&gt;Software&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666857;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="210" y="435" width="60" height="100" as="geometry" />
+          <mxGeometry x="210" y="455" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="M0qmUR0kxqwNfTAftRLK-1" value="&lt;div&gt;If, as a result of a misstatement resulting from fraud or suspected fraud, the auditor&amp;nbsp; encounters&amp;nbsp; exceptional&amp;nbsp; circumstances&amp;nbsp; that&amp;nbsp; bring&amp;nbsp; into&amp;nbsp; question&amp;nbsp; the&amp;nbsp; auditor’s ability to continue performing the audit, the auditor shall: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Discuss with mgmt and TCWG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Consider withdrawing from the engagement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Determine whether there is a professional or legal requirement to report such circumstance&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1058" y="4180" width="422" height="190" as="geometry" />
