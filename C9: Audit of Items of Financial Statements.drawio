@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T08:12:06.774Z" agent="5.0 (Windows)" etag="29apFy8Be5QHtyPTOHEx" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T08:12:21.769Z" agent="5.0 (Windows)" etag="l1ws6HOz0TsG8542Tnke" version="15.8.3" type="github">
   <diagram id="Dq3Bf0Ob6L3IU1oHNY2R" name="Page-1">
-    <mxGraphModel dx="4470" dy="2583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5393" dy="3077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,6 +200,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UfjtboCrBmcmnvGXadqM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="66pDrFZKpN6Ti9aJz2PV-26" target="JVfyQsDlpFgOe32HRUAi-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQfSJuJTOvsAxd5cLap4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-26" target="qQfSJuJTOvsAxd5cLap4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQfSJuJTOvsAxd5cLap4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-26" target="qQfSJuJTOvsAxd5cLap4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQfSJuJTOvsAxd5cLap4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-26" target="qQfSJuJTOvsAxd5cLap4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQfSJuJTOvsAxd5cLap4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="66pDrFZKpN6Ti9aJz2PV-26" target="qQfSJuJTOvsAxd5cLap4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66pDrFZKpN6Ti9aJz2PV-26" value="P/L items" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
