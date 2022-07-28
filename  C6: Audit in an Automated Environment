@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T13:47:19.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="68Iyl6IveuYnGpTpTZ6e" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T13:47:56.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="Zv5iI6sVoktzvaDCQpE9" version="20.2.2" type="github">
   <diagram id="Riv2HUoPxJbzIjorfe0j" name="Page-1">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -110,40 +110,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-47" value="Types of Controls" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-47" value="Types of Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1826" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OPV9MOi5hLziUFz0ZhQc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-48" target="4fQ1YcwH95BBMGURaLkN-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-48" value="IT-dependent Controls" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-48" value="IT-dependent Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="627.5" y="1906" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OPV9MOi5hLziUFz0ZhQc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-49" target="4fQ1YcwH95BBMGURaLkN-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-49" value="Application Controls" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-49" value="Application Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1906" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-50" target="4fQ1YcwH95BBMGURaLkN-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-50" value="General IT controls" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-50" value="General IT controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="132.5" y="1906" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-51" value="“General IT controls are policies and procedures that relate to many applications&amp;nbsp; and support the effective functioning of application controls. They apply to mainframe, miniframe, and end-user environments. &amp;nbsp;&lt;br&gt;General IT-controls that maintain the integrity of information and security of &lt;br&gt;data commonly include controls over the following”" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-51" value="“General IT controls are policies and procedures that relate to many applications&amp;nbsp; and support the effective functioning of application controls. They apply to mainframe, miniframe, and end-user environments. &amp;nbsp;&lt;br&gt;General IT-controls that maintain the integrity of information and security of &lt;br&gt;data commonly include controls over the following”" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="77.5" y="1966" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-52" value="Application controls include both automated and manual controls that &lt;br&gt;operate at a business process level. Automated Application controls are &lt;br&gt;embedded into IT applications viz., ERPs and help in ensuring the &lt;br&gt;completeness, accuracy and integrity of data in those systems. &lt;br&gt;E.g. data validation" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-52" value="Application controls include both automated and manual controls that &lt;br&gt;operate at a business process level. Automated Application controls are &lt;br&gt;embedded into IT applications viz., ERPs and help in ensuring the &lt;br&gt;completeness, accuracy and integrity of data in those systems. &lt;br&gt;E.g. data validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="1966" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-53" value="IT dependent controls are basically manual controls that make use of &lt;br&gt;some form of data or information or report produced from IT systems &lt;br&gt;and applications. In this case, even though the control is performed manually, the design and effectiveness of such controls depends on the reliability of source data. " style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-53" value="IT dependent controls are basically manual controls that make use of &lt;br&gt;some form of data or information or report produced from IT systems &lt;br&gt;and applications. In this case, even though the control is performed manually, the design and effectiveness of such controls depends on the reliability of source data. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="572.5" y="1966" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-61" target="4fQ1YcwH95BBMGURaLkN-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-61" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Testing Methods&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; walk through of end-to-end&amp;nbsp; transaction using combination of inquiry, observation and inspection.&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;2.&amp;nbsp; user processes transactions under different scenarios&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Inspect the configuration defined in an application. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; Inspect&amp;nbsp; the&amp;nbsp; system&amp;nbsp; logs&amp;nbsp; to&amp;nbsp; determine&amp;nbsp; any&amp;nbsp; changes&amp;nbsp; made&amp;nbsp; since&amp;nbsp; last&amp;nbsp; audit &lt;br&gt;&lt;br&gt;&lt;/div&gt;6.&amp;nbsp; Common methods: &lt;br&gt;a. Inquiry &lt;br&gt;b. Observation &lt;br&gt;c. Inspection &lt;br&gt;d. Re-performance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4fQ1YcwH95BBMGURaLkN-61" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Testing Methods&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; walk through of end-to-end&amp;nbsp; transaction using combination of inquiry, observation and inspection.&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;2.&amp;nbsp; user processes transactions under different scenarios&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Inspect the configuration defined in an application. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; Inspect&amp;nbsp; the&amp;nbsp; system&amp;nbsp; logs&amp;nbsp; to&amp;nbsp; determine&amp;nbsp; any&amp;nbsp; changes&amp;nbsp; made&amp;nbsp; since&amp;nbsp; last&amp;nbsp; audit &lt;br&gt;&lt;br&gt;&lt;/div&gt;6.&amp;nbsp; Common methods: &lt;br&gt;a. Inquiry &lt;br&gt;b. Observation &lt;br&gt;c. Inspection &lt;br&gt;d. Re-performance" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="2126" width="280" height="300" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-62" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Data analytics&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;data analytics are known as Computer Assisted Auditing Techniques or CAATs in &lt;br&gt;short. Data analytics can be used in testing of electronic records and data residing &lt;br&gt;in IT systems using spread sheets and specialised audit tools viz., IDEA and &lt;br&gt;&lt;div&gt;ACL to perform the following: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Check&amp;nbsp; completeness&amp;nbsp; of&amp;nbsp; data&amp;nbsp; &lt;br&gt;2.&amp;nbsp; Selection of audit samples&amp;nbsp; &lt;br&gt;3.&amp;nbsp; Re-computation of balances&lt;br&gt;4.&amp;nbsp; Re-performance&amp;nbsp; of&amp;nbsp; mathematical&amp;nbsp; calculations&amp;nbsp; &lt;br&gt;5.&amp;nbsp; Analysis of journal entries&amp;nbsp;&amp;nbsp; &lt;br&gt;6.&amp;nbsp; Fraud investigation.&amp;nbsp; &amp;nbsp;&lt;br&gt;7.&amp;nbsp; Evaluating impact of control deficiencies. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
