@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T11:55:32.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="bWj5s6BHyrS2geBVApm2" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T11:57:43.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="niYiQ-d3NTEKk2V-55CB" version="20.2.2" type="github">
   <diagram id="Riv2HUoPxJbzIjorfe0j" name="Page-1">
-    <mxGraphModel dx="1108" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="633" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="4fQ1YcwH95BBMGURaLkN-26" value="&lt;div&gt;Very&lt;/div&gt;&lt;div&gt;High&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;E&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1601" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1i6gLP_dXCJpL2nPy19M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="1i6gLP_dXCJpL2nPy19M-1">
+        <mxCell id="1i6gLP_dXCJpL2nPy19M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="1i6gLP_dXCJpL2nPy19M-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-29" value="&lt;div&gt;Impact of IT related risks on -&lt;/div&gt;[RN21]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -149,10 +149,10 @@
         <mxCell id="4fQ1YcwH95BBMGURaLkN-62" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Data analytics&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;data analytics are known as Computer Assisted Auditing Techniques or CAATs in &lt;br&gt;short. Data analytics can be used in testing of electronic records and data residing &lt;br&gt;in IT systems using spread sheets and specialised audit tools viz., IDEA and &lt;br&gt;&lt;div&gt;ACL to perform the following: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Check&amp;nbsp; completeness&amp;nbsp; of&amp;nbsp; data&amp;nbsp; &lt;br&gt;2.&amp;nbsp; Selection of audit samples&amp;nbsp; &lt;br&gt;3.&amp;nbsp; Re-computation of balances&lt;br&gt;4.&amp;nbsp; Re-performance&amp;nbsp; of&amp;nbsp; mathematical&amp;nbsp; calculations&amp;nbsp; &lt;br&gt;5.&amp;nbsp; Analysis of journal entries&amp;nbsp;&amp;nbsp; &lt;br&gt;6.&amp;nbsp; Fraud investigation.&amp;nbsp; &amp;nbsp;&lt;br&gt;7.&amp;nbsp; Evaluating impact of control deficiencies. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="2446" width="440" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="1i6gLP_dXCJpL2nPy19M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1i6gLP_dXCJpL2nPy19M-1" target="4fQ1YcwH95BBMGURaLkN-25">
+        <mxCell id="1i6gLP_dXCJpL2nPy19M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1i6gLP_dXCJpL2nPy19M-1" target="4fQ1YcwH95BBMGURaLkN-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1i6gLP_dXCJpL2nPy19M-1" value="&lt;div&gt;1. we may not be able to rely on the data obtained from systems where&lt;/div&gt;&lt;div&gt;such risks exist. This means, all forms of data, information or reports that we&lt;/div&gt;&lt;div&gt;obtain from systems for the purpose of audit has to be thoroughly tested&lt;/div&gt;&lt;div&gt;and corroborated for completeness and accuracy.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. we will not be able to rely on automated controls, calculations,&lt;/div&gt;&lt;div&gt;accounting procedures that are built into the applications. Additional audit&lt;/div&gt;&lt;div&gt;work may be required in this case.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. due to the regulatory requirement of auditors to report on internal&lt;/div&gt;&lt;div&gt;ﬁnancial controls of a company, the audit report also may have to be&lt;/div&gt;&lt;div&gt;modiﬁed in some instances.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1i6gLP_dXCJpL2nPy19M-1" value="&lt;div&gt;1. we may not be able to rely on the data obtained from systems where&lt;/div&gt;&lt;div&gt;such risks exist. This means, all forms of data, information or reports that we&lt;/div&gt;&lt;div&gt;obtain from systems for the purpose of audit has to be thoroughly tested&lt;/div&gt;&lt;div&gt;for completeness and accuracy.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. we will not be able to rely on automated controls, calculations,&lt;/div&gt;&lt;div&gt;accounting procedures that are built into the applications.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. due to the regulatory requirement of auditors to report on internal&lt;/div&gt;&lt;div&gt;ﬁnancial controls of a company, the audit report also may have to be&lt;/div&gt;&lt;div&gt;modiﬁed in some instances.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="1310" width="425" height="200" as="geometry" />
         </mxCell>
       </root>
