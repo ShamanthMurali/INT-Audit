@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T08:22:58.427Z" agent="5.0 (Windows)" etag="8vKlxZsdzG3Y8_V6lV_q" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T06:58:26.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="A7KivQiw9x-aumBwlq0o" version="20.2.2" type="github">
   <diagram id="Riv2HUoPxJbzIjorfe0j" name="Page-1">
-    <mxGraphModel dx="1100" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="4fQ1YcwH95BBMGURaLkN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-15" target="4fQ1YcwH95BBMGURaLkN-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dFT0BDmOoQnNw7SVNF17-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-15" target="4fQ1YcwH95BBMGURaLkN-19">
+        <mxCell id="dFT0BDmOoQnNw7SVNF17-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-15" target="4fQ1YcwH95BBMGURaLkN-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Understanding of the company’s automated environment&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5&amp;nbsp; &lt;u&gt;&lt;b&gt;V&lt;/b&gt;&lt;/u&gt;ersion (functions and risks could vary in different versions of same application).&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;S being used (Which application systems).&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2&amp;nbsp; Their &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;urpose (financial and non-financial). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;3&amp;nbsp; &lt;u&gt;&lt;b&gt;L&lt;/b&gt;&lt;/u&gt;ocation of IT systems - local vs global.&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;nterfaces within systems (in case multiple systems exist).&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;n-house vs Packaged.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4&amp;nbsp;&amp;nbsp; &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;rchitecture (desktop based, client-server, web application, cloud based). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8&amp;nbsp; &lt;u&gt;&lt;b&gt;O&lt;/b&gt;&lt;/u&gt;utsourced activities (IT maintenance and support). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;9&amp;nbsp; Key &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;ersons (CIO, CISO, Administrators)." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -165,13 +165,13 @@
         <mxCell id="4fQ1YcwH95BBMGURaLkN-47" value="Types of Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-48" target="4fQ1YcwH95BBMGURaLkN-52" edge="1">
+        <mxCell id="OPV9MOi5hLziUFz0ZhQc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-48" target="4fQ1YcwH95BBMGURaLkN-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-48" value="IT-dependent Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="627.5" y="1950" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-49" target="4fQ1YcwH95BBMGURaLkN-53" edge="1">
+        <mxCell id="OPV9MOi5hLziUFz0ZhQc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-49" target="4fQ1YcwH95BBMGURaLkN-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-49" value="Application Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -187,10 +187,10 @@
           <mxGeometry x="77.5" y="2010" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-52" value="Application controls include both automated and manual controls that &lt;br&gt;operate at a business process level. Automated Application controls are &lt;br&gt;embedded into IT applications viz., ERPs and help in ensuring the &lt;br&gt;completeness, accuracy and integrity of data in those systems. &lt;br&gt;E.g. data validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="572.5" y="2010" width="230" height="150" as="geometry" />
+          <mxGeometry x="325" y="2010" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-53" value="IT dependent controls are basically manual controls that make use of &lt;br&gt;some form of data or information or report produced from IT systems &lt;br&gt;and applications. In this case, even though the control is performed manually, the design and effectiveness of such controls depends on the reliability of source data. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="325" y="2010" width="230" height="150" as="geometry" />
+          <mxGeometry x="572.5" y="2010" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-61" target="4fQ1YcwH95BBMGURaLkN-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
