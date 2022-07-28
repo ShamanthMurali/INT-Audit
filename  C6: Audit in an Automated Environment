@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T06:58:26.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="A7KivQiw9x-aumBwlq0o" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T11:55:32.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="bWj5s6BHyrS2geBVApm2" version="20.2.2" type="github">
   <diagram id="Riv2HUoPxJbzIjorfe0j" name="Page-1">
     <mxGraphModel dx="1108" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,68 +80,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;where Information Technology is needed in audit&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1.&amp;nbsp; &lt;u&gt;&lt;b&gt;V&lt;/b&gt;&lt;/u&gt;olume of transactions are high (Insurance, Banking, Railways ticketing).&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; &lt;u&gt;&lt;b&gt;H&lt;/b&gt;&lt;/u&gt;i-tech nature of business (Telecom, e-Commerce).&amp;nbsp;&amp;nbsp; &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Company &lt;u&gt;&lt;b&gt;P&lt;/b&gt;&lt;/u&gt;olicy (Compliance).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; &lt;u&gt;&lt;b&gt;R&lt;/b&gt;&lt;/u&gt;egulatory requirements&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;ncreased use of Systems and Application software in Business (for example, use of ERPs)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp; &lt;u&gt;&lt;b&gt;C&lt;/b&gt;&lt;/u&gt;omplexity of transactions has increased&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;fficiency and &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;ffectiveness of audit increases.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="227.5" y="1580" width="425" height="250" as="geometry" />
+          <mxGeometry x="227.5" y="1536" width="425" height="250" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-26" value="&lt;div&gt;Very&lt;/div&gt;&lt;div&gt;High&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;E&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1645" width="40" height="120" as="geometry" />
+          <mxGeometry x="160" y="1601" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="4fQ1YcwH95BBMGURaLkN-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="4fQ1YcwH95BBMGURaLkN-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="4fQ1YcwH95BBMGURaLkN-30" edge="1">
+        <mxCell id="1i6gLP_dXCJpL2nPy19M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-29" target="1i6gLP_dXCJpL2nPy19M-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-29" value="&lt;div&gt;Impact of IT related risks on -&lt;/div&gt;[RN21]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1240" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-30" target="4fQ1YcwH95BBMGURaLkN-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-30" value="Reporting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-31" target="4fQ1YcwH95BBMGURaLkN-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-31" value="Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-32" target="4fQ1YcwH95BBMGURaLkN-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-32" value="Substantive Audit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-33" target="4fQ1YcwH95BBMGURaLkN-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="1540" />
-              <mxPoint x="440" y="1540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-33" value="&lt;div&gt;1. cannot rely on the data obtained from systems&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. more audit evidence is needed&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt; 3. system data and report should be tested substantively for completeness and accuracy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1380" width="200" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-35" target="4fQ1YcwH95BBMGURaLkN-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-35" value="1. cannot rely on IT dependent Manual controls &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. cannot rely on automated controls, system calculations and accounting &lt;/div&gt;procedures built into applications " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="1380" width="200" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-37" target="4fQ1YcwH95BBMGURaLkN-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="1540" />
-              <mxPoint x="440" y="1540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4fQ1YcwH95BBMGURaLkN-37" value="due to the regulatory requirement of auditors to report on internal financial controls of a company, the audit report also may have to be modified in some instances." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1380" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -149,57 +97,63 @@
         <mxCell id="4fQ1YcwH95BBMGURaLkN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="1930" />
-              <mxPoint x="193" y="1930" />
+              <mxPoint x="440" y="1886" />
+              <mxPoint x="193" y="1886" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-47" target="4fQ1YcwH95BBMGURaLkN-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="1930" />
-              <mxPoint x="688" y="1930" />
+              <mxPoint x="440" y="1886" />
+              <mxPoint x="688" y="1886" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-47" value="Types of Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1870" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="1826" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OPV9MOi5hLziUFz0ZhQc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-48" target="4fQ1YcwH95BBMGURaLkN-53">
+        <mxCell id="OPV9MOi5hLziUFz0ZhQc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-48" target="4fQ1YcwH95BBMGURaLkN-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-48" value="IT-dependent Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="627.5" y="1950" width="120" height="40" as="geometry" />
+          <mxGeometry x="627.5" y="1906" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OPV9MOi5hLziUFz0ZhQc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fQ1YcwH95BBMGURaLkN-49" target="4fQ1YcwH95BBMGURaLkN-52">
+        <mxCell id="OPV9MOi5hLziUFz0ZhQc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-49" target="4fQ1YcwH95BBMGURaLkN-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-49" value="Application Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1950" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="1906" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-50" target="4fQ1YcwH95BBMGURaLkN-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-50" value="General IT controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="132.5" y="1950" width="120" height="40" as="geometry" />
+          <mxGeometry x="132.5" y="1906" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-51" value="“General IT controls are policies and procedures that relate to many applications&amp;nbsp; and support the effective functioning of application controls. They apply to mainframe, miniframe, and end-user environments. &amp;nbsp;&lt;br&gt;General IT-controls that maintain the integrity of information and security of &lt;br&gt;data commonly include controls over the following”" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="77.5" y="2010" width="230" height="150" as="geometry" />
+          <mxGeometry x="77.5" y="1966" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-52" value="Application controls include both automated and manual controls that &lt;br&gt;operate at a business process level. Automated Application controls are &lt;br&gt;embedded into IT applications viz., ERPs and help in ensuring the &lt;br&gt;completeness, accuracy and integrity of data in those systems. &lt;br&gt;E.g. data validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="325" y="2010" width="230" height="150" as="geometry" />
+          <mxGeometry x="325" y="1966" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-53" value="IT dependent controls are basically manual controls that make use of &lt;br&gt;some form of data or information or report produced from IT systems &lt;br&gt;and applications. In this case, even though the control is performed manually, the design and effectiveness of such controls depends on the reliability of source data. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="572.5" y="2010" width="230" height="150" as="geometry" />
+          <mxGeometry x="572.5" y="1966" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4fQ1YcwH95BBMGURaLkN-61" target="4fQ1YcwH95BBMGURaLkN-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-61" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Testing Methods&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; walk through of end-to-end&amp;nbsp; transaction using combination of inquiry, observation and inspection.&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;2.&amp;nbsp; user processes transactions under different scenarios&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Inspect the configuration defined in an application. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; Inspect&amp;nbsp; the&amp;nbsp; system&amp;nbsp; logs&amp;nbsp; to&amp;nbsp; determine&amp;nbsp; any&amp;nbsp; changes&amp;nbsp; made&amp;nbsp; since&amp;nbsp; last&amp;nbsp; audit &lt;br&gt;&lt;br&gt;&lt;/div&gt;6.&amp;nbsp; Common methods: &lt;br&gt;a. Inquiry &lt;br&gt;b. Observation &lt;br&gt;c. Inspection &lt;br&gt;d. Re-performance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="2180" width="280" height="300" as="geometry" />
+          <mxGeometry x="300" y="2126" width="280" height="300" as="geometry" />
         </mxCell>
         <mxCell id="4fQ1YcwH95BBMGURaLkN-62" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Data analytics&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;data analytics are known as Computer Assisted Auditing Techniques or CAATs in &lt;br&gt;short. Data analytics can be used in testing of electronic records and data residing &lt;br&gt;in IT systems using spread sheets and specialised audit tools viz., IDEA and &lt;br&gt;&lt;div&gt;ACL to perform the following: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Check&amp;nbsp; completeness&amp;nbsp; of&amp;nbsp; data&amp;nbsp; &lt;br&gt;2.&amp;nbsp; Selection of audit samples&amp;nbsp; &lt;br&gt;3.&amp;nbsp; Re-computation of balances&lt;br&gt;4.&amp;nbsp; Re-performance&amp;nbsp; of&amp;nbsp; mathematical&amp;nbsp; calculations&amp;nbsp; &lt;br&gt;5.&amp;nbsp; Analysis of journal entries&amp;nbsp;&amp;nbsp; &lt;br&gt;6.&amp;nbsp; Fraud investigation.&amp;nbsp; &amp;nbsp;&lt;br&gt;7.&amp;nbsp; Evaluating impact of control deficiencies. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="2500" width="440" height="250" as="geometry" />
+          <mxGeometry x="220" y="2446" width="440" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="1i6gLP_dXCJpL2nPy19M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1i6gLP_dXCJpL2nPy19M-1" target="4fQ1YcwH95BBMGURaLkN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1i6gLP_dXCJpL2nPy19M-1" value="&lt;div&gt;1. we may not be able to rely on the data obtained from systems where&lt;/div&gt;&lt;div&gt;such risks exist. This means, all forms of data, information or reports that we&lt;/div&gt;&lt;div&gt;obtain from systems for the purpose of audit has to be thoroughly tested&lt;/div&gt;&lt;div&gt;and corroborated for completeness and accuracy.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. we will not be able to rely on automated controls, calculations,&lt;/div&gt;&lt;div&gt;accounting procedures that are built into the applications. Additional audit&lt;/div&gt;&lt;div&gt;work may be required in this case.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. due to the regulatory requirement of auditors to report on internal&lt;/div&gt;&lt;div&gt;ﬁnancial controls of a company, the audit report also may have to be&lt;/div&gt;&lt;div&gt;modiﬁed in some instances.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="1310" width="425" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
